@@ -1,0 +1,56 @@
+{
+	"https://twitter.com/MarcioHuser/status/1289946017664655360": [
+		{
+			"src": "https://pbs.twimg.com/media/EebOjASXoAAh1mX.png",
+			"skip": false
+		}
+	],
+	"https://twitter.com/SatisfactionLab/status/1291358364526612480": [
+		{
+			"src": "https://pbs.twimg.com/media/EehEUaKXYAEHmAA.png",
+			"skip": false
+		}
+	],
+	"https://twitter.com/LyajkaLox/status/1291523631462391810": [
+		{
+			"src": "https://pbs.twimg.com/media/Eexpc16X0AAQrfp.png",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Eexpc1zWsAE0MQ1.png",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Eexpc15XYAUpwsw.png",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Eexpc14XkAIVCIi.png",
+			"skip": true
+		}
+	],
+	"https://twitter.com/DontpokeJosh/status/1292194219310960641": [
+		{
+			"src": "https://pbs.twimg.com/media/Ee7LKsGXYAAmAUZ.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/vsbmeza3/status/1279817288112365571": [
+		{
+			"src": "https://pbs.twimg.com/media/EcLTAGYXkAI_AYU.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/thealwaysally/status/1242023420188999680": [
+		{
+			"src": "https://pbs.twimg.com/media/ETyNtEQWAAYcW8r.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/vsbmeza3/status/1241407723679424513": [
+		{
+			"src": "https://pbs.twimg.com/media/ETpdo0-XsAI9OFW.jpg",
+			"skip": false
+		}
+	]
+}
