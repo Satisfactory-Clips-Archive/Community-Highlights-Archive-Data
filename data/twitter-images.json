@@ -64,5 +64,45 @@
 			"src": "https://pbs.twimg.com/media/EXmYAmuVcAEvCFY.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/Samueras/status/1297760711825858565": [
+		{
+			"src": "https://pbs.twimg.com/media/EgKSJaHWAAAcUhO.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Total_Xclipse/status/1296963697605255168": [
+		{
+			"src": "https://pbs.twimg.com/media/Ef-8wriWsAIBdX6.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Ef-9dqXXkAISStI.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Smerkin5000/status/1297960981859975169": [
+		{
+			"src": "https://pbs.twimg.com/media/EgNIehEU0AA4pqp.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/JebRadec/status/1244684091347341314": [
+		{
+			"src": "https://pbs.twimg.com/media/EUYBk23WoAACVLK.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/garywilson4/status/1295890627813691394": [
+		{
+			"src": "https://pbs.twimg.com/media/EfvtZhgWkAETRrY.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/css3651/status/1297706556755259395": [
+		{
+			"src": "https://pbs.twimg.com/media/EgJgrMGXgAE6RRE.jpg",
+			"skip": false
+		}
 	]
 }

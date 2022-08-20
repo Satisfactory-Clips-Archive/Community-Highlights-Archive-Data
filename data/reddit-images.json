@@ -145,5 +145,65 @@
 			"alt": "Community event - 128 Players in Multiplayer!! - Saturday 18th 5GMT, 6CET, 12EST, 6AEDT",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/idvwye/misty_bean/": [
+		{
+			"src": "https://external-preview.redd.it/FN7vILMnXKrthSGKX03TwIQMy_1lM8UsEctGUITt1lU.jpg?width=640&crop=smart&auto=webp&s=6439decf13144d9b20bdc3105732df7206c859df",
+			"alt": "Misty Bean",
+			"skip": true
+		},
+		{
+			"src": "https://i.imgur.com/FgbDFZh.jpg",
+			"alt": "Misty Bean",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ife8ey/pipeaghetti/": [
+		{
+			"src": "https://preview.redd.it/gvi57huzbui51.png?width=640&crop=smart&auto=webp&s=ffd63b277e22e63f4f68b8c72ca82465e777bea5",
+			"alt": "Pipeaghetti",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gvi57huzbui51.png",
+			"alt": "Pipeaghetti",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/idrzok/finally_steel_production_is_done_used/": [
+		{
+			"src": "https://preview.redd.it/2zbojaps0bi51.jpg?width=640&crop=smart&auto=webp&s=64b59d38872d6d2bb9436a0f98482c44190bc7ea",
+			"alt": "Finally steel production is done. Used Oldshavingfoam's amazing design 👍",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2zbojaps0bi51.jpg",
+			"alt": "Finally steel production is done. Used Oldshavingfoam's amazing design 👍",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ic2yug/i_added_side_supports_to_my_bridge_so_now_it/": [
+		{
+			"src": "https://preview.redd.it/2rxevkr43sh51.png?width=640&crop=smart&auto=webp&s=70c1dfd00d9e7372e42017fdc8265e98c7464325",
+			"alt": "I added side supports to my bridge, so now it looks a bit more realistic",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2rxevkr43sh51.png",
+			"alt": "I added side supports to my bridge, so now it looks a bit more realistic",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ig1yzx/the_first_of_my_eco_challenge_builds/": [
+		{
+			"src": "https://preview.redd.it/adkqosm2r1j51.jpg?width=640&crop=smart&auto=webp&s=eb813fd1a58a36ea05bf79d12fca8c4d98900673",
+			"alt": "The first of my eco challenge builds",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/adkqosm2r1j51.jpg",
+			"alt": "The first of my eco challenge builds",
+			"skip": false
+		}
 	]
 }
