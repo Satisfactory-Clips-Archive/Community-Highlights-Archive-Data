@@ -205,5 +205,65 @@
 			"alt": "The first of my eco challenge builds",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/igtv17/heres_my_base_after_reaching_tier_7_more_info_in/": [
+		{
+			"src": "https://preview.redd.it/vjzg7ffekaj51.png?width=640&crop=smart&auto=webp&s=761c3cb06949b4cc9f991f77e0e9512e51964051",
+			"alt": "Here's my base after reaching tier 7. More info in the comments.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vjzg7ffekaj51.png",
+			"alt": "Here's my base after reaching tier 7. More info in the comments.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ijpcq9/satisfactory_parabolic_curve/": [
+		{
+			"src": "https://preview.redd.it/nwq27akbw8k51.png?width=640&crop=smart&auto=webp&s=3c25299f9a58ad84dab6cc0b3bef14166c810a1f",
+			"alt": "Satisfactory Parabolic Curve",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nwq27akbw8k51.png",
+			"alt": "Satisfactory Parabolic Curve",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ijb5sw/bb8_finished/": [
+		{
+			"src": "https://preview.redd.it/t3b1mwo0j4k51.png?width=640&crop=smart&auto=webp&s=b00dd9518533d07f892150b0bc66689a5086e06b",
+			"alt": "BB8 Finished",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/t3b1mwo0j4k51.png",
+			"alt": "BB8 Finished",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/i9s4tc/just_something_i_mad_in_art_class_im_not_very/": [
+		{
+			"src": "https://preview.redd.it/xmlx6dc1o0h51.jpg?width=640&crop=smart&auto=webp&s=039b1f5f58951dffd2ff2b98feb2cd9f0ca60ecc",
+			"alt": "Just Something I mad in Art Class (I’m not very good) but the Space Doggo is cute.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xmlx6dc1o0h51.jpg",
+			"alt": "Just Something I mad in Art Class (I’m not very good) but the Space Doggo is cute.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ike1nu/praise_the_nut/": [
+		{
+			"src": "https://preview.redd.it/nlyud8plvgk51.jpg?width=640&crop=smart&auto=webp&s=6b1a8fd4d241cb5d37bcddd25ac60404057db96b",
+			"alt": "PRAISE THE NUT",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nlyud8plvgk51.jpg",
+			"alt": "PRAISE THE NUT",
+			"skip": false
+		}
 	]
 }

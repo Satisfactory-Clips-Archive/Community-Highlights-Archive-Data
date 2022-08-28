@@ -104,5 +104,27 @@
 			"src": "https://pbs.twimg.com/media/EgJgrMGXgAE6RRE.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/papasnusi/status/1298980060813094917": [
+		{
+			"src": "https://pbs.twimg.com/media/Egbm85VU8AAc-Wy.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Egbm_WpU8AMihFX.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Samueras/status/1299282694636032000": [
+		{
+			"src": "https://pbs.twimg.com/media/Egf6sLSVoAAG0iM.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/cptk3y5/status/1259549212733145088": [
+		{
+			"src": "https://pbs.twimg.com/media/EXrQ1oyUwAEZvFQ.jpg",
+			"skip": false
+		}
 	]
 }
