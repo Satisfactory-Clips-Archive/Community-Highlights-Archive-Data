@@ -265,5 +265,53 @@
 			"alt": "PRAISE THE NUT",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ijlkn7/22200_mw_from_a_single_300m_extractor/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/0FpvQ02EdbemGD2gvtsoEcNl1y_u-s9Zc2yhrxi6hLk.jpg",
+			"alt": "22,200 MW from a single 300/m extractor",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jyhk721ip7k51.jpg",
+			"alt": "22,200 MW from a single 300/m extractor",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ijcneo/satisfactory_pagoda/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/m-Jk9DeqmdBk7Fj8uD0-Nc6lFtRiu5lmrO30v5N9PuE.jpg",
+			"alt": "Satisfactory pagoda",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/npn171gi55k51.png",
+			"alt": "Satisfactory pagoda",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ijol06/my_large_tower_for_plastic_960_umin/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/X7zLcq6BJPBAkozTs0F5CvFJ28HJLq3dm2g7W2pAeTM.jpg",
+			"alt": "My large tower for plastic (960 u/min)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/uyweae1um8k51.jpg",
+			"alt": "My large tower for plastic (960 u/min)",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/iepfiy/it_is_ready_75gw_of_nuclear_power/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/SEQiRrbD9AAfYc1KeJl3Pj25tAhcMFIAwLkuhdcUblM.jpg",
+			"alt": "It is ready. 75GW of nuclear power.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/m3qthw3v0mi51.png",
+			"alt": "It is ready. 75GW of nuclear power.",
+			"skip": false
+		}
 	]
 }
