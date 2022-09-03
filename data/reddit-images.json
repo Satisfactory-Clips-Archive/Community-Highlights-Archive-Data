@@ -313,5 +313,70 @@
 			"alt": "It is ready. 75GW of nuclear power.",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/is9kmw/i_just_started_playing_this_game_i_have_no_idea/": [
+		{
+			"src": "https://preview.redd.it/dr7cwe3350n51.png?width=640&crop=smart&auto=webp&s=869b2cde711fc985284844b0258e565f938316f0",
+			"alt": "I just started playing this game, I have no idea what this is but all I know is his name is Paul and I love him",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dr7cwe3350n51.png",
+			"alt": "I just started playing this game, I have no idea what this is but all I know is his name is Paul and I love him",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/irceyd/first_fuel_gen_setup_any_tipssuggestions/": [
+		{
+			"src": "https://preview.redd.it/1v919hurvpm51.jpg?width=640&crop=smart&auto=webp&s=bc31c3412a967a245cc7e319986fecaf2e51845b",
+			"alt": "First fuel gen. setup. Any tips/suggestions?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1v919hurvpm51.jpg",
+			"alt": "First fuel gen. setup. Any tips/suggestions?",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/iqv29a/this_pile_of_nightmare_spaghetti_is_my_trainyard/": [
+		{
+			"src": "https://external-preview.redd.it/JnqsFwGIRGni7LyCzL7c_WpZD8-ewoypZVuIYYup1Sc.jpg?width=640&crop=smart&auto=webp&s=185f3cdf712b5f37642a20c3f5016f10119f11ad",
+			"alt": "This pile of nightmare spaghetti is my trainyard which processes surplus materials to make crystal oscilators, Tier 7 space elevator parts, nobelisks and assorted gubbins. I will *not* be making any additions",
+			"skip": true
+		},
+		{
+			"src": "https://i.imgur.com/IOBljXx.jpg",
+			"alt": "This pile of nightmare spaghetti is my trainyard which processes surplus materials to make crystal oscilators, Tier 7 space elevator parts, nobelisks and assorted gubbins. I will *not* be making any additions",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/it4dce/i_am_ready_to_make_some_computers/": [
+		{
+			"src": "https://preview.redd.it/qvqug9umo9n51.png?width=640&crop=smart&auto=webp&s=94dae982dc096dcc77043fc853941e47a044de7f",
+			"alt": "I am ready to make some computers.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qvqug9umo9n51.png",
+			"alt": "I am ready to make some computers.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/irnkuq/completed_the_250_crystal_computers_per_minute/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/JuF05VhkImr_xukCoCLZs54xVFOep8z3KAa2S78FY2s.jpg",
+			"alt": "Completed the 250+ crystal computers per minute build, titled Morning Star",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cirgwv6i0tm51.png",
+			"alt": "Completed the 250+ crystal computers per minute build, titled Morning Star",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/wsos4f231tm51.png",
+			"alt": "Tamed Lizard Doggos in a pen",
+			"skip": false
+		}
 	]
 }
