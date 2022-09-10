@@ -132,5 +132,33 @@
 			"src": "https://pbs.twimg.com/media/EhqXgBhXkAMX1jO?format=jpg&name=4096x4096",
 			"skip": false
 		}
+	],
+	"https://twitter.com/Reddo01556549/status/1306355637740277763": [
+		{
+			"src": "https://pbs.twimg.com/media/EiEbJpYWsAU-IOz.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Reddo01556549/status/1306356622449573890": [
+		{
+			"src": "https://pbs.twimg.com/media/EiEcYCGWoAEbWzn.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Samueras/status/1307005729723887621": [
+		{
+			"src": "https://pbs.twimg.com/media/EiNqvVHWsAEKhkO.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/wolfan_ex/status/1305455255673470981": [
+		{
+			"src": "https://pbs.twimg.com/media/Eh3okgQU8AA--NS.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Eh3oma0U8AIxK27.jpg",
+			"skip": false
+		}
 	]
 }

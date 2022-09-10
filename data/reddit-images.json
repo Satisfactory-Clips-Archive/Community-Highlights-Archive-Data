@@ -378,5 +378,63 @@
 			"alt": "Tamed Lizard Doggos in a pen",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/iw5ice/a_monster_of_a_main_bus_transformermore_info_in/": [
+		{
+			"src": "https://preview.redd.it/363561gzo7o51.png?width=640&crop=smart&auto=webp&s=6b3f081c597477a0b23fd7ebf22996cd8b4611df",
+			"alt": "A Monster of a Main Bus Transformer(More Info in Comments)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/363561gzo7o51.png",
+			"alt": "A Monster of a Main Bus Transformer(More Info in Comments)",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/iwjyb7/too_many_conveyors/": [
+		{
+			"src": "https://preview.redd.it/mddn6zbfpco51.png?width=640&crop=smart&auto=webp&s=b374f0ab520f1945348df18f3443cd4ddd3364ac",
+			"alt": "Too many conveyors?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mddn6zbfpco51.png",
+			"alt": "Too many conveyors?",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/iw1g8y/dudeyou_ok/": [
+		{
+			"src": "https://preview.redd.it/7jodfor8d6o51.png?width=640&crop=smart&auto=webp&s=16b2b7cdf3b920a687e04cf4fc01d93d37c42b94",
+			"alt": "Dude...you ok?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7jodfor8d6o51.png",
+			"alt": "Dude...you ok?",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/iw18ii/ficsit_living/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/CkpGxvDLIxXHXFPcFr7Mc_nLGtpnUFnCoUnD-5tB8N8.jpg",
+			"alt": "Ficsit Living",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d1t3ku8ga6o51.jpg",
+			"alt": "Ficsit Living",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/a7ux1p8ga6o51.jpg",
+			"alt": "Ficsit Living, continued",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/myveqr8ga6o51.jpg",
+			"alt": "Ficsit Living, continued",
+			"skip": false
+		}
 	]
 }
