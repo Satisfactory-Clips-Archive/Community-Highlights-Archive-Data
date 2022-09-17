@@ -64,5 +64,11 @@
 			"src": "https://img.youtube.com/vi/NJxOCbsJtZQ/hqdefault.jpg",
 			"skip": false
 		}
+	],
+	"https://www.youtube.com/watch?v=P1hgqMJ8MW0": [
+		{
+			"src": "https://img.youtube.com/vi/P1hgqMJ8MW0/hqdefault.jpg",
+			"skip": false
+		}
 	]
 }
