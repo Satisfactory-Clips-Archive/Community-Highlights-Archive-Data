@@ -172,5 +172,15 @@
 			"src": "https://pbs.twimg.com/media/EjLlnUrWoAA98ky.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/Reddo01556549/status/1313604992876584965": [
+		{
+			"src": "https://pbs.twimg.com/media/EjrbHxUXgAYOd7C.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/EjrbMosX0AAlzrD.jpg",
+			"skip": false
+		}
 	]
 }
