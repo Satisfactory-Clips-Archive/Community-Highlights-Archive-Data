@@ -811,5 +811,48 @@
 			"alt": "As requested here comes photos of the mushroom factory. Bear in mind that im in the middle of rebuilding the bottom part.",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jd6egd/was_asked_how_to_build_train_spiral_see_comment/": [
+		{
+			"src": "https://external-preview.redd.it/UMVhI6nH-mTUNZKHh_3eFp7Z1XSMBiWVykpr-0cFu-A.png?width=640&crop=smart&auto=webp&s=11ffc2deb0d7e08319acd4ddf2c23f1f8e9dcc6e",
+			"alt": "Was asked how to build train spiral (see comment)",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jej8wq/fluid_posterity_vertical_pipe_power_conduit/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/o_Jw5gUOrbG3wsBC_CA9FFj8iZ06ZfBSsaV6B9HyyZ8.jpg",
+			"alt": "Fluid Posterity - Vertical Pipe & Power Conduit",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ffi9fzaqo6u51.png",
+			"alt": "Watch that first step.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/je1ibh/a_warning_signpost_i_put_together_for_my_fuel/": [
+		{
+			"src": "https://external-preview.redd.it/sfaY78KlXhyFU092m8egjBXBsMNpG0mRA0vIraglYCE.jpg?width=640&crop=smart&auto=webp&s=ce43611c739675055a9d0984ee30bbd9b6796cbb",
+			"alt": "A warning signpost I put together for my fuel assembly building for a 5GW Arc Reactor from Modular Power",
+			"skip": true
+		},
+		{
+			"src": "https://i.imgur.com/DVAEf7Z.jpeg",
+			"alt": "A warning signpost I put together for my fuel assembly building for a 5GW Arc Reactor from Modular Power",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jdvnys/2000_hours_and_still_a_noob_i_forgot_to_plug_the/": [
+		{
+			"src": "https://preview.redd.it/tdtaxkdwizt51.png?width=640&crop=smart&auto=webp&s=111e6c21f35edf31a15f65f240a495d1de24fec9",
+			"alt": "2000 hours and still a noob - I forgot to plug the sink back in and lost all power so I had to biomass burner it to get it back going",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/tdtaxkdwizt51.png",
+			"alt": "2000 hours and still a noob - I forgot to plug the sink back in and lost all power so I had to biomass burner it to get it back going",
+			"skip": false
+		}
 	]
 }
