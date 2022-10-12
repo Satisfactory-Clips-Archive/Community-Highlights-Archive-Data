@@ -854,5 +854,68 @@
 			"alt": "2000 hours and still a noob - I forgot to plug the sink back in and lost all power so I had to biomass burner it to get it back going",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jiv5tf/theyre_home/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/FT0TYpbbmmJMizM4O5IgzENdfChx4fjpQWBNUr32Nkw.jpg",
+			"alt": "They’re home....",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/a7poetb4mkv51.jpg",
+			"alt": "The only mod I used to make this is Pak Utility to be able to fly",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/fwv5stb4mkv51.jpg",
+			"alt": "",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/s844hub4mkv51.jpg",
+			"alt": "",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jhdt83/i_spent_a_bunch_of_time_on_this_refinery_project/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/D-ZEn_4DjO7G1b3fahJ-fCH7uQ7yEIks-4yDMsGSXF0.jpg",
+			"alt": "I spent a bunch of time on this Refinery project before the Pipe Update ruins my progress lol. 300 Oil ---> 300 Plastic + 300 Rubber + 250 Turbofuel",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ftijei0s23v51.png",
+			"alt": "Caption: 300 Oil ---> 250 Turbofuel + 300 Plastic + 300 Rubber",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ji9nnc/first_at_work/": [
+		{
+			"src": "https://external-preview.redd.it/cbmA5vu0xsgxZVGchsBB58jYzoEhYNGAuw5XemAarBM.png?width=640&crop=smart&auto=webp&s=ddec437733904537e0342f1e4e3a5a3d15fe90c9",
+			"alt": "First at work!!",
+			"skip": true
+		},
+		{
+			"src": "https://external-preview.redd.it/cbmA5vu0xsgxZVGchsBB58jYzoEhYNGAuw5XemAarBM.png?width=1024&auto=webp&s=13be9015353667e0a6bbc8dba96fe9fd61709100",
+			"alt": "First at work!!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jh10vt/our_big_friend_heres_a_big_fan_of_the_loch_ness/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/KYLK0Uk3xiwCKyJ9yVbIs-h5czT52vj65o6tz7T99g4.jpg",
+			"alt": "Our big friend here's a big fan of the Loch Ness Monster I see...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6f9e23ttdyu51.jpg",
+			"alt": "Curious Creature as Nessie",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/m62rp64tdyu51.jpg",
+			"alt": "",
+			"skip": false
+		}
 	]
 }
