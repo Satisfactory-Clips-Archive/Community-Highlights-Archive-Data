@@ -242,7 +242,7 @@
 	"https://twitter.com/Smerkin5000/status/1323320732726648832": [
 		{
 			"src": "https://pbs.twimg.com/media/El1gHnGVoAAEeEW.jpg",
-			"skip": true
+			"skip": false
 		},
 		{
 			"src": "https://pbs.twimg.com/media/El1gKW9VoAAnVg9.jpg",
