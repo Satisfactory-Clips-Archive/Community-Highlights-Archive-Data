@@ -226,5 +226,27 @@
 			"src": "https://pbs.twimg.com/media/Ek2qcHUW0AEqpf1.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/Samueras/status/1323404069428494338": [
+		{
+			"src": "https://pbs.twimg.com/media/El2ssQlX0AAOSko.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/jmaniscatharg/status/1322726219612188673": [
+		{
+			"src": "https://pbs.twimg.com/media/EltEeBZU8AA5nYe.png",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Smerkin5000/status/1323320732726648832": [
+		{
+			"src": "https://pbs.twimg.com/media/El1gHnGVoAAEeEW.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/El1gKW9VoAAnVg9.jpg",
+			"skip": true
+		}
 	]
 }

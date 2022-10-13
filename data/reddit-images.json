@@ -917,5 +917,84 @@
 			"alt": "",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jmg382/meet_bertha/": [
+		{
+			"src": "https://preview.redd.it/xm7nbl97wqw51.jpg?width=640&crop=smart&auto=webp&s=1eef9606b5052f64ecefab3f2e41e9369467fed9",
+			"alt": "Meet Bertha!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xm7nbl97wqw51.jpg",
+			"alt": "Meet Bertha!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jjo6s3/we_worked_on_this_building_for_the_last_approx/": [
+		{
+			"src": "https://i.redd.it/xr1fpqkd7uv51.png",
+			"alt": "We really like this view",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jlsc93/spent_the_last_few_hours_building_this_still_not/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/SDRToIOvp-AcbH5wAkk8oipqtg8eRL3TJhgagjLFpno.jpg",
+			"alt": "Spent the last few hours building this. Still not sure what to use it for.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dxkxg0ahkiw51.png",
+			"alt": "Spent the last few hours building this. Still not sure what to use it for.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jme2tb/i_made_a_dish_array/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/V5JBgfODPzUe7_VEKvorfwgjjn5uSO93NKy-7Ud_r0g.jpg",
+			"alt": "I made a dish array!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3kpyflns6qw51.png",
+			"alt": "Array of 4 dishes in the pink forest",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jjckft/made_my_manta_the_finish_line/": [
+		{
+			"src": "https://preview.redd.it/8enzf8tn1qv51.png?width=640&crop=smart&auto=webp&s=67c7712ce2b82db418cd650caf946ee5942c32dc",
+			"alt": "Made my manta the finish line",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8enzf8tn1qv51.png",
+			"alt": "Made my manta the finish line",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jmo7w6/sometimes_it_is_good_to_have_a_leisure_time_at/": [
+		{
+			"src": "https://preview.redd.it/vj8tufmu5uw51.png?width=640&crop=smart&auto=webp&s=6a6c707007a7a829cb36405001e51255d67d1cd2",
+			"alt": "Sometimes it is good to have a leisure time at the factory with friends.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vj8tufmu5uw51.png",
+			"alt": "Sometimes it is good to have a leisure time at the factory with friends.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jlhol1/fancy_building_for_not_so_fancy_materials_just_an/": [
+		{
+			"src": "https://preview.redd.it/dhqcovx3efw51.jpg?width=640&crop=smart&auto=webp&s=fbfe19791b19ca123df548c0711645bc7fb934fb",
+			"alt": "Fancy Building for not so fancy materials (just an iron plates, rods, screws,reinforced plate and modular frame factory)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dhqcovx3efw51.jpg",
+			"alt": "Fancy Building for not so fancy materials (just an iron plates, rods, screws,reinforced plate and modular frame factory)",
+			"skip": false
+		}
 	]
 }
