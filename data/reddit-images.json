@@ -996,5 +996,53 @@
 			"alt": "Fancy Building for not so fancy materials (just an iron plates, rods, screws,reinforced plate and modular frame factory)",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jrhvpj/big_thanks_to_our_overlords_at_ficsit_for_the_new/": [
+		{
+			"src": "https://preview.redd.it/rfirxxctpdy51.png?width=640&crop=smart&auto=webp&s=270df96fd284718b0a6387921294622c5eb127bd",
+			"alt": "Big thanks to our overlords at FICSIT for the new tech! A few weeks ago this packaging floor would have taken 50% more power and ~1000% more space",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rfirxxctpdy51.png",
+			"alt": "Big thanks to our overlords at FICSIT for the new tech! A few weeks ago this packaging floor would have taken 50% more power and ~1000% more space",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jrhmk3/after_building_a_power_plant_it_seemed_only/": [
+		{
+			"src": "https://preview.redd.it/pd4o1sy6mdy51.png?width=640&crop=smart&auto=webp&s=1eba4883977e96809be0e94f4a79087d2fd26440",
+			"alt": "After building a Power Plant, it seemed only prudent to safeguard it from attackers",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/pd4o1sy6mdy51.png",
+			"alt": "After building a Power Plant, it seemed only prudent to safeguard it from attackers",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/joqaz3/me_and_my_friend_got_to_the_top_of_the_space/": [
+		{
+			"src": "https://preview.redd.it/mqpy457cdhx51.png?width=640&crop=smart&auto=webp&s=bdaa3e23ccc6a124f28a8f2e73a8285bc140bb78",
+			"alt": "Me and my friend got to the top of the space elevator, only to be faced with what we can only assume is the god of this world... a single bacon agaric",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mqpy457cdhx51.png",
+			"alt": "Me and my friend got to the top of the space elevator, only to be faced with what we can only assume is the god of this world... a single bacon agaric",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jq1f5e/i_used_update_35ish_to_host_a_rave_party_at_my/": [
+		{
+			"src": "https://preview.redd.it/hb65swezpwx51.png?width=640&crop=smart&auto=webp&s=c3d60e88002bfe8394210962b09312fa7c42d115",
+			"alt": "I used Update 3.5ish to host a rave party at my cyber car bounce house (music video in comments)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hb65swezpwx51.png",
+			"alt": "I used Update 3.5ish to host a rave party at my cyber car bounce house (music video in comments)",
+			"skip": false
+		}
 	]
 }

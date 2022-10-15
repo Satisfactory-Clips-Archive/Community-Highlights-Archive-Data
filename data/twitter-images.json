@@ -248,5 +248,11 @@
 			"src": "https://pbs.twimg.com/media/El1gKW9VoAAnVg9.jpg",
 			"skip": true
 		}
+	],
+	"https://twitter.com/jmaniscatharg/status/1325404339985289216": [
+		{
+			"src": "https://pbs.twimg.com/media/EmTINi-U4AEO1VX.jpg",
+			"skip": false
+		}
 	]
 }
