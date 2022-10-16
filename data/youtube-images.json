@@ -100,5 +100,11 @@
 			"src": "https://img.youtube.com/vi/7NE6etRWHyQ/hqdefault.jpg",
 			"skip": false
 		}
+	],
+	"https://www.youtube.com/watch?v=h3YzPUfdihc": [
+		{
+			"src": "https://img.youtube.com/vi/h3YzPUfdihc/hqdefault.jpg",
+			"skip": false
+		}
 	]
 }
