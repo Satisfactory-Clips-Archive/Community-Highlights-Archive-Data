@@ -1241,5 +1241,41 @@
 			"alt": "Starting a new Tower Factory",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/guryvc/these_guys_always_hanging_around_my_stations/": [
+		{
+			"src": "https://preview.redd.it/i7m2qcqwuc251.png?width=640&crop=smart&auto=webp&s=5c175ec959045e2970464a101c0359cff91a717a",
+			"alt": "These guys. Always hanging around my Stations. Standing on the platforms. I feel like I should be offering them Tickets.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/i7m2qcqwuc251.png",
+			"alt": "These guys. Always hanging around my Stations. Standing on the platforms. I feel like I should be offering them Tickets.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/grvhq2/somerslooping_pipes/": [
+		{
+			"src": "https://preview.redd.it/9q5hokojde151.jpg?width=640&crop=smart&auto=webp&s=2482fc74686d722a212ffa25041612d495c1dbb1",
+			"alt": "Somerslooping Pipes",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9q5hokojde151.jpg",
+			"alt": "Somerslooping Pipes",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/gprczv/i_heard_you_guys_like_the_ancored_platforms/": [
+		{
+			"src": "https://preview.redd.it/57waxa9acq051.png?width=640&crop=smart&auto=webp&s=1703e7744cb363411a7b6b3bbf7b727a8df1743c",
+			"alt": "I heard you guys like the ancored platforms",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/57waxa9acq051.png",
+			"alt": "I heard you guys like the ancored platforms",
+			"skip": false
+		}
 	]
 }
