@@ -1152,5 +1152,94 @@
 			"alt": "The Behemoth",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jzzeo2/black_powder_perfection/": [
+		{
+			"src": "https://preview.redd.it/9ap2i35vn4161.png?width=640&crop=smart&auto=webp&s=23ac751478169faaa49d753f577cd35fc72b5467",
+			"alt": "Black powder perfection",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9ap2i35vn4161.png",
+			"alt": "Black powder perfection",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jxy04r/welcome_m%C3%A9gafactory/": [
+		{
+			"src": "https://preview.redd.it/zib80yn2rg061.png?width=640&crop=smart&auto=webp&s=ad4e379b45cdf4da5fcb55c9d5499b3de6ea2080",
+			"alt": "welcome MégaFactory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zib80yn2rg061.png",
+			"alt": "welcome MégaFactory",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jzwfl7/the_factory_begins_copper_caterium_processing/": [
+		{
+			"src": "https://preview.redd.it/5cg1dwpio3161.png?width=640&crop=smart&auto=webp&s=9b6bbe5accfca40edad1c61785922d69ee771e87",
+			"alt": "The factory begins - Copper & Caterium Processing Facility, Central Storage & Hub",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5cg1dwpio3161.png",
+			"alt": "The factory begins - Copper & Caterium Processing Facility, Central Storage & Hub",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/k03j4l/my_future_iron_bus/": [
+		{
+			"src": "https://preview.redd.it/s4gy1nlxd6161.png?width=640&crop=smart&auto=webp&s=02ab6b0a969b1a92517bc61a33ad99cca61db6a2",
+			"alt": "My future iron bus.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/s4gy1nlxd6161.png",
+			"alt": "My future iron bus.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jyirwc/my_44gw_power_plant/": [
+		{
+			"src": "https://preview.redd.it/wpeyh1y2tn061.png?width=640&crop=smart&auto=webp&s=d5f666875e00f31478b57654424cab114ace677f",
+			"alt": "My 44GW Power Plant",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wpeyh1y2tn061.png",
+			"alt": "My 44GW Power Plant",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jybheu/a_storage_system_i_made/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/fajIAD4uH5OvcL3LeN_17e7DWntKF6F6TZ3Yp72LPPU.jpg",
+			"alt": "A storage system I made.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dfqhw5zcql061.png",
+			"alt": "A storage system I made.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/na5bqoycql061.png",
+			"alt": "Definitely no clipping here, hehe.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jyxess/starting_a_new_tower_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/8iyTB0YsM6BBrGWtz_nKZHlt0uXAQhURKzGxIegHMgM.jpg",
+			"alt": "Starting a new Tower Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/aplsrnxr7t061.png",
+			"alt": "Starting a new Tower Factory",
+			"skip": false
+		}
 	]
 }
