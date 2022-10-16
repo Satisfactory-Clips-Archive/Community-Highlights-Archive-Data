@@ -1277,5 +1277,17 @@
 			"alt": "I heard you guys like the ancored platforms",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/fkjdd5/update_on_coal_power_plant_45k_mw_capacity_4/": [
+		{
+			"src": "https://preview.redd.it/2a7c95d8ucn41.png?width=640&crop=smart&auto=webp&s=483ac1e74f4eb834bc211582bde5794dd8b61d5f",
+			"alt": "Update on coal power plant, 4.5k MW capacity. 4 levels all have 8 coal plants fully upgraded with power cores.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2a7c95d8ucn41.png",
+			"alt": "Update on coal power plant, 4.5k MW capacity. 4 levels all have 8 coal plants fully upgraded with power cores.",
+			"skip": false
+		}
 	]
 }

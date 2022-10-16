@@ -266,5 +266,19 @@
 			"src": "https://pbs.twimg.com/media/EnhqLQwUwAMhyiU.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/dragonsmage79/status/1240619405286854656": [
+		{
+			"src": "https://pbs.twimg.com/media/ETeQutQUwAIktSh.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/ETeQv0KUUAEBlJk.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/ETeQwu5U8AAFrFV.jpg",
+			"skip": true
+		}
 	]
 }
