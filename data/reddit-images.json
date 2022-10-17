@@ -1289,5 +1289,53 @@
 			"alt": "Update on coal power plant, 4.5k MW capacity. 4 levels all have 8 coal plants fully upgraded with power cores.",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/k0hwlv/that_feeling_when_you_havent_unlocked_rails_yet/": [
+		{
+			"src": "https://preview.redd.it/jqz2u6qyba161.png?width=640&crop=smart&auto=webp&s=e4c5e472a80b751eacd64ecd901acd81921bfd8b",
+			"alt": "That feeling when you haven't unlocked rails yet but have a stupidly long sky platform so all you have is an inflatable meep meep cart",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jqz2u6qyba161.png",
+			"alt": "That feeling when you haven't unlocked rails yet but have a stupidly long sky platform so all you have is an inflatable meep meep cart",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/k0vp3e/got_a_good_snap_of_my_factory_last_night_felt/": [
+		{
+			"src": "https://preview.redd.it/l0u2r2c01f161.png?width=640&crop=smart&auto=webp&s=68dc870d5cbc1d6042693586505ce6666560860e",
+			"alt": "Got a good snap of my factory last night. Felt cute, might delete later.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/l0u2r2c01f161.png",
+			"alt": "Got a good snap of my factory last night. Felt cute, might delete later.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/jzx3kz/100_hours_into_my_factory_thought_i_would/": [
+		{
+			"src": "https://preview.redd.it/mwugfhp1w3161.png?width=640&crop=smart&auto=webp&s=86301e00692c550a05304e6a337faa7b66f93863",
+			"alt": "100 hours into my factory. Thought I would celebrate with a panorama of my main area",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mwugfhp1w3161.png",
+			"alt": "100 hours into my factory. Thought I would celebrate with a panorama of my main area",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/k2fubj/trains_all_figured_out/": [
+		{
+			"src": "https://preview.redd.it/j60qp25edw161.png?width=640&crop=smart&auto=webp&s=45679950355ef732f417cb579ce263547e1be090",
+			"alt": "Trains all figured out",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/j60qp25edw161.png",
+			"alt": "Trains all figured out",
+			"skip": false
+		}
 	]
 }
