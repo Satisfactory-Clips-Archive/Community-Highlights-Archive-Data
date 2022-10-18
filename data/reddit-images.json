@@ -1337,5 +1337,113 @@
 			"alt": "Trains all figured out",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/k6ugc6/i_jump_from_building_to_building/": [
+		{
+			"src": "https://preview.redd.it/ufcb2ivdq8361.png?width=640&crop=smart&auto=webp&s=d9a60eb55d9370361ccff4f267f6a51b72df3fcc",
+			"alt": "I jump from building to building",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ufcb2ivdq8361.png",
+			"alt": "I jump from building to building",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/k8b406/drive_through_train_washing_thingamajiggy/": [
+		{
+			"src": "https://preview.redd.it/zcq7ax0fip361.png?width=640&crop=smart&auto=webp&s=9e4900718af9bbb59af6249c518f399361d39099",
+			"alt": "Drive Through Train Washing Thingamajiggy",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zcq7ax0fip361.png",
+			"alt": "Drive Through Train Washing Thingamajiggy",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/k8dcgb/a_festive_ficsmas_factory/": [
+		{
+			"src": "https://preview.redd.it/jtcoe477eq361.png?width=640&crop=smart&auto=webp&s=be1d9539077e6c7de5009ee0a6e6fbc22e7de839",
+			"alt": "A Festive FICSMAS Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jtcoe477eq361.png",
+			"alt": "A Festive FICSMAS Factory",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/k6jxou/choochoochoo_children/": [
+		{
+			"src": "https://preview.redd.it/vyq4o2gwx5361.png?width=640&crop=smart&auto=webp&s=8601cb2a4834631b5a38e02d1307413fc6056db9",
+			"alt": "choo-choo-choo, children ❄️",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vyq4o2gwx5361.png",
+			"alt": "choo-choo-choo, children ❄️",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/k88m3v/tis_the_season_currently_making_450_presentmin/": [
+		{
+			"src": "https://preview.redd.it/bqh7noeaoo361.png?width=640&crop=smart&auto=webp&s=14972ef2607d1cfb33b178f3dc28693cbe5c1ff7",
+			"alt": "Tis The Season. Currently making 450 present/min.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bqh7noeaoo361.png",
+			"alt": "Tis The Season. Currently making 450 present/min.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/k8aqg9/wishing_everyone_a_gay_ficsmas/": [
+		{
+			"src": "https://preview.redd.it/gomehvb2dp361.png?width=640&crop=smart&auto=webp&s=0bbccddafab8b7f9ac9ed9a3e7d2075dff7f4570",
+			"alt": "Wishing everyone a gay Fics*mas",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gomehvb2dp361.png",
+			"alt": "Wishing everyone a gay Fics*mas",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/k8evxt/a_special_ficsmas_ceremonial/": [
+		{
+			"src": "https://preview.redd.it/fe2eldqh1r361.png?width=640&crop=smart&auto=webp&s=b84cb3cbd966351dd14eddb149779040ee9f9307",
+			"alt": "A Special FICSMAS Ceremonial",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fe2eldqh1r361.png",
+			"alt": "A Special FICSMAS Ceremonial",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/k4shql/o_ficsmas_crane_oh_ficsmas_crane_how_lovely_are/": [
+		{
+			"src": "https://preview.redd.it/m5ubezvoqm261.png?width=640&crop=smart&auto=webp&s=44fd391c86993938457f4ba7ee38e4779e206e2d",
+			"alt": "O Fics*mas Crane! Oh Fics*mas Crane! How lovely are thy presents!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/m5ubezvoqm261.png",
+			"alt": "O Fics*mas Crane! Oh Fics*mas Crane! How lovely are thy presents!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/k8ivk9/ficstmas_has_been_automated/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/HdxNHYx621P4U-c87E0YRaxDiTezNMiHaqnJJ977Z0Y.jpg",
+			"alt": "Ficstmas has been automated!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/k44s68s3cs361.png",
+			"alt": "Ficstmas has been automated!",
+			"skip": false
+		}
 	]
 }

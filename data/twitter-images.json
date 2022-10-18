@@ -320,5 +320,27 @@
 			"src": "https://pbs.twimg.com/media/Enxv4n9XEAczAv_.jpg",
 			"skip": true
 		}
+	],
+	"https://twitter.com/The_Scalti/status/1335615781476954112": [
+		{
+			"src": "https://pbs.twimg.com/media/EokPRQRXEAI7l3B.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/MDisraeli/status/1336143442821476354": [
+		{
+			"src": "https://pbs.twimg.com/media/EorvHilWMAA5A7Y.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/SoenKigi/status/1335628125477232640": [
+		{
+			"src": "https://pbs.twimg.com/media/EokaeARWMAIIJA6.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Eokaf00WEAEgbG_.jpg",
+			"skip": false
+		}
 	]
 }
