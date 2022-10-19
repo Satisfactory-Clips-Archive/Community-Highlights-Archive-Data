@@ -342,5 +342,61 @@
 			"src": "https://pbs.twimg.com/media/Eokaf00WEAEgbG_.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/Smerkin5000/status/1338174723369275393": [
+		{
+			"src": "https://pbs.twimg.com/media/EpImgvYVgAAWw81.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/BW48_game/status/1338683101451411456": [
+		{
+			"src": "https://pbs.twimg.com/media/EpP0jjRU8AAvZAt.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/EpP0n2TUUAALFHi.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/EpP0p3eVgAEa8zp.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/elblat2/status/1338333269255835653": [
+		{
+			"src": "https://pbs.twimg.com/media/EpK20bkU8AYEwJz.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/KoshSheen/status/1337391584187457539": [
+		{
+			"src": "https://pbs.twimg.com/media/Eo9d5XCW4AAlD0H.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Eo9d5XCXIAMSH-5.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Eo9d5XHXEAA--Hv.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Eo9d5XIXYAADnsd.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Reddo01556549/status/1338757580097777667": [
+		{
+			"src": "https://pbs.twimg.com/media/EpQ4E9IW8AIdxAB.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/RespawnRepeat/status/1337506487975940096": [
+		{
+			"src": "https://pbs.twimg.com/media/Eo_Gmk_XEAUTomi.jpg",
+			"skip": false
+		}
 	]
 }
