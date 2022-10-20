@@ -1577,5 +1577,113 @@
 			"alt": "My 5x5 had a small Ficsmas addition and overhaul.",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ko5i0g/happy_new_year_i_made_some_fireworks_for_everyone/": [
+		{
+			"src": "https://preview.redd.it/6pyxs0kcln861.png?width=640&crop=smart&auto=webp&s=1719d744fbc8632d808afc9889b72c34185fa2d2",
+			"alt": "Happy New Year! I made some Fireworks for everyone!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6pyxs0kcln861.png",
+			"alt": "Happy New Year! I made some Fireworks for everyone!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/keyetb/just_my_little_ficsmas_factory/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/R3c7JYNptC_G-5UfHUigWS1m5-vUSGp4JnpfszdXLu8.jpg",
+			"alt": "Just my little FICSmas Factory.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jw5bzwg2cr561.png",
+			"alt": "Just my little FICSmas Factory.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/kg6403/yet_another_ficsmas_factory_shot/": [
+		{
+			"src": "https://preview.redd.it/rw5c5ukbo4661.png?width=640&crop=smart&auto=webp&s=07452372f768d85e93ba646087c2596c46bb491c",
+			"alt": "Yet another Ficsmas factory shot.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rw5c5ukbo4661.png",
+			"alt": "Yet another Ficsmas factory shot.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ko1cp0/just_finished_making_my_hyper_tube_hub_4_hyper/": [
+		{
+			"src": "https://preview.redd.it/6f6j2uvj6m861.jpg?width=640&crop=smart&auto=webp&s=0b3ff7f68953f80c62d36e6f6345d5e34b302b62",
+			"alt": "Just finished making my Hyper tube hub 4 hyper tubes travel under the floor to different locations!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6f6j2uvj6m861.jpg",
+			"alt": "Just finished making my Hyper tube hub 4 hyper tubes travel under the floor to different locations!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/kdm2tg/merry_ficsmas_everybody_can_we_keep_this_all_year/": [
+		{
+			"src": "https://preview.redd.it/n0n34c4svc561.png?width=640&crop=smart&auto=webp&s=46435135b8f7adef77a855e07c8208a6edac46b0",
+			"alt": "Merry FICSMAS everybody. Can we keep this all year round?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/n0n34c4svc561.png",
+			"alt": "Merry FICSMAS everybody. Can we keep this all year round?",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/kskhee/first_time_on_since_the_event_started_a_friend_an/": [
+		{
+			"src": "https://preview.redd.it/aoyzg51xmy961.png?width=640&crop=smart&auto=webp&s=69f47b305bfba9417b6a6811752a45eca94a48cf",
+			"alt": "First time on since the event started. A friend an I made this FICSMAS tree this morning with a running train delivering 700 presents a minute.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/aoyzg51xmy961.png",
+			"alt": "First time on since the event started. A friend an I made this FICSMAS tree this morning with a running train delivering 700 presents a minute.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/kqycmo/you_can_choose_which_floor_you_want_to_jump/": [
+		{
+			"src": "https://preview.redd.it/f2c5w1i0li961.png?width=640&crop=smart&auto=webp&s=b828c15b1cec6f9387f99d066ba4eefa4c62627e",
+			"alt": "you can choose which floor you want to jump",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/f2c5w1i0li961.png",
+			"alt": "you can choose which floor you want to jump",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/knzdgd/i_regret_every_second_of_it/": [
+		{
+			"src": "https://preview.redd.it/pi2l4ahyjl861.jpg?width=640&crop=smart&auto=webp&s=76d5a64e75219c9b2d84512000a62ec578009e1f",
+			"alt": "I regret every second of it.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/pi2l4ahyjl861.jpg",
+			"alt": "I regret every second of it.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ko5vf4/patience_and_lots_of_trial_and_error_can_lead_to/": [
+		{
+			"src": "https://preview.redd.it/zana87xdqn861.jpg?width=640&crop=smart&auto=webp&s=cc96f311e43ffc58003df6998aa7902ee99dfee7",
+			"alt": "Patience and lots of trial and error can lead to satisfying results.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zana87xdqn861.jpg",
+			"alt": "Patience and lots of trial and error can lead to satisfying results.",
+			"skip": false
+		}
 	]
 }

@@ -398,5 +398,45 @@
 			"src": "https://pbs.twimg.com/media/Eo_Gmk_XEAUTomi.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/duck1123/status/1342164560443273218": [
+		{
+			"src": "https://pbs.twimg.com/media/EqBTemzXEAMq0Sj.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Reddo01556549/status/1347616660493127681": [
+		{
+			"src": "https://pbs.twimg.com/media/ErOyBPfXMAACt4A.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Smerkin5000/status/1345270866335076352": [
+		{
+			"src": "https://pbs.twimg.com/media/EqtcoHxVoAMkKjC.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/EqtcqUtVoAIjyjL.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Daddycr0n/status/1348377075305082889": [
+		{
+			"src": "https://pbs.twimg.com/media/ErZlA4_XEAMCHjC.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/ErZlA5ZXcAAbM0l.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/ErZlA5AXMAIBbeb.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/ErZlA4_W4AI_Eh8.jpg",
+			"skip": true
+		}
 	]
 }
