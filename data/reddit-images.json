@@ -1685,5 +1685,29 @@
 			"alt": "Patience and lots of trial and error can lead to satisfying results.",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/kwvslr/here_lies_my_u3_819_a_minute_alclad_alumnium/": [
+		{
+			"src": "https://preview.redd.it/iyhwow14h7b61.jpg?width=640&crop=smart&auto=webp&s=777d32caa9156468b74617e19a248de0d04db27d",
+			"alt": "Here Lies My U3 819 a Minute Alclad Alumnium Sheets Plant",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/iyhwow14h7b61.jpg",
+			"alt": "Here Lies My U3 819 a Minute Alclad Alumnium Sheets Plant",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/kw3wnv/lizard_doggos_can_use_jump_pads/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/fvzWreCqNg8lNSJPGnFJLgqqOdz42mc4oBTgY4oMLQs.jpg",
+			"alt": "Lizard doggo's can use jump pads!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/re5t2d43nza61.png",
+			"alt": "Look he's flying!",
+			"skip": false
+		}
 	]
 }

@@ -438,5 +438,11 @@
 			"src": "https://pbs.twimg.com/media/ErZlA4_W4AI_Eh8.jpg",
 			"skip": true
 		}
+	],
+	"https://twitter.com/The_Scalti/status/1351187824394043393": [
+		{
+			"src": "https://pbs.twimg.com/media/EsBiCYxW8AcV1Ch.jpg",
+			"skip": false
+		}
 	]
 }
