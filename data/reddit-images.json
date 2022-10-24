@@ -1709,5 +1709,101 @@
 			"alt": "Look he's flying!",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/l00h8r/we_made_a_little_petting_zoo_for_our_doggo_3/": [
+		{
+			"src": "https://preview.redd.it/ky05q798w4c61.png?width=640&crop=smart&auto=webp&s=5d1f4e991f04a02b629f6172383c88dc6beb5318",
+			"alt": "We made a little petting zoo for our doggo <3",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ky05q798w4c61.png",
+			"alt": "We made a little petting zoo for our doggo <3",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/l4wmeq/dont_ask_i_got_bored/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/qvPdiCLrp_OIbRHwVzMuDZbNl-YVa0cVhX-tvAUU1k8.jpg",
+			"alt": "don't ask, I got bored..",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qf8mblsrejd61.jpg",
+			"alt": "don't ask, I got bored..",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/l36u0p/saw_a_very_old_save_opened_it_and_was_greeted_by/": [
+		{
+			"src": "https://preview.redd.it/7f7if7tiz0d61.png?width=640&crop=smart&auto=webp&s=7795e323916c601a8cf6e8b4dab8d6f00c467eeb",
+			"alt": "Saw a very old save, opened it, and was greeted by this monstrosity of a factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7f7if7tiz0d61.png",
+			"alt": "Saw a very old save, opened it, and was greeted by this monstrosity of a factory",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/l1kr7t/ficsit_inc_tried_to_hide_the_disaster_but/": [
+		{
+			"src": "https://preview.redd.it/iqnpe1gqgkc61.png?width=640&crop=smart&auto=webp&s=d05af1ebcbc8d2275da55ff8d605065b8a116652",
+			"alt": "FICSIT Inc. tried to hide the disaster but engineers quickly figured out their companions won't return from the shift",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/iqnpe1gqgkc61.png",
+			"alt": "FICSIT Inc. tried to hide the disaster but engineers quickly figured out their companions won't return from the shift",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/l47y8s/before_last_upgrades_and_closing_it_in_walls/": [
+		{
+			"src": "https://preview.redd.it/4806it2ikcd61.png?width=640&crop=smart&auto=webp&s=8843bec73bdeeb6db4542b7451c37d849dd46f9b",
+			"alt": "Before last upgrades and closing it in walls wanted to make pic",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4806it2ikcd61.png",
+			"alt": "Before last upgrades and closing it in walls wanted to make pic",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/l3hz0u/my_new_lego_project_miner_mk_1_all_white_is/": [
+		{
+			"src": "https://preview.redd.it/5yhm47nqp4d61.jpg?width=640&crop=smart&auto=webp&s=305d0339121bac459af80b23d0eb218ed394fbe1",
+			"alt": "my new Lego project: miner Mk 1 (all white is supposed to be light Gray)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5yhm47nqp4d61.jpg",
+			"alt": "my new Lego project: miner Mk 1 (all white is supposed to be light Gray)",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/l2z2wz/i_dont_have_photoshop_but_i_did_the_best_i_could/": [
+		{
+			"src": "https://preview.redd.it/cz6ooyxvpyc61.jpg?width=640&crop=smart&auto=webp&s=11d8bc840a7b0e6e55ffa9236d3fd41d9315df2c",
+			"alt": "I don’t have photoshop but I did the best I could do",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cz6ooyxvpyc61.jpg",
+			"alt": "I don’t have photoshop but I did the best I could do",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/l415so/i_did_another_spaghetti/": [
+		{
+			"src": "https://external-preview.redd.it/U4K1w3FNaEzpsdLYzvRij0f4YxkPd50Rn2DqRVzKSXU.png?width=640&crop=smart&auto=webp&s=8071f034653f603c57d4c6a5734dfaebda1a4186",
+			"alt": "I did another spaghetti",
+			"skip": true
+		},
+		{
+			"src": "https://v.redd.it/h5x9ulmzqad61/DASH_720.mp4@13.9",
+			"alt": "I did another spaghetti",
+			"skip": false
+		}
 	]
 }
