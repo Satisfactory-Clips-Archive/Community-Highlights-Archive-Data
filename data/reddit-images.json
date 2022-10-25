@@ -1805,5 +1805,82 @@
 			"alt": "I did another spaghetti",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ley5li/found_a_great_new_way_to_stabilize_factories/": [
+		{
+			"src": "https://preview.redd.it/frqn6cw805g61.png?width=640&crop=smart&auto=webp&s=c9681c32625da312c08d1472b9362042ac8e0bdd",
+			"alt": "Found a great new way to stabilize factories!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/frqn6cw805g61.png",
+			"alt": "Found a great new way to stabilize factories!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/lem9uc/i_finished_my_first_nuclear_power_plant_today/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/EZvghbDiXWFkIZDYX-5NRmr3ju3PAdBkJ3q7TQzZi9I.jpg",
+			"alt": "I finished my first Nuclear Power Plant today.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/tec8e2nx22g61.png",
+			"alt": "I finished my first Nuclear Power Plant today.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/lfgf7c/more_mechs/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/8aVqXHYPW3AEOW90XOWaNK6Ef4ikDSAYV4ETTYwNUrY.jpg",
+			"alt": "more Mechs!!!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/j04klg9ncag61.png",
+			"alt": "Sentinel Tank",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/fqwzlltlcag61.png",
+			"alt": "Sentinel",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/lc0qt8/classic_refinery_throwback_turbo_fuel/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/V7IQbVmWL63x9fG38NlNidJDApb3ff9VnMslFBHX-8w.jpg",
+			"alt": "Classic Refinery throwback - Turbo fuel",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/c3aqwd0cdcf61.png",
+			"alt": "Classic Refinery throwback - Turbo fuel",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/lfrzyb/here_is_the_front_of_my_turbo_fuel_plant_came_out/": [
+		{
+			"src": "https://preview.redd.it/zwsp4l6x0dg61.png?width=640&crop=smart&auto=webp&s=16417363e07706088bb07a9607f6595d8f771709",
+			"alt": "Here is the front of my turbo fuel plant. Came out looking like a Greek/Roman ish style building.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zwsp4l6x0dg61.png",
+			"alt": "Here is the front of my turbo fuel plant. Came out looking like a Greek/Roman ish style building.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/lek56b/aint_much_but_its_honest_work/": [
+		{
+			"src": "https://preview.redd.it/e88siq8aa1g61.jpg?width=640&crop=smart&auto=webp&s=61f537eeaa8c9e841cc329f10826fbd4bd91c096",
+			"alt": "Ain't Much, But It's Honest Work",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/e88siq8aa1g61.jpg",
+			"alt": "Ain't Much, But It's Honest Work",
+			"skip": false
+		}
 	]
 }
