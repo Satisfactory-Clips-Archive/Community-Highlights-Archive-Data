@@ -1882,5 +1882,46 @@
 			"alt": "Ain't Much, But It's Honest Work",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/lk8cvk/happy_valentines_day_sorry_its_a_little_late/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/detE3Kf9vgdfHA5PvZOG_sDWjRHy50l_pJHOONHPuYI.jpg",
+			"alt": "Happy Valentines Day! Sorry it's a little late.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/b9at0snfelh61.png",
+			"alt": "Happy Valentines Day! Sorry it's a little late.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ljxhxe/this_is_getting_out_of_hand/": [
+		{
+			"src": "https://preview.redd.it/8hxmifxbdih61.png?width=640&crop=smart&auto=webp&s=bd2b838509b89e8a4c4b6cb763dd2b88650a1497",
+			"alt": "This is getting out of hand",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8hxmifxbdih61.png",
+			"alt": "This is getting out of hand",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/lk5a3j/more_noodles/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/r6SMedVIxixqfPk5QBHlOZaYAcxzdmOIjTsqWBQD7S0.jpg",
+			"alt": "more noodles..",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5qxvhljlfkh61.jpg",
+			"alt": "more noodles..",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/yk7rncltfkh61.jpg",
+			"alt": "more noodles..",
+			"skip": false
+		}
 	]
 }
