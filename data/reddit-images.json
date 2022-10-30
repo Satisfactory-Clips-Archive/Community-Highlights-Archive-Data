@@ -2043,5 +2043,41 @@
 			"alt": "End processing",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/lue0l6/supertanker/": [
+		{
+			"src": "https://i.redd.it/huwqcipsg7k61.jpg",
+			"alt": "more & save to youtube chanel",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/btcz8ipsg7k61.jpg",
+			"alt": "more & save to youtube chanel",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/lupf3b/future_motor_and_stator_factory_bottom_floor_is/": [
+		{
+			"src": "https://preview.redd.it/tcyln7xy0ak61.png?width=640&crop=smart&auto=webp&s=a3711308bae149c3ab58006cd30b9e1a38cef09b",
+			"alt": "Future motor and stator factory. Bottom floor is for trains, first floor is done producing all the copper, iron and caterium using pure recipes. Break time.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/tcyln7xy0ak61.png",
+			"alt": "Future motor and stator factory. Bottom floor is for trains, first floor is done producing all the copper, iron and caterium using pure recipes. Break time.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ls4gxa/what_do_u_think_should_i_change_something/": [
+		{
+			"src": "https://preview.redd.it/0cjol7fgzlj61.png?width=640&crop=smart&auto=webp&s=f13769bdba1673779f8e13f71d850923346cad9d",
+			"alt": "what do u think? should I change something?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0cjol7fgzlj61.png",
+			"alt": "what do u think? should I change something?",
+			"skip": false
+		}
 	]
 }
