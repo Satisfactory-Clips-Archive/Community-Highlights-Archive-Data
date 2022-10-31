@@ -490,6 +490,11 @@
 			"src": "https://external-preview.redd.it/4tWqzb_gVRx2s7YfTCEihMYHIUHwMt6bnIGfDMUzIkU.jpg?width=640&crop=smart&auto=webp&s=09534963549e1fa0b1e7aa046c8d27ab254af8f0",
 			"alt": "Grasslands Canyon Bridge",
 			"skip": true
+		},
+		{
+			"src": "https://i.imgur.com/c4nJ9C4.jpeg",
+			"alt": "Grasslands Canyon Bridge",
+			"skip": false
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/j0cjtr/i_worked_on_my_powertower_and_found_a_much_better/": [
@@ -886,7 +891,7 @@
 		{
 			"src": "https://i.redd.it/ftijei0s23v51.png",
 			"alt": "Caption: 300 Oil ---> 250 Turbofuel + 300 Plastic + 300 Rubber",
-			"skip": true
+			"skip": false
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/ji9nnc/first_at_work/": [
@@ -1066,7 +1071,7 @@
 		{
 			"src": "https://i.redd.it/3yxvhm5cb1z51.png",
 			"alt": "I like symmetry :) Caterium ingot Production 360/min",
-			"skip": true
+			"skip": false
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/jurxp0/pioneer_with_doggo_fanart/": [
