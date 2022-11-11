@@ -492,5 +492,51 @@
 			"src": "https://pbs.twimg.com/media/EvbpLHyXcAMh2I-.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/itsjymmi/status/1368336782740295680": [
+		{
+			"src": "https://pbs.twimg.com/media/Ev1O-sQXAAIxit7.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/itsjymmi/status/1369073300253663235": [
+		{
+			"src": "https://pbs.twimg.com/media/Ev_preIXYAAdO6-.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/PerforatedS/status/1368776559922929665": [
+		{
+			"src": "https://pbs.twimg.com/media/Ev7eoUrXIAEzclP.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Ev7eoUpWYAAu26X.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Daddycr0n/status/1369269469093240841": [
+		{
+			"src": "https://pbs.twimg.com/media/EwCfI-vWYAAMOYe.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/kubanoed/status/1368488467299196933": [
+		{
+			"src": "https://pbs.twimg.com/media/Ev3Y6oWXYAEZcnG.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Ev3Y6oXXIAIAHMa.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Ev3Y6ofXIAcfObx.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Ev3Y6odXAAENi-K.jpg",
+			"skip": false
+		}
 	]
 }

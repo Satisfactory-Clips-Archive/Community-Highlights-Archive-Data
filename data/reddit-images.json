@@ -2084,5 +2084,41 @@
 			"alt": "what do u think? should I change something?",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/m0x6i6/just_dismantled_the_entire_map_this_was_not_a/": [
+		{
+			"src": "https://preview.redd.it/owyd7z394xl61.jpg?width=640&crop=smart&auto=webp&s=168be20fe82162279c677b9a01284af2f77f052a",
+			"alt": "Just dismantled the entire map, this was not a good idea.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/owyd7z394xl61.jpg",
+			"alt": "Just dismantled the entire map, this was not a good idea.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/m03mw5/this_is_my_first_factory_after_5_hours_it/": [
+		{
+			"src": "https://preview.redd.it/chogp0jj7pl61.png?width=640&crop=smart&auto=webp&s=82b4b9ce74a1a6f91a01dd02e56c55bfe6c5478f",
+			"alt": "This is my first factory after ~5 hours. It produces all iron items from tier 1 & 2. Can't wait to automate my power supply!!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/chogp0jj7pl61.png",
+			"alt": "This is my first factory after ~5 hours. It produces all iron items from tier 1 & 2. Can't wait to automate my power supply!!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/m0p4f5/found_harambe_at_the_top_of_this_shaft/": [
+		{
+			"src": "https://preview.redd.it/sfft5l6j5vl61.jpg?width=640&crop=smart&auto=webp&s=7d58b2c9726f2209e02b7644360b851e940c296b",
+			"alt": "Found Harambe at the top of this shaft",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/sfft5l6j5vl61.jpg",
+			"alt": "Found Harambe at the top of this shaft",
+			"skip": false
+		}
 	]
 }
