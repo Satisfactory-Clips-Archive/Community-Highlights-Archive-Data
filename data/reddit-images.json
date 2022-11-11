@@ -2120,5 +2120,87 @@
 			"alt": "Found Harambe at the top of this shaft",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/m4hhqz/progress_update_2_mines_factory_expansion_and/": [
+		{
+			"src": "https://i.redd.it/s7s3uehz7vm61.png",
+			"alt": "Just showing off the improvements I made to my factory. Still can't believe I managed to build this. Feedback would be greatly appreciated.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/1u1u8zgz7vm61.png",
+			"alt": "Raw materials are transported over the bridge towards the mines.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/m59ap3/we_all_start_somewhere/": [
+		{
+			"src": "https://external-preview.redd.it/n83aNqLPiA5przI6_2l8k1pIUIE7cAU69wrJ1LukR74.png?width=640&crop=smart&auto=webp&s=ef260bd7598427d242aea68885ae0790cc103ea5",
+			"alt": "We all start somewhere",
+			"skip": true
+		},
+		{
+			"src": "https://v.redd.it/8d3cuwb5f3n61/DASH_720.mp4@5",
+			"alt": "We all start somewhere",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/m4zeuj/advanced_space_elevator_pitchit/": [
+		{
+			"src": "https://preview.redd.it/0vh7ag5d21n61.png?width=640&crop=smart&auto=webp&s=ce3366791c2ed1ab9417f1278a3cd5aa07119f14",
+			"alt": "Advanced Space Elevator - Pitchit",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0vh7ag5d21n61.png",
+			"alt": "Advanced Space Elevator - Pitchit",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/m4jo1w/remember_me/": [
+		{
+			"src": "https://preview.redd.it/48zk7j032wm61.png?width=640&crop=smart&auto=webp&s=f9b5c7c4e137b524821d4199492daaed496591d7",
+			"alt": "REMEMBER ME",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/48zk7j032wm61.png",
+			"alt": "REMEMBER ME",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/m4giti/140_nuclear_power_plant_hope_you_guys_like_it_had/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/L59-YsSMYinJQSaxODA7QP1vgDJfLoXJzxKu6TrmgTc.jpg",
+			"alt": "140 Nuclear Power Plant - Hope you guys like it. Had some guys asking for detailed screenshots. Feel free to follow me on twitch if wanna support me and see more.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ygno5mwy8vm61.png",
+			"alt": "140 Nuclear Power Plant",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/t5skdjf29vm61.png",
+			"alt": "140 Nuclear Power Plant",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/m5ph7k/small_hydro_power_plant/": [
+		{
+			"src": "https://i.redd.it/v4o870te48n61.png",
+			"alt": "Harnessing the power of nature",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/7eemctre48n61.png",
+			"alt": "Harnessing the power of nature",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/27x33sre48n61.png",
+			"alt": "Harnessing the power of nature",
+			"skip": false
+		}
 	]
 }

@@ -538,5 +538,47 @@
 			"src": "https://pbs.twimg.com/media/Ev3Y6odXAAENi-K.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/vsbmeza3/status/1370069440453312514": [
+		{
+			"src": "https://pbs.twimg.com/media/EwN2ZqKXEAA4qBn.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/PerforatedS/status/1369869533285126150": [
+		{
+			"src": "https://pbs.twimg.com/media/EwLAvOdXAAUlQnM.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/EwLAvObXYAEhgyY.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/EwLAvObWQAAcXS3.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/EwLAvOaXIAMcLg-.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Smerkin5000/status/1371118864273010692": [
+		{
+			"src": "https://pbs.twimg.com/media/EwcxO12U8AIVGfV.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/EwcxRzpVoAUumxM.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/EwcxTCjVEAM4bx8.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/EwcxUNOVkAAi93D.jpg",
+			"skip": true
+		}
 	]
 }
