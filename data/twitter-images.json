@@ -580,5 +580,17 @@
 			"src": "https://pbs.twimg.com/media/EwcxUNOVkAAi93D.jpg",
 			"skip": true
 		}
+	],
+	"https://twitter.com/scotlynhatt/status/1374216216773033984": [
+		{
+			"src": "https://pbs.twimg.com/media/ExIx_09WQAIPvl1.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Smerkin5000/status/1374174311972413440": [
+		{
+			"src": "https://pbs.twimg.com/media/ExIMEAHU8AEf4pF.jpg",
+			"skip": false
+		}
 	]
 }
