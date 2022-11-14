@@ -190,5 +190,11 @@
 			"src": "https://img.youtube.com/vi/vJ_tL_lBmXQ/hqdefault.jpg",
 			"skip": false
 		}
+	],
+	"https://youtu.be/41mxgVg4jNA": [
+		{
+			"src": "https://img.youtube.com/vi/41mxgVg4jNA/hqdefault.jpg",
+			"skip": false
+		}
 	]
 }

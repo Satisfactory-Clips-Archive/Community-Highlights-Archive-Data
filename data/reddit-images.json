@@ -2365,5 +2365,120 @@
 			"alt": "Been experimenting with mood lighting. I think I've nailed down my new factory's flair.",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/mf8ts7/honestly_why_dont_they_just_dismantle_it/": [
+		{
+			"src": "https://preview.redd.it/h9gs1xh2ttp61.jpg?width=640&crop=smart&auto=webp&s=f86bc60894a0fbaa4661b1a51860e4e73c1ad244",
+			"alt": "Honestly, why don't they just dismantle it?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/h9gs1xh2ttp61.jpg",
+			"alt": "Honestly, why don't they just dismantle it?",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/mfo1af/help/": [
+		{
+			"src": "https://preview.redd.it/vckyamtajyp61.jpg?width=640&crop=smart&auto=webp&s=f12add116f20c114d986b8e49c3111c9fe5e6208",
+			"alt": "Help.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vckyamtajyp61.jpg",
+			"alt": "Help.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/mcxowt/sailing_into_the_mists/": [
+		{
+			"src": "https://preview.redd.it/q8plk0sy96p61.jpg?width=640&crop=smart&auto=webp&s=4c4ad2da46935ccbd364ff951914428a6ff1fc44",
+			"alt": "Sailing into the mists",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/q8plk0sy96p61.jpg",
+			"alt": "Sailing into the mists",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/mf9hs8/so_update_4_im_back_in_the_game/": [
+		{
+			"src": "https://preview.redd.it/23071wu4ztp61.jpg?width=640&crop=smart&auto=webp&s=58c3f0668e265d644f02290f22bc5fc9f58754a5",
+			"alt": "So update 4. I'm back in the game.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/23071wu4ztp61.jpg",
+			"alt": "So update 4. I'm back in the game.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/mee0wz/just_found_a_nearly_2_year_old_save_of_mine/": [
+		{
+			"src": "https://preview.redd.it/e88z9mf3rkp61.png?width=640&crop=smart&auto=webp&s=13020713643a9a562319dae12c830705712a66db",
+			"alt": "Just found a nearly 2 year old save of mine",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/e88z9mf3rkp61.png",
+			"alt": "Just found a nearly 2 year old save of mine",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/mg5c29/oh_man_the_mothership_just_arrived_my_crimes/": [
+		{
+			"src": "https://preview.redd.it/40ral8q0p2q61.jpg?width=640&crop=smart&auto=webp&s=ac9598cffe5dee5e613f9ad5b8cae0b6cde6bfe0",
+			"alt": "Oh man, the mothership just arrived. My crimes against factory carts will not go unpunished.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/40ral8q0p2q61.jpg",
+			"alt": "Oh man, the mothership just arrived. My crimes against factory carts will not go unpunished.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/meg1nr/easy_and_clean_conveyor_transit_now_that_you_can/": [
+		{
+			"src": "https://preview.redd.it/mwaf3s6qalp61.png?width=640&crop=smart&auto=webp&s=bc7113c88e458d48615217ba098fc2d82c5934c9",
+			"alt": "Easy and Clean Conveyor Transit now that you can snap foundations to walkways",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mwaf3s6qalp61.png",
+			"alt": "Easy and Clean Conveyor Transit now that you can snap foundations to walkways",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/mg3w3x/drawing_xaos_version_of_a_smol_nuclear_power/": [
+		{
+			"src": "https://preview.redd.it/crfnbtyea2q61.png?width=640&crop=smart&auto=webp&s=7a7a97fd653baed33af4b677f676126b22d89898",
+			"alt": "Drawing Xaos version of a \"Smol\" Nuclear power plant. makes 2 fuel rods a min, with 10 nuke plants on top.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/crfnbtyea2q61.png",
+			"alt": "Drawing Xaos version of a \"Smol\" Nuclear power plant. makes 2 fuel rods a min, with 10 nuke plants on top.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/mekh9i/electrical_substation_waiting_for_power_storages/": [
+		{
+			"src": "https://i.redd.it/sc6jpy4zdmp61.png",
+			"alt": "Electrical Substation - Waiting for Power Storages on Early Access :)",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/mffhy8/coalfactory_wip_vanilla_no_mods/": [
+		{
+			"src": "https://preview.redd.it/1rsl7gxolvp61.png?width=640&crop=smart&auto=webp&s=112fb187720fa76b484a57b71840ae10b700e04f",
+			"alt": "Coal-factory [WIP] Vanilla (no mods)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1rsl7gxolvp61.png",
+			"alt": "Coal-factory [WIP] Vanilla (no mods)",
+			"skip": false
+		}
 	]
 }
