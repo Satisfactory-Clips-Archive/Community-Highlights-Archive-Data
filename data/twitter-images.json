@@ -592,5 +592,31 @@
 			"src": "https://pbs.twimg.com/media/ExIMEAHU8AEf4pF.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/MaxTheCatfish/status/1378012398238502921": [
+		{
+			"src": "https://pbs.twimg.com/media/Ex-ujJaWUAkqClJ.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Ex-ukwbWYAYz9hF.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Ex-umFrWEAI48gU.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/runestonegaming/status/1381728833049489417": [
+		{
+			"src": "https://pbs.twimg.com/media/Eyzi3i9UYAI3j8t.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Smerkin5000/status/1381741033592000512": [
+		{
+			"src": "https://pbs.twimg.com/media/Eyzty2yVgAEsEz4.jpg",
+			"skip": false
+		}
 	]
 }
