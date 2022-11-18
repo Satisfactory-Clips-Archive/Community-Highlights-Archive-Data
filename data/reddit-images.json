@@ -2879,5 +2879,82 @@
 			"alt": "Treacherous road to High Hrothgar",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/mzfch2/having_coffee_with_myself/": [
+		{
+			"src": "https://preview.redd.it/buxgunkcwmv61.png?width=640&crop=smart&auto=webp&s=76422e47b31764d4f22593b5fd1ed8c0dfc4cbd9",
+			"alt": "Having coffee with myself!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/buxgunkcwmv61.png",
+			"alt": "Having coffee with myself!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/my8g06/tmw_youre_to_stubborn_to_extend_your_tower/": [
+		{
+			"src": "https://preview.redd.it/vi5knx27obv61.jpg?width=640&crop=smart&auto=webp&s=6f0c166dcc154018769efe5af52c966ab1902539",
+			"alt": "TMW you're to stubborn to extend your tower",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vi5knx27obv61.jpg",
+			"alt": "TMW you're to stubborn to extend your tower",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/mv33is/i_canceled_my_date_tonight_i_still_have_much_work/": [
+		{
+			"src": "https://preview.redd.it/30u3t39fveu61.jpg?width=640&crop=smart&auto=webp&s=4383d8aed598b1cab0b2ac75a6168da145384ec8",
+			"alt": "I canceled my date tonight... I still have much work to complete",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/30u3t39fveu61.jpg",
+			"alt": "I canceled my date tonight... I still have much work to complete",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/mx04y5/multidirectional_build_these_seem_much_easier_to/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/3b1_BfqC1LSRTgVJtlOh6f_K_v3zmJlr9bYijBa5tlo.jpg",
+			"alt": "Multidirectional build. These seem much easier to do on water!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8tojm4vvfyu61.png",
+			"alt": "Multidirectional build. These seem much easier to do on water!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/mwyb5r/the_first_fleet/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/eN_c2UA6s8-xKhYnjNp9oXHd1ceDgAFpS-wwBSB3w8M.jpg",
+			"alt": "The first fleet",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hpcjgvnf2yu61.jpg",
+			"alt": "The first fleet",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/5jsie2of2yu61.jpg",
+			"alt": "The first fleet",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/myqrf2/iron_smeltery_2160_ingots_pm/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/TSQWJP3c-dSkULt4PfMQEm3rqCHHKd1_Yn1V2yYVcqE.jpg",
+			"alt": "Iron Smeltery (2160 Ingots p/m)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xgu9hlzyfgv61.png",
+			"alt": "sides of the room covered in pink lighting",
+			"skip": false
+		}
 	]
 }

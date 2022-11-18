@@ -208,5 +208,11 @@
 			"src": "https://img.youtube.com/vi/VRrnYhXicK4/hqdefault.jpg",
 			"skip": false
 		}
+	],
+	"https://www.youtube.com/watch?v=oCPV5Nt2gpc": [
+		{
+			"src": "https://img.youtube.com/vi/oCPV5Nt2gpc/hqdefault.jpg",
+			"skip": false
+		}
 	]
 }
