@@ -662,5 +662,49 @@
 			"src": "https://pbs.twimg.com/media/EzXAGsCVgAUEigc.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/MaroonRaptor66/status/1387287449932607489": [
+		{
+			"src": "https://pbs.twimg.com/media/E0Ch0fUXMAA7hv6.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E0Ch0-gWEAIIpF3.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E0CikBNXIAME3jp.png",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Smerkin5000/status/1388776778706030609": [
+		{
+			"src": "https://pbs.twimg.com/media/E0XsZyYVgAE_Cr3.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Tr1cky_zockt/status/1387809789355376640": [
+		{
+			"src": "https://pbs.twimg.com/media/E0J9pcyXsAAiJ9b.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/xSgt_Pepperx/status/1387407134787317763": [
+		{
+			"src": "https://pbs.twimg.com/media/E0EPXBaXoAQpy3b.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E0EPXBZWEAM6e1v.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E0EPXBbXsAIpNCL.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E0EPXBcXIAAgTN0.jpg",
+			"skip": true
+		}
 	]
 }

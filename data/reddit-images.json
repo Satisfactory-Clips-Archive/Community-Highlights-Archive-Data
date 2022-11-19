@@ -2956,5 +2956,118 @@
 			"alt": "sides of the room covered in pink lighting",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n3qc4u/something_a_little_different_with_pipes/": [
+		{
+			"src": "https://preview.redd.it/ud6157rlxuw61.jpg?width=640&crop=smart&auto=webp&s=39bdb969d43550fbeb0cae04397c0834878735d8",
+			"alt": "Something a little different with pipes :-)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ud6157rlxuw61.jpg",
+			"alt": "Something a little different with pipes :-)",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n47trp/some_shopping_at_the_mall/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/fQXlzwBog4gikfcrrkz_zhU8XXrDKKcf37FknsJSkD8.jpg",
+			"alt": "Some shopping at the mall",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cf625k293zw61.png",
+			"alt": "Pay the bill",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/vkf8uf293zw61.png",
+			"alt": "Overview of the mall",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n45467/building_these_is_very_satisfying/": [
+		{
+			"src": "https://preview.redd.it/hscudcjgjyw61.jpg?width=640&crop=smart&auto=webp&s=6576a918bb079f313645583565e04241b00995f7",
+			"alt": "Building these is very satisfying",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hscudcjgjyw61.jpg",
+			"alt": "Building these is very satisfying",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n4k3p9/had_some_fun_building_the_golden_gate_bridge_and/": [
+		{
+			"src": "https://i.redd.it/7p8uy25bn2x61.png",
+			"alt": "Golden view!",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/whbgn55bn2x61.png",
+			"alt": "Golden view!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n0kevf/dont_you_wish_your_pc_look_this_cool/": [
+		{
+			"src": "https://preview.redd.it/bx92th9dbyv61.png?width=640&crop=smart&auto=webp&s=567c0aad01d5612808f215e671508c2a78ab2c1d",
+			"alt": "Don't you wish your PC look this COOL!!!!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bx92th9dbyv61.png",
+			"alt": "Don't you wish your PC look this COOL!!!!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n453b9/this_game_sure_has_its_cinematic_moments/": [
+		{
+			"src": "https://preview.redd.it/1qij61z0jyw61.jpg?width=640&crop=smart&auto=webp&s=bfc5a4a143fd96ff4c17ae929dd198f25395dda4",
+			"alt": "This game sure has its cinematic moments",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1qij61z0jyw61.jpg",
+			"alt": "This game sure has its cinematic moments",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n1zdfb/loaded_up_my_first_update_2_world_for_fun_it_was/": [
+		{
+			"src": "https://preview.redd.it/y4y2001vlcw61.png?width=640&crop=smart&auto=webp&s=e287ed0b784dabe35e44e11c23ba0f315016a292",
+			"alt": "Loaded up my first Update 2 world for fun. It was an absolute chaotic mess, but it was mine and I loved it.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/y4y2001vlcw61.png",
+			"alt": "Loaded up my first Update 2 world for fun. It was an absolute chaotic mess, but it was mine and I loved it.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n44fpd/very_pretty_view_while_looking_for_hard_drives/": [
+		{
+			"src": "https://preview.redd.it/g8xr90ngeyw61.png?width=640&crop=smart&auto=webp&s=f0cefc88a56847d9775b36a6b860d986a5259bc5",
+			"alt": "Very pretty view while looking for Hard Drives",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/g8xr90ngeyw61.png",
+			"alt": "Very pretty view while looking for Hard Drives",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n0r9ic/my_steel_factory_featuring_trucks/": [
+		{
+			"src": "https://preview.redd.it/zzj1cpjnwzv61.png?width=640&crop=smart&auto=webp&s=d74e440aa38a8991f29a4f4e86d3b4d57c5eec7b",
+			"alt": "My Steel Factory (featuring trucks)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zzj1cpjnwzv61.png",
+			"alt": "My Steel Factory (featuring trucks)",
+			"skip": false
+		}
 	]
 }
