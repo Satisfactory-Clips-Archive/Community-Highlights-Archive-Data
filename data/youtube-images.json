@@ -226,5 +226,17 @@
 			"src": "https://img.youtube.com/vi/tSgSZ7D_z6I/hqdefault.jpg",
 			"skip": false
 		}
+	],
+	"https://www.youtube.com/watch?v=PvMiTd6cWRs": [
+		{
+			"src": "https://img.youtube.com/vi/PvMiTd6cWRs/hqdefault.jpg",
+			"skip": false
+		}
+	],
+	"https://www.youtube.com/watch?v=sjo3yhJzE0Y": [
+		{
+			"src": "https://img.youtube.com/vi/sjo3yhJzE0Y/hqdefault.jpg",
+			"skip": false
+		}
 	]
 }

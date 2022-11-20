@@ -706,5 +706,17 @@
 			"src": "https://pbs.twimg.com/media/E0EPXBcXIAAgTN0.jpg",
 			"skip": true
 		}
+	],
+	"https://twitter.com/Eurymachuss/status/1391923346217086977": [
+		{
+			"src": "https://pbs.twimg.com/media/E1EatA6XMAghRmz.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/FUBAR892/status/1391888411993251841": [
+		{
+			"src": "https://pbs.twimg.com/media/E1D61KKWYAAxk76.jpg",
+			"skip": false
+		}
 	]
 }

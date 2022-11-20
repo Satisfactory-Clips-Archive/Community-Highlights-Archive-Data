@@ -3069,5 +3069,115 @@
 			"alt": "My Steel Factory (featuring trucks)",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n49mfv/dramatic_lighting_in_my_aluminium_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/symyqcnZoeaOiknZn85cJKb-sg_F0fh50TKvt2Y_QqA.jpg",
+			"alt": "Dramatic Lighting in my Aluminium factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0u8ipuhzhzw61.jpg",
+			"alt": "Dramatic Lighting in my Aluminium factory",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n6mpb2/sierpinski_base_wip/": [
+		{
+			"src": "https://preview.redd.it/h0ou23lmllx61.png?width=640&crop=smart&auto=webp&s=01f5d9ff3cdad6a348ef32638987bdc923e6da99",
+			"alt": "Sierpinski Base (WIP)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/h0ou23lmllx61.png",
+			"alt": "Sierpinski Base (WIP)",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n8p3ej/you_wanna_factory_yes_but_i_want_a_spaceship_too/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Xpva5wVBOZfHymHnDhZdTTpPHVVQk00KkDS_HfI3lts.jpg",
+			"alt": "You wanna factory ? - Yes ! But I want a spaceship too ! (under construction)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qbht1i1d66y61.png",
+			"alt": "You wanna factory ? - Yes ! But I want a spaceship too ! (under construction)",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n87069/my_fps_killing_mega_bus/": [
+		{
+			"src": "https://i.redd.it/dey1haa611y61.png",
+			"alt": "looool so long frame rate!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n4ehf5/factory_underpass/": [
+		{
+			"src": "https://i.redd.it/wjy4tnavq0x61.png",
+			"alt": "underpass",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n8pmvf/my_doggo_has_a_funny_way_of_showing_love/": [
+		{
+			"src": "https://preview.redd.it/7pcqaisdb6y61.png?width=640&crop=smart&auto=webp&s=2895648dbd7d3e8b586775df0cc4060cb37b14e8",
+			"alt": "My Doggo has a funny way of showing love",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7pcqaisdb6y61.png",
+			"alt": "My Doggo has a funny way of showing love",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n8bvdl/rocket_base_update_spaceship_wings_lights/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/7vixIG86_uZAq-nyuM0CBlGMUKmwN7iZbXKdZjsEEGU.jpg",
+			"alt": "Rocket Base (Update, Spaceship Wings, Lights, Fueltanks,…) 🚀🖖",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/a3f907pps2y61.jpg",
+			"alt": "Rocket Base (Update, Spaceship Wings, Lights, Fueltanks,…) 🚀🖖",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n59asa/i_made_some_swirly_spiralling_train_track_things/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/e0FEAyG_YE4OyLrp-sb-rC_pmGfK7QosJhQ0Z2cBb54.jpg",
+			"alt": "I made some swirly, spiralling train track things",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bqqh67zux8x61.jpg",
+			"alt": "I made some swirly, spiralling train track things",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n8zgk8/night_at_factory_street/": [
+		{
+			"src": "https://preview.redd.it/dlkqb26t69y61.png?width=640&crop=smart&auto=webp&s=40f48b4d51ac0bbd26d0a13cd4a8b1dc7d565f6e",
+			"alt": "Night at factory street :)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dlkqb26t69y61.png",
+			"alt": "Night at factory street :)",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n9f8jb/city_of_steel_the_journey_so_far/": [
+		{
+			"src": "https://preview.redd.it/83cl21j0scy61.jpg?width=640&crop=smart&auto=webp&s=210595c69c7cad25a0d8746ebc0e333b6a3e8b5a",
+			"alt": "City of steel, the journey so far.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/83cl21j0scy61.jpg",
+			"alt": "City of steel, the journey so far.",
+			"skip": false
+		}
 	]
 }
