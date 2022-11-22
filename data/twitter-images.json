@@ -748,5 +748,49 @@
 			"src": "https://pbs.twimg.com/media/E1gmGqBWEAMiF6O.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/felixrostrum/status/1396576699433771014": [
+		{
+			"src": "https://pbs.twimg.com/media/E2GjEH9XIAACYrT.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Eurymachuss/status/1396267900760166413": [
+		{
+			"src": "https://pbs.twimg.com/media/E2CJ1VzWQAEoHKz.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E2CKKrbXMAAX8WI.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Jimbers76/status/1396232583214551042": [
+		{
+			"src": "https://pbs.twimg.com/media/E2BqFBnVcAEX4TE.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E2BqHY2UYAIvaYE.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/KleyLive/status/1395021384426917891": [
+		{
+			"src": "https://pbs.twimg.com/media/E1wbE8iXIAQMBuj.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/kwak842/status/1394659612998180865": [
+		{
+			"src": "https://pbs.twimg.com/media/E1rTDkDXoAESOb-.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Tr1cky_zockt/status/1395693647480381440": [
+		{
+			"src": "https://pbs.twimg.com/media/E15_-Z0UYAQjEIL.jpg",
+			"skip": false
+		}
 	]
 }

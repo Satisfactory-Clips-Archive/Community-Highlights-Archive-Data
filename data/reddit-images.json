@@ -3293,5 +3293,115 @@
 			"alt": "By now I just play this game to build railways",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/niz4b1/my_base_contracted_a_disease_overnight_how_do_i/": [
+		{
+			"src": "https://external-preview.redd.it/9NtTCah4TYZw13iNclVOsDS-PKwaMuY_QGW9u0HISuo.jpg?width=640&crop=smart&auto=webp&s=a1d15fe067c24b802f5de242f2e8313a226b4bc1",
+			"alt": "My base contracted a disease overnight, how do I fix this?",
+			"skip": true
+		},
+		{
+			"src": "https://i.imgur.com/2JpAttH.jpeg",
+			"alt": "My base contracted a disease overnight, how do I fix this?",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/neo3j2/everyone_likes_to_play_satisfactory/": [
+		{
+			"src": "https://preview.redd.it/76nlkbng5qz61.jpg?width=640&crop=smart&auto=webp&s=4c2d31c8820253bd53af0384cb189b1953cfe319",
+			"alt": "Everyone likes to play satisfactory.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/76nlkbng5qz61.jpg",
+			"alt": "Everyone likes to play satisfactory.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nf91rg/the_plutonium_rod_factory_is_completed/": [
+		{
+			"src": "https://i.redd.it/g0odqcttdvz61.png",
+			"alt": "5G antenna",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nfz5k6/making_a_cyberpunk_city_on_our_livestream_what_do/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/CdYHzXBAbaks6R2L2RV71v8P5lFWc-hVHSCTEVHqddo.jpg",
+			"alt": "Making a cyberpunk city on our Livestream. What do you guys think of the progress so far?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qmfvukhu21071.png",
+			"alt": "A View closer from the same side.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nihz26/nuclear_snowflake/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/FB3Ie77F2lvzd76FZkXvOuBVliqWZmpeLdDqkXnuUQw.jpg",
+			"alt": "Nuclear Snowflake",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/21gstjr05o071.jpg",
+			"alt": "Nuclear Snowflake",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nj6oyk/main_aluminum_factory_producing_120_alclad_sheets/": [
+		{
+			"src": "https://i.redd.it/4otmty7f4v071.png",
+			"alt": "South-West Facade",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/njiqyw/first_part_of_the_nuclear_power_plant_all_the_non/": [
+		{
+			"src": "https://preview.redd.it/rd3bdeyi2y071.jpg?width=640&crop=smart&auto=webp&s=05102efe964a19402809153e4ce4ecfdd05fc1f2",
+			"alt": "First part of the nuclear power plant - all the non radioactive production - all done!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rd3bdeyi2y071.jpg",
+			"alt": "First part of the nuclear power plant - all the non radioactive production - all done!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/njlize/the_monolith/": [
+		{
+			"src": "https://preview.redd.it/ywv5drbosy071.png?width=640&crop=smart&auto=webp&s=30f42d8661981a8b2eeb4ac7432093ff9905fa7f",
+			"alt": "The Monolith",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ywv5drbosy071.png",
+			"alt": "The Monolith",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ngbgbe/going_up_in_early_tier_3_to_get_coal_is_not_an/": [
+		{
+			"src": "https://preview.redd.it/4ctcisna14071.jpg?width=640&crop=smart&auto=webp&s=839f4fa9beaa359b5edef48eb171fae869d3c066",
+			"alt": "Going up in early tier 3 to get coal is not an easy task",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4ctcisna14071.jpg",
+			"alt": "Going up in early tier 3 to get coal is not an easy task",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nhb8k5/hallway_to_spicy_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/NgL3Raxv3wOAzyuPu49FYkefx2kZ2YAzQdVPHZicmEc.jpg",
+			"alt": "Hallway to Spicy Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/g2mf4psc9c071.png",
+			"alt": "Hallway to Spicy Factory",
+			"skip": false
+		}
 	]
 }
