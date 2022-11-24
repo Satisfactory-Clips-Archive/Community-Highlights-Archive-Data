@@ -792,5 +792,41 @@
 			"src": "https://pbs.twimg.com/media/E15_-Z0UYAQjEIL.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/Smerkin5000/status/1399433666191757318": [
+		{
+			"src": "https://pbs.twimg.com/media/E2vJXoVVcAQe4AN.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E2vJYdCVEAYFR5n.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/RunesunTV/status/1399349958902534147": [
+		{
+			"src": "https://pbs.twimg.com/media/E2t9Fw9XMAIDSnr.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/KleyLive/status/1398679513618423813": [
+		{
+			"src": "https://pbs.twimg.com/media/E2kZeKTXwAQwv3D.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E2kZeKVWQAM5fzr.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Tr1cky_zockt/status/1397173286786711553": [
+		{
+			"src": "https://pbs.twimg.com/media/E2PBTfUXoAIpL_6.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E2PBTheWEAkN1-6.jpg",
+			"skip": true
+		}
 	]
 }

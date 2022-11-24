@@ -3403,5 +3403,70 @@
 			"alt": "Hallway to Spicy Factory",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/np4ngv/his_name_is_jeff/": [
+		{
+			"src": "https://preview.redd.it/4bfbusjjug271.png?width=640&crop=smart&auto=webp&s=4dd353d1ea40d66ec1aa75870787d38376107f47",
+			"alt": "His name is Jeff.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4bfbusjjug271.png",
+			"alt": "His name is Jeff.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/npqx35/i_decided_to_use_drones_to_supply_my_warehouse/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/crMzDeDHKzIIMyH9Uugw0o9cT1prYh3zD5jWK4A7CkY.jpg",
+			"alt": "I decided to use drones to supply my warehouse!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1g7f62fatm271.png",
+			"alt": "View of my domain from the balcony! :D",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/r25f1gfatm271.png",
+			"alt": "48 Drone Ports - Bringing parts in from across the map",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nppyk5/1500_battery_per_minute_factory_made_in_vanilla/": [
+		{
+			"src": "https://i.redd.it/9op62bgkhm271.png",
+			"alt": "The artist also known as DrawingXaos",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/noehrg/i_love_the_canals_ive_seen_here_so_i_made_some_of/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/R4dJRNWbCgPV9gpVK2TywUgDLnbr39PDmnp2CEKiUHk.jpg",
+			"alt": "I love the canals I've seen here, so I made some of my own.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/b3bugg5z8a271.png",
+			"alt": "I love the canals I've seen here, so I made some of my own.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/brvzukuz8a271.png",
+			"alt": "I love the canals I've seen here, so I made some of my own.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/noxx6h/base_update_5_this_is_the_base_me_and_my_friend/": [
+		{
+			"src": "https://preview.redd.it/2egwpv6nve271.png?width=640&crop=smart&auto=webp&s=638c33d97d7b335e4bfc2709308520f38bf3f466",
+			"alt": "Base update #5: this is the base me and my friend created in 112 hours. We also now have nuclear energy so now i have tumors on 3 different parts of my body :).",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2egwpv6nve271.png",
+			"alt": "Base update #5: this is the base me and my friend created in 112 hours. We also now have nuclear energy so now i have tumors on 3 different parts of my body :).",
+			"skip": false
+		}
 	]
 }
