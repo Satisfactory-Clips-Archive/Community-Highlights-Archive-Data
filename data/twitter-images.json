@@ -828,5 +828,53 @@
 			"src": "https://pbs.twimg.com/media/E2PBTheWEAkN1-6.jpg",
 			"skip": true
 		}
+	],
+	"https://twitter.com/Catafly7/status/1400398797453205504": [
+		{
+			"src": "https://pbs.twimg.com/media/E283RJBVkAMHmrt.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E283RJbVgAEo7ue.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E283RJuUYAQKCkj.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Daddycr0n/status/1401894834781237259": [
+		{
+			"src": "https://pbs.twimg.com/media/E3SHqVxXoAEL9nT.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E3SHqVxX0AUejhV.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E3SHqV2XIAAyONH.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E3SHqV0WQAEosZe.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Smerkin5000/status/1401969153427140608": [
+		{
+			"src": "https://pbs.twimg.com/media/E3TLT0cVIAsDuK-.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E3TLUymVEAQjLvN.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/runestonegaming/status/1402086366603739138": [
+		{
+			"src": "https://pbs.twimg.com/media/E3U1-kLUYAIBUAV.jpg",
+			"skip": false
+		}
 	]
 }

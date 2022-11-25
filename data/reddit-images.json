@@ -3468,5 +3468,75 @@
 			"alt": "Base update #5: this is the base me and my friend created in 112 hours. We also now have nuclear energy so now i have tumors on 3 different parts of my body :).",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nra57r/the_fakoi_farm_is_finished_6_heater_filter_units/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/GsOGnMZWvUxvo_UL-D-X6bgSvTS58oe-VuqUYy64lmk.jpg",
+			"alt": "The Fakoi Farm is finished, 6 heater, filter units (2,250mw) and yes some of the fakoi (Factory Carts) do swim around. Making a video of it tonight",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/avg1rpdr11371.png",
+			"alt": "The Fakoi Farm is finished, 6 heater, filter units (2,250mw) and yes some of the fakoi (Factory Carts) do swim around. Making a video of it tonight",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/97k9g8u021371.png",
+			"alt": "The Fakoi Farm is finished, 6 heater, filter units (2,250mw) and yes some of the fakoi (Factory Carts) do swim around. Making a video of it tonight",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nqqpp7/modular_support_factory_design/": [
+		{
+			"src": "https://i.redd.it/v9njzj8iuv271.png",
+			"alt": "Modular single-product factory layout, 4 levels, 24 assemblers",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/56ehyg8iuv271.png",
+			"alt": "Factory is modular in that the top half is repeatable",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nrhrut/mining_a_cavern_for_quartz/": [
+		{
+			"src": "https://preview.redd.it/yn9r3umew2371.png?width=640&crop=smart&auto=webp&s=601ccb8f28d8d3def403ee861c83ce2f83cbc209",
+			"alt": "Mining a cavern for quartz!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yn9r3umew2371.png",
+			"alt": "Mining a cavern for quartz!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nr9mf9/usually_bad_at_organization_so_im_kinda_proud_of/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/bR0rQ20YO9iwlJ7y7Gq16C679NiLXCU4UIaO3VDp3eA.jpg",
+			"alt": "Usually bad at organization so I'm kinda proud of my 100GWh battery and 6 No-Waste nuclear reactors 😊",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/njmwbkqvv0371.png",
+			"alt": "Usually bad at organization so I'm kinda proud of my 100GWh battery and 6 No-Waste nuclear reactors 😊",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/w5rx1hjwv0371.png",
+			"alt": "Usually bad at organization so I'm kinda proud of my 100GWh battery and 6 No-Waste nuclear reactors 😊",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/npsjw0/happy_june_1st_here_are_some_satisfactory_pride/": [
+		{
+			"src": "https://i.redd.it/fxtu8gp6bn271.png",
+			"alt": "Pride factory",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/6e4d0l17bn271.png",
+			"alt": "Pride factory",
+			"skip": false
+		}
 	]
 }
