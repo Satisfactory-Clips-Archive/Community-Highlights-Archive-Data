@@ -3538,5 +3538,142 @@
 			"alt": "Pride factory",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nzjwr4/take_care_of_your_tractors_guys/": [
+		{
+			"src": "https://preview.redd.it/3glnr8ekm7571.jpg?width=640&crop=smart&auto=webp&s=783be097c9ae451c4f6ec66827df9dcb38e27c67",
+			"alt": "Take care of your tractors guys",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3glnr8ekm7571.jpg",
+			"alt": "Take care of your tractors guys",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nzownl/100_overclocked_nuclear_power_plants_0_waste/": [
+		{
+			"src": "https://i.redd.it/hqkxjkp7y8571.png",
+			"alt": "but how many billies/min",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nxc71b/the_plastic_factory_turns_a_little_ominous_at/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/moXnRMJ8B8Z49A47SOWJPMxLVGx8BksVdVwwzrnmxbs.jpg",
+			"alt": "The plastic factory turns a little ominous at night",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/prdin9ojzl471.png",
+			"alt": "6 floors, 1000 plastic, 200 rubber",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nzx320/i_made_a_nascart_track_you_got_it_nascart/": [
+		{
+			"src": "https://i.redd.it/13valpo5pa571.png",
+			"alt": "full vanilla, not a single mod !",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/1pmyw9o5pa571.png",
+			"alt": "look at those bleachers !",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/27gtoeo5pa571.png",
+			"alt": "the grid was really long to make",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nw5xxx/finished_my_first_layer_of_my_washing_machine_d/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/eZPTFiGDYJdMZrSgYIs9bkvayKPy4lwprbZAO173Qp8.jpg",
+			"alt": "Finished my first layer of my \"Washing Machine\" :D",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ucjicofixa471.jpg",
+			"alt": "Finished my first layer of my \"Washing Machine\" :D",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/tkbifrmmxa471.jpg",
+			"alt": "Finished my first layer of my \"Washing Machine\" :D",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/elpsxl2vxa471.jpg",
+			"alt": "Finished my first layer of my \"Washing Machine\" :D",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nxrld0/my_motors_production_building_trying_to_get/": [
+		{
+			"src": "https://preview.redd.it/r9q2836pmp471.jpg?width=640&crop=smart&auto=webp&s=38b82f7d388065271eeabd3212f5ec80d558c5ce",
+			"alt": "My motors production building - Trying to get something to look somewhat nice",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/r9q2836pmp471.jpg",
+			"alt": "My motors production building - Trying to get something to look somewhat nice",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ny0m86/fuel_build_jace_would_live_here/": [
+		{
+			"src": "https://preview.redd.it/ifqsipbh7s471.jpg?width=640&crop=smart&auto=webp&s=f5e94f47e65b3a1cad6163f6d66f97e82ba0386d",
+			"alt": "Fuel Build - Jace would live here!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ifqsipbh7s471.jpg",
+			"alt": "Fuel Build - Jace would live here!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ny8or4/bridge_just_a_bbridge/": [
+		{
+			"src": "https://i.redd.it/1z377av9mu471.png",
+			"alt": "Just a cool lookin bridge",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nx7j3b/im_pretty_happy_with_this_9x3x12_20min_modular/": [
+		{
+			"src": "https://preview.redd.it/bol3y4gdgk471.jpg?width=640&crop=smart&auto=webp&s=f6267275268f7cdc7b6048a9045134ae27271bfe",
+			"alt": "I’m pretty happy with this 9x3x12 (20/min) Modular Frame.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bol3y4gdgk471.jpg",
+			"alt": "I’m pretty happy with this 9x3x12 (20/min) Modular Frame.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nwtj60/riding_the_train_like_a_pro_one_way_to_get_them/": [
+		{
+			"src": "https://preview.redd.it/qwlwdd1j5h471.png?width=640&crop=smart&auto=webp&s=9fbb5a7cd260da9bb17dd103b32d17e33c27633e",
+			"alt": "Riding the train like a pro! One way to get them home!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qwlwdd1j5h471.png",
+			"alt": "Riding the train like a pro! One way to get them home!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/nwehqa/the_villians_power_lair/": [
+		{
+			"src": "https://preview.redd.it/d24cs31p3d471.jpg?width=640&crop=smart&auto=webp&s=e2f0ed7288a650b3bd9eb7b39605110effcba50a",
+			"alt": "The villians power lair.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d24cs31p3d471.jpg",
+			"alt": "The villians power lair.",
+			"skip": false
+		}
 	]
 }

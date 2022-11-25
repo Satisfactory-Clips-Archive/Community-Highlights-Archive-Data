@@ -244,5 +244,35 @@
 			"src": "https://img.youtube.com/vi/7xwrRY2imrU/hqdefault.jpg",
 			"skip": false
 		}
+	],
+	"https://www.youtube.com/watch?v=_OosGOGi99M": [
+		{
+			"src": "https://img.youtube.com/vi/_OosGOGi99M/hqdefault.jpg",
+			"skip": false
+		}
+	],
+	"https://www.youtube.com/watch?v=5Tu2HsXRQNg": [
+		{
+			"src": "https://img.youtube.com/vi/5Tu2HsXRQNg/hqdefault.jpg",
+			"skip": false
+		}
+	],
+	"https://www.youtube.com/watch?v=Wx41sMEH2i4": [
+		{
+			"src": "https://img.youtube.com/vi/Wx41sMEH2i4/hqdefault.jpg",
+			"skip": false
+		}
+	],
+	"https://www.youtube.com/watch?v=riAPgApH4JU": [
+		{
+			"src": "https://img.youtube.com/vi/riAPgApH4JU/hqdefault.jpg",
+			"skip": false
+		}
+	],
+	"https://www.youtube.com/watch?v=aTfHPvrGZmo": [
+		{
+			"src": "https://img.youtube.com/vi/aTfHPvrGZmo/hqdefault.jpg",
+			"skip": false
+		}
 	]
 }
