@@ -3794,5 +3794,17 @@
 			"alt": "Central Depths Nuclear Plant (Phase 1)",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/n9q9vk/i_found_a_cave_into_the_next_dimension/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/NqK7l3Dkatw03udlH8A0ZWpY47wiMNB-Wkyn_9QYGJM.jpg",
+			"alt": "I found a cave into the next dimension",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jvp23wcumfy61.jpg",
+			"alt": "Definetily not going in here",
+			"skip": false
+		}
 	]
 }
