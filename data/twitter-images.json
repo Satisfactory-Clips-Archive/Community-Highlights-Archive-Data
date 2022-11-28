@@ -910,5 +910,33 @@
 			"src": "https://pbs.twimg.com/media/E3g2OuqXwAMNPb8.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/Catafly7/status/1408626579324817410": [
+		{
+			"src": "https://pbs.twimg.com/media/E4xyVK5VkAMMK6m.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E4xyVK4VcAI4Jcn.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E4xyVLBVUAAgy-R.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Smerkin5000/status/1409583536168833025": [
+		{
+			"src": "https://pbs.twimg.com/media/E4_X8TqVIBoBNu5.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E4_X-KYVICouXuO.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E4_X-zhVIAMQrHX.jpg",
+			"skip": true
+		}
 	]
 }
