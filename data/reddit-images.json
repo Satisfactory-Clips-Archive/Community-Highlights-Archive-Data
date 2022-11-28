@@ -3675,5 +3675,124 @@
 			"alt": "The villians power lair.",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/o3vh9a/im_thinking_of_starting_a_cult/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/3lhDqJs27TAnyyCtT8FMbxu6_sp-kNUWsA_7BdjQ9wk.jpg",
+			"alt": "I'm thinking of starting a cult",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zjidl78gca671.png",
+			"alt": "I'm thinking of starting a cult",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/qpn35w5ezb671.png",
+			"alt": "I'm thinking of starting a cult",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/o2dz57/pride_power_tower/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/WCJBNdCqhfHdd8uEe41c0BSrwGANBkQZnrGPD3_nKSc.jpg",
+			"alt": "PRIDE power tower",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4nuc7vk9lx571.png",
+			"alt": "PRIDE power tower",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/6mx86l7alx571.png",
+			"alt": "PRIDE power tower",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/o25elz/my_new_pride_tower_with_train_elevator_entwined/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/x9jSty1dgL4MjePPbJCtEFRX3dJaJern30SgThnOets.jpg",
+			"alt": "My new PRIDE tower with train elevator & entwined spirals",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wawv9d4zlv571.jpg",
+			"alt": "My new PRIDE tower with train elevator & entwined spirals",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/iyq5td61mv571.jpg",
+			"alt": "My new PRIDE tower with train elevator & entwined spirals",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/o37grr/sometimes_the_tick_beast_wants_to_check_out_your/": [
+		{
+			"src": "https://preview.redd.it/byg1n5xq95671.png?width=640&crop=smart&auto=webp&s=ac84e9606657b3fba25ec876aa8bf36d0ef63bce",
+			"alt": "Sometimes the Tick Beast wants to check out your buildings too!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/byg1n5xq95671.png",
+			"alt": "Sometimes the Tick Beast wants to check out your buildings too!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/o3o17q/very_easy_2160_steel_ingots_minute_on_18_x_5/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/IiBk7F6e3oVrLPbqE9Q1wEOAohd9W-uGFiTyJYz1OMU.jpg",
+			"alt": "Very easy 2,160 steel ingots / minute on 18 x 5 - perfect balance but not for min maxer. Easy to load balance tho.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/uow7y2cty9671.jpg",
+			"alt": "Upper 2 floors are 18 foundries each with solid steel ingot. Bottom floor is 48 smelters. 12 smelters feed 9 foundries.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/o4dmkt/my_first_finished_factory_hmf/": [
+		{
+			"src": "https://i.redd.it/eefy07dg6h671.png",
+			"alt": "Most recent graduate from HMFU",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/eqji22cg6h671.png",
+			"alt": "Most recent graduate from HMFU",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/o4yt65/central_depths_nuclear_plant_phase_1/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/eSxhNmIyhYlF8HvNVs4w6-x90_QShbT1XW7VGqh4i6g.jpg",
+			"alt": "Central Depths Nuclear Plant (Phase 1)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/j37zacal7n671.jpg",
+			"alt": "Central Depths Nuclear Plant (Phase 1)",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/f1gz1d1t0n671.jpg",
+			"alt": "Central Depths Nuclear Plant (Phase 1)",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/k43lb81t0n671.jpg",
+			"alt": "Central Depths Nuclear Plant (Phase 1)",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/v9termcv7n671.jpg",
+			"alt": "Central Depths Nuclear Plant (Phase 1)",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/026ee53o0n671.jpg",
+			"alt": "Central Depths Nuclear Plant (Phase 1)",
+			"skip": false
+		}
 	]
 }
