@@ -938,5 +938,25 @@
 			"src": "https://pbs.twimg.com/media/E4_X-zhVIAMQrHX.jpg",
 			"skip": true
 		}
+	],
+	"https://twitter.com/BLAndrew575/status/1410835379419291650": [
+		{
+			"src": "https://pbs.twimg.com/media/E5RKclsXIAEy9mL.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/runestonegaming/status/1410362885411270656": [
+		{
+			"src": "https://pbs.twimg.com/media/E5Kdc9lVkAAQwWx.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E5KddvbUYAQrkVE.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E5KdfOQUcAAULe9.jpg",
+			"skip": false
+		}
 	]
 }

@@ -3944,5 +3944,97 @@
 			"alt": "Drone delivery",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/oc95qw/_/": [
+		{
+			"src": "https://preview.redd.it/5z5nu0ndns871.png?width=640&crop=smart&auto=webp&s=2569f8d4f5f0e98f632c18770089934e687c348a",
+			"alt": ":)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5z5nu0ndns871.png",
+			"alt": ":)",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/oc9r88/the_nuclear_power_plant_remodel_is_coming_along/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/yHR0Wcfcnq5C6qceiJmtE-dd2TeLNwB9XZdVAh7thlo.jpg",
+			"alt": "The Nuclear power plant remodel is coming along nicely. Hope i can get it out before update 5 lol",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zb7cindets871.png",
+			"alt": "The Nuclear power plant remodel is coming along nicely. Hope i can get it out before update 5 lol",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/q24jhzmhts871.png",
+			"alt": "The Nuclear power plant remodel is coming along nicely. Hope i can get it out before update 5 lol",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ocfsxn/when_your_base_becomes_more_awesome_when_get_back/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/6UktAdqbaECsDO9ZW3NY-X1CxOk0SqJ5yHlH0z8vCPg.jpg",
+			"alt": "When your base becomes more awesome when get back from gathering resources.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/k4voe2egbu871.png",
+			"alt": "When your base becomes more awesome when get back from gathering resources.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/oipfyvdgbu871.png",
+			"alt": "When your base becomes more awesome when get back from gathering resources.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/ayalurdgbu871.png",
+			"alt": "Hail to the Beaconut God !",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/od3ay4/nice/": [
+		{
+			"src": "https://preview.redd.it/mf943yr0h1971.png?width=640&crop=smart&auto=webp&s=2fe9e2e69569882c438545b9c9c1a47c00fc6ee0",
+			"alt": "Nice.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mf943yr0h1971.png",
+			"alt": "Nice.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/odlypz/nuclear_danger_sign_power_station/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/pME4i-6ks1ZJJFFxsgN2bdrrgRtaW4zrW6FQXI5QSFk.jpg",
+			"alt": "Nuclear Danger Sign Power Station",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9fs1kc3jl7971.png",
+			"alt": "Nuclear Danger Sign",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/wag0n6tjl7971.png",
+			"alt": "Nuclear Danger Sign Power Station",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/oagxam/the_beauty_of_satisfactory/": [
+		{
+			"src": "https://preview.redd.it/1nmpxs1zm9871.png?width=640&crop=smart&auto=webp&s=afdbc50b67a63ef77b58cdff01bcf21e63c920be",
+			"alt": "The Beauty Of Satisfactory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1nmpxs1zm9871.png",
+			"alt": "The Beauty Of Satisfactory",
+			"skip": false
+		}
 	]
 }
