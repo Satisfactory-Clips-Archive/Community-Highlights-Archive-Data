@@ -4036,5 +4036,126 @@
 			"alt": "The Beauty Of Satisfactory",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/oiz0f3/work_in_progress/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Q8g8wALqGVOBQBgnULGIMndgJnbZtFzDWmkD0ZX757c.jpg",
+			"alt": "Work in progress",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/a4qt4e3a7ua71.png",
+			"alt": "Work in progress",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/of4keg/double_helix_rails/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/QODifMXwCC9pYS5GJa3g4dni6RvWOC0wXrbVW1YzsgE.jpg",
+			"alt": "Double Helix Rails!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/i6irtu9stn971.jpg",
+			"alt": "Two spirals, of three and four foundation radii, spinning in opposite directions.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/4lw6k1ustn971.jpg",
+			"alt": "Location is between the Northern Coast and the Crater Lake.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/oj8e6x/me_corkscrew_rails_look_stupid_also_me/": [
+		{
+			"src": "https://preview.redd.it/f6dbu1xctwa71.png?width=640&crop=smart&auto=webp&s=33ad7ebf1ff4269609879f4a5880b673fcbd3313",
+			"alt": "Me: \"Corkscrew rails look stupid.\" Also me:",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/f6dbu1xctwa71.png",
+			"alt": "Me: \"Corkscrew rails look stupid.\" Also me:",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ofe2we/my_giga_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/h6mog0LUPWHen-TXsYUkPlnkKypl981sSifl2DC1AMU.jpg",
+			"alt": "My Giga Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/tycylxv7qq971.jpg",
+			"alt": "Older Picture, but clear frontside of factory. There's 15 floors, but not all of them are filled in/finished. I think it's around 200,000 foundations.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/jlu7cjw7qq971.jpg",
+			"alt": "Manufacturing and Aluminum processing. Also Blenders and Particle Accelerators are included.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/pmnck0w7qq971.jpg",
+			"alt": "Assembly floor. It's like Dexter's Laboratory.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/ewicpuv7qq971.jpg",
+			"alt": "Completed Factory (sort of). It's foggy. I only have one floor of each section set up. Takes a long time.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/of1bib/no_limit/": [
+		{
+			"src": "https://preview.redd.it/uqfifhb11n971.png?width=640&crop=smart&auto=webp&s=88e72feb06760fb0dea68ac5db277a33f6880050",
+			"alt": "NO LIMIT",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/uqfifhb11n971.png",
+			"alt": "NO LIMIT",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ofvfr5/finally_got_plutonium_production_up_and_running/": [
+		{
+			"src": "https://preview.redd.it/rs3nk4bupv971.png?width=640&crop=smart&auto=webp&s=b7d26fd1aa4be44c454be218453e951ef565f63d",
+			"alt": "Finally got plutonium production up and running",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rs3nk4bupv971.png",
+			"alt": "Finally got plutonium production up and running",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ohedne/just_perfect/": [
+		{
+			"src": "https://preview.redd.it/km3jmji9aca71.png?width=320&crop=smart&auto=webp&s=5dad0892235d1c05697de88e439e2388f30b9335",
+			"alt": "Just Perfect",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/km3jmji9aca71.png",
+			"alt": "Just Perfect",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/og54r1/a_classic_classic_half_vanilla_80h_to_build_140h/": [
+		{
+			"src": "https://i.redd.it/g8doi55v2z971.png",
+			"alt": "Caterina Parks' Office",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/42n61u6v2z971.png",
+			"alt": "Caterina Parks' Office",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/n9p6l65v2z971.png",
+			"alt": "Caterina Parks' Office",
+			"skip": false
+		}
 	]
 }

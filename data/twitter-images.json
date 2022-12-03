@@ -958,5 +958,39 @@
 			"src": "https://pbs.twimg.com/media/E5KdfOQUcAAULe9.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/BLAndrew575/status/1414787914618257410": [
+		{
+			"src": "https://pbs.twimg.com/media/E6JPt0TXIAA3xl0.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E6JPt0ZXoAAVzOw.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E6JPt0TXEAMZiEu.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/RespawnRepeat/status/1412704615573905410": [
+		{
+			"src": "https://pbs.twimg.com/media/E5ru8bSXIAsL1uS.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/vsbmeza3/status/1412799298694168578": [
+		{
+			"src": "https://pbs.twimg.com/media/E5tFYW0XwAYITOF.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E5tFYW0XMAclZ7x.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E5tFYXEWYAQ5z6K.jpg",
+			"skip": true
+		}
 	]
 }
