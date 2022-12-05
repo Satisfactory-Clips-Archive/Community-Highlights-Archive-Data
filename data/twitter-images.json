@@ -998,5 +998,43 @@
 			"src": "https://pbs.twimg.com/media/E3NXQjxXEAEV0ao.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/Tr1cky_zockt/status/1415991331059552256": [
+		{
+			"src": "https://pbs.twimg.com/media/E6acFOlWUAQCv4X.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/PerforatedS/status/1416534741793353741": [
+		{
+			"src": "https://pbs.twimg.com/media/E6iGyiWWYAYz5Qn.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E6iG0xOWUAYXxBA.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E6iKD_vWYAMccc5.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E6iKI6PX0AEP_t8.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/BLAndrew575/status/1416625531664150528": [
+		{
+			"src": "https://pbs.twimg.com/media/E6jaSSmXMAYB1Ra.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E6jaSSjXsAI-GgV.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E6jaWdOWQAg8GDP.jpg",
+			"skip": true
+		}
 	]
 }

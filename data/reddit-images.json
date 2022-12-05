@@ -4157,5 +4157,107 @@
 			"alt": "Caterina Parks' Office",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/onon9e/i_died_and_a_glitch_made_me_look_like_my_head_had/": [
+		{
+			"src": "https://preview.redd.it/p7h9kpvlu8c71.jpg?width=640&crop=smart&auto=webp&s=ad7e7006de1a0b35f343edfed8e49823f819fe61",
+			"alt": "I died and a glitch made me look like my head had a massive allergic reaction",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/p7h9kpvlu8c71.jpg",
+			"alt": "I died and a glitch made me look like my head had a massive allergic reaction",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/onnw9w/frutchys_beaver_factory/": [
+		{
+			"src": "https://i.redd.it/9t63mrs6l8c71.png",
+			"alt": "Many people have already seen it, but meet my beaver!",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/d88olss6l8c71.png",
+			"alt": "The inside is divided in 4 separate corners each making 1 item a minute",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/ocfcsis6l8c71.png",
+			"alt": "1 Assembly Director System, 1 Magnetic Field Generator, 1 Thermal Propulsion Rocket and 1 Nuclear Pasta per minute.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/onn4tw/tower_of_power/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/wCI4OwedgggK49gVbODl8JmyaDlR_xhz7iYKimJg598.jpg",
+			"alt": "Tower of Power",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bauy2vctg8c71.jpg",
+			"alt": "fully expandable",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/eifd44dtg8c71.jpg",
+			"alt": "indoor",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/v7ulsqctg8c71.jpg",
+			"alt": "love this piping concept",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ommw2x/my_sip_strip_for_my_40_nuclear_generators/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/GF1kYHjtnHOO3gIfEzYWqU2cAPdW2-99W_LXFFa0LZc.jpg",
+			"alt": "My \"sip strip\" for my 40 nuclear generators.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9yp63j1lpxb71.png",
+			"alt": "My \"sip strip\" for my 40 nuclear generators.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/d7rszvblpxb71.png",
+			"alt": "My \"sip strip\" for my 40 nuclear generators.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/9ro0y2aepxb71.png",
+			"alt": "My \"sip strip\" for my 40 nuclear generators.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/omfvqd/nuclear_plant_project_almost_complete/": [
+		{
+			"src": "https://i.redd.it/iagjezo75vb71.png",
+			"alt": "MORE POWER",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/ldtrnkl85vb71.png",
+			"alt": "MORE POWER",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/j83tbe695vb71.png",
+			"alt": "MORE POWER",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/oman2u/maybe_its_just_me_but_i_think_my_iron_factory/": [
+		{
+			"src": "https://preview.redd.it/cgs70hz4otb71.png?width=640&crop=smart&auto=webp&s=9f1ec87c7f323d2f8f4df316b3d74bd8303f608f",
+			"alt": "Maybe it's just me but I think my Iron factory looks really cool from this angle",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cgs70hz4otb71.png",
+			"alt": "Maybe it's just me but I think my Iron factory looks really cool from this angle",
+			"skip": false
+		}
 	]
 }
