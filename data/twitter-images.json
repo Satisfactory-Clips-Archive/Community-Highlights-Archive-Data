@@ -992,5 +992,11 @@
 			"src": "https://pbs.twimg.com/media/E5tFYXEWYAQ5z6K.jpg",
 			"skip": true
 		}
+	],
+	"https://twitter.com/Tr1cky_zockt/status/1401559899318988811": [
+		{
+			"src": "https://pbs.twimg.com/media/E3NXQjxXEAEV0ao.jpg",
+			"skip": false
+		}
 	]
 }
