@@ -1036,5 +1036,19 @@
 			"src": "https://pbs.twimg.com/media/E6jaWdOWQAg8GDP.jpg",
 			"skip": true
 		}
+	],
+	"https://twitter.com/DubiosDunsti/status/1417504477142294534": [
+		{
+			"src": "https://pbs.twimg.com/media/E6v8PYnXMAcTaz3.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E6v8Qr8XEAIX9Vm.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E6v8SGKWEAAgzjc.jpg",
+			"skip": false
+		}
 	]
 }

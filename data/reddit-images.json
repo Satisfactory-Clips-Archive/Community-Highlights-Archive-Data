@@ -4259,5 +4259,114 @@
 			"alt": "Maybe it's just me but I think my Iron factory looks really cool from this angle",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/vvo66a/to_kibitz_i_saw_my_tower_made_it_into_another_vid/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/w3h-33aDkpLWPFWwpJSvkRGzi0Yx_cJxI6Yt_i8hUXI.jpg",
+			"alt": "To Kibitz, I saw my tower made it into another vid =) Thought I share the progress on it so far.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/sg7nwj0mppa91.png",
+			"alt": "Before",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/oryku4/5600_silica_a_minute_build/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/qbC4b7CzsDnJB25DG77SAUV5POCY5RusK1ym0VAUKQo.jpg",
+			"alt": "5600 Silica a Minute Build",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ea32jnjo5kd71.jpg",
+			"alt": "This is what the silica factory looks like.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ortti1/hundreds_of_hours_in_and_im_still_loving_this_game/": [
+		{
+			"src": "https://i.redd.it/r18gopt3did71.png",
+			"alt": "Order and spaghet",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/nkw2oepsdid71.png",
+			"alt": "Order and spaghet",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/woyr3hrgdid71.png",
+			"alt": "Order and spaghet",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/owkeeu/solar_eclipse_but_reverse_literally_unplayable/": [
+		{
+			"src": "https://preview.redd.it/eyczubgukze71.png?width=640&crop=smart&auto=webp&s=90e4bfcd5a569a03be6df9725c20df3089986d5b",
+			"alt": "Solar eclipse but reverse, literally unplayable",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/eyczubgukze71.png",
+			"alt": "Solar eclipse but reverse, literally unplayable",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ov62x1/i_have_found_my_new_favourite_thing_to_make/": [
+		{
+			"src": "https://preview.redd.it/o060v138ije71.png?width=640&crop=smart&auto=webp&s=36e0fa627cb9e8e7e59383bdfebacae6278582d9",
+			"alt": "I have found my new favourite thing to make...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/o060v138ije71.png",
+			"alt": "I have found my new favourite thing to make...",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/owqdk3/600_sulfurmin_to_400_batteriesmin/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/ncYILDDiBv7Jqage9X6wetRU7309zPax7h4FKR_mQfI.jpg",
+			"alt": "600 sulfur/min to 400 batteries/min",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/t6c2d75nmze71.jpg",
+			"alt": "Overview, with mega battery",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/brk3o7vdnze71.jpg",
+			"alt": "View down the rows",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/hl18pfxk11f71.jpg",
+			"alt": "The mega battery jammed full of power storages",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/owkxu3/u4_done_40_thermal_propulsion_rocketsmin/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Pkr3ffJCVj2cxwrbQXN_HkkYg9W64d1-_K_VUTja_TI.jpg",
+			"alt": "u4 Done, 40 Thermal propulsion rockets/min.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/sei7pjpbpze71.jpg",
+			"alt": "u4 Done, 40 Thermal propulsion rockets/min.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/ulgoz8qfpze71.jpg",
+			"alt": "u4 Done, 40 Thermal propulsion rockets/min.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/413slp1uoze71.jpg",
+			"alt": "u4 Done, 40 Thermal propulsion rockets/min.",
+			"skip": false
+		}
 	]
 }
