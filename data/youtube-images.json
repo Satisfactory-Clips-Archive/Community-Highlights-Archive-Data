@@ -358,5 +358,53 @@
 			"src": "https://img.youtube.com/vi/wJUHyucTiuM/hqdefault.jpg",
 			"skip": false
 		}
+	],
+	"https://www.youtube.com/watch?v=ejFvm7ESxk0": [
+		{
+			"src": "https://img.youtube.com/vi/ejFvm7ESxk0/hqdefault.jpg",
+			"skip": false
+		}
+	],
+	"https://www.youtube.com/watch?v=UBj-gw_Jv_8": [
+		{
+			"src": "https://img.youtube.com/vi/UBj-gw_Jv_8/hqdefault.jpg",
+			"skip": false
+		}
+	],
+	"https://www.youtube.com/watch?v=K5YpKYuj2W0": [
+		{
+			"src": "https://img.youtube.com/vi/K5YpKYuj2W0/hqdefault.jpg",
+			"skip": false
+		}
+	],
+	"https://www.youtube.com/watch?v=_puACB8clXQ": [
+		{
+			"src": "https://img.youtube.com/vi/_puACB8clXQ/hqdefault.jpg",
+			"skip": false
+		}
+	],
+	"https://www.youtube.com/watch?v=JvloiZrUmgs": [
+		{
+			"src": "https://img.youtube.com/vi/JvloiZrUmgs/hqdefault.jpg",
+			"skip": false
+		}
+	],
+	"https://www.youtube.com/watch?v=1YsAHChZmrs": [
+		{
+			"src": "https://img.youtube.com/vi/1YsAHChZmrs/hqdefault.jpg",
+			"skip": false
+		}
+	],
+	"https://www.youtube.com/watch?v=RFBNUCRN7cE": [
+		{
+			"src": "https://img.youtube.com/vi/RFBNUCRN7cE/hqdefault.jpg",
+			"skip": false
+		}
+	],
+	"https://www.youtube.com/watch?v=ZSU4oJ2kpQs": [
+		{
+			"src": "https://img.youtube.com/vi/ZSU4oJ2kpQs/hqdefault.jpg",
+			"skip": false
+		}
 	]
 }

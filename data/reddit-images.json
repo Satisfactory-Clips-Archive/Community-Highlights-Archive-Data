@@ -4368,5 +4368,96 @@
 			"alt": "u4 Done, 40 Thermal propulsion rockets/min.",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ozqnrs/factory_cart_plinko/": [
+		{
+			"src": "https://external-preview.redd.it/PsvJ8ZuJun4RSKuUkMlzXwMaXXjQz23ivZ0jCCnncA0.png?width=640&crop=smart&auto=webp&s=b83230955f13e7a7fc6745224a645d5df5e982ac",
+			"alt": "Factory Cart Plinko",
+			"skip": true
+		},
+		{
+			"src": "https://v.redd.it/qts6yyh3uwf71/DASH_720.mp4@3.9",
+			"alt": "Factory Cart Plinko",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ox3f7c/uranium_fuel_rod_factory/": [
+		{
+			"src": "https://preview.redd.it/778u2s5n95f71.png?width=640&crop=smart&auto=webp&s=257eb0f442c90f8beb8332846b5aada01c33ecd3",
+			"alt": "Uranium Fuel Rod Factory.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/778u2s5n95f71.png",
+			"alt": "Uranium Fuel Rod Factory.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ozsrjw/dune_desert_changes_for_update_5_i_am_prepared/": [
+		{
+			"src": "https://i.redd.it/c6f90vu4oxf71.jpg",
+			"alt": "Update 5 ready",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/0zwlngg4oxf71.jpg",
+			"alt": "Update 5 ready",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/p16shc/a_new_record_214_billion_12_x_780_lines_of/": [
+		{
+			"src": "https://preview.redd.it/18f9k4e5gdg71.jpg?width=640&crop=smart&auto=webp&s=265c2f2258d9cd26eeb955b18ef500bc20c94c5f",
+			"alt": "A new record.. 2.14 Billion .. 12 x 780 lines of Thermal propulsion rockets..",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/18f9k4e5gdg71.jpg",
+			"alt": "A new record.. 2.14 Billion .. 12 x 780 lines of Thermal propulsion rockets..",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/p0kl8g/space_vegas_coming_soon_to_a_plant_near_you_just/": [
+		{
+			"src": "https://i.redd.it/uojclyihk6g71.png",
+			"alt": "Upping the ante",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ozybu2/i_made_a_7_to_9_load_balancer_for_all_the_bauxite/": [
+		{
+			"src": "https://i.redd.it/sofvo73b8zf71.png",
+			"alt": "Literally video game development",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/16lbpf3b8zf71.png",
+			"alt": "Literally video game development",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/p0ixpr/new_plastic_factory_multiplying_by_3_the_crude_oil/": [
+		{
+			"src": "https://preview.redd.it/6pnai53r56g71.png?width=640&crop=smart&auto=webp&s=4886e5ee19ae960f80070677862cabbf8d3dafb8",
+			"alt": "New plastic factory multiplying by 3 the crude oil",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6pnai53r56g71.png",
+			"alt": "New plastic factory multiplying by 3 the crude oil",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/p1jakx/harold_enjoying_the_sunset_and_pinin_for_the/": [
+		{
+			"src": "https://preview.redd.it/azx0s2al0hg71.jpg?width=640&crop=smart&auto=webp&s=ec65b28b2f54baf6107dbd29a54cddb699bdb2e3",
+			"alt": "Harold enjoying the sunset, and pinin' for the fjords",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/azx0s2al0hg71.jpg",
+			"alt": "Harold enjoying the sunset, and pinin' for the fjords",
+			"skip": false
+		}
 	]
 }
