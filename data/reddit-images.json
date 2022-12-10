@@ -4459,5 +4459,128 @@
 			"alt": "Harold enjoying the sunset, and pinin' for the fjords",
 			"skip": false
 		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/p3w7fl/its_not_a_bug_its_a_feature/": [
+		{
+			"src": "https://preview.redd.it/fhjt1cr2g7h71.png?width=640&crop=smart&auto=webp&s=3c0a0b9c3a470842ed8fadbad3fa679b7befb16f",
+			"alt": "It's not a bug, it's a feature!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fhjt1cr2g7h71.png",
+			"alt": "It's not a bug, it's a feature!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/p5lcnf/vanilla_factory_complex_update/": [
+		{
+			"src": "https://i.redd.it/e8owjb91erh71.jpg",
+			"alt": "Industrial revolution",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/uxi4wde1erh71.jpg",
+			"alt": "Industrial revolution",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/p20ajw/this_game_is_nuts/": [
+		{
+			"src": "https://i.redd.it/14198ups0mg71.png",
+			"alt": "I'm sure there's a system there",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/p4xltg/radio_control_units_done_1500_of_them_per_hour/": [
+		{
+			"src": "https://i.redd.it/n438f2ig1kh71.png",
+			"alt": "Factory resort",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/p45k93/this_had_to_be_done/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/TUr9eVtc6QzWQ6sq0_poSjs5e0OHuxQc82vrUt-yyR8.jpg",
+			"alt": "this had to be done..",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/q99qr6vytah71.jpg",
+			"alt": "this had to be done..",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/bbzwmgvytah71.jpg",
+			"alt": "this had to be done..",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/6wpxkdvytah71.jpg",
+			"alt": "this had to be done..",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/p3cro5/sometimes_this_game_is_more_art_than_logic/": [
+		{
+			"src": "https://preview.redd.it/6h1ywll9u0h71.png?width=640&crop=smart&auto=webp&s=4ffda380f90340cf74d5df71c44b75308fb1aae1",
+			"alt": "Sometimes this game is more art than logic",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6h1ywll9u0h71.png",
+			"alt": "Sometimes this game is more art than logic",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/p5o6dw/my_first_run_at_satisfactory_3d_prints/": [
+		{
+			"src": "https://external-preview.redd.it/a31Jf6WFoKv57--RxIBC355udr-O2OYKqRfXPt5G06A.jpg?width=640&crop=smart&auto=webp&s=e48cc1156e4b62938c17ad369a4dc4b83421b436",
+			"alt": "My first run at Satisfactory 3D prints",
+			"skip": true
+		},
+		{
+			"src": "https://i.imgur.com/suoaB9C.jpeg",
+			"alt": "My first run at Satisfactory 3D prints",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/p4k7uu/198_gw_diluted_fuel_power_plant/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/maxomwBD6LyOoOpSe93axTj8ryGlgedSLHnmgooAGwI.jpg",
+			"alt": "19.8 GW Diluted Fuel Power Plant",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kyziy6a9yeh71.jpg",
+			"alt": "External view on approach. Five floors, plus the roof. Produces 19.8 GW of power, as well as 25 fabric/min.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/1o5hgpa9yeh71.jpg",
+			"alt": "View of the refinery floor from operations. 40 refineries (@50%) cover crude oil to heavy oil residue. Resin is fed into 10 fabric refineries. 16 blenders producing diluted fuel.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/ssnb7ca9yeh71.jpg",
+			"alt": "One of two floors of 66 generators. Fuel pipes are ceiling mounted, and fed down into 3 sets of looping feed pipes. Ultimately, all the post-roof-buffer fuel system is connected.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/rhtepca9yeh71.jpg",
+			"alt": "Side fluid buffers for fuel. The bottom 3 are for crude oil. 30 x 100 MWh batteries.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/p58u4h/quick_update_on_the_train_tunnels_with_a/": [
+		{
+			"src": "https://i.redd.it/0xb4cujmbnh71.png",
+			"alt": "Chill train tunnel",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/71ovv0kmbnh71.png",
+			"alt": "Chill train tunnel",
+			"skip": false
+		}
 	]
 }
