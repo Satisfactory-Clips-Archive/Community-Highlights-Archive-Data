@@ -1120,5 +1120,25 @@
 			"src": "https://pbs.twimg.com/media/E82ANk3XsAcWouD.jpg",
 			"skip": false
 		}
+	],
+	"https://twitter.com/Catafly7/status/1425672807380226050": [
+		{
+			"src": "https://pbs.twimg.com/media/E8kB1HZVoAU_5pG.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Tr1cky_zockt/status/1428645512543150082": [
+		{
+			"src": "https://pbs.twimg.com/media/E9OLxbqWUAIpHfP.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E9OLx7tXoAMyyGG.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E9OLyTiWUAAGaEZ.jpg",
+			"skip": true
+		}
 	]
 }
