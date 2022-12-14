@@ -3028,6 +3028,18 @@
 			"skip": false
 		}
 	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/l3l14l/after_realizing_what_an_awful_mess_my_factory_is/": [
+		{
+			"src": "https://preview.redd.it/aq34kn2ng5d61.jpg?width=640&crop=smart&auto=webp&s=3c8caf9c96ff4f4eb04b719335d8db9aab7cf410",
+			"alt": "After realizing what an awful mess my factory is, decided to scrap everything and build a hub",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/aq34kn2ng5d61.jpg",
+			"alt": "After realizing what an awful mess my factory is, decided to scrap everything and build a hub",
+			"skip": false
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/l4wmeq/dont_ask_i_got_bored/": [
 		{
 			"src": "https://a.thumbs.redditmedia.com/qvPdiCLrp_OIbRHwVzMuDZbNl-YVa0cVhX-tvAUU1k8.jpg",

@@ -332,12 +332,18 @@
 			"04:04 DCDGaming99_reddit - Lost woods": {
 				"timestamp": 244,
 				"raw_text": "DCDGaming99_reddit - Lost woods",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					245
+				]
 			},
 			"26:43 Shalidor760 - Creator Highlight https://www.twitch.tv/Shalidor760": {
 				"timestamp": 1603,
 				"raw_text": "Shalidor760 - Creator Highlight https://www.twitch.tv/Shalidor760",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1634,
+					1649,
+					1665
+				]
 			}
 		}
 	},
@@ -346,52 +352,72 @@
 			"00:56 Claudius - open space nuclear power plant": {
 				"timestamp": 56,
 				"raw_text": "Claudius - open space nuclear power plant",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					57
+				]
 			},
 			"03:01 ĐØϾ - sleepy": {
 				"timestamp": 181,
 				"raw_text": "ĐØϾ - sleepy",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					182
+				]
 			},
 			"06:07 FalloutUniversity - conveyor belt go brrr": {
 				"timestamp": 367,
 				"raw_text": "FalloutUniversity - conveyor belt go brrr",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					368
+				]
 			},
 			"07:20 memories - dude where's my car?": {
 				"timestamp": 440,
 				"raw_text": "memories - dude where's my car?",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					441
+				]
 			},
 			"08:31 Nakarion - ready for that toilet DLC": {
 				"timestamp": 511,
 				"raw_text": "Nakarion - ready for that toilet DLC",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					512
+				]
 			},
 			"09:50 nick - it sees everything": {
 				"timestamp": 590,
 				"raw_text": "nick - it sees everything",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					591
+				]
 			},
 			"10:51 orina - Power plant in the lake": {
 				"timestamp": 651,
 				"raw_text": "orina - Power plant in the lake",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					652
+				]
 			},
-			"11:04 sledge4565 - stupid sexy Space Giraffe-Tick-Penguin-Whale Thing": {
-				"timestamp": 664,
+			"11:34 sledge4565 - stupid sexy Space Giraffe-Tick-Penguin-Whale Thing": {
+				"timestamp": 694,
 				"raw_text": "sledge4565 - stupid sexy Space Giraffe-Tick-Penguin-Whale Thing",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					695
+				]
 			},
 			"13:08 Tim - Epic Games new office": {
 				"timestamp": 788,
 				"raw_text": "Tim - Epic Games new office",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					789
+				]
 			},
 			"15:11 twombly - An art installation": {
 				"timestamp": 911,
 				"raw_text": "twombly - An art installation",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					912
+				]
 			}
 		}
 	},
@@ -400,22 +426,30 @@
 			"03:29 1Th3Gentl3man - Welcome to the coal side of the pillow": {
 				"timestamp": 209,
 				"raw_text": "1Th3Gentl3man - Welcome to the coal side of the pillow",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					210
+				]
 			},
 			"08:07 houghi - If you mug in the game you mug in real life": {
 				"timestamp": 487,
 				"raw_text": "houghi - If you mug in the game you mug in real life",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					488
+				]
 			},
 			"14:16 runestonegaming - This is what you see when you die": {
 				"timestamp": 856,
 				"raw_text": "runestonegaming - This is what you see when you die",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					857
+				]
 			},
-			"15:56 @Drawing Xaos - preach": {
+			"15:56 @DrawingXaos - preach": {
 				"timestamp": 956,
-				"raw_text": "@Drawing Xaos - preach",
-				"timestamps_for_links": []
+				"raw_text": "@DrawingXaos - preach",
+				"timestamps_for_links": [
+					957
+				]
 			}
 		}
 	},
@@ -424,31 +458,42 @@
 			"07:03 LetUsGameOPA - I don't want to talk about it": {
 				"timestamp": 423,
 				"raw_text": "LetUsGameOPA - I don't want to talk about it",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					424
+				]
 			},
 			"07:56 rancenstein - Beauty": {
 				"timestamp": 476,
 				"raw_text": "rancenstein - Beauty",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					477
+				]
 			}
 		}
 	},
 	"2021-02-16": {
 		"yt-NpUdY-CwEa8": {
-			"03:56 rancenstein - how it started": {
+			"03:56 rancenstein - how it started / how it's going": {
 				"timestamp": 236,
-				"raw_text": "rancenstein - how it started",
-				"timestamps_for_links": []
+				"raw_text": "rancenstein - how it started / how it's going",
+				"timestamps_for_links": [
+					237,
+					255
+				]
 			},
 			"07:17 kris - is a monstur!": {
 				"timestamp": 437,
 				"raw_text": "kris - is a monstur!",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					438
+				]
 			},
 			"08:14 Orange - vertigo": {
 				"timestamp": 494,
 				"raw_text": "Orange - vertigo",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					495
+				]
 			}
 		}
 	},
@@ -457,12 +502,16 @@
 			"12:09 itsjymmi - Don't throw rocks in glass houses": {
 				"timestamp": 729,
 				"raw_text": "itsjymmi - Don't throw rocks in glass houses",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					730
+				]
 			},
 			"13:13 runestonegaming - dream in 5x5": {
 				"timestamp": 793,
 				"raw_text": "runestonegaming - dream in 5x5",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					794
+				]
 			}
 		}
 	},
@@ -471,7 +520,10 @@
 			"01:49 LetUsGameOPA - Josh 2": {
 				"timestamp": 109,
 				"raw_text": "LetUsGameOPA - Josh 2",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					110,
+					134
+				]
 			}
 		}
 	},
@@ -480,21 +532,59 @@
 			"05:46 @Amelie of the Sea - tattoo idea idk wat you think": {
 				"timestamp": 346,
 				"raw_text": "@Amelie of the Sea - tattoo idea idk wat you think",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					350
+				]
 			},
 			"06:46 requiemsama - Artiste™": {
 				"timestamp": 406,
 				"raw_text": "requiemsama - Artiste™",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					409,
+					418,
+					427,
+					434
+				]
 			}
 		}
 	},
 	"2021-03-16": {
 		"yt-Gdz6SUv9Om4": {
-			"29:12 Braindg - Content Creator Highlight: Brain's Build Battle": {
+			"29:12 Braindg, TotalXclipse, Drawing Xaos, Frutchy, Its_BitZ, Eurymachus, Lolipopgi, Runestone Gaming, Beastlordius, dontpokejosh - Content Creator Highlight: Brain's Build Battle": {
 				"timestamp": 1752,
-				"raw_text": "Braindg - Content Creator Highlight: Brain's Build Battle",
-				"timestamps_for_links": []
+				"raw_text": "Braindg, TotalXclipse, Drawing Xaos, Frutchy, Its_BitZ, Eurymachus, Lolipopgi, Runestone Gaming, Beastlordius, dontpokejoshn - Content Creator Highlight: Brain's Build Battle",
+				"timestamps_for_links": [
+					1792,
+					1895,
+					1977,
+					2012,
+					2034,
+					2045,
+					2064,
+					2156,
+					2091,
+					2118,
+					2135,
+					2182,
+					3427,
+					3559,
+					3612,
+					3730,
+					3811,
+					3907,
+					3917.5,
+					3981,
+					4010,
+					4032.5,
+					4048,
+					4116,
+					4138,
+					4152,
+					4181,
+					4196,
+					4624,
+					4641
+				]
 			}
 		}
 	},
@@ -503,12 +593,16 @@
 			"01:06 Alex88FR - And it was all yellow": {
 				"timestamp": 66,
 				"raw_text": "Alex88FR - And it was all yellow",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					67
+				]
 			},
-			"17:19 Spankachu - tight setup Spankachu": {
+			"17:19 Spankachu - tight setup": {
 				"timestamp": 1039,
-				"raw_text": "Spankachu - tight setup Spankachu",
-				"timestamps_for_links": []
+				"raw_text": "Spankachu - tight setup",
+				"timestamps_for_links": [
+					1041
+				]
 			}
 		}
 	},
@@ -517,36 +611,48 @@
 			"13:14 Taco443322 - Lo-fi chilling": {
 				"timestamp": 794,
 				"raw_text": "Taco443322 - Lo-fi chilling",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					795
+				]
 			},
 			"17:12 It's Only Jill - Creator Highlight https://www.twitch.tv/itsonlyjill": {
 				"timestamp": 1032,
 				"raw_text": "It's Only Jill - Creator Highlight https://www.twitch.tv/itsonlyjill",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1078
+				]
 			}
 		}
 	},
 	"2021-04-13": {
 		"yt-cF3QleeEiJo": {
-			"31:49 AndersBlidberg - Train goes round and round": {
-				"timestamp": 1909,
+			"36:27 AndersBlidberg - Train goes round and round": {
+				"timestamp": 2187,
 				"raw_text": "AndersBlidberg - Train goes round and round",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2189
+				]
 			},
-			"45:17 Its_Bitz - Cooked to perfection": {
-				"timestamp": 2717,
+			"49:55 Its_Bitz - Cooked to perfection": {
+				"timestamp": 2995,
 				"raw_text": "Its_Bitz - Cooked to perfection",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3000
+				]
 			},
-			"49:29 Ipkone - Tower of power": {
-				"timestamp": 2969,
+			"54:07 Ipkone - Tower of power": {
+				"timestamp": 3247,
 				"raw_text": "Ipkone - Tower of power",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3249
+				]
 			},
-			"53:06 requiemsama - Architecture of the future": {
-				"timestamp": 3186,
+			"57:44 requiemsama - Architecture of the future": {
+				"timestamp": 3464,
 				"raw_text": "requiemsama - Architecture of the future",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3465
+				]
 			}
 		}
 	},
@@ -555,7 +661,14 @@
 			"18:02 It's Bitz - ENGINE UPGRADE!! | Satisfactory Part 5": {
 				"timestamp": 1082,
 				"raw_text": "It's Bitz - ENGINE UPGRADE!! | Satisfactory Part 5",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1110,
+					1114,
+					1117,
+					1120,
+					1127,
+					1147
+				]
 			}
 		}
 	},
@@ -564,7 +677,9 @@
 			"02:41 @Amelie of the Sea - King Kong is coming": {
 				"timestamp": 161,
 				"raw_text": "@Amelie of the Sea - King Kong is coming",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					162
+				]
 			}
 		}
 	},
@@ -590,22 +705,40 @@
 			}
 		}
 	},
+	"2021-05-25": {
+		"yt-p_bVdEITPFw": {
+			"29:40 maximum__underdrive - Creator Highlight": {
+				"timestamp": 1780,
+				"raw_text": "maximum__underdrive - Creator Highlight",
+				"timestamps_for_links": [
+					1824,
+					1888.7
+				]
+			}
+		}
+	},
 	"2021-06-29": {
 		"yt-MdIOZ-qp8j0": {
 			"04:05 Locutus_vonBORG - Sweet! I love Battlestar Galactica!": {
 				"timestamp": 245,
 				"raw_text": "Locutus_vonBORG - Sweet! I love Battlestar Galactica!",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					246
+				]
 			},
 			"07:44 One-Nature5951 - Send nudes": {
 				"timestamp": 464,
 				"raw_text": "One-Nature5951 - Send nudes",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					465
+				]
 			},
 			"14:42 Fizziberry - Creator Highlight https://www.twitch.tv/fizziberry": {
 				"timestamp": 882,
 				"raw_text": "Fizziberry - Creator Highlight https://www.twitch.tv/fizziberry",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					911
+				]
 			}
 		}
 	},
@@ -614,17 +747,25 @@
 			"04:17 HamisTV - Snutt lives here": {
 				"timestamp": 257,
 				"raw_text": "HamisTV - Snutt lives here",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					263
+				]
 			},
 			"05:49 Myst1c-Bull3t - Clean.": {
 				"timestamp": 349,
 				"raw_text": "Myst1c-Bull3t - Clean.",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					352
+				]
 			},
 			"15:12 vent-gaming - Trains 😍": {
 				"timestamp": 912,
 				"raw_text": "vent-gaming - Trains 😍",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					914,
+					935,
+					988
+				]
 			}
 		}
 	},
@@ -633,7 +774,11 @@
 			"01:03 HamisTv - Satisfactory Factory": {
 				"timestamp": 63,
 				"raw_text": "HamisTv - Satisfactory Factory",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					64,
+					104,
+					137
+				]
 			}
 		}
 	},
@@ -642,7 +787,9 @@
 			"09:51 Meganerd5000 - 100% Legal": {
 				"timestamp": 591,
 				"raw_text": "Meganerd5000 - 100% Legal",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					593
+				]
 			}
 		}
 	},
@@ -651,7 +798,10 @@
 			"10:55 One-Nature5951 - Satisfactory: Office Edition": {
 				"timestamp": 655,
 				"raw_text": "One-Nature5951 - Satisfactory: Office Edition",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					657,
+					686
+				]
 			}
 		}
 	},
@@ -660,7 +810,9 @@
 			"12:51 BAD_Rants - Lab 2(AB)b": {
 				"timestamp": 771,
 				"raw_text": "BAD_Rants - Lab 2(AB)b",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					776
+				]
 			}
 		}
 	},
@@ -669,7 +821,9 @@
 			"15:45 Unleased750 - Wish we had more power": {
 				"timestamp": 945,
 				"raw_text": "Unleased750 - Wish we had more power",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					946
+				]
 			}
 		}
 	}
