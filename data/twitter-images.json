@@ -11,6 +11,36 @@
 			"skip": false
 		}
 	],
+	"https://twitter.com/Jimbers76/status/1430942095322144769": [
+		{
+			"src": "https://pbs.twimg.com/media/E9u5718VIAkLkan.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E9u5730UYAA9YhR.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E9u575PUcAI4qe0.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E9u576RVcAEErJL.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/KleyLive/status/1434119655464001538": [
+		{
+			"src": "https://pbs.twimg.com/media/E-cEAq3XsAEIqu4.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/AL7AIR/status/1430962891465895937": [
+		{
+			"src": "https://pbs.twimg.com/media/E9vKol-XsAciYXX.jpg",
+			"skip": false
+		}
+	],
 	"https://twitter.com/Catafly7/status/1425672807380226050": [
 		{
 			"src": "https://pbs.twimg.com/media/E8kB1HZVoAU_5pG.jpg",

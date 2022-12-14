@@ -1,4 +1,16 @@
 {
+	"https://www.youtube.com/watch?v=grzwzYP1ceE": [
+		{
+			"src": "https://img.youtube.com/vi/grzwzYP1ceE/hqdefault.jpg",
+			"skip": false
+		}
+	],
+	"https://www.youtube.com/watch?v=MJ4kI0B3UG4": [
+		{
+			"src": "https://img.youtube.com/vi/MJ4kI0B3UG4/hqdefault.jpg",
+			"skip": false
+		}
+	],
 	"https://www.youtube.com/watch?v=xVVmTAZCHJU": [
 		{
 			"src": "https://img.youtube.com/vi/xVVmTAZCHJU/hqdefault.jpg",
