@@ -870,5 +870,19 @@
 				]
 			}
 		}
+	},
+	"2021-09-14": {
+		"yt-3qQMVAgdEvM": {
+			"26:26 @vsbmeza3 - https://www.youtube.com/c/vsbmeza3": {
+				"timestamp": 1586,
+				"raw_text": "@vsbmeza3 - https://www.youtube.com/c/vsbmeza3",
+				"timestamps_for_links": [
+					1624,
+					1635,
+					1651,
+					1675
+				]
+			}
+		}
 	}
 }

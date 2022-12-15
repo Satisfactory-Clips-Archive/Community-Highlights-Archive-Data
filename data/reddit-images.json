@@ -1,4 +1,100 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/pl7cxv/_/": [
+		{
+			"src": "https://preview.redd.it/wi430jd6sjm71.png?width=640&crop=smart&auto=webp&s=edc42435cbaae1722dac126fb7f961411f4f7940",
+			"alt": ":)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wi430jd6sjm71.png",
+			"alt": ":)",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/pligoz/almost_done_with_the_production_line_of_the/": [
+		{
+			"src": "https://preview.redd.it/hte5b56zlnm71.png?width=640&crop=smart&auto=webp&s=16fc2e7bf80c2f6a353fcdeebde869ceb0942461",
+			"alt": "Almost done with the production line of the nuclear plant",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hte5b56zlnm71.png",
+			"alt": "Almost done with the production line of the nuclear plant",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/pkf9re/here_is_an_update_on_this_sucker_been_going_a/": [
+		{
+			"src": "https://i.redd.it/qbc1o2qpfbm71.png",
+			"alt": "Big brother fuel generator ",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/pmtsia/tier_4_factory_modeled_after_the_louisiana_cancer/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/78CwfTeTwB6I12IFDcEdX6rrdL0xYjQmm7qWlnTBUj4.jpg",
+			"alt": "Tier 4 factory modeled after the Louisiana Cancer Research Center building.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vzga2yfb23n71.jpg",
+			"alt": "Tier 4 factory modeled after the Louisiana Cancer Research Center building.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/p7ki9yfb23n71.jpg",
+			"alt": "Tier 4 factory modeled after the Louisiana Cancer Research Center building.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/pnikws/copper_ingot_production_plant_3k_ingotsmin/": [
+		{
+			"src": "https://preview.redd.it/kebsqnnrnan71.jpg?width=640&crop=smart&auto=webp&s=0ccd29e2cf9f9c0d6bf62b91e4452edbe3d680f0",
+			"alt": "Copper ingot production plant! 3k ingots/min",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kebsqnnrnan71.jpg",
+			"alt": "Copper ingot production plant! 3k ingots/min",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/pmv6na/100000_mw_giga_battery/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/VRMmyliLFQDli7ojXPWiIq67a_EodurrEXeEZT6q_GA.jpg",
+			"alt": "100.000 MW GIGA Battery!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0midfp98g3n71.jpg",
+			"alt": "We build this 100.000 MW battery!!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/pn8tvc/fused_modular_frame_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/ia2nicQVdV0bKHLFwqW0-ia8dZ_aB1XipEsc87vVays.jpg",
+			"alt": "Fused Modular Frame Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qndxmkdnc7n71.jpg",
+			"alt": "FMF Factory Station - The other side",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/pndc65/atmospheric_shot_of_the_nuke_plant_i_posted/": [
+		{
+			"src": "https://preview.redd.it/mmffz3qk79n71.png?width=640&crop=smart&auto=webp&s=d653ed3c40e3ef5bcdd9192edc387cb73bc525b2",
+			"alt": "Atmospheric shot of the nuke plant I posted recently...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mmffz3qk79n71.png",
+			"alt": "Atmospheric shot of the nuke plant I posted recently...",
+			"skip": false
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/pgwrev/may_i_introduce_the_turbofuel_colosseum/": [
 		{
 			"src": "https://i.redd.it/9d9rkmxgf7l71.png",
