@@ -11,6 +11,30 @@
 			"skip": false
 		}
 	],
+	"https://twitter.com/PerforatedS/status/1439397021119549441": [
+		{
+			"src": "https://pbs.twimg.com/media/E_nDbmjXEAAkjPF.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Daddycr0n/status/1439906256538456065": [
+		{
+			"src": "https://pbs.twimg.com/media/E_uShlHXIAE36AE.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E_uShlHXMAE5boH.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E_uShlGXoAAm4NL.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/E_uShlzWYAIpWoD.jpg",
+			"skip": false
+		}
+	],
 	"https://twitter.com/BLAndrew575/status/1437294235850575872": [
 		{
 			"src": "https://pbs.twimg.com/media/E_JEP9KWYAEBmpU.jpg",
