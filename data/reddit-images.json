@@ -1,4 +1,137 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/q1ozfw/before_pics_prior_to_update_5/": [
+		{
+			"src": "https://i.redd.it/yixn2jeeqkr71.png",
+			"alt": "The current appearance of my copper factory",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/d9z0l6xkrkr71.png",
+			"alt": "Roof to be redone with new roof types",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/q1attn/blackbeach_oil_complex/": [
+		{
+			"src": "https://preview.redd.it/a89qqc2b1hr71.png?width=640&crop=smart&auto=webp&s=78bed358e63e798a82ed3ecf127f936dd38bd384",
+			"alt": "Blackbeach Oil Complex",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/a89qqc2b1hr71.png",
+			"alt": "Blackbeach Oil Complex",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/q0wf97/my_well_setup_turned_out_quite_well_you_can_say/": [
+		{
+			"src": "https://preview.redd.it/i9d1nl3afbr71.png?width=640&crop=smart&auto=webp&s=eb9c05d1e834156ce12c2597415faeac1499f2a9",
+			"alt": "My well setup turned out quite well; you can say the results were satisfactory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/i9d1nl3afbr71.png",
+			"alt": "My well setup turned out quite well; you can say the results were satisfactory",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/q0sy11/ancient_warehouse/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/nLVXusOOvdaE9egRmv6wxW3UdWcpz0k45I9hkp_yO8k.jpg",
+			"alt": "Ancient Warehouse",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qjjfqloxfbr71.jpg",
+			"alt": "Ancient Warehouse",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/7vaxhioxfbr71.jpg",
+			"alt": "Ancient Warehouse",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/nl4w7loxfbr71.jpg",
+			"alt": "Ancient Warehouse",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/q0q15e/my_goal_is_to_one_day_be_as_chaotic_as_lets_game/": [
+		{
+			"src": "https://external-preview.redd.it/7ONffAScFHadf5bkdeW_mvt2mwbwHyNII5-MySxlmRI.jpg?width=640&crop=smart&auto=webp&s=cbcc8a4e5822cb035e17834f5d6bf54f79b5cee0",
+			"alt": "My goal is to one day be as chaotic as Let's Game it Out",
+			"skip": true
+		},
+		{
+			"src": "https://i.uuid.rocks/vP2QnUQ9MUjxcrF9hzGXy6/organized.jpg",
+			"alt": "My goal is to one day be as chaotic as Let's Game it Out",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/q0p3u0/i_need_more_tunnel_pieces/": [
+		{
+			"src": "https://preview.redd.it/93fqb2xzfar71.png?width=640&crop=smart&auto=webp&s=51d888210eb0f3467766d883f3b49cbe6b0851b8",
+			"alt": "I need more tunnel pieces",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/93fqb2xzfar71.png",
+			"alt": "I need more tunnel pieces",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/q0szk7/coal_powah/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/OgmhCxb_bOFMbKm0AblVL3ehQjRHnpgigNWRm7gASXw.jpg",
+			"alt": "Coal Powah",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0sc764pzfbr71.png",
+			"alt": "20 coal gens per floor, 2 floors, 40 per tower. U5 ready!",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/342vaoj0gbr71.png",
+			"alt": "Coal Powah",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/q1czoj/its_certainly_not_pretty_but_after_4/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/2b-fZGagFPY6OtDpmZ4PT-bku8bJWzX5630THYffVN4.jpg",
+			"alt": "It's certainly not pretty, but after 4 error-correcting restarts and a solid 65 hours, my first nuclear plant seems stable! Really fun project, will never attempt again.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gwi3ar50ihr71.png",
+			"alt": "Top-level overview. If I ever tried this again, I would plan to better localize the radiation, almost none of this platform is safe.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/e5gv4u50ihr71.png",
+			"alt": "Never building another water extractor..until the next project.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/s152qq50ihr71.png",
+			"alt": "Didn't want to wait for a manifold to bring all the plants online, so each rod manufacturer gets its own belt to a power plant.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/q1dweh/jace_said_not_to_build_in_the_northern_forest/": [
+		{
+			"src": "https://i.redd.it/c3tlpn12qhr71.png",
+			"alt": "Overgrown base",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/riazjib3qhr71.png",
+			"alt": "Overgrown base",
+			"skip": false
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/pt0y7w/ah_yes_gotta_love_the_smell_of_burning_coal_in/": [
 		{
 			"src": "https://preview.redd.it/lkwio0o3szo71.png?width=640&crop=smart&auto=webp&s=308cdb29b32a16532e3ace5f1c687bfae5f2cbc7",
