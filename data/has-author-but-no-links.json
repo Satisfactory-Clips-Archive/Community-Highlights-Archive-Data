@@ -890,5 +890,30 @@
 				]
 			}
 		}
+	},
+	"2021-10-12": {
+		"yt-Km68GB4CSR0": {
+			"04:27 Smerkin5000 - Repurposing Hovrinskaya Hospital https://twitter.com/Smerkin5000/status/1447600601857024001": {
+				"timestamp": 267,
+				"raw_text": "Smerkin5000 - Repurposing Hovrinskaya Hospital https://twitter.com/Smerkin5000/status/1447600601857024001",
+				"timestamps_for_links": [
+					270
+				]
+			},
+			"13:08 balls_are_fat2 - #FreeTheManta https://www.reddit.com/r/SatisfactoryGame/comments/q2eqlv/ecofriendly_factory/": {
+				"timestamp": 788,
+				"raw_text": "balls_are_fat2 - #FreeTheManta https://www.reddit.com/r/SatisfactoryGame/comments/q2eqlv/ecofriendly_factory/",
+				"timestamps_for_links": [
+					879
+				]
+			},
+			"15:17 Aemon144 - Conquering the Rocky Desert https://www.reddit.com/r/SatisfactoryGame/comments/q3ffdn/rocky_desert_infrastructure/": {
+				"timestamp": 917,
+				"raw_text": "Aemon144 - Conquering the Rocky Desert https://www.reddit.com/r/SatisfactoryGame/comments/q3ffdn/rocky_desert_infrastructure/",
+				"timestamps_for_links": [
+					956
+				]
+			}
+		}
 	}
 }

@@ -11,6 +11,44 @@
 			"skip": false
 		}
 	],
+	"https://twitter.com/JuiceBoxesGamin/status/1447774493112426499": [
+		{
+			"src": "https://pbs.twimg.com/media/FBeGk4uWYAUzf7r.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FBeGk6TWYAAPEdp.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FBeGk7SXoAQF_UW.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FBeGk8AWUAQQRZ5.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Smerkin5000/status/1447600601857024001": [
+		{
+			"src": "https://pbs.twimg.com/media/FBboy-eVcAYI0k6.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FBbo0bqVIAY6DC3.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Skittishandbus/status/1446970591764910080": [
+		{
+			"src": "https://pbs.twimg.com/media/FBSsCp-UcAQ6Z5O.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FBSsCrEUYAEUc-Y.jpg",
+			"skip": false
+		}
+	],
 	"https://twitter.com/Tr1cky_zockt/status/1441169015351640074": [
 		{
 			"src": "https://pbs.twimg.com/media/FAAPeMvVkAgC-9w.jpg",
