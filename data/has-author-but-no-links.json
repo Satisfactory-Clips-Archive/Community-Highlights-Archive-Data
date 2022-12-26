@@ -933,5 +933,37 @@
 				]
 			}
 		}
+	},
+	"2021-10-26": {
+		"yt-Rumqu_lyapg": {
+			"47:46 isaywhatisay111 - Ceiling pipes ya know": {
+				"timestamp": 2866,
+				"raw_text": "isaywhatisay111 - Ceiling pipes ya know",
+				"timestamps_for_links": [
+					2872.624
+				]
+			},
+			"52:48 DoujinDev - Howl's Moving Factory": {
+				"timestamp": 3168,
+				"raw_text": "DoujinDev - Howl's Moving Factory",
+				"timestamps_for_links": [
+					3176.391
+				]
+			},
+			"53:56 duck1123 - gonna take you back to the past": {
+				"timestamp": 3236,
+				"raw_text": "duck1123 - gonna take you back to the past",
+				"timestamps_for_links": [
+					3239.825
+				]
+			},
+			"1:01:26 GrowlingStone - Silly explorer https://www.reddit.com/r/SatisfactoryGame/comments/qe2tof/my_explorer_hiding_after_tractor_crushed_in_it/": {
+				"timestamp": 3686,
+				"raw_text": "GrowlingStone - Silly explorer https://www.reddit.com/r/SatisfactoryGame/comments/qe2tof/my_explorer_hiding_after_tractor_crushed_in_it/",
+				"timestamps_for_links": [
+					3719.152
+				]
+			}
+		}
 	}
 }

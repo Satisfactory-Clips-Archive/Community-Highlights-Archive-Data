@@ -11,6 +11,22 @@
 			"skip": false
 		}
 	],
+	"https://twitter.com/Tr1cky_zockt/status/1452726888049356801": [
+		{
+			"src": "https://pbs.twimg.com/media/FCkeqXmX0AU7xQN.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FCkerzsXEAIPzqq.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Eurymachuss/status/1448621513851252736": [
+		{
+			"src": "https://pbs.twimg.com/media/FBqJllSX0AQYuV1.jpg",
+			"skip": false
+		}
+	],
 	"https://twitter.com/satiskopat/status/1448347167345844224": [
 		{
 			"src": "https://pbs.twimg.com/media/FBmPj0pXoAIcvBS.jpg",
