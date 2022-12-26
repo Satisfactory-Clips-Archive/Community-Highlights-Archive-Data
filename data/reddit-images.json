@@ -1,4 +1,91 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qafxnk/iron_giant/": [
+		{
+			"src": "https://preview.redd.it/jmiexfzp65u71.png?width=640&crop=smart&auto=webp&s=3caa361cc5d94ed4ac48bd29a0441795a5212d34",
+			"alt": "Iron Giant",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jmiexfzp65u71.png",
+			"alt": "Iron Giant",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qabldk/i_call_it_the_hypermanifold/": [
+		{
+			"src": "https://i.redd.it/vg01erylt3u71.png",
+			"alt": "Each layer is a unique item. Screws are needed in high amounts early on, so they get 3 dedicated lines, that quickly get used and reallocated.",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/8gqb2hznt3u71.png",
+			"alt": "Each line terminates at its own storage location consisting of 8 Industrial Storage Containers.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/q6f5g2/first_large_build_where_i_tried_to_fit_everything/": [
+		{
+			"src": "https://i.redd.it/d3457pcsgys71.png",
+			"alt": "HIGH FIVE BRO",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/qtklbewtgys71.png",
+			"alt": "HIGH FIVE BRO",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/q9ltys/spire_coast_fuel_spire/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/X1IZicrZ_gd2hVshJhL97upP-B0oQiczFlkbT-FntYw.jpg",
+			"alt": "Spire Coast Fuel Spire",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5sl80cq6zvt71.jpg",
+			"alt": "Main Crude pipeline",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/7cvtn2q6zvt71.jpg",
+			"alt": "Arena floor",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/q9ncex/aluminum_factory_with_silicafree_system_3600/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Gy0631hGT28jTUUztcqM4A_e4NCzgp-22j40MzWXOyw.jpg",
+			"alt": "Aluminum Factory with Silica-Free System™ - 3600 ingots/mn",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/39ncj709fwt71.jpg",
+			"alt": "Aluminum Factory with Silica-Free System™ - 3600 ingots/mn",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/olaxyqdefwt71.jpg",
+			"alt": "Aluminum Factory with Silica-Free System™ - 3600 ingots/mn",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qastjv/cliffside_factory_underway_tiers_16_all_ready_to/": [
+		{
+			"src": "https://i.redd.it/ov9hspvc59u71.png",
+			"alt": "Waterfall Factory",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/dc8ove4j59u71.png",
+			"alt": "Waterfall Factory",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/eo98ep1j59u71.png",
+			"alt": "Waterfall Factory",
+			"skip": false
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/q6dg14/a_little_production_line_but_on_conveyors/": [
 		{
 			"src": "https://external-preview.redd.it/8A541w5kgS9qrmFiRbo8sOkRoCawlW2yhTusEb6wICg.png?width=640&crop=smart&auto=webp&s=f394db6bd53baa139bc6fa651256ed81ff80e149",

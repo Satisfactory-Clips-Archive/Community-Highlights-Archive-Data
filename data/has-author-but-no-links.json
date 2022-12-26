@@ -915,5 +915,23 @@
 				]
 			}
 		}
+	},
+	"2021-10-19": {
+		"yt-_6REPij0bdU": {
+			"02:25 Providence - OSHA Approved": {
+				"timestamp": 145,
+				"raw_text": "Providence - OSHA Approved",
+				"timestamps_for_links": [
+					146
+				]
+			},
+			"14:15 K2Knockout - Manifold BONANZA https://www.reddit.com/r/SatisfactoryGame/comments/qabldk/i_call_it_the_hypermanifold/": {
+				"timestamp": 855,
+				"raw_text": "K2Knockout - Manifold BONANZA https://www.reddit.com/r/SatisfactoryGame/comments/qabldk/i_call_it_the_hypermanifold/",
+				"timestamps_for_links": [
+					914
+				]
+			}
+		}
 	}
 }

@@ -11,6 +11,48 @@
 			"skip": false
 		}
 	],
+	"https://twitter.com/satiskopat/status/1448347167345844224": [
+		{
+			"src": "https://pbs.twimg.com/media/FBmPj0pXoAIcvBS.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FBmPj0zXEAUpbqf.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FBmPj04X0AMH7gZ.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Nightwolfx03/status/1448550064209682433": [
+		{
+			"src": "https://pbs.twimg.com/media/FBpHcU0XMAMUNgr.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FBpHcU0WYAAC6pj.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FBpHcU3WYAAi7X2.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FBpIFtuXsAAY_hW.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/RTumbrink/status/1449849568405905410": [
+		{
+			"src": "https://pbs.twimg.com/media/FB7kzljXEAEMtC5.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FB7mBCDWEAIp3UB.jpg",
+			"skip": false
+		}
+	],
 	"https://twitter.com/JuiceBoxesGamin/status/1447774493112426499": [
 		{
 			"src": "https://pbs.twimg.com/media/FBeGk4uWYAUzf7r.jpg",
