@@ -1,4 +1,251 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qklold/pixel_art_update_5_thank_you_coffee_stain_studio/": [
+		{
+			"src": "https://i.redd.it/aps5b0mlc1x71.png",
+			"alt": "Night Train",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qi5wu2/your_ad_here/": [
+		{
+			"src": "https://i.redd.it/jwd46tn3vbw71.png",
+			"alt": "I'm having too much fun with the signs XD",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qgx6da/remembering_a_fallen_friend/": [
+		{
+			"src": "https://preview.redd.it/6qx7h30200w71.png?width=640&crop=smart&auto=webp&s=659f964dbe62486abc56d5baf4c889776de03575",
+			"alt": "Remembering a fallen friend",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6qx7h30200w71.png",
+			"alt": "Remembering a fallen friend",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qgxfpe/loving_signs_makes_storage_malls_looks_like/": [
+		{
+			"src": "https://preview.redd.it/hk6ps82320w71.jpg?width=640&crop=smart&auto=webp&s=177f1da70bc01066157ff40794558d86f85b4234",
+			"alt": "Loving signs. Makes storage malls looks like online shopping.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hk6ps82320w71.jpg",
+			"alt": "Loving signs. Makes storage malls looks like online shopping.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qgolw7/finally_covered_a_cave_thats_inside_one_of_my/": [
+		{
+			"src": "https://external-preview.redd.it/-uIAPi0N-juJNF4Hhc2HoHCDWAD2QBzJNARUwPGFOeM.jpg?width=640&crop=smart&auto=webp&s=50b688f5231c1cad6ab113d114635387a176ed26",
+			"alt": "Finally covered a cave that’s inside one of my factories",
+			"skip": true
+		},
+		{
+			"src": "https://i.imgur.com/oU3hj38.jpeg",
+			"alt": "Finally covered a cave that’s inside one of my factories",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qklkzs/stresstesting_clearance/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/uBOfVDN9XHsdfe0f0_qld_VxVAnLNUF8ubpS2PCMQ-o.jpg",
+			"alt": "Stress-testing clearance",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/e1hsn6eab1x71.png",
+			"alt": "Stress-testing clearance",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qjawcq/i_bet_you_didnt_know_that_pillars_could_be_placed/": [
+		{
+			"src": "https://preview.redd.it/mw1jmbipmnw71.png?width=640&crop=smart&auto=webp&s=4063c391d0bc32f01fbde9e9ea8c60ab140d6d2f",
+			"alt": "I bet you didn't know that pillars could be placed like this",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mw1jmbipmnw71.png",
+			"alt": "I bet you didn't know that pillars could be placed like this",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qisyud/literally_unplayable/": [
+		{
+			"src": "https://preview.redd.it/q1t6g2azaiw71.png?width=640&crop=smart&auto=webp&s=ffb5ba41e3639ce14684e2f035ece456c0b2d3e7",
+			"alt": "Literally Unplayable",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/q1t6g2azaiw71.png",
+			"alt": "Literally Unplayable",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qjekq9/literally_unplayable_going_back_to_stable_build/": [
+		{
+			"src": "https://preview.redd.it/1125iu6xnow71.jpg?width=640&crop=smart&auto=webp&s=35585b6c9d27458fb06aa7e913e35ac0fa59ce21",
+			"alt": "Literally unplayable. Going back to stable build",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1125iu6xnow71.jpg",
+			"alt": "Literally unplayable. Going back to stable build",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qk661t/days_since_last_accident/": [
+		{
+			"src": "https://preview.redd.it/qg5ckj44tww71.png?width=640&crop=smart&auto=webp&s=0fc917795bd42425d00ddf9cd62c78e2054107e4",
+			"alt": "Days Since Last Accident",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qg5ckj44tww71.png",
+			"alt": "Days Since Last Accident",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qil1a5/ecofactory/": [
+		{
+			"src": "https://preview.redd.it/2izj5uev2gw71.jpg?width=640&crop=smart&auto=webp&s=b817f964a269bd8cc46459f5675af793163d1f8c",
+			"alt": "Ecofactory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2izj5uev2gw71.jpg",
+			"alt": "Ecofactory",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qievpp/the_new_parts_are_amazing/": [
+		{
+			"src": "https://preview.redd.it/j6s7w3rvmew71.png?width=640&crop=smart&auto=webp&s=393adc23bd375ee092588230161b17168c212044",
+			"alt": "The new parts are amazing!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/j6s7w3rvmew71.png",
+			"alt": "The new parts are amazing!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qgl7oq/making_sure_the_storage_is_properly_labeled/": [
+		{
+			"src": "https://preview.redd.it/zq6qwmbm9wv71.png?width=640&crop=smart&auto=webp&s=9079b6e63a0f165e65b4e35282bdb73ad582083b",
+			"alt": "Making sure the storage is properly labeled",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zq6qwmbm9wv71.png",
+			"alt": "Making sure the storage is properly labeled",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qhuv8j/just_got_done_mobbing_the_factory_floor/": [
+		{
+			"src": "https://preview.redd.it/ku988vw0v8w71.png?width=640&crop=smart&auto=webp&s=c2b6b70fc5e81f403aaef8c9b481ea5f0c570e4e",
+			"alt": "Just got done mobbing the factory floor.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ku988vw0v8w71.png",
+			"alt": "Just got done mobbing the factory floor.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qjzxaa/friend_dont_kill_our_power_with_your_new_factory/": [
+		{
+			"src": "https://preview.redd.it/4ov3031qzuw71.png?width=640&crop=smart&auto=webp&s=bca55ebeab72c94f2bc1ff0e2ba6edca6c3e0c37",
+			"alt": "Friend: \"Don't kill our power with your new factory\". Me & my factory one day later:",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4ov3031qzuw71.png",
+			"alt": "Friend: \"Don't kill our power with your new factory\". Me & my factory one day later:",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qhgd1f/the_heart_emote_has_an_interesting_secondary_use/": [
+		{
+			"src": "https://preview.redd.it/fki16ff9t4w71.png?width=640&crop=smart&auto=webp&s=49c4d00f2626f5de694fbcdfb4959c5ce389bac1",
+			"alt": "The heart emote has an interesting secondary use 😂",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fki16ff9t4w71.png",
+			"alt": "The heart emote has an interesting secondary use 😂",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qhslux/little_buffer_design_i_came_up_with_for_my_train/": [
+		{
+			"src": "https://preview.redd.it/bnx5c23wb8w71.png?width=640&crop=smart&auto=webp&s=502fd58fe5b0f48e6dc6a7bd94b3172118c1be5f",
+			"alt": "Little buffer design I came up with for my train stops",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bnx5c23wb8w71.png",
+			"alt": "Little buffer design I came up with for my train stops",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qhozl8/we_need_power_towers_like_this/": [
+		{
+			"src": "https://i.redd.it/324uwbi6h7w71.png",
+			"alt": "Neat power pole concept",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qhfgzs/my_first_beam_bridge/": [
+		{
+			"src": "https://i.redd.it/jlzijc0nh4w71.png",
+			"alt": "BEAMS",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qkp695/having_tons_of_fun_with_update_5/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/FHZ9fwnQGlZ-mz6dN6Z2lud-rK3E__gpIDlUjQ3WR3E.jpg",
+			"alt": "Having tons of fun with Update 5",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/q6czxd5t32x71.jpg",
+			"alt": "Inspired by concept art by Ben Andrews http://benandrewsart.com/project",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/363f775t32x71.jpg",
+			"alt": "Having tons of fun with Update 5",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/md88gb5t32x71.jpg",
+			"alt": "Having tons of fun with Update 5",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/ajvaxh5t32x71.jpg",
+			"alt": "Having tons of fun with Update 5",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qgmou6/update_5_is_bizarre/": [
+		{
+			"src": "https://preview.redd.it/d5gomn0howv71.jpg?width=640&crop=smart&auto=webp&s=b4d108ae26ba6d0889206e41ffe1fad6914dcdfe",
+			"alt": "Update 5 is Bizarre",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d5gomn0howv71.jpg",
+			"alt": "Update 5 is Bizarre",
+			"skip": false
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/qfjoxb/_/": [
 		{
 			"src": "https://preview.redd.it/4qtt2e62bmv71.png?width=640&crop=smart&auto=webp&s=3efff8830e6e3694a0f565a3484a47bfc1c44144",

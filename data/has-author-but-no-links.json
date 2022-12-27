@@ -891,6 +891,53 @@
 			}
 		}
 	},
+	"2021-10-02": {
+		"yt-bvF8vn_7UCw": {
+			"11:30 Aemon144 - Been busy": {
+				"timestamp": 690,
+				"raw_text": "Aemon144 - Been busy",
+				"timestamps_for_links": [
+					692,
+					767
+				]
+			},
+			"13:46 Nextrix - BUY BUY BUY": {
+				"timestamp": 826,
+				"raw_text": "Nextrix - BUY BUY BUY",
+				"timestamps_for_links": [
+					827,
+					856,
+					877
+				]
+			},
+			"16:05 sproutthesprout - Top-tier Satisfactory RP": {
+				"timestamp": 965,
+				"raw_text": "sproutthesprout - Top-tier Satisfactory RP",
+				"timestamps_for_links": [
+					969,
+					991
+				]
+			},
+			"20:17 TheAirbornePasta - Hexagons are the Bestagons": {
+				"timestamp": 1217,
+				"raw_text": "TheAirbornePasta - Hexagons are the Bestagons",
+				"timestamps_for_links": [
+					1222
+				]
+			},
+			"33:20 Yarelsek - Where Power Shards are made": {
+				"timestamp": 2000,
+				"raw_text": "Yarelsek - Where Power Shards are made",
+				"timestamps_for_links": [
+					2002,
+					2067.61,
+					2068.1,
+					2072,
+					2092
+				]
+			}
+		}
+	},
 	"2021-10-12": {
 		"yt-Km68GB4CSR0": {
 			"04:27 Smerkin5000 - Repurposing Hovrinskaya Hospital https://twitter.com/Smerkin5000/status/1447600601857024001": {
@@ -962,6 +1009,59 @@
 				"raw_text": "GrowlingStone - Silly explorer https://www.reddit.com/r/SatisfactoryGame/comments/qe2tof/my_explorer_hiding_after_tractor_crushed_in_it/",
 				"timestamps_for_links": [
 					3719.152
+				]
+			}
+		}
+	},
+	"2021-11-02": {
+		"yt-bvF8vn_7UCw": {
+			"13:46 Nextrix - BUY BUY BUY": {
+				"timestamp": 826,
+				"raw_text": "Nextrix - BUY BUY BUY",
+				"timestamps_for_links": [
+					828.96,
+					856.766,
+					877.26
+				]
+			},
+			"15:13 K2Knockout - RIP https://www.reddit.com/r/SatisfactoryGame/comments/qgx6da/remembering_a_fallen_friend/": {
+				"timestamp": 913,
+				"raw_text": "K2Knockout - RIP https://www.reddit.com/r/SatisfactoryGame/comments/qgx6da/remembering_a_fallen_friend/",
+				"timestamps_for_links": [
+					933.04
+				]
+			},
+			"16:05 sproutthesprout - Top-tier Satisfactory RP": {
+				"timestamp": 965,
+				"raw_text": "sproutthesprout - Top-tier Satisfactory RP",
+				"timestamps_for_links": [
+					968.034,
+					991.072
+				]
+			},
+			"20:17 TheAirbornePasta - Hexagons are the Bestagons": {
+				"timestamp": 1217,
+				"raw_text": "TheAirbornePasta - Hexagons are the Bestagons",
+				"timestamps_for_links": [
+					1223.202
+				]
+			},
+			"32:23 Xenocles - BEAMS https://www.reddit.com/r/SatisfactoryGame/comments/qhfgzs/my_first_beam_bridge/": {
+				"timestamp": 1943,
+				"raw_text": "Xenocles - BEAMS https://www.reddit.com/r/SatisfactoryGame/comments/qhfgzs/my_first_beam_bridge/",
+				"timestamps_for_links": [
+					2130.725
+				]
+			},
+			"33:20 Yarelsek - Where Power Shards are made": {
+				"timestamp": 2000,
+				"raw_text": "Yarelsek - Where Power Shards are made",
+				"timestamps_for_links": [
+					2002,
+					2067.61,
+					2068.1,
+					2072,
+					2092
 				]
 			}
 		}
