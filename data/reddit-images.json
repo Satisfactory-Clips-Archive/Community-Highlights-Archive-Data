@@ -1,4 +1,47 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qibamz/doggo_habitat_finished_it_even_has_security/": [
+		{
+			"src": "https://i.redd.it/pswm33mjqdw71.png",
+			"alt": "Entry: $10",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qj3saw/update_5_is_incredible_i_love_these_angular_build/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/yG4tRz7Zaf271GfaNrkaZr_iXPe936fr8TGUVtpw5NQ.jpg",
+			"alt": "Update 5 is incredible! I love these angular build pieces!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/01cxeudmvlw71.png",
+			"alt": "Somes Shots of my base - I've attached a video guide on some of the cool new tips I've used below https://www.youtube.com/watch?v=fIzUdP1gQYs",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qkfm4g/thank_you_coffee_stain_for_update_5/": [
+		{
+			"src": "https://preview.redd.it/9iplop0oyzw71.jpg?width=640&crop=smart&auto=webp&s=a77e712e2cdaa89c973dffb26837bb69e2dae193",
+			"alt": "Thank you Coffee Stain for update 5!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9iplop0oyzw71.jpg",
+			"alt": "Thank you Coffee Stain for update 5!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/qjpqbf/thanks_for_complex_clearance_this_makes_early/": [
+		{
+			"src": "https://preview.redd.it/fw75k56wgsw71.png?width=640&crop=smart&auto=webp&s=06f8be63c4115f1de1743fdcc5db9b0e076a453c",
+			"alt": "Thanks for complex clearance! This makes early game coal powerplant so neat! Thanks Jace, helps a lot! (This is how you setup coal power Snutt btw... XD)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fw75k56wgsw71.png",
+			"alt": "Thanks for complex clearance! This makes early game coal powerplant so neat! Thanks Jace, helps a lot! (This is how you setup coal power Snutt btw... XD)",
+			"skip": false
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/qklold/pixel_art_update_5_thank_you_coffee_stain_studio/": [
 		{
 			"src": "https://i.redd.it/aps5b0mlc1x71.png",

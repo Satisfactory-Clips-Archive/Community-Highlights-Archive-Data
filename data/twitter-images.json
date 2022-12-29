@@ -11,6 +11,62 @@
 			"skip": false
 		}
 	],
+	"https://twitter.com/Eurymachuss/status/1454228680612401155": [
+		{
+			"src": "https://pbs.twimg.com/media/FC50mSsWYAgV1-F.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FC50oyMXsAE45EG.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FC50qDJWUAAR10d.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/itsjymmi/status/1454785042211815429": [
+		{
+			"src": "https://pbs.twimg.com/media/FDBt2N2XoAQ6rky.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FDBt41DWQAAIM1P.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FDBunyVX0AI63Ec.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/itsjymmi/status/1454162023873458176": [
+		{
+			"src": "https://pbs.twimg.com/media/FC44PA0WQBENWv6.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FC44RMcWQAA5WL7.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Daddycr0n/status/1455132025032253443": [
+		{
+			"src": "https://pbs.twimg.com/media/FDGjI5MXEAQ_i45.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FDGpLRDWQAEV0gK.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FDGqfoJWQAEZBDA.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FDGqfohWEAIuCbR.jpg",
+			"skip": true
+		}
+	],
 	"https://twitter.com/Tr1cky_zockt/status/1452726888049356801": [
 		{
 			"src": "https://pbs.twimg.com/media/FCkeqXmX0AU7xQN.jpg",
