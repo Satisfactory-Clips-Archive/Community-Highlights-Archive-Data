@@ -1065,5 +1065,23 @@
 				]
 			}
 		}
+	},
+	"2021-11-09": {
+		"yt-6aDhBTDRx6k": {
+			"07:05 CarlRoy74 - NANI?!?!": {
+				"timestamp": 425,
+				"raw_text": "CarlRoy74 - NANI?!?!",
+				"timestamps_for_links": [
+					437
+				]
+			},
+			"19:24 @blastroid7444 - Content Creator Highlight — original video no longer available https://www.youtube.com/watch?v=N6NWKMNWdqk": {
+				"timestamp": 1164,
+				"raw_text": "@blastroid7444 - Content Creator Highlight — original video no longer available https://www.youtube.com/watch?v=N6NWKMNWdqk",
+				"timestamps_for_links": [
+					1181
+				]
+			}
+		}
 	}
 }

@@ -11,6 +11,32 @@
 			"skip": false
 		}
 	],
+	"https://twitter.com/Aleg8r/status/1457784344248913923": [
+		{
+			"src": "https://pbs.twimg.com/media/FDsXBgpVcAY0uPS.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FDsXCZkVkA0lrXI.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FDsXDZEVEAMQ2MO.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/AxialC44/status/1457901421916008449": [
+		{
+			"src": "https://pbs.twimg.com/media/FDuBhHUXIAYxAqh.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/binkieboo666/status/1457461547664556035": [
+		{
+			"src": "https://pbs.twimg.com/media/FDnxi7aWUAY2jPp.jpg",
+			"skip": false
+		}
+	],
 	"https://twitter.com/Eurymachuss/status/1454228680612401155": [
 		{
 			"src": "https://pbs.twimg.com/media/FC50mSsWYAgV1-F.jpg",
