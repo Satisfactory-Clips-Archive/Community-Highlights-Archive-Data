@@ -11,6 +11,40 @@
 			"skip": false
 		}
 	],
+	"https://twitter.com/dc_wan_kenobi/status/1460005361805635585": [
+		{
+			"src": "https://pbs.twimg.com/media/FEL5kRpXEAUCCfA.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FEL50prWQAUSG0C.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FEL529tXoAMtNNr.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/dkarzon/status/1458383555411599361": [
+		{
+			"src": "https://pbs.twimg.com/media/FD034fAVQAg054Y.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FD04BG-UcAEk9FJ.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FD04ErOVUAIjxDF.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/dkarzon/status/1458383972828913671": [
+		{
+			"src": "https://pbs.twimg.com/media/FD04dNDVcAUner3.png",
+			"skip": false
+		}
+	],
 	"https://twitter.com/Aleg8r/status/1457784344248913923": [
 		{
 			"src": "https://pbs.twimg.com/media/FDsXBgpVcAY0uPS.jpg",
