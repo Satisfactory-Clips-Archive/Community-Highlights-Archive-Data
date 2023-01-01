@@ -9,7 +9,6 @@
 			"type": "object",
 			"required": [
 				"src",
-				"alt",
 				"skip"
 			],
 			"properties": {
