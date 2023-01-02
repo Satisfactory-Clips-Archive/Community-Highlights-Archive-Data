@@ -11,6 +11,62 @@
 			"skip": false
 		}
 	],
+	"https://twitter.com/ambertalamasca/status/1463482892101820421": [
+		{
+			"src": "https://pbs.twimg.com/media/FE9UdghXIAElmcF.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FE9UeFpWQAMlaeN.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FE9UuIxWUAIHEh7.png",
+			"skip": false
+		}
+	],
+	"https://twitter.com/AxialC44/status/1465407014838972424": [
+		{
+			"src": "https://pbs.twimg.com/media/FFYro4LXoAQxU97.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/dupomat/status/1465335944224165894": [
+		{
+			"src": "https://pbs.twimg.com/media/FFXrGzoXoAM1dKA.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FFXrKxrXwAgTDIG.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FFXrOr8XEAIA6SH.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Jimbers76/status/1464458318722715656": [
+		{
+			"src": "https://pbs.twimg.com/media/FFLNBLmVkAEUpt5.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FFLNBLmVEAU7aRy.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/KismetBP/status/1463885499622309888": [
+		{
+			"src": "https://pbs.twimg.com/media/FFDDKhAXsAsqpue.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Total_Xclipse/status/1465530348691984387": [
+		{
+			"src": "https://pbs.twimg.com/media/FFabti0WYAEkiFz.jpg",
+			"skip": false
+		}
+	],
 	"https://twitter.com/Minipasglop1/status/1458953509722804232": [
 		{
 			"src": "https://pbs.twimg.com/media/FD8-XvwXoAsBP44.jpg",
