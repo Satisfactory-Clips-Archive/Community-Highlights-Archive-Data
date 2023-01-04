@@ -11,6 +11,94 @@
 			"skip": false
 		}
 	],
+	"https://twitter.com/itsjymmi/status/1467840778664054785": [
+		{
+			"src": "https://pbs.twimg.com/media/FF7Oko5XMAQ5fiu.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FF7OtOVXIAEYlRm.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FF7OwRHX0AMoRQn.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FF7OxbiXsAEC0Zm.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Tr1cky_zockt/status/1465656367004495873": [
+		{
+			"src": "https://pbs.twimg.com/media/FFcOGVsWYAEbbdd.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FFcOHVJXoAgKmhE.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FFcOIfnXwAYHEYN.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FFcOI72WQAQ03i3.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Eelyen/status/1466672392839782402": [
+		{
+			"src": "https://pbs.twimg.com/media/FFqqnxUXIAU3LbA.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FFqqrI3XsAEEEeZ.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FFqqtnoWQAAB-h0.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Daddycr0n/status/1466426063081414661": [
+		{
+			"src": "https://pbs.twimg.com/media/FFnGSh1WYAkIM7V.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FFnH4j9XEAkepm1.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/blidis_a/status/1468148217854537731": [
+		{
+			"src": "https://pbs.twimg.com/media/FF_pA5jXsAQx8fL.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FF_pBQuWQAAfEIv.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Greygal__Eve/status/1468196562031370242": [
+		{
+			"src": "https://pbs.twimg.com/media/FGAUsAlUcAAg9Q4.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FGAU0MjVkAQXmx6.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FGAU5AkUYAA0B2O.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FGAU8RHVIAIGLma.jpg",
+			"skip": true
+		}
+	],
 	"https://twitter.com/ambertalamasca/status/1463482892101820421": [
 		{
 			"src": "https://pbs.twimg.com/media/FE9UdghXIAElmcF.jpg",
