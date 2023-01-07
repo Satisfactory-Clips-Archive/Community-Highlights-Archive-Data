@@ -1105,5 +1105,30 @@
 				]
 			}
 		}
+	},
+	"2021-12-14": {
+		"yt-3WWUdrVNsfw": {
+			"10:14 negitoro_united - I can see my tower from here https://twitter.com/negitoro_united/status/1468594921284464640": {
+				"timestamp": 614,
+				"raw_text": "negitoro_united - I can see my tower from here https://twitter.com/negitoro_united/status/1468594921284464640",
+				"timestamps_for_links": [
+					621
+				]
+			},
+			"14:01 Alex88FR - Slick city times! https://www.reddit.com/r/SatisfactoryGame/comments/rdigee/motor_manufacturing/": {
+				"timestamp": 841,
+				"raw_text": "Alex88FR - Slick city times! https://www.reddit.com/r/SatisfactoryGame/comments/rdigee/motor_manufacturing/",
+				"timestamps_for_links": [
+					848
+				]
+			},
+			"21:09 Spike_Rush - Your boughs so green in summertime": {
+				"timestamp": 1269,
+				"raw_text": "Spike_Rush - Your boughs so green in summertime",
+				"timestamps_for_links": [
+					1301
+				]
+			}
+		}
 	}
 }
