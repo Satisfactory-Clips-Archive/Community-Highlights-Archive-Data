@@ -1,4 +1,265 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/s5g55j/i_made_an_oil_rig_turbofuel_plant_in_the_blue/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/uudywzLg-_v4-SIddqd56VuTo8DeTQGZs1P3924Z-PQ.jpg",
+			"alt": "I made an oil rig / turbofuel plant in the Blue Crater!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dz20u4ndy2c81.png",
+			"alt": "My biggest project yet! It produces 900 plastic/min, 450 rubber/min, and 15,000 MW of power."
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/s6qjee/music_anyone/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/n7ypomvw-05IAR01tbiAhA5dyU1FegRjzzlmFfqLSUQ.jpg",
+			"alt": "Music anyone!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d6kn1b9h1ec81.png",
+			"alt": "50 Coal plants set as a pipe organ."
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/rylq0j/my_giant_firework_factory_60_per_min/": [
+		{
+			"src": "https://preview.redd.it/8md28p5jsca81.jpg?width=640&crop=smart&auto=webp&s=d0551ee9fd214e868021e11030c236cd579487ea",
+			"alt": "My Giant firework factory. 60 per min",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8md28p5jsca81.jpg",
+			"alt": "My Giant firework factory. 60 per min",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/s4gk44/satisfactory_giant_screw_factory_18310_screws_per/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/q0MpdhKeDxct75xzZnxd0ywNKcF46KAp9oDMvVNi27A.jpg",
+			"alt": "Satisfactory Giant Screw Factory 18,310 Screws per min",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/f2fjybq6itb81.png",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/rv664d/i_wonder_whats_built_in_there/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/DDYVqvQLmiLGyEu3qcpxR1ZQkLFlJDmKGDgeDfBZm5s.jpg",
+			"alt": "I wonder what's built in there?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xd8xe4076i981.png",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/rym5sq/drawing_xaos_building_the_a_city_and_it_needs_a/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/QJjJLJF4bxZR3a4Pe6qkf8LutuBlEBz38h0GkMdopf4.jpg",
+			"alt": "Drawing Xaos building the a city and it needs a name.... any ideas?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/67tekapovca81.png",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/s08218/grass_block_made_out_of_signs/": [
+		{
+			"src": "https://preview.redd.it/auciwm6ppra81.png?width=640&crop=smart&auto=webp&s=dc513ee2454bbafc2d37c87e87e50cc2f3444e18",
+			"alt": "Grass block made out of signs",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/auciwm6ppra81.png",
+			"alt": "Grass block made out of signs",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/s6ki3z/ive_been_meaning_to_build_a_more_centralized/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/oj1IzQW47rO2Bqv86wwcuAliM90_L8kikkiMFsblobo.jpg",
+			"alt": "I've been meaning to build a more centralized Train Station nearer home base for a while now so, I managed to get it done today, finally.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/h4x8cavdjcc81.png",
+			"alt": "A few night time shots..."
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/s67xei/the_view_from_my_pergola/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/FzkFXMr_0pE-68PZB72HJTMO2YL6Th_H4KzgCEpEDNw.jpg",
+			"alt": "The view from my Pergola!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rnkgq1iyu9c81.png",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/rk1ri6/a_frog_in_a_pond/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/7ZXAXzwsELVcFDZq09jpNVMG4BEMjr7Mk7oUyKvod6M.jpg",
+			"alt": "A Frog in a Pond!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/k4ec9b1faj681.png",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/rwv1pb/the_entrance_to_my_future_nuclear_site_anything_i/": [
+		{
+			"src": "https://preview.redd.it/xrsjw26r7x981.png?width=320&crop=smart&auto=webp&s=1b124122697bd912e1a5e892caa69b4317711fdc",
+			"alt": "the entrance to my future nuclear site. anything i can improve?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xrsjw26r7x981.png",
+			"alt": "the entrance to my future nuclear site. anything i can improve?",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/rro4wk/embrace_the_lizard_doggo_cult/": [
+		{
+			"src": "https://preview.redd.it/c06f68okwk881.png?width=640&crop=smart&auto=webp&s=cd3108c8c30c6f1ab19bdbd2f075bf650b88b043",
+			"alt": "Embrace the Lizard Doggo Cult.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/c06f68okwk881.png",
+			"alt": "Embrace the Lizard Doggo Cult.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/rpzbk0/storage_room_build/": [
+		{
+			"src": "https://preview.redd.it/ivua14vrw5881.png?width=640&crop=smart&auto=webp&s=1af835e19c6a4e64ad6312d7ba9d9b026e51b8dc",
+			"alt": "Storage Room Build!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ivua14vrw5881.png",
+			"alt": "Storage Room Build!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/phqarv/this_game_is_gorgeous/": [
+		{
+			"src": "https://preview.redd.it/bf9mvow28hl71.jpg?width=640&crop=smart&auto=webp&s=69c52e3db78ecd3ac7dd681c32696ec31da15c90",
+			"alt": "This game is gorgeous!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bf9mvow28hl71.jpg",
+			"alt": "This game is gorgeous!",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ru5gx6/finally_decided_to_try_an_aesthetic_build_this_is/": [
+		{
+			"src": "https://external-preview.redd.it/JeUNIvs3t-cB5P5HCLMqYa66EsCAS8jAUUZmmLglHkM.jpg?width=640&crop=smart&auto=webp&s=32308a4037c842966ec75f7edb7416f36573d3fa",
+			"alt": "finally decided to try an aesthetic build… this is my space elevator",
+			"skip": true
+		},
+		{
+			"src": "https://i.imgur.com/aiKdNg5.jpeg",
+			"alt": "finally decided to try an aesthetic build… this is my space elevator"
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/rpx8mq/the_ultimate_space_elevator_design_i_think_ive/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/exIiW90729KMUCqHvQxr_L3caiqJlqF7-9yquXFsdc0.jpg",
+			"alt": "The ultimate Space Elevator design, I think I've found my style!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/khmxsuh6g5881.png",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/rujbc3/nuclear_power_plutonium_sinking/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/T7iow-oSubQiQDAPmVyIe-uG8WzyLRr_yN5FenP9V3A.jpg",
+			"alt": "Nuclear Power + Plutonium Sinking",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/srdpbtwt8c981.png",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/05gj70z29c981.png",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/rqgd8i/after_3_months_of_planning_and_building_ive_just/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/0enKL2SP7XLjJQ71XHGzFmEgSjR1zCltIPCj-xcmdsE.jpg",
+			"alt": "After 3 months of planning and building, I've just finished my \"Nuketown\" project, producing 285.000MW",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ln5ul67ofa881.png",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/rsbi97/update_ncc_1701_satis_edition/": [],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/rz6dou/borg_cubus_can_be_handed_over_like_that_but/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/R3Duwm6EZEpGwG5w2u2bZKeu3oJoBE7bbSL_Ar9KRts.jpg",
+			"alt": "Borg Cubus can be handed over like that, but unfortunately unplayable 😅 Over 550.000 objects is to many for the UI, with the rest of the base.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/imez6pqubia81.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://i.redd.it/1h0gspqubia81.jpg",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/rt3qw9/starship_troopers_space_carrier/": [
+		{
+			"src": "https://preview.redd.it/wtqelfdq4y881.png?width=640&crop=smart&auto=webp&s=116883e7a47861705d348ab9cd9ef633d8894dc9",
+			"alt": "Starship Troopers Space Carrier",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wtqelfdq4y881.png",
+			"alt": "Starship Troopers Space Carrier",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/rx6uxw/centralized_iron_smelter_1440m/": [
+		{
+			"src": "https://preview.redd.it/y15qrx9t80a81.png?width=640&crop=smart&auto=webp&s=3dc26af3306f48db85ed6e7201e51c1eae8615e5",
+			"alt": "Centralized Iron Smelter, 1440/m",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/y15qrx9t80a81.png",
+			"alt": "Centralized Iron Smelter, 1440/m",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/s2299f/just_a_couple_of_screen_caps_of_my_crystal/": [],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/rz1g0r/when_you_gotta_go_you_gotta_go/": [
+		{
+			"src": "https://preview.redd.it/xzurx5qvuga81.png?width=640&crop=smart&auto=webp&s=82d4df373441090b6843588c3974cf709df13729",
+			"alt": "When you gotta go you gotta go.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xzurx5qvuga81.png",
+			"alt": "When you gotta go you gotta go.",
+			"skip": false
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/rdfiaa/smol_crane_idea/": [
 		{
 			"src": "https://preview.redd.it/drm6f0hlgr481.png?width=640&crop=smart&auto=webp&s=bf1331441bd6c9e722ff9d68a185b95a8d17a365",

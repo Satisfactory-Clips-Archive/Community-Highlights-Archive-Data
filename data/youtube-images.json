@@ -1,4 +1,22 @@
 {
+	"https://www.youtube.com/watch?v=sVeLw9Vm7g0": [
+		{
+			"src": "https://img.youtube.com/vi/sVeLw9Vm7g0/hqdefault.jpg",
+			"skip": false
+		}
+	],
+	"https://www.youtube.com/watch?v=1LHUjGFZJ9Y": [
+		{
+			"src": "https://img.youtube.com/vi/1LHUjGFZJ9Y/hqdefault.jpg",
+			"skip": false
+		}
+	],
+	"https://www.youtube.com/watch?v=rjVpNwIC6WU": [
+		{
+			"src": "https://img.youtube.com/vi/rjVpNwIC6WU/hqdefault.jpg",
+			"skip": false
+		}
+	],
 	"https://www.youtube.com/watch?v=WrF5c6vk0QA": [
 		{
 			"src": "https://img.youtube.com/vi/WrF5c6vk0QA/hqdefault.jpg",

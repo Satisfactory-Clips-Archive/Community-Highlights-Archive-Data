@@ -1130,5 +1130,31 @@
 				]
 			}
 		}
+	},
+	"2022-01-18": {
+		"yt-SqMA-jYz7d0": {
+			"39:50 SheneokNeok - Elegant block!": {
+				"timestamp": 2390,
+				"raw_text": "SheneokNeok - Elegant block!",
+				"timestamps_for_links": [
+					2398
+				]
+			},
+			"40:40 Locutus_vonBORG - to infinity and beyond! https://www.reddit.com/r/SatisfactoryGame/comments/rsbi97/update_ncc_1701_satis_edition/": {
+				"timestamp": 2440,
+				"raw_text": "Locutus_vonBORG - to infinity and beyond! https://www.reddit.com/r/SatisfactoryGame/comments/rsbi97/update_ncc_1701_satis_edition/",
+				"timestamps_for_links": [
+					2444
+				]
+			},
+			"46:22 twoloafs - Oscillators for days! https://www.reddit.com/r/SatisfactoryGame/comments/s2299f/just_a_couple_of_screen_caps_of_my_crystal/": {
+				"timestamp": 2782,
+				"raw_text": "twoloafs - Oscillators for days! https://www.reddit.com/r/SatisfactoryGame/comments/s2299f/just_a_couple_of_screen_caps_of_my_crystal/",
+				"timestamps_for_links": [
+					2801,
+					2860
+				]
+			}
+		}
 	}
 }
