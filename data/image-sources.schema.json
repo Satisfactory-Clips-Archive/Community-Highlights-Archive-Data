@@ -11,13 +11,30 @@
 				"src",
 				"skip"
 			],
+			"additionalProperties": false,
 			"properties": {
-				"additionalProperties": false,
 				"src": {
 					"type": "string"
 				},
 				"alt": {
 					"type": "string"
+				},
+				"highlightsMeta": {
+					"type": "array",
+					"minItems": 1,
+					"items": {
+						"type": "string",
+						"oneOf": [
+							{"const": "flying vehicles"},
+							{"const": "bridge"},
+							{"const": "grass fields arch"},
+							{"const": "team mug"},
+							{"const": "team nut"},
+							{"const": "team xenobasher"},
+							{"const": "team zipline"},
+							{"const": "weatherwax"}
+						]
+					}
 				},
 				"skip": {
 					"type": "boolean"
