@@ -455,6 +455,31 @@
 			}
 		}
 	},
+	"2021-02-02": {
+		"yt-1yvC7lRb7uQ": {
+			"02:05 TheLord - Pipes Lasagna": {
+				"timestamp": 125,
+				"raw_text": "TheLord - Pipes Lasagna",
+				"timestamps_for_links": [
+					127
+				]
+			},
+			"03:14 Smerkin5000 - STONKS https://twitter.com/Smerkin5000/status/1356041643703496705": {
+				"timestamp": 194,
+				"raw_text": "Smerkin5000 - STONKS https://twitter.com/Smerkin5000/status/1356041643703496705",
+				"timestamps_for_links": [
+					214
+				]
+			},
+			"04:25 AmelieOfTheSea - The Queen of Trains": {
+				"timestamp": 265,
+				"raw_text": "AmelieOfTheSea - The Queen of Trains",
+				"timestamps_for_links": [
+					266
+				]
+			}
+		}
+	},
 	"2021-02-09": {
 		"yt-X-AVmCbtpH0": {
 			"07:03 LetUsGameOPA - I don't want to talk about it": {
@@ -1173,31 +1198,6 @@
 				"raw_text": "prepared statement",
 				"timestamps_for_links": [
 					2080
-				]
-			}
-		}
-	},
-	"2022-02-02": {
-		"yt-1yvC7lRb7uQ": {
-			"02:05 TheLord - Pipes Lasagna": {
-				"timestamp": 125,
-				"raw_text": "TheLord - Pipes Lasagna",
-				"timestamps_for_links": [
-					127
-				]
-			},
-			"03:14 Smerkin5000 - STONKS https://twitter.com/Smerkin5000/status/1356041643703496705": {
-				"timestamp": 194,
-				"raw_text": "Smerkin5000 - STONKS https://twitter.com/Smerkin5000/status/1356041643703496705",
-				"timestamps_for_links": [
-					214
-				]
-			},
-			"04:25 AmelieOfTheSea - The Queen of Trains": {
-				"timestamp": 265,
-				"raw_text": "AmelieOfTheSea - The Queen of Trains",
-				"timestamps_for_links": [
-					266
 				]
 			}
 		}

@@ -1,62 +1,4 @@
 {
-	"https://www.reddit.com/r/SatisfactoryGame/comments/lapx2o/every_time_i_start_a_new_save/": [
-		{
-			"src": "https://preview.redd.it/dlsq2yawj0f61.png?width=640&crop=smart&auto=webp&s=3c166d3c8e8b74aa7277072584af526f73e66d08",
-			"alt": "every time i start a new save",
-			"skip": true
-		},
-		{
-			"src": "https://i.redd.it/dlsq2yawj0f61.png",
-			"alt": "every time i start a new save",
-			"skip": false
-		}
-	],
-	"https://www.reddit.com/r/SatisfactoryGame/comments/lapqt6/glad_my_trucks_okay_was_getting_worried/": [
-		{
-			"src": "https://preview.redd.it/0n8klimmh0f61.png?width=640&crop=smart&auto=webp&s=4686c7f1fc076a0c215c204c4a44efcf63a20528",
-			"alt": "Glad my truck's okay! Was getting worried...",
-			"skip": true
-		},
-		{
-			"src": "https://i.redd.it/0n8klimmh0f61.png",
-			"alt": "Glad my truck's okay! Was getting worried...",
-			"skip": false,
-			"highlightsMeta": [
-				"flying vehicles"
-			]
-		}
-	],
-	"https://www.reddit.com/r/SatisfactoryGame/comments/l80y16/most_recent_bridge_build_hyper_tube_art/": [
-		{
-			"src": "https://a.thumbs.redditmedia.com/29PIMnUw2-flllXD3HmmMFS6LNxZwwl1iIwzaw4Axo0.jpg",
-			"alt": "Most recent bridge build - Hyper tube art!",
-			"skip": true
-		},
-		{
-			"src": "https://i.redd.it/jumtsrfoibe61.png",
-			"skip": false,
-			"highlightsMeta": [
-				"bridge",
-				"team mug"
-			]
-		}
-	],
-	"https://www.reddit.com/r/SatisfactoryGame/comments/l8txhz/new_factory/": [
-		{
-			"src": "https://preview.redd.it/zb3s8wtxwie61.png?width=640&crop=smart&auto=webp&s=b9ec958c126c33681aa24ccba109dcc618991a65",
-			"alt": "new factory",
-			"skip": true
-		},
-		{
-			"src": "https://i.redd.it/zb3s8wtxwie61.png",
-			"alt": "new factory",
-			"skip": false,
-			"highlightsMeta": [
-				"grass fields arch",
-				"team mug"
-			]
-		}
-	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/s8lnkk/revamping_my_nuclear_power_plant_and_adding_a/": [
 		{
 			"src": "https://preview.redd.it/hjxysfpc3vc81.jpg?width=640&crop=smart&auto=webp&s=2f11370ac4ebce4ad30d6117734f4a21f8854060",
@@ -5982,6 +5924,64 @@
 			"src": "https://i.redd.it/e88siq8aa1g61.jpg",
 			"alt": "Ain't Much, But It's Honest Work",
 			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/lapx2o/every_time_i_start_a_new_save/": [
+		{
+			"src": "https://preview.redd.it/dlsq2yawj0f61.png?width=640&crop=smart&auto=webp&s=3c166d3c8e8b74aa7277072584af526f73e66d08",
+			"alt": "every time i start a new save",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dlsq2yawj0f61.png",
+			"alt": "every time i start a new save",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/lapqt6/glad_my_trucks_okay_was_getting_worried/": [
+		{
+			"src": "https://preview.redd.it/0n8klimmh0f61.png?width=640&crop=smart&auto=webp&s=4686c7f1fc076a0c215c204c4a44efcf63a20528",
+			"alt": "Glad my truck's okay! Was getting worried...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0n8klimmh0f61.png",
+			"alt": "Glad my truck's okay! Was getting worried...",
+			"skip": false,
+			"highlightsMeta": [
+				"flying vehicles"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/l80y16/most_recent_bridge_build_hyper_tube_art/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/29PIMnUw2-flllXD3HmmMFS6LNxZwwl1iIwzaw4Axo0.jpg",
+			"alt": "Most recent bridge build - Hyper tube art!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jumtsrfoibe61.png",
+			"skip": false,
+			"highlightsMeta": [
+				"bridge",
+				"team mug"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/l8txhz/new_factory/": [
+		{
+			"src": "https://preview.redd.it/zb3s8wtxwie61.png?width=640&crop=smart&auto=webp&s=b9ec958c126c33681aa24ccba109dcc618991a65",
+			"alt": "new factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zb3s8wtxwie61.png",
+			"alt": "new factory",
+			"skip": false,
+			"highlightsMeta": [
+				"grass fields arch",
+				"team mug"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/l00h8r/we_made_a_little_petting_zoo_for_our_doggo_3/": [
