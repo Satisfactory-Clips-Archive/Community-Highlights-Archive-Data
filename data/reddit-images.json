@@ -1,4 +1,186 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sgggyv/at_it_again_with_the_spirals/": [
+		{
+			"src": "https://preview.redd.it/hazp8rvrjve81.png?width=640&crop=smart&auto=webp&s=57f78ca4b7c244adb18b2e22b944be35fc164043",
+			"alt": "At it Again With The Spirals!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hazp8rvrjve81.png",
+			"alt": "At it Again With The Spirals!",
+			"skip": false,
+			"highlightsMeta": [
+				"glitch",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sgcyxr/100_hrs_in_i_present_to_you_my_starter_base_soon/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/eoUjDJpqPPh8aOOLn9l5k0PJFtFKhWDaLSIYjcCFic8.jpg",
+			"alt": "100 hrs in... I present to you my starter base... soon gonna expand across the river to make motors, stators, encased industrial beams, and space elevator items for tiers 5 and 6.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/eunvb5exque81.png",
+			"skip": false,
+			"highlightsMeta": [
+				"bridge"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sfd3i4/80_hrs_in_is_it_a_starter_factory_or_a_hospital/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/WdvcEe9XZSteRAlz0SfVL1XxSYJ4V2lLRucMEMvD94U.jpg",
+			"alt": "80 hrs in... is it a starter factory or a hospital complex? Any suggestions for colors?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1wh5sdcwzke81.png",
+			"skip": false,
+			"highlightsMeta": [
+				"space elevator",
+				"hub"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sg5gp4/i_know_it_aint_big_but_i_like_it_2400_mw/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/BeV4Zde8TsCxE1TG_7iAAUaep_3oa0AO7_NmT1xxQU0.jpg",
+			"alt": "I know it ain't big, but i like it. 2400 MW",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4tgu4echmse81.png",
+			"skip": false,
+			"highlightsMeta": [
+				"coal plant",
+				"night time"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sfzq32/i_made_a_plastic_refinery_tower_the_accent/": [
+		{
+			"src": "https://preview.redd.it/pp9kkay7wqe81.jpg?width=640&crop=smart&auto=webp&s=a1b4ceee9a87697fa8ab86fd798f858300821453",
+			"alt": "I made a plastic refinery tower, the accent lighting comes out at night.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/pp9kkay7wqe81.jpg",
+			"alt": "I made a plastic refinery tower, the accent lighting comes out at night.",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sfq88h/deco_desert_heartburn_station_an_allvanilla_10_to/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/TFumdBzHLGhtl_aVkNFbu6o1_QFIgq8OGnb7vpXiJAI.jpg",
+			"alt": "Deco Desert: Heartburn Station. An all-vanilla 10 to 12 fluid balancer for 4800 /min fuel incoming by train. Stores 16800 fuel, max throughput of 5520 /min in case of train delays, all pipes not clipping, 90 degree turns only, built on an elliptical platform. Very tricky; very satisfying.",
+			"skip": false,
+			"highlightsMeta": [
+				"night time",
+				"oil plant"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sf48js/refineries_looking_not_too_bad/": [
+		{
+			"src": "https://preview.redd.it/7b7yuz31mie81.png?width=640&crop=smart&auto=webp&s=c23ccc0945c3912a16a92054780d73b3e8481d3a",
+			"alt": "Refineries looking not too bad.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7b7yuz31mie81.png",
+			"alt": "Refineries looking not too bad.",
+			"skip": false,
+			"highlightsMeta": [
+				"oil plant"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/se2qfy/dont_worry_i_can_ficsit/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/IParuYCqnk8MqJRKySAiZJ-E80LyN02bCSgtmS_PlsE.jpg",
+			"alt": "Don't worry, I can FICSIT.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mwrvkzeqe9e81.png",
+			"alt": "Front view",
+			"skip": false,
+			"highlightsMeta": [
+				"night time",
+				"truck"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ej5ay6fqe9e81.png",
+			"alt": "Inside view",
+			"skip": false,
+			"highlightsMeta": [
+				"truck"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sdf8aa/some_pics_from_my_abandoned_mega_project_which/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/fcFqxaRAXpEfKXuP47VUG41hEHIP8FgWoaY9hLceUIE.jpg",
+			"alt": "Some pics from my abandoned mega project which will be demolished soon",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zvlv0h2y83e81.png",
+			"skip": false
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sd58cv/early_turbo_motor_automation_in_a_nutshell/": [
+		{
+			"src": "https://preview.redd.it/oxzqpsum31e81.jpg?width=640&crop=smart&auto=webp&s=2a3d6a42d3cced254613233af0f5cfb20ed187fa",
+			"alt": "Early Turbo Motor Automation in a Nutshell",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/oxzqpsum31e81.jpg",
+			"skip": false,
+			"highlightsMeta": [
+				"team candy cane",
+				"spaghett",
+				"grass fields arch"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/scoz54/why_do_the_easy_thing_when_you_can_do_the_hard/": [],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sf56tv/how_can_i_easily_know_what_my_factory_is/": [
+		{
+			"src": "https://preview.redd.it/i4wl0nn2uie81.png?width=640&crop=smart&auto=webp&s=d0803985ef7942161d9e6550802c7e80d2ac700e",
+			"alt": "How can I easily know what my factory is producing ? Hold my beer ! (No mod, vanilla only)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/i4wl0nn2uie81.png",
+			"alt": "How can I easily know what my factory is producing ? Hold my beer ! (No mod, vanilla only)",
+			"skip": false,
+			"highlightsMeta": [
+				"weatherwax",
+				"space elevator"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sg5flv/this_train_crash_seems_to_have_been_very_hard/": [
+		{
+			"src": "https://preview.redd.it/eo0x4mu8mse81.png?width=640&crop=smart&auto=webp&s=b85d75b9f4d61c346026fe6503d1ec011f729891",
+			"alt": "This train crash seems to have been very hard !",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/eo0x4mu8mse81.png",
+			"alt": "This train crash seems to have been very hard !",
+			"skip": false,
+			"highlightsMeta": [
+				"flying vehicles",
+				"space elevator"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/s8lnkk/revamping_my_nuclear_power_plant_and_adding_a/": [
 		{
 			"src": "https://preview.redd.it/hjxysfpc3vc81.jpg?width=640&crop=smart&auto=webp&s=2f11370ac4ebce4ad30d6117734f4a21f8854060",

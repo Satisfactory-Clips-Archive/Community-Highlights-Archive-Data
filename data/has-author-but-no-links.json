@@ -1201,5 +1201,49 @@
 				]
 			}
 		}
+	},
+	"2022-02-01": {
+		"yt-hagvK-Vq484": {
+			"09:52 BUILD-O-RAMA - Big Factory Energy": {
+				"timestamp": 592,
+				"raw_text": "BUILD-O-RAMA - Big Factory Energy",
+				"timestamps_for_links": [
+					596
+				]
+			},
+			"15:34 Axe-of-Kindness - OMEGA BASE": {
+				"timestamp": 934,
+				"raw_text": "Axe-of-Kindness - OMEGA BASE",
+				"timestamps_for_links": [
+					938,
+					948
+				],
+				"highlightsMeta": [
+					"team mug"
+				]
+			},
+			"23:40 ChadsaysGo - Coal powered crane": {
+				"timestamp": 1420,
+				"raw_text": "ChadsaysGo - Coal powered crane",
+				"timestamps_for_links": [
+					1422
+				],
+				"highlightsMeta": [
+					"crane",
+					"truck"
+				]
+			},
+			"24:30 exch - Really wanted that Uranium node https://www.reddit.com/r/SatisfactoryGame/comments/scoz54/why_do_the_easy_thing_when_you_can_do_the_hard/": {
+				"timestamp": 1470,
+				"raw_text": "exch - Really wanted that Uranium node https://www.reddit.com/r/SatisfactoryGame/comments/scoz54/why_do_the_easy_thing_when_you_can_do_the_hard/",
+				"timestamps_for_links": [
+					1473
+				],
+				"highlightsMeta": [
+					"train spiral",
+					"radar tower"
+				]
+			}
+		}
 	}
 }

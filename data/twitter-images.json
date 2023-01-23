@@ -11,6 +11,41 @@
 			"skip": false
 		}
 	],
+	"https://twitter.com/Jimbers76/status/1486593519011524612": [
+		{
+			"src": "https://pbs.twimg.com/media/FKFwzgiUcAEnrD8.jpg",
+			"skip": false,
+			"highlightsMeta": [
+				"night time",
+				"fireworks"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FKFwzgiVgAALAD3.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/AxialC44/status/1486549683715866629": [
+		{
+			"src": "https://pbs.twimg.com/media/FKFIeuMXoAcwr9O.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FKFI8hiWUAAiD83.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/Total_Xclipse/status/1486467582886653952": [
+		{
+			"src": "https://pbs.twimg.com/media/FKD-Gw-X0Akpz0k.jpg",
+			"skip": false,
+			"highlightsMeta": [
+				"factory cart",
+				"glitch",
+				"space elevator"
+			]
+		}
+	],
 	"https://twitter.com/brandon98225/status/1484154199436763139": [
 		{
 			"src": "https://pbs.twimg.com/media/FJjGQNtVUAESs-r.jpg",
