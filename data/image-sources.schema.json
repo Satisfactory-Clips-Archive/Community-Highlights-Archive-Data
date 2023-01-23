@@ -1,8 +1,6 @@
 {
 	"$schema": "https://json-schema.org/draft/2019-09/schema",
 	"type": "object",
-	"default": {},
-	"title": "Image Source Schema",
 	"additionalProperties": {
 		"type": "array",
 		"items": {
@@ -20,38 +18,7 @@
 					"type": "string"
 				},
 				"highlightsMeta": {
-					"type": "array",
-					"minItems": 1,
-					"items": {
-						"type": "string",
-						"oneOf": [
-							{"const": "flying vehicles"},
-							{"const": "bridge"},
-							{"const": "grass fields arch"},
-							{"const": "team mug"},
-							{"const": "team nut"},
-							{"const": "team xenobasher"},
-							{"const": "team zipline"},
-							{"const": "team candy cane"},
-							{"const": "the gates of beugernath"},
-							{"const": "glitch"},
-							{"const": "viaduct"},
-							{"const": "space elevator"},
-							{"const": "hub"},
-							{"const": "coal plant"},
-							{"const": "oil plant"},
-							{"const": "night time"},
-							{"const": "factory cart"},
-							{"const": "truck"},
-							{"const": "spaghett"},
-							{"const": "train spiral"},
-							{"const": "radar tower"},
-							{"const": "crane"},
-							{"const": "oil rig"},
-							{"const": "fireworks"},
-							{"const": "weatherwax"}
-						]
-					}
+					"$ref": "highlights-meta.json#/definitions/highlightsMeta"
 				},
 				"skip": {
 					"type": "boolean"

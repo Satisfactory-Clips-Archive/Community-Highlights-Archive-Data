@@ -1,0 +1,51 @@
+{
+	"$schema": "https://json-schema.org/draft/2019-09/schema",
+	"$id": "http://example.com/example.json",
+	"type": "object",
+	"required": [
+		"2022-02-01"
+	],
+	"properties": {},
+	"additionalProperties": {
+		"type": "object",
+		"properties": {},
+		"additionalProperties": {
+			"type": "object",
+			"properties": {},
+			"additionalProperties": {
+				"$ref": "#/definitions/entry"
+			}
+		}
+	},
+	"definitions": {
+		"entry": {
+			"type": "object",
+			"required": [
+				"timestamp",
+				"raw_text",
+				"timestamps_for_links"
+			],
+			"properties": {
+				"timestamp": {
+					"type": "integer",
+					"description": "the timestamp as an integer number of seconds from the start of the video"
+				},
+				"raw_text": {
+					"type": "string",
+					"description": "the line text minus the timestamp"
+				},
+				"timestamps_for_links": {
+					"type": "array",
+					"description": "the timestamps as an integer or float number of seconds from the start of the video from which to generate images",
+					"minItems": 1,
+					"items": {
+						"type": "number"
+					}
+				},
+				"highlightsMeta": {
+					"$ref": "highlights-meta.json#/definitions/highlightsMeta"
+				}
+			}
+		}
+	}
+}
