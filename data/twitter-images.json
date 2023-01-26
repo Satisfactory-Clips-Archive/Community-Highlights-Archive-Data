@@ -11,6 +11,35 @@
 			"skip": false
 		}
 	],
+	"https://twitter.com/marta_bot/status/1489969183291060226": [
+		{
+			"src": "https://pbs.twimg.com/media/FK1ut70XsAsP2Fw.jpg",
+			"skip": false,
+			"highlightsMeta": [
+				"train spiral",
+				"rocky desert"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FK1uvE2XoAUfz_k.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FK1uvv7WUAILAMx.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/dannycanero/status/1490376169954418688": [
+		{
+			"src": "https://pbs.twimg.com/media/FK7hNT-XMAYY7Ta.jpg",
+			"skip": false,
+			"highlightsMeta": [
+				"jace would live there",
+				"northern forest",
+				"train station"
+			]
+		}
+	],
 	"https://twitter.com/Jimbers76/status/1486593519011524612": [
 		{
 			"src": "https://pbs.twimg.com/media/FKFwzgiUcAEnrD8.jpg",
