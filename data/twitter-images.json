@@ -14,10 +14,7 @@
 	"https://twitter.com/Catafly7/status/1492511097995542529": [
 		{
 			"src": "https://pbs.twimg.com/media/FLZ26XpakAE-FQN.jpg",
-			"highlightsMeta": [
-				"grass fields arch",
-				"roads"
-			]
+			"skip": true
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FLZ26XqagAAddmx.jpg",
@@ -25,7 +22,10 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FLZ26YGakAE4NMl.jpg",
-			"skip": true
+			"highlightsMeta": [
+				"grass fields arch",
+				"roads"
+			]
 		}
 	],
 	"https://twitter.com/Kkemo85/status/1492810011952754688": [
