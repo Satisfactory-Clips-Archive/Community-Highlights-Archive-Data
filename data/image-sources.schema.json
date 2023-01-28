@@ -6,8 +6,7 @@
 		"items": {
 			"type": "object",
 			"required": [
-				"src",
-				"skip"
+				"src"
 			],
 			"additionalProperties": false,
 			"properties": {

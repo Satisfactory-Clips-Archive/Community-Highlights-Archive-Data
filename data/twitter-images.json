@@ -11,6 +11,164 @@
 			"skip": false
 		}
 	],
+	"https://twitter.com/Catafly7/status/1492511097995542529": [
+		{
+			"src": "https://pbs.twimg.com/media/FLZ26XpakAE-FQN.jpg",
+			"highlightsMeta": [
+				"grass fields arch",
+				"roads"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLZ26XqagAAddmx.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLZ26YGakAE4NMl.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Kkemo85/status/1492810011952754688": [
+		{
+			"src": "https://pbs.twimg.com/media/FLeCx-MWUAIrG_G.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLeCx-NWUAIocfG.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLeCx-MX0AUORM2.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLeCx-NXsAA-1Z6.jpg",
+			"highlightsMeta": [
+				"snaketree forest",
+				"particle accelerator",
+				"nuclear plant"
+			]
+		}
+	],
+	"https://twitter.com/PreludeWish/status/1493006683160907779": [
+		{
+			"src": "https://pbs.twimg.com/media/FLg2R8hX0AEeHaf.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLg2R8gWYAYfpw4.jpg",
+			"highlightsMeta": [
+				"crater lakes"
+			]
+		}
+	],
+	"https://twitter.com/sumisanjima/status/1492280213165772801": [
+		{
+			"src": "https://pbs.twimg.com/media/FLWjnyvXoAEonIf.jpg",
+			"highlightsMeta": [
+				"temporary is never temporary"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLWkLT7XsAEXeN6.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLWka1BXsAcqxUt.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/brandon98225/status/1491079213096800256": [
+		{
+			"src": "https://pbs.twimg.com/media/FLFgHLYVcAMDov4.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLFgHMjVQAE37YK.jpg",
+			"highlightsMeta": [
+				"particle accelerator",
+				"train spiral",
+				"nuclear plant",
+				"crater lakes"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLFfh2-VkAM-qq3.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLFgHJ5VcAITf5g.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Vincent20572057/status/1491091334899593218": [
+		{
+			"src": "https://pbs.twimg.com/media/FLFrnbNX0AIwLTM.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLFroUCXMAkVe2Y.jpg",
+			"highlightsMeta": [
+				"cityscape",
+				"team hover pack",
+				"swamp",
+				"final fantasy"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLFrpRjX0AA8ZsR.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLFrqNIWYAYaIqm.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Vincent20572057/status/1492094221528055809": [
+		{
+			"src": "https://pbs.twimg.com/media/FLT7vfaXEAIvQAs.jpg",
+			"highlightsMeta": [
+				"final fantasy"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLT7wicWUAAMiDI.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLT7xhXXEAwYPX2.jpg",
+			"highlightsMeta": [
+				"final fantasy"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLT7yV2XEBQt580.jpg",
+			"highlightsMeta": [
+				"nuclear plant",
+				"final fantasy"
+			]
+		}
+	],
+	"https://twitter.com/vsbmeza3/status/1493356384947167243": [
+		{
+			"src": "https://pbs.twimg.com/media/FLl3fZOXoAc88dH.jpg",
+			"highlightsMeta": [
+				"oil plant"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLl3fZNXwAM9Obv.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLl3fZUWUAMU8uQ.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FLl3fZoXwAA355F.jpg",
+			"skip": true
+		}
+	],
 	"https://twitter.com/marta_bot/status/1489969183291060226": [
 		{
 			"src": "https://pbs.twimg.com/media/FK1ut70XsAsP2Fw.jpg",
