@@ -78,6 +78,7 @@
 		"weatherwax"
 	],
 	"team": [
+		"no team",
 		"team berry",
 		"team candy cane",
 		"team hands",
@@ -88,12 +89,12 @@
 		"team zipline"
 	],
 	"in-game things": [
+		"cyber wagon",
 		"explorer",
 		"factory cart",
 		"fireworks",
 		"foundation patterns",
 		"hub",
-		"lizard doggo",
 		"nobelisk",
 		"particle accelerator",
 		"radar tower",
@@ -104,6 +105,18 @@
 		"train station",
 		"truck",
 		"truck station"
+	],
+	"creatures": [
+		"arachnophobia mode",
+		"bean",
+		"bird",
+		"flying crab",
+		"hog",
+		"lizard doggo",
+		"lizard doggo",
+		"manta",
+		"spitter",
+		"stinger"
 	],
 	"things players build": [
 		"bridge",

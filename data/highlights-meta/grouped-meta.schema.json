@@ -8,6 +8,7 @@
 		"jace",
 		"team",
 		"in-game things",
+		"creatures",
 		"things players build"
 	],
 	"properties": {
@@ -43,6 +44,9 @@
 		},
 		"in-game things": {
 			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+		},
+		"creatures": {
+			"$ref": "../../data/highlights-meta.json#/definitions/highlightsMeta"
 		},
 		"things players build": {
 			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
