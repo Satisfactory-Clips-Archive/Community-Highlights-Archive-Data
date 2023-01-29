@@ -1,0 +1,126 @@
+{
+	"biomes": {
+		"zones": [
+			"abyss cliffs",
+			"blue crater",
+			"blue crater",
+			"cave",
+			"crater lakes",
+			"desert canyons",
+			"desert mountain plateaus",
+			"dune desert",
+			"eastern dune forest",
+			"grass fields",
+			"jungle spires",
+			"lake forest",
+			"northern forest",
+			"paradise island",
+			"red bamboo fields",
+			"red jungle",
+			"rocky desert",
+			"snaketree forest",
+			"southern forest",
+			"spire coast",
+			"swamp",
+			"the great canyon",
+			"titan forest",
+			"western beaches",
+			"western dune forest"
+		],
+		"subzones": {
+			"desert canyons": [
+				"the great canyon"
+			],
+			"grass fields": [
+				"grass fields arch"
+			],
+			"northern forest": [
+				"green valley",
+				"the gates of beugernath"
+			],
+			"rocky desert": [
+				"green valley",
+				"the gates of beugernath"
+			],
+			"spire coast": [
+				"the gates of beugernath"
+			],
+			"swamp": [
+				"swamp waterfall"
+			]
+		}
+	},
+	"bugs": [
+		"flying vehicles",
+		"glitch"
+	],
+	"jace": [
+		"jace would holiday there",
+		"jace would live there",
+		"jace would work there"
+	],
+	"aesthetics": [
+		"architecture",
+		"art",
+		"cityscape",
+		"cyberpunk",
+		"ficsmas",
+		"final fantasy",
+		"games",
+		"manifold",
+		"modded",
+		"night time",
+		"oil rig",
+		"pixel art",
+		"spaghett",
+		"sunrise/sunset",
+		"temporary is never temporary",
+		"weatherwax"
+	],
+	"team": [
+		"team berry",
+		"team candy cane",
+		"team hands",
+		"team hover pack",
+		"team mug",
+		"team nut",
+		"team xenobasher",
+		"team zipline"
+	],
+	"in-game things": [
+		"explorer",
+		"factory cart",
+		"fireworks",
+		"foundation patterns",
+		"hub",
+		"lizard doggo",
+		"nobelisk",
+		"particle accelerator",
+		"radar tower",
+		"signs",
+		"space elevator",
+		"tractor",
+		"train signals",
+		"train station",
+		"truck",
+		"truck station"
+	],
+	"things players build": [
+		"bridge",
+		"coal plant",
+		"crane",
+		"dam",
+		"house",
+		"nuclear plant",
+		"oil plant",
+		"outpost",
+		"power storage bank",
+		"roads",
+		"statue gallery",
+		"tower",
+		"train spiral",
+		"train station",
+		"viaduct",
+		"warehouse"
+	]
+}

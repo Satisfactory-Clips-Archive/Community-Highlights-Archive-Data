@@ -1,0 +1,54 @@
+{
+	"$schema": "https://json-schema.org/draft/2019-09/schema",
+	"type": "object",
+	"required": [
+		"biomes",
+		"bugs",
+		"aesthetics",
+		"jace",
+		"team",
+		"in-game things",
+		"things players build"
+	],
+	"properties": {
+		"biomes": {
+			"type": "object",
+			"required": [
+				"zones",
+				"subzones"
+			],
+			"properties": {
+				"zones": {
+					"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+				},
+				"subzones": {
+					"type": "object",
+					"additionalProperties": {
+						"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+					}
+				}
+			}
+		},
+		"bugs": {
+			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+		},
+		"aesthetics": {
+			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+		},
+		"jace": {
+			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+		},
+		"team": {
+			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+		},
+		"in-game things": {
+			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+		},
+		"things players build": {
+			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+		}
+	},
+	"additionalProperties": {
+		"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+	}
+}

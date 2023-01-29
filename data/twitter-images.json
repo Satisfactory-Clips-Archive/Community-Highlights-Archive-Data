@@ -24,6 +24,7 @@
 			"src": "https://pbs.twimg.com/media/FLZ26YGakAE4NMl.jpg",
 			"highlightsMeta": [
 				"grass fields arch",
+				"signs",
 				"roads"
 			]
 		}
@@ -45,7 +46,9 @@
 			"src": "https://pbs.twimg.com/media/FLeCx-NXsAA-1Z6.jpg",
 			"highlightsMeta": [
 				"snaketree forest",
+				"western dune forest",
 				"particle accelerator",
+				"signs",
 				"nuclear plant"
 			]
 		}
@@ -58,7 +61,8 @@
 		{
 			"src": "https://pbs.twimg.com/media/FLg2R8gWYAYfpw4.jpg",
 			"highlightsMeta": [
-				"crater lakes"
+				"crater lakes",
+				"team hover pack"
 			]
 		}
 	],
@@ -66,7 +70,11 @@
 		{
 			"src": "https://pbs.twimg.com/media/FLWjnyvXoAEonIf.jpg",
 			"highlightsMeta": [
-				"temporary is never temporary"
+				"grass fields",
+				"manifold",
+				"temporary is never temporary",
+				"team mug",
+				"train station"
 			]
 		},
 		{
@@ -86,10 +94,12 @@
 		{
 			"src": "https://pbs.twimg.com/media/FLFgHMjVQAE37YK.jpg",
 			"highlightsMeta": [
+				"crater lakes",
 				"particle accelerator",
-				"train spiral",
+				"radar tower",
+				"signs",
 				"nuclear plant",
-				"crater lakes"
+				"train spiral"
 			]
 		},
 		{
@@ -109,10 +119,10 @@
 		{
 			"src": "https://pbs.twimg.com/media/FLFroUCXMAkVe2Y.jpg",
 			"highlightsMeta": [
-				"cityscape",
-				"team hover pack",
 				"swamp",
-				"final fantasy"
+				"cityscape",
+				"final fantasy",
+				"team hover pack"
 			]
 		},
 		{
@@ -128,7 +138,8 @@
 		{
 			"src": "https://pbs.twimg.com/media/FLT7vfaXEAIvQAs.jpg",
 			"highlightsMeta": [
-				"final fantasy"
+				"final fantasy",
+				"signs"
 			]
 		},
 		{
@@ -138,14 +149,18 @@
 		{
 			"src": "https://pbs.twimg.com/media/FLT7xhXXEAwYPX2.jpg",
 			"highlightsMeta": [
-				"final fantasy"
+				"swamp",
+				"final fantasy",
+				"train station"
 			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FLT7yV2XEBQt580.jpg",
 			"highlightsMeta": [
-				"nuclear plant",
-				"final fantasy"
+				"swamp",
+				"final fantasy",
+				"night time",
+				"nuclear plant"
 			]
 		}
 	],
@@ -153,6 +168,8 @@
 		{
 			"src": "https://pbs.twimg.com/media/FLl3fZOXoAc88dH.jpg",
 			"highlightsMeta": [
+				"night time",
+				"signs",
 				"oil plant"
 			]
 		},
@@ -172,10 +189,9 @@
 	"https://twitter.com/marta_bot/status/1489969183291060226": [
 		{
 			"src": "https://pbs.twimg.com/media/FK1ut70XsAsP2Fw.jpg",
-			"skip": false,
 			"highlightsMeta": [
-				"train spiral",
-				"rocky desert"
+				"rocky desert",
+				"train spiral"
 			]
 		},
 		{
@@ -190,21 +206,25 @@
 	"https://twitter.com/dannycanero/status/1490376169954418688": [
 		{
 			"src": "https://pbs.twimg.com/media/FK7hNT-XMAYY7Ta.jpg",
-			"skip": false,
 			"highlightsMeta": [
-				"jace would live there",
 				"northern forest",
-				"train station"
+				"jace would live there",
+				"architecture",
+				"night time",
+				"train station",
+				"roads"
 			]
 		}
 	],
 	"https://twitter.com/Jimbers76/status/1486593519011524612": [
 		{
 			"src": "https://pbs.twimg.com/media/FKFwzgiUcAEnrD8.jpg",
-			"skip": false,
 			"highlightsMeta": [
+				"lake forest",
+				"architecture",
 				"night time",
-				"fireworks"
+				"fireworks",
+				"signs"
 			]
 		},
 		{
@@ -225,10 +245,10 @@
 	"https://twitter.com/Total_Xclipse/status/1486467582886653952": [
 		{
 			"src": "https://pbs.twimg.com/media/FKD-Gw-X0Akpz0k.jpg",
-			"skip": false,
 			"highlightsMeta": [
-				"factory cart",
+				"rocky desert",
 				"glitch",
+				"factory cart",
 				"space elevator"
 			]
 		}
@@ -1956,9 +1976,10 @@
 	"https://twitter.com/jmaniscatharg/status/1355829223160602629": [
 		{
 			"src": "https://pbs.twimg.com/media/EtDfYxxU4AYK7hD.jpg",
-			"skip": false,
 			"highlightsMeta": [
-				"grass fields arch"
+				"grass fields arch",
+				"sunrise/sunset",
+				"space elevator"
 			]
 		},
 		{
