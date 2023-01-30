@@ -2,42 +2,69 @@
 	"https://discord.com/channels/370472939054956546/458217769515876352/775171294379245578": [
 		{
 			"src": "https://cdn.discordapp.com/attachments/458217769515876352/775171287001202698/Satisfactory18.png",
-			"skip": false
+			"highlightsMeta": [
+				"art",
+				"hub",
+				"lizard doggo",
+				"no team"
+			]
 		}
 	],
 	"https://discord.com/channels/370472939054956546/458217769515876352/774651672559222785": [
 		{
 			"src": "https://cdn.discordapp.com/attachments/458217769515876352/774651668045234207/Cult_Satis.png",
 			"alt": "The hide of a lizard doggo is excellent for exploring the deep secrets of the universe.\nThe cult sees everything.",
-			"skip": false
+			"highlightsMeta": [
+				"art",
+				"lizard doggo",
+				"no team"
+			]
 		}
 	],
 	"https://discord.com/channels/370472939054956546/553550313533997057/810646430217142352": [
 		{
 			"src": "https://cdn.discordapp.com/attachments/553550313533997057/810646427751153664/20210214235610_1.jpg",
 			"alt": "The Pika Factory (WIP) 🤓",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"pixel art",
+				"team paintgun"
+			]
 		}
 	],
 	"https://discord.com/channels/370472939054956546/553550313533997057/809491601960730714": [
 		{
 			"src": "https://cdn.discordapp.com/attachments/553550313533997057/809491598882504713/Upper_Lake_Water_Extractors.jpg",
 			"alt": "Only the outer ring was created with Smart! The rest, including the pipes are vanilla built.",
-			"skip": false
+			"highlightsMeta": [
+				"western dune forest",
+				"pipes",
+				"no team"
+			]
 		}
 	],
 	"https://discord.com/channels/370472939054956546/553550313533997057/811373212444917792": [
 		{
 			"src": "https://cdn.discordapp.com/attachments/553550313533997057/811373208300290058/unknown.png",
 			"alt": "Satisfactory st.",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"radar tower",
+				"outpost",
+				"team mug"
+			]
 		}
 	],
 	"https://discord.com/channels/370472939054956546/553550313533997057/810876283612954624": [
 		{
 			"src": "https://cdn.discordapp.com/attachments/553550313533997057/810876280802246666/unknown.png",
 			"alt": "Uhm Help?",
-			"skip": false
+			"highlightsMeta": [
+				"glitch",
+				"cyber wagon",
+				"warehouse",
+				"no team"
+			]
 		}
 	]
 }

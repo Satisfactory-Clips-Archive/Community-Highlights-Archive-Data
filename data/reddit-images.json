@@ -9,11 +9,11 @@
 			"src": "https://i.redd.it/z5mne3jy5th81.png",
 			"highlightsMeta": [
 				"western beaches",
-				"team hands",
 				"signs",
 				"train station",
 				"oil plant",
-				"viaduct"
+				"viaduct",
+				"team hands"
 			]
 		}
 	],
@@ -30,7 +30,8 @@
 				"the gates of beugernath",
 				"cityscape",
 				"space elevator",
-				"train signals"
+				"train signals",
+				"no team"
 			]
 		}
 	],
@@ -46,7 +47,8 @@
 				"cityscape",
 				"night time",
 				"radar tower",
-				"statue gallery"
+				"statue gallery",
+				"no team"
 			]
 		}
 	],
@@ -60,7 +62,8 @@
 			"src": "https://i.redd.it/jn6c25fycbh81.png",
 			"highlightsMeta": [
 				"dune desert",
-				"hub"
+				"hub",
+				"no team"
 			]
 		}
 	],
@@ -75,22 +78,23 @@
 			"highlightsMeta": [
 				"cityscape",
 				"signs",
-				"tower"
+				"tower",
+				"no team"
 			]
 		},
 		{
 			"src": "https://i.redd.it/cgrgpl9ygxh81.jpg",
 			"highlightsMeta": [
-				"team nut",
 				"explorer",
-				"foundation patterns"
+				"foundation patterns",
+				"team nut"
 			]
 		},
 		{
 			"src": "https://i.redd.it/49fb5faygxh81.jpg",
 			"highlightsMeta": [
-				"team nut",
-				"oil plant"
+				"oil plant",
+				"team nut"
 			]
 		}
 	],
@@ -103,8 +107,9 @@
 		{
 			"src": "https://i.redd.it/py427dffilh81.png",
 			"highlightsMeta": [
+				"nobelisk",
 				"lizard doggo",
-				"nobelisk"
+				"no team"
 			]
 		}
 	],
@@ -121,7 +126,8 @@
 				"foundation patterns",
 				"signs",
 				"truck",
-				"roads"
+				"roads",
+				"no team"
 			]
 		},
 		{
@@ -141,10 +147,10 @@
 			"src": "https://i.redd.it/mkpixfyygsh81.jpg",
 			"highlightsMeta": [
 				"grass fields",
-				"team hover pack",
-				"team mug",
 				"tractor",
-				"roads"
+				"roads",
+				"team hover pack",
+				"team mug"
 			]
 		}
 	],
@@ -161,7 +167,8 @@
 				"rocky desert",
 				"the gates of beugernath",
 				"space elevator",
-				"tower"
+				"tower",
+				"no team"
 			]
 		}
 	],
@@ -175,7 +182,8 @@
 			"src": "https://i.redd.it/gf42nurgj4h81.png",
 			"highlightsMeta": [
 				"manifold",
-				"warehouse"
+				"warehouse",
+				"no team"
 			]
 		}
 	],
@@ -188,17 +196,21 @@
 		{
 			"src": "https://i.redd.it/lj9accr7ebh81.jpg",
 			"highlightsMeta": [
+				"hub",
+				"train",
 				"train station",
 				"truck",
 				"truck station",
-				"viaduct"
+				"viaduct",
+				"no team"
 			]
 		},
 		{
 			"src": "https://i.redd.it/eqe2r7l6ebh81.jpg",
 			"highlightsMeta": [
 				"foundation patterns",
-				"truck"
+				"truck",
+				"no team"
 			]
 		}
 	],
@@ -214,7 +226,8 @@
 			"highlightsMeta": [
 				"dune desert",
 				"modded",
-				"lizard doggo"
+				"lizard doggo",
+				"no team"
 			]
 		}
 	],
@@ -228,7 +241,8 @@
 			"src": "https://i.redd.it/jja9hspr5wh81.png",
 			"alt": "To this day I believe this is my favorite screenshot I've ever taken in this game.",
 			"highlightsMeta": [
-				"glitch"
+				"glitch",
+				"no team"
 			]
 		}
 	],
@@ -242,8 +256,9 @@
 			"src": "https://i.redd.it/4hihhtdc8th81.png",
 			"highlightsMeta": [
 				"lake forest",
-				"team mug",
-				"tower"
+				"drone",
+				"tower",
+				"team mug"
 			]
 		}
 	],
@@ -256,8 +271,8 @@
 		{
 			"src": "https://i.redd.it/khme1y7ub9g81.jpg",
 			"highlightsMeta": [
-				"team mug",
-				"signs"
+				"signs",
+				"team mug"
 			]
 		},
 		{
@@ -279,7 +294,8 @@
 			"highlightsMeta": [
 				"cityscape",
 				"foundation patterns",
-				"roads"
+				"roads",
+				"no team"
 			]
 		}
 	],
@@ -295,7 +311,10 @@
 			"highlightsMeta": [
 				"northern forest",
 				"jace would live there",
-				"architecture"
+				"architecture",
+				"nature",
+				"outpost",
+				"no team"
 			]
 		}
 	],
@@ -312,7 +331,8 @@
 				"rocky desert",
 				"glitch",
 				"tractor",
-				"truck"
+				"truck",
+				"no team"
 			]
 		}
 	],
@@ -326,8 +346,8 @@
 			"src": "https://i.redd.it/jypeg724sgg81.png",
 			"highlightsMeta": [
 				"the great canyon",
-				"team hover pack",
-				"oil plant"
+				"oil plant",
+				"team hover pack"
 			]
 		}
 	],
@@ -342,16 +362,19 @@
 			"alt": "Tower consists of 16 Floors, 48 Fuel Generators per floor.",
 			"highlightsMeta": [
 				"northern forest",
-				"team hover pack",
+				"train",
+				"manta",
 				"tower",
-				"viaduct"
+				"viaduct",
+				"team hover pack"
 			]
 		},
 		{
 			"src": "https://i.redd.it/3fy8lvwur7g81.png",
 			"alt": "Rooftop Viewing Platform",
 			"highlightsMeta": [
-				"oil plant"
+				"fuel plant",
+				"no team"
 			]
 		}
 	],
@@ -365,7 +388,9 @@
 			"src": "https://i.redd.it/ble92om9jbg81.jpg",
 			"highlightsMeta": [
 				"grass fields arch",
-				"spaghett"
+				"spaghett",
+				"manta",
+				"no team"
 			]
 		}
 	],
@@ -379,10 +404,10 @@
 			"src": "https://i.imgur.com/DzTQVay.jpeg",
 			"highlightsMeta": [
 				"swamp waterfall",
-				"team berry",
-				"team hover pack",
 				"dam",
-				"nuclear plant"
+				"nuclear plant",
+				"team berry",
+				"team hover pack"
 			]
 		},
 		{
@@ -390,18 +415,18 @@
 			"alt": "Main Hall and Batteries",
 			"highlightsMeta": [
 				"cave",
-				"team berry",
 				"foundation patterns",
-				"power storage bank"
+				"power storage bank",
+				"team berry"
 			]
 		},
 		{
 			"src": "https://i.imgur.com/cBQUm1L.jpeg",
 			"highlightsMeta": [
 				"cave",
+				"foundation patterns",
 				"team berry",
-				"team hover pack",
-				"foundation patterns"
+				"team hover pack"
 			]
 		},
 		{
@@ -409,8 +434,8 @@
 			"alt": "Nuclear Disposal for 30 Stations",
 			"highlightsMeta": [
 				"cave",
-				"team berry",
-				"particle accelerator"
+				"particle accelerator",
+				"team berry"
 			]
 		}
 	],
@@ -425,8 +450,8 @@
 			"alt": "The new Pyramid of power is now the Palace of power",
 			"highlightsMeta": [
 				"spire coast",
-				"team mug",
-				"nuclear plant"
+				"nuclear plant",
+				"team mug"
 			]
 		}
 	],
@@ -440,7 +465,9 @@
 			"src": "https://i.redd.it/7kj3xfzw3ff81.jpg",
 			"highlightsMeta": [
 				"dune desert",
-				"oil plant"
+				"pipes",
+				"fuel plant",
+				"no team"
 			]
 		}
 	],
@@ -454,12 +481,13 @@
 			"src": "https://i.redd.it/ymfie4s6hcf81.png",
 			"highlightsMeta": [
 				"crater lakes",
-				"team mug",
 				"space elevator",
+				"train",
 				"coal plant",
 				"crane",
 				"tower",
-				"viaduct"
+				"viaduct",
+				"team mug"
 			]
 		}
 	],
@@ -474,7 +502,9 @@
 			"highlightsMeta": [
 				"swamp",
 				"foundation patterns",
-				"outpost"
+				"truck station",
+				"outpost",
+				"no team"
 			]
 		}
 	],
@@ -492,7 +522,9 @@
 				"sunrise/sunset",
 				"signs",
 				"outpost",
-				"roads"
+				"roads",
+				"viaduct",
+				"no team"
 			]
 		}
 	],
@@ -507,8 +539,9 @@
 			"alt": "At it Again With The Spirals!",
 			"highlightsMeta": [
 				"glitch",
-				"team hands",
-				"viaduct"
+				"pipes",
+				"viaduct",
+				"team hands"
 			]
 		}
 	],
@@ -523,7 +556,8 @@
 			"highlightsMeta": [
 				"green valley",
 				"space elevator",
-				"bridge"
+				"bridge",
+				"no team"
 			]
 		}
 	],
@@ -539,7 +573,8 @@
 				"green valley",
 				"cityscape",
 				"hub",
-				"space elevator"
+				"space elevator",
+				"no team"
 			]
 		}
 	],
@@ -553,7 +588,8 @@
 			"src": "https://i.redd.it/4tgu4echmse81.png",
 			"highlightsMeta": [
 				"night time",
-				"coal plant"
+				"coal plant",
+				"no team"
 			]
 		}
 	],
@@ -568,8 +604,8 @@
 			"alt": "I made a plastic refinery tower, the accent lighting comes out at night.",
 			"highlightsMeta": [
 				"night time",
-				"team hover pack",
-				"oil plant"
+				"oil plant",
+				"team hover pack"
 			]
 		}
 	],
@@ -581,7 +617,15 @@
 		},
 		{
 			"src": "https://i.redd.it/q7ll79stfoe81.png",
-			"alt": "The final design looked great, and art-deco enough to be satisfied"
+			"alt": "The final design looked great, and art-deco enough to be satisfied",
+			"highlightsMeta": [
+				"rocky desert",
+				"lights",
+				"pipes",
+				"oil plant",
+				"train station",
+				"team nut"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/sf48js/refineries_looking_not_too_bad/": [
@@ -594,8 +638,8 @@
 			"src": "https://i.redd.it/7b7yuz31mie81.png",
 			"alt": "Refineries looking not too bad.",
 			"highlightsMeta": [
-				"team hover pack",
-				"oil plant"
+				"oil plant",
+				"team hover pack"
 			]
 		}
 	],
@@ -611,7 +655,8 @@
 			"highlightsMeta": [
 				"night time",
 				"signs",
-				"truck"
+				"truck",
+				"no team"
 			]
 		},
 		{
@@ -619,7 +664,8 @@
 			"alt": "Inside view",
 			"highlightsMeta": [
 				"signs",
-				"truck"
+				"truck",
+				"no team"
 			]
 		}
 	],
@@ -632,7 +678,9 @@
 		{
 			"src": "https://i.redd.it/zvlv0h2y83e81.png",
 			"highlightsMeta": [
-				"manifold"
+				"manifold",
+				"repetition",
+				"no team"
 			]
 		}
 	],
@@ -647,8 +695,8 @@
 			"highlightsMeta": [
 				"grass fields arch",
 				"spaghett",
-				"team candy cane",
-				"tower"
+				"tower",
+				"team candy cane"
 			]
 		}
 	],
@@ -665,11 +713,12 @@
 			"highlightsMeta": [
 				"snaketree forest",
 				"weatherwax",
-				"team hover pack",
-				"team mug",
 				"space elevator",
+				"train signals",
 				"train station",
-				"roads"
+				"roads",
+				"team hover pack",
+				"team mug"
 			]
 		}
 	],
@@ -685,9 +734,9 @@
 			"highlightsMeta": [
 				"snaketree forest",
 				"flying vehicles",
+				"space elevator",
 				"team hover pack",
-				"team mug",
-				"space elevator"
+				"team mug"
 			]
 		}
 	],
@@ -702,11 +751,12 @@
 			"alt": "Revamping my Nuclear Power Plant and adding a Weapons Facility, Work in Progress",
 			"highlightsMeta": [
 				"swamp",
-				"team hands",
 				"particle accelerator",
 				"radar tower",
+				"train station",
 				"truck station",
-				"nuclear plant"
+				"nuclear plant",
+				"team hands"
 			]
 		}
 	],
@@ -721,7 +771,8 @@
 			"highlightsMeta": [
 				"grass fields",
 				"weatherwax",
-				"radar tower"
+				"radar tower",
+				"no team"
 			]
 		}
 	],
@@ -735,10 +786,10 @@
 			"src": "https://i.imgur.com/MrRrBN7.png",
 			"highlightsMeta": [
 				"night time",
-				"team nut",
-				"oil plant",
+				"fuel plant",
 				"tower",
-				"viaduct"
+				"viaduct",
+				"team nut"
 			]
 		}
 	],
@@ -753,7 +804,8 @@
 			"highlightsMeta": [
 				"dune desert",
 				"architecture",
-				"tower"
+				"tower",
+				"no team"
 			]
 		}
 	],
@@ -768,7 +820,9 @@
 			"alt": "Too much gas, uranium and spiders keep upsetting the constructor so I gave it a little fresh air...",
 			"highlightsMeta": [
 				"titan forest",
-				"outpost"
+				"bean",
+				"outpost",
+				"no team"
 			]
 		},
 		{
@@ -776,8 +830,8 @@
 			"alt": "Access is a bitch without a hoverpack though. Might need a ladder.",
 			"highlightsMeta": [
 				"titan forest",
-				"team hover pack",
-				"outpost"
+				"outpost",
+				"team hover pack"
 			]
 		},
 		{
@@ -785,8 +839,8 @@
 			"alt": "It can \"just about\" see me building my turbofuel factory through the fog.",
 			"highlightsMeta": [
 				"titan forest",
-				"team hover pack",
-				"outpost"
+				"outpost",
+				"team hover pack"
 			]
 		}
 	],
@@ -801,6 +855,7 @@
 			"alt": "Copper Ingot Factory - 2400 Ore into 6000 Ingots",
 			"highlightsMeta": [
 				"manifold",
+				"pipes",
 				"team hover pack",
 				"team mug"
 			]
@@ -816,7 +871,9 @@
 			"src": "https://i.redd.it/y3qtvxput8d81.png",
 			"highlightsMeta": [
 				"rocky desert",
-				"weatherwax"
+				"weatherwax",
+				"lights",
+				"no team"
 			]
 		}
 	],
@@ -831,7 +888,9 @@
 			"alt": "All in all, here is my factory (Custom icons using Windows 11 emoji app)",
 			"highlightsMeta": [
 				"cityscape",
-				"signs"
+				"foundation patterns",
+				"signs",
+				"no team"
 			]
 		}
 	],
@@ -846,7 +905,8 @@
 			"alt": "Just do it",
 			"highlightsMeta": [
 				"signs",
-				"space elevator"
+				"space elevator",
+				"no team"
 			]
 		}
 	],
@@ -860,14 +920,19 @@
 			"src": "https://i.redd.it/blw67ztmbmd81.png",
 			"highlightsMeta": [
 				"sunrise/sunset",
-				"signs"
+				"signs",
+				"no team"
 			]
 		},
 		{
 			"src": "https://i.redd.it/168uw4umbmd81.png",
+			"localSrc": "98645192aadc6b1a09e2f7a7074fa0dab03dbfe2851769b543452d3f658f05571b352d1a6d6ba87f9b3e39eee0c85e94b28bd0bdb780c922a2f145d42e0d18dc.png",
 			"highlightsMeta": [
 				"sunrise/sunset",
-				"signs"
+				"belts",
+				"pipes",
+				"signs",
+				"no team"
 			]
 		}
 	],
@@ -879,14 +944,16 @@
 		},
 		{
 			"src": "https://i.redd.it/5v3yn9z0wcc81.png",
+			"localSrc": "58b955fe45f27fe457c41935fd23b3a9bf46cd649120ad0d41a7f87309bbf11029be3989dea1a924694bf4722f968fa143c57f2d93d0aebdbc42b2e4f2f33a2a.png",
 			"alt": "I just added the copper building at the bottom right today. All it makes are ingots.",
 			"highlightsMeta": [
 				"green valley",
 				"the gates of beugernath",
-				"team hover pack",
-				"team mug",
+				"belts",
 				"foundation patterns",
-				"signs"
+				"signs",
+				"team hover pack",
+				"team mug"
 			]
 		}
 	],
@@ -898,10 +965,11 @@
 		},
 		{
 			"src": "https://i.redd.it/53rv7jeptqc81.png",
+			"localSrc": "b6b5233b30a6e3d715bf1a44b400c2bc3ff7153bcaa3723ea83ee89ea69b797331480fbb591ff6a258cab061206516fdaa1c2d8d9b27ab41a299e4a31a195f93.png",
 			"alt": "Made some ads for the various regions in my save. Sometimes you just need to drum up tourism.",
 			"highlightsMeta": [
-				"team mug",
-				"signs"
+				"signs",
+				"team mug"
 			]
 		}
 	],
@@ -913,6 +981,7 @@
 		},
 		{
 			"src": "https://i.redd.it/18m9qogir5d81.png",
+			"localSrc": "53bee248a8d25c6e8cd998be0a979a1062a925550e34fda49b1314bd51383d58c2f8233627337db40c8b06e2d1fdb6c16818709b2e69c408347cf9c895498ad9.png",
 			"highlightsMeta": [
 				"grass fields",
 				"team mug"
@@ -939,17 +1008,19 @@
 				"cityscape",
 				"explorer",
 				"foundation patterns",
-				"roads"
+				"roads",
+				"no team"
 			]
 		},
 		{
 			"src": "https://i.redd.it/gmasv40dtpd81.png",
 			"highlightsMeta": [
 				"rocky desert",
-				"team xenobasher",
 				"foundation patterns",
 				"signs",
-				"outpost"
+				"bean",
+				"outpost",
+				"team xenobasher"
 			]
 		},
 		{
@@ -959,7 +1030,8 @@
 				"night time",
 				"foundation patterns",
 				"tower",
-				"viaduct"
+				"viaduct",
+				"no team"
 			]
 		},
 		{
@@ -967,7 +1039,8 @@
 			"highlightsMeta": [
 				"explorer",
 				"foundation patterns",
-				"roads"
+				"roads",
+				"no team"
 			]
 		},
 		{
@@ -977,7 +1050,8 @@
 				"explorer",
 				"foundation patterns",
 				"signs",
-				"roads"
+				"roads",
+				"no team"
 			]
 		}
 	],
@@ -992,8 +1066,8 @@
 			"alt": "A very Satisfactory dawn",
 			"highlightsMeta": [
 				"sunrise/sunset",
-				"team mug",
-				"nuclear plant"
+				"nuclear plant",
+				"team mug"
 			]
 		}
 	],
@@ -1010,7 +1084,8 @@
 				"western beaches",
 				"sunrise/sunset",
 				"hub",
-				"warehouse"
+				"warehouse",
+				"no team"
 			]
 		}
 	],
@@ -1024,11 +1099,12 @@
 			"src": "https://i.redd.it/dz20u4ndy2c81.png",
 			"alt": "My biggest project yet! It produces 900 plastic/min, 450 rubber/min, and 15,000 MW of power.",
 			"highlightsMeta": [
-				"team mug",
 				"radar tower",
+				"train",
 				"train station",
-				"oil plant",
-				"outpost"
+				"fuel plant",
+				"outpost",
+				"team mug"
 			]
 		}
 	],
@@ -1043,7 +1119,8 @@
 			"alt": "50 Coal plants set as a pipe organ.",
 			"highlightsMeta": [
 				"dune desert",
-				"weatherwax"
+				"weatherwax",
+				"no team"
 			]
 		}
 	],
@@ -1057,9 +1134,11 @@
 			"src": "https://i.redd.it/8md28p5jsca81.jpg",
 			"alt": "My Giant firework factory. 60 per min",
 			"highlightsMeta": [
+				"ficsmas",
 				"weatherwax",
 				"fireworks",
-				"outpost"
+				"outpost",
+				"no team"
 			]
 		}
 	],
@@ -1074,7 +1153,10 @@
 			"highlightsMeta": [
 				"grass fields",
 				"weatherwax",
-				"tower"
+				"drone",
+				"radar tower",
+				"tower",
+				"no team"
 			]
 		}
 	],
@@ -1088,8 +1170,8 @@
 			"src": "https://i.redd.it/xd8xe4076i981.png",
 			"highlightsMeta": [
 				"weatherwax",
-				"team mug",
-				"tower"
+				"tower",
+				"team mug"
 			]
 		}
 	],
@@ -1104,7 +1186,9 @@
 			"highlightsMeta": [
 				"the gates of beugernath",
 				"architecture",
-				"train station"
+				"train",
+				"train station",
+				"no team"
 			]
 		}
 	],
@@ -1120,7 +1204,8 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"weatherwax",
-				"signs"
+				"signs",
+				"no team"
 			]
 		}
 	],
@@ -1136,7 +1221,8 @@
 			"highlightsMeta": [
 				"night time",
 				"signs",
-				"train station"
+				"train station",
+				"no team"
 			]
 		}
 	],
@@ -1147,7 +1233,12 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/rnkgq1iyu9c81.png"
+			"src": "https://i.redd.it/rnkgq1iyu9c81.png",
+			"highlightsMeta": [
+				"lake forest",
+				"architecture",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/rk1ri6/a_frog_in_a_pond/": [
@@ -1159,7 +1250,8 @@
 		{
 			"src": "https://i.redd.it/k4ec9b1faj681.png",
 			"highlightsMeta": [
-				"weatherwax"
+				"weatherwax",
+				"no team"
 			]
 		}
 	],
@@ -1189,7 +1281,8 @@
 			"alt": "Embrace the Lizard Doggo Cult.",
 			"highlightsMeta": [
 				"signs",
-				"statue gallery"
+				"statue gallery",
+				"no team"
 			]
 		}
 	],
@@ -1203,9 +1296,9 @@
 			"src": "https://i.redd.it/ivua14vrw5881.png",
 			"alt": "Storage Room Build!",
 			"highlightsMeta": [
-				"team mug",
 				"signs",
-				"warehouse"
+				"warehouse",
+				"team mug"
 			]
 		}
 	],
@@ -1217,7 +1310,12 @@
 		},
 		{
 			"src": "https://i.redd.it/bf9mvow28hl71.jpg",
-			"alt": "This game is gorgeous!"
+			"alt": "This game is gorgeous!",
+			"highlightsMeta": [
+				"manifold",
+				"pipes",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/ru5gx6/finally_decided_to_try_an_aesthetic_build_this_is/": [
@@ -1231,7 +1329,8 @@
 			"alt": "finally decided to try an aesthetic build… this is my space elevator",
 			"highlightsMeta": [
 				"western dune forest",
-				"space elevator"
+				"space elevator",
+				"no team"
 			]
 		}
 	],
@@ -1245,7 +1344,8 @@
 			"src": "https://i.redd.it/khmxsuh6g5881.png",
 			"highlightsMeta": [
 				"grass fields",
-				"space elevator"
+				"space elevator",
+				"no team"
 			]
 		}
 	],
@@ -1260,8 +1360,10 @@
 			"highlightsMeta": [
 				"dune desert",
 				"space elevator",
+				"train",
 				"train station",
-				"nuclear plant"
+				"nuclear plant",
+				"no team"
 			]
 		},
 		{
@@ -1271,7 +1373,8 @@
 				"particle accelerator",
 				"space elevator",
 				"train station",
-				"nuclear plant"
+				"nuclear plant",
+				"no team"
 			]
 		}
 	],
@@ -1286,7 +1389,8 @@
 			"highlightsMeta": [
 				"swamp",
 				"train station",
-				"nuclear plant"
+				"nuclear plant",
+				"no team"
 			]
 		}
 	],
@@ -1300,7 +1404,8 @@
 		{
 			"src": "https://i.redd.it/imez6pqubia81.jpg",
 			"highlightsMeta": [
-				"weatherwax"
+				"weatherwax",
+				"no team"
 			]
 		},
 		{
@@ -1321,8 +1426,9 @@
 			"src": "https://i.redd.it/wtqelfdq4y881.png",
 			"alt": "Starship Troopers Space Carrier",
 			"highlightsMeta": [
-				"dune desert",
-				"weatherwax"
+				"desert mountain plateaus",
+				"weatherwax",
+				"no team"
 			]
 		}
 	],
@@ -1338,9 +1444,11 @@
 			"highlightsMeta": [
 				"grass fields",
 				"truck",
+				"coal plant",
 				"roads",
 				"tower",
-				"viaduct"
+				"viaduct",
+				"no team"
 			]
 		}
 	],
@@ -1356,7 +1464,8 @@
 			"alt": "When you gotta go you gotta go.",
 			"highlightsMeta": [
 				"dune desert",
-				"pixel art"
+				"pixel art",
+				"no team"
 			]
 		}
 	],
@@ -1373,8 +1482,9 @@
 				"red jungle",
 				"modded",
 				"night time",
-				"team hover pack",
-				"outpost"
+				"outpost",
+				"train station",
+				"team hover pack"
 			]
 		}
 	],
@@ -1389,10 +1499,11 @@
 			"alt": "7.5GW, no fluctuation!",
 			"highlightsMeta": [
 				"desert canyons",
-				"team hover pack",
-				"team mug",
+				"fuel plant",
 				"oil plant",
-				"outpost"
+				"outpost",
+				"team hover pack",
+				"team mug"
 			]
 		}
 	],
@@ -1408,8 +1519,9 @@
 			"highlightsMeta": [
 				"northern forest",
 				"architecture",
-				"team mug",
-				"explorer"
+				"explorer",
+				"signs",
+				"team mug"
 			]
 		}
 	],
@@ -1423,7 +1535,9 @@
 			"src": "https://i.redd.it/0zwame3qt8581.png",
 			"highlightsMeta": [
 				"crater lakes",
-				"weatherwax"
+				"weatherwax",
+				"bean",
+				"no team"
 			]
 		}
 	],
@@ -1438,7 +1552,8 @@
 			"alt": "My storage room",
 			"highlightsMeta": [
 				"northern forest",
-				"warehouse"
+				"warehouse",
+				"no team"
 			]
 		}
 	],
@@ -1454,8 +1569,8 @@
 				"rocky desert",
 				"ficsmas",
 				"night time",
-				"team hover pack",
-				"train station"
+				"train station",
+				"team hover pack"
 			]
 		}
 	],
@@ -1470,7 +1585,8 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"architecture",
-				"tower"
+				"tower",
+				"no team"
 			]
 		}
 	],
@@ -1482,10 +1598,22 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/q01ae0zdra581.jpg"
+			"src": "https://i.redd.it/q01ae0zdra581.jpg",
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"ficsmas",
+				"signs",
+				"no team"
+			]
 		},
 		{
-			"src": "https://i.redd.it/r0462n0era581.jpg"
+			"src": "https://i.redd.it/r0462n0era581.jpg",
+			"highlightsMeta": [
+				"ficsmas",
+				"signs",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/rez9aa/a_star_factory/": [
@@ -1532,7 +1660,8 @@
 			"highlightsMeta": [
 				"western dune forest",
 				"architecture",
-				"ficsmas"
+				"ficsmas",
+				"no team"
 			]
 		}
 	],
@@ -1547,7 +1676,8 @@
 			"alt": "From the side",
 			"highlightsMeta": [
 				"grass fields",
-				"ficsmas"
+				"ficsmas",
+				"no team"
 			]
 		}
 	],
@@ -1597,7 +1727,8 @@
 				"rocky desert",
 				"ficsmas",
 				"night time",
-				"space elevator"
+				"space elevator",
+				"no team"
 			]
 		}
 	],
@@ -1610,9 +1741,10 @@
 		{
 			"src": "https://i.redd.it/u4mw4rytlp281.png",
 			"highlightsMeta": [
-				"spire coast",
+				"western beaches",
 				"architecture",
-				"train station"
+				"train station",
+				"no team"
 			]
 		}
 	],
@@ -1629,7 +1761,8 @@
 				"night time",
 				"foundation patterns",
 				"signs",
-				"space elevator"
+				"space elevator",
+				"no team"
 			]
 		}
 	],
@@ -1644,6 +1777,7 @@
 			"highlightsMeta": [
 				"western beaches",
 				"architecture",
+				"fuel plant",
 				"team mug"
 			]
 		}
@@ -1659,7 +1793,9 @@
 			"alt": "Complete build View",
 			"highlightsMeta": [
 				"lake forest",
-				"night time"
+				"architecture",
+				"night time",
+				"no team"
 			]
 		}
 	],
@@ -1674,7 +1810,9 @@
 			"alt": "The sense of scale in this game is *chefs kiss*",
 			"highlightsMeta": [
 				"night time",
-				"viaduct"
+				"bean",
+				"viaduct",
+				"no team"
 			]
 		},
 		{
@@ -1682,7 +1820,8 @@
 			"alt": " 1 of the 2 Diluted Fuel wings next to Fuel Unpackaging",
 			"highlightsMeta": [
 				"night time",
-				"foundation patterns"
+				"foundation patterns",
+				"no team"
 			]
 		}
 	],
@@ -1697,7 +1836,8 @@
 			"alt": "Futuristic Brutalism ❤ ...although I think its a bit overkill for 2 train stations and 8 storage bins!",
 			"highlightsMeta": [
 				"red jungle",
-				"tower"
+				"tower",
+				"no team"
 			]
 		}
 	],
@@ -1729,8 +1869,9 @@
 			"highlightsMeta": [
 				"dune desert",
 				"ficsmas",
-				"team xenobasher",
-				"space elevator"
+				"space elevator",
+				"train",
+				"team xenobasher"
 			]
 		}
 	],
@@ -1740,7 +1881,8 @@
 			"highlightsMeta": [
 				"western dune forest",
 				"architecture",
-				"ficsmas"
+				"ficsmas",
+				"no team"
 			]
 		}
 	],
@@ -1754,7 +1896,9 @@
 			"src": "https://i.redd.it/tr21sm0vaj381.png",
 			"alt": "I changed my FISC*MAS factory and now it looks like presents :D",
 			"highlightsMeta": [
-				"ficsmas"
+				"ficsmas",
+				"weatherwax",
+				"no team"
 			]
 		}
 	],
@@ -1770,9 +1914,9 @@
 			"highlightsMeta": [
 				"desert mountain plateaus",
 				"night time",
+				"tower",
 				"team hover pack",
-				"team mug",
-				"tower"
+				"team mug"
 			]
 		}
 	],
@@ -1789,7 +1933,8 @@
 				"architecture",
 				"ficsmas",
 				"train station",
-				"viaduct"
+				"viaduct",
+				"no team"
 			]
 		},
 		{
@@ -1797,7 +1942,8 @@
 			"alt": "The original, in Cincinnati Ohio",
 			"highlightsMeta": [
 				"architecture",
-				"train station"
+				"train station",
+				"no team"
 			]
 		}
 	],
@@ -1810,7 +1956,8 @@
 		{
 			"src": "https://i.redd.it/pmworaorr1481.png",
 			"highlightsMeta": [
-				"ficsmas"
+				"ficsmas",
+				"no team"
 			]
 		}
 	],
@@ -1824,10 +1971,12 @@
 			"src": "https://i.redd.it/2cdn8sp5mh381.png",
 			"alt": "Look whos coming!",
 			"highlightsMeta": [
+				"northern forest",
 				"ficsmas",
 				"factory cart",
 				"foundation patterns",
-				"tractor"
+				"tractor",
+				"no team"
 			]
 		}
 	],
@@ -1843,9 +1992,10 @@
 				"cityscape",
 				"ficsmas",
 				"night time",
-				"team hover pack",
 				"signs",
-				"space elevator"
+				"space elevator",
+				"train signals",
+				"team hover pack"
 			]
 		}
 	],
@@ -1875,8 +2025,10 @@
 			"src": "https://i.redd.it/sq4qopw91r281.png",
 			"alt": "From my family to yours <3",
 			"highlightsMeta": [
+				"spire coast",
 				"ficsmas",
-				"lizard doggo"
+				"lizard doggo",
+				"no team"
 			]
 		}
 	],
@@ -1889,10 +2041,10 @@
 		{
 			"src": "https://i.redd.it/p1fa44pa6k281.jpg",
 			"highlightsMeta": [
-				"team hover pack",
-				"team mug",
 				"signs",
-				"train station"
+				"train station",
+				"team hover pack",
+				"team mug"
 			]
 		}
 	],
@@ -1907,7 +2059,8 @@
 			"alt": "Don't mind me, I'm just endlessly placing glass",
 			"highlightsMeta": [
 				"northern forest",
-				"viaduct"
+				"viaduct",
+				"no team"
 			]
 		}
 	],
@@ -1938,7 +2091,8 @@
 			"alt": "Pipe mandala",
 			"highlightsMeta": [
 				"green valley",
-				"art"
+				"art",
+				"no team"
 			]
 		}
 	],
@@ -1952,7 +2106,8 @@
 			"src": "https://i.redd.it/bkmicq5i8l281.png",
 			"alt": "Ficsit delivering entertainment to Pioneers. -Scrabbleit-",
 			"highlightsMeta": [
-				"games"
+				"games",
+				"no team"
 			]
 		}
 	],
@@ -1967,6 +2122,7 @@
 			"alt": "Oh my God, what have I done? Nahh it will be fun to build all back",
 			"highlightsMeta": [
 				"grass fields arch",
+				"repetition",
 				"team zipline"
 			]
 		}
@@ -1981,6 +2137,7 @@
 			"src": "https://i.redd.it/em22tukuuj281.png",
 			"alt": "New player blues...",
 			"highlightsMeta": [
+				"art",
 				"team nut"
 			]
 		}
@@ -1997,7 +2154,8 @@
 			"highlightsMeta": [
 				"art",
 				"cityscape",
-				"signs"
+				"signs",
+				"no team"
 			]
 		}
 	],
@@ -2014,7 +2172,8 @@
 				"dune desert",
 				"signs",
 				"tractor",
-				"outpost"
+				"outpost",
+				"no team"
 			]
 		}
 	],
@@ -2024,14 +2183,16 @@
 			"alt": "Nighttime",
 			"highlightsMeta": [
 				"art",
-				"night time"
+				"night time",
+				"no team"
 			]
 		},
 		{
 			"src": "https://i.redd.it/w27v10k68n281.png",
 			"alt": "From the inside. Removed all wall floods for the screenshot.",
 			"highlightsMeta": [
-				"art"
+				"art",
+				"no team"
 			]
 		}
 	],
@@ -2046,7 +2207,8 @@
 			"alt": "Combining multiple sizes of sign for complex displays is quite refreshing.",
 			"highlightsMeta": [
 				"northern forest",
-				"signs"
+				"signs",
+				"no team"
 			]
 		}
 	],
@@ -2061,7 +2223,9 @@
 			"alt": "Just a little house in the woods",
 			"highlightsMeta": [
 				"western dune forest",
-				"architecture"
+				"architecture",
+				"nature",
+				"no team"
 			]
 		}
 	],
@@ -2076,7 +2240,8 @@
 			"alt": "Huh...",
 			"highlightsMeta": [
 				"factory cart",
-				"hub"
+				"hub",
+				"no team"
 			]
 		}
 	],
@@ -2085,7 +2250,9 @@
 			"src": "https://i.redd.it/3qsy506ymi281.png",
 			"alt": "Main View",
 			"highlightsMeta": [
-				"northern forest"
+				"northern forest",
+				"nature",
+				"no team"
 			]
 		},
 		{
@@ -2093,7 +2260,10 @@
 			"alt": "Bridge",
 			"highlightsMeta": [
 				"northern forest",
-				"signs"
+				"nature",
+				"signs",
+				"manta",
+				"no team"
 			]
 		}
 	],
@@ -2111,7 +2281,8 @@
 				"night time",
 				"explorer",
 				"foundation patterns",
-				"signs"
+				"signs",
+				"team mug"
 			]
 		}
 	],
@@ -2121,7 +2292,8 @@
 			"alt": "Full thing including food court",
 			"highlightsMeta": [
 				"northern forest",
-				"space elevator"
+				"space elevator",
+				"no team"
 			]
 		},
 		{
@@ -2129,7 +2301,8 @@
 			"alt": "Closer up",
 			"highlightsMeta": [
 				"northern forest",
-				"space elevator"
+				"space elevator",
+				"no team"
 			]
 		},
 		{
@@ -2137,7 +2310,8 @@
 			"alt": "The core",
 			"highlightsMeta": [
 				"northern forest",
-				"space elevator"
+				"space elevator",
+				"no team"
 			]
 		},
 		{
@@ -2146,7 +2320,8 @@
 			"highlightsMeta": [
 				"northern forest",
 				"glitch",
-				"space elevator"
+				"space elevator",
+				"team hover pack"
 			]
 		}
 	],
@@ -2161,7 +2336,8 @@
 			"alt": "May the skeleton of the copper sheet come to life. Live my pretty live!!! #science",
 			"highlightsMeta": [
 				"eastern dune forest",
-				"weatherwax"
+				"weatherwax",
+				"no team"
 			]
 		}
 	],
@@ -2192,7 +2368,8 @@
 			"alt": "Embiggened Hype Tube",
 			"highlightsMeta": [
 				"rocky desert",
-				"pixel art"
+				"pixel art",
+				"no team"
 			]
 		}
 	],
@@ -2202,7 +2379,8 @@
 			"alt": "Day view from the side",
 			"highlightsMeta": [
 				"snaketree forest",
-				"bridge"
+				"bridge",
+				"no team"
 			]
 		},
 		{
@@ -2210,15 +2388,19 @@
 			"alt": "Day view from on the bridge itelf",
 			"highlightsMeta": [
 				"snaketree forest",
+				"foundation patterns",
+				"signs",
 				"bridge",
-				"roads"
+				"roads",
+				"no team"
 			]
 		},
 		{
 			"src": "https://i.redd.it/wzqm30qao9181.jpg",
 			"alt": "The real Jacques Cartier Bridge",
 			"highlightsMeta": [
-				"bridge"
+				"bridge",
+				"no team"
 			]
 		},
 		{
@@ -2227,7 +2409,8 @@
 			"highlightsMeta": [
 				"snaketree forest",
 				"night time",
-				"bridge"
+				"bridge",
+				"no team"
 			]
 		}
 	],
@@ -2243,8 +2426,14 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"foundation patterns",
+				"pipes",
+				"signs",
+				"train",
+				"train signals",
+				"truck",
 				"outpost",
-				"viaduct"
+				"viaduct",
+				"no team"
 			]
 		}
 	],
@@ -2258,8 +2447,10 @@
 			"src": "https://i.redd.it/nqs994jjtbz71.png",
 			"alt": "Loving the new big text signs",
 			"highlightsMeta": [
+				"pipes",
 				"signs",
-				"oil plant"
+				"oil plant",
+				"no team"
 			]
 		}
 	],
@@ -2274,8 +2465,8 @@
 			"alt": "You've said Beams ?",
 			"highlightsMeta": [
 				"architecture",
-				"team mug",
-				"radar tower"
+				"radar tower",
+				"team mug"
 			]
 		}
 	],
@@ -2290,7 +2481,8 @@
 			"alt": "The view from the rear",
 			"highlightsMeta": [
 				"rocky desert",
-				"outpost"
+				"outpost",
+				"no team"
 			]
 		}
 	],
@@ -2304,9 +2496,9 @@
 			"src": "https://i.redd.it/9b2ikfnlr2z71.jpg",
 			"alt": "WIP - Aeris Oil Refinery",
 			"highlightsMeta": [
-				"team mug",
 				"signs",
-				"oil plant"
+				"oil plant",
+				"team mug"
 			]
 		}
 	],
@@ -2321,8 +2513,9 @@
 			"alt": "Everyone seemed to like the exterior and wanted to see the interior. Well here it is along with a finished exterior. The building now produces power.",
 			"highlightsMeta": [
 				"dune desert",
-				"team hover pack",
-				"outpost"
+				"outpost",
+				"power storage bank",
+				"team hover pack"
 			]
 		}
 	],
@@ -2333,7 +2526,8 @@
 			"highlightsMeta": [
 				"crater lakes",
 				"northern forest",
-				"crane"
+				"crane",
+				"no team"
 			]
 		},
 		{
@@ -2341,7 +2535,8 @@
 			"alt": "OOOH it's a crane operator",
 			"highlightsMeta": [
 				"art",
-				"crane"
+				"crane",
+				"no team"
 			]
 		},
 		{
@@ -2349,7 +2544,8 @@
 			"alt": "Train Conducter spotted :)",
 			"highlightsMeta": [
 				"art",
-				"crane"
+				"crane",
+				"no team"
 			]
 		}
 	],
@@ -2365,7 +2561,8 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"architecture",
-				"outpost"
+				"outpost",
+				"no team"
 			]
 		}
 	],
@@ -2381,7 +2578,9 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"cityscape",
-				"night time"
+				"night time",
+				"signs",
+				"no team"
 			]
 		},
 		{
@@ -2392,7 +2591,8 @@
 				"explorer",
 				"foundation patterns",
 				"signs",
-				"truck"
+				"truck",
+				"no team"
 			]
 		},
 		{
@@ -2402,10 +2602,14 @@
 				"rocky desert",
 				"cityscape",
 				"night time",
+				"cyber wagon",
 				"explorer",
 				"foundation patterns",
+				"radar tower",
 				"signs",
-				"truck"
+				"truck",
+				"roads",
+				"no team"
 			]
 		}
 	],
@@ -2418,7 +2622,11 @@
 		{
 			"src": "https://i.redd.it/r6iencrn89z71.jpg",
 			"alt": "Presenting, Ficsit League! Play today!",
-			"skip": false
+			"highlightsMeta": [
+				"games",
+				"explorer",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/quzoxi/blue_for_iron_products/": [
@@ -2430,7 +2638,13 @@
 		{
 			"src": "https://i.redd.it/oqjluiz60wz71.png",
 			"alt": "Blue for iron products.",
-			"skip": false
+			"highlightsMeta": [
+				"northern forest",
+				"tractor",
+				"outpost",
+				"roads",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/quyz4k/smelter_lean_to/": [
@@ -2442,14 +2656,20 @@
 		{
 			"src": "https://i.redd.it/roq8gt6bsvz71.png",
 			"alt": "Smelter Lean To",
-			"skip": false
+			"highlightsMeta": [
+				"team mug"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/qumw0i/got_149_fuel_generators_to_fit_on_a_30x30/": [
 		{
 			"src": "https://i.redd.it/020o8m54ysz71.jpg",
 			"alt": "This is TOIGHT",
-			"skip": false
+			"highlightsMeta": [
+				"spire coast",
+				"fuel plant",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/qsii2y/steel_factory_u5_is_amazing/": [
@@ -7116,7 +7336,9 @@
 			"alt": "Glad my truck's okay! Was getting worried...",
 			"highlightsMeta": [
 				"dune desert",
-				"flying vehicles"
+				"flying vehicles",
+				"bean",
+				"no team"
 			]
 		}
 	],
@@ -7129,8 +7351,10 @@
 		{
 			"src": "https://i.redd.it/jumtsrfoibe61.png",
 			"highlightsMeta": [
-				"team mug",
-				"bridge"
+				"tubes",
+				"bridge",
+				"outpost",
+				"team mug"
 			]
 		}
 	],
@@ -7146,8 +7370,9 @@
 			"highlightsMeta": [
 				"grass fields arch",
 				"cityscape",
-				"team mug",
-				"radar tower"
+				"radar tower",
+				"bean",
+				"team mug"
 			]
 		}
 	],
