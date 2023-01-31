@@ -1,4 +1,343 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/svjmre/server_hub_restock/": [
+		{
+			"src": "https://preview.redd.it/kyolre3gtli81.png?width=640&crop=smart&auto=webp&s=d153a92281a9a9be45771b7f27662d323c59d03b",
+			"alt": "Server HUB Restock",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kyolre3gtli81.png",
+			"alt": "Server HUB Restock",
+			"highlightsMeta": [
+				"interior",
+				"personal crate",
+				"warehouse",
+				"team nut"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/svrwnp/main_base_so_far_wip/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/VTiaDgvPxgV8VTuFf8W7jLWIYSIAVEIAlrz3PyQfUbE.jpg",
+			"alt": "Main base so far - WIP",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bbz5wrqekni81.png",
+			"alt": "It produces the most basic items and the first three Project Assembly Parts.",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"train signals",
+				"truck",
+				"viaduct",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/t4om7dqekni81.png",
+			"alt": "It is accessible by truck. Ressources are brought in by belts, not trucks.",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"lights",
+				"truck",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sv3uhh/minimalist_concrete_railroad_tracks/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/1wWMNBeGNnp8Aqa5lEz4m2SMI-xUU9E2QDLL2ab_Mxo.jpg",
+			"alt": "Minimalist concrete railroad tracks",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kvbobud3jhi81.jpg",
+			"alt": "Curved tracks along the cliffs",
+			"highlightsMeta": [
+				"train",
+				"train signals",
+				"bridge",
+				"viaduct",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sxtxgx/one_more_factory_completed_in_my_world/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/2bO14kruz7jWbW44ay3qpYkWbgyja6EqfYSrhOoM_Is.jpg",
+			"alt": "One more factory completed in my world!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ytqu7zcex6j81.jpg",
+			"highlightsMeta": [
+				"western dune forest",
+				"architecture",
+				"nature",
+				"pipes",
+				"train",
+				"train station",
+				"team hover pack",
+				"team mug"
+			]
+		},
+		{
+			"src": "https://i.redd.it/9guyzn8gx6j81.jpg",
+			"highlightsMeta": [
+				"western dune forest",
+				"architecture",
+				"manifold",
+				"nature",
+				"pipes",
+				"truck",
+				"team hover pack",
+				"team mug"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sxt4ew/three_tower_suspension_bridge_1800m_long/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/9P-HYA2zU8ktxDv-9RBZGXDmBVtotDMvhLdsdO_P7CE.jpg",
+			"alt": "Three tower suspension bridge 1800m long",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/u1jvf8veuyi81.png",
+			"highlightsMeta": [
+				"dune desert",
+				"swamp",
+				"lights",
+				"train",
+				"bridge",
+				"team golden mug",
+				"team hover pack"
+			]
+		},
+		{
+			"src": "https://i.redd.it/odho6wsfuyi81.png",
+			"highlightsMeta": [
+				"swamp",
+				"train",
+				"bridge",
+				"team golden mug",
+				"team hover pack"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sua9d1/wip_just_started_up_my_diluted_fuel_station_1600/": [
+		{
+			"src": "https://preview.redd.it/t7miv7848ai81.png?width=640&crop=smart&auto=webp&s=1bbfffcc2e5b2f32339009f20364d7a43a649fb7",
+			"alt": "WIP just started up my diluted fuel station 1600/ min",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/t7miv7848ai81.png",
+			"alt": "WIP just started up my diluted fuel station 1600/ min",
+			"highlightsMeta": [
+				"interior",
+				"lights",
+				"fuel plant",
+				"team mug"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/svn1y4/my_coal_power_station_need_to_unlock_plastic_for/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/Log9fA1dYTV7MMMpVNZd0U-ewwDhm-egnXrJrBXJeQ4.jpg",
+			"alt": "My coal power station.. Need to unlock plastic for coated foundations and crystal oscillators for signs before the design is completed. 6000MW of power. Also need to unlock MK 4 belts to get enough coal. The 4 normal coal nodes is perfect amount for 80 generators on MK2 miner/MK 4 belts.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ql2kicrwhmi81.png",
+			"alt": "My coal power plant",
+			"highlightsMeta": [
+				"green valley",
+				"glass",
+				"coal plant",
+				"team mug"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sxfght/art_studio/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/8il3gdKDIHsXaYucmVSWRRih27tHLpUq_tc4BNCK7bQ.jpg",
+			"alt": "Art Studio!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/msi9o78hv2j81.png",
+			"highlightsMeta": [
+				"architecture",
+				"art",
+				"interior",
+				"lights",
+				"signs",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sxjnhb/laying_pipe_is_very_satisfying/": [
+		{
+			"src": "https://preview.redd.it/oodyifghx3j81.png?width=640&crop=smart&auto=webp&s=70ae01ea9150dc216f348b6a6f9c1e361e1e9ae5",
+			"alt": "Laying pipe is very Satisfying.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/oodyifghx3j81.png",
+			"alt": "Laying pipe is very Satisfying.",
+			"highlightsMeta": [
+				"interior",
+				"manifold",
+				"lights",
+				"pipes",
+				"team mug"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sv0va9/storage_visual_upgrade_thanks_to_pobkac/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Vm-5l-TAV32E6rNYOeiMVEhUYJ-6FaOemvR5hmHkxjI.jpg",
+			"alt": "storage - visual upgrade thanks to pobkac!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xopnktgwvgi81.png",
+			"highlightsMeta": [
+				"western beaches",
+				"architecture",
+				"art",
+				"outpost",
+				"warehouse",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sx0oet/150_hrs_in_factory_must_groww/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/0SwXpydISsEXjFTKCFub-zWUQ4v1WgyCg32rP5whf-U.jpg",
+			"alt": "150 hrs in.... Factory Must Groww!!!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ygwwo8mpjzi81.png",
+			"highlightsMeta": [
+				"northern forest",
+				"rocky desert",
+				"green valley",
+				"foundation patterns",
+				"lights",
+				"space elevator",
+				"tractor",
+				"truck station",
+				"coal plant",
+				"outpost",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sy9e1r/needed_a_quick_and_easy_little_bridge_for_the/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/A01udurK_-OKQ9r_IU1VBUEMUm-AgtIIwEfiMwLiPn8.jpg",
+			"alt": "Needed a quick and easy little bridge for the quartz train... few days later it ended up in that construction:",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/oreg9fif1aj81.png",
+			"highlightsMeta": [
+				"red jungle",
+				"bridge",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/3eych1mj1aj81.png",
+			"highlightsMeta": [
+				"lights",
+				"train",
+				"bean",
+				"bridge",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sw1mgf/starship_reactor/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/xpy0IfourU_jsxUzjjzWzE-fRNnnCc24AJKZyzs8eh0.jpg",
+			"alt": "Starship: Reactor",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/lnu49xq8ypi81.jpg",
+			"highlightsMeta": [
+				"interior",
+				"modded",
+				"spaceship",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sxhhov/central_depths_nuclear_plant_reprocessing_core_20/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/RVYHTdQf1ek5hvzsNY1RQdgfXsDVQ8yvbl_DedlJGzM.jpg",
+			"alt": "Central Depths Nuclear Plant: Reprocessing Core 2.0",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/un6e7tuvc3j81.jpg",
+			"alt": "Interior",
+			"highlightsMeta": [
+				"glass",
+				"interior",
+				"pipes",
+				"signs",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/impj0ha0d3j81.jpg",
+			"highlightsMeta": [
+				"glass",
+				"interior",
+				"pipes",
+				"signs",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/32ez1y91d3j81.jpg",
+			"highlightsMeta": [
+				"glass",
+				"modded",
+				"lights",
+				"particle accelerator",
+				"nuclear plant",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/sxx0vp/hello_pioneers_today_i_finished_my_train_station/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/Te3Pz3SyVkAViKRZo57z_h5xVKd9K7MZXV9JJARgqX4.jpg",
+			"alt": "Hello Pioneers :) Today i finished my train station for the \"Packaged Fuel/Power Plant\" (u can see it behind the station). The Train Station is combined with a Truck-Refill Station. I wish u all an good day :)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jlzfdwfxl7j81.png",
+			"highlightsMeta": [
+				"glass",
+				"foundation patterns",
+				"lights",
+				"train station",
+				"outpost",
+				"roads",
+				"no team"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/ssbtrz/gold_coast_refinery_1800_cude_oil_to_5400/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/s-JQ3XE7g1QQjj8qt1uLb3IhSrY9I3x0SDu3gB0Wa2M.jpg",
@@ -926,7 +1265,6 @@
 		},
 		{
 			"src": "https://i.redd.it/168uw4umbmd81.png",
-			"localSrc": "98645192aadc6b1a09e2f7a7074fa0dab03dbfe2851769b543452d3f658f05571b352d1a6d6ba87f9b3e39eee0c85e94b28bd0bdb780c922a2f145d42e0d18dc.png",
 			"highlightsMeta": [
 				"sunrise/sunset",
 				"belts",
@@ -944,7 +1282,6 @@
 		},
 		{
 			"src": "https://i.redd.it/5v3yn9z0wcc81.png",
-			"localSrc": "58b955fe45f27fe457c41935fd23b3a9bf46cd649120ad0d41a7f87309bbf11029be3989dea1a924694bf4722f968fa143c57f2d93d0aebdbc42b2e4f2f33a2a.png",
 			"alt": "I just added the copper building at the bottom right today. All it makes are ingots.",
 			"highlightsMeta": [
 				"green valley",
@@ -965,7 +1302,6 @@
 		},
 		{
 			"src": "https://i.redd.it/53rv7jeptqc81.png",
-			"localSrc": "b6b5233b30a6e3d715bf1a44b400c2bc3ff7153bcaa3723ea83ee89ea69b797331480fbb591ff6a258cab061206516fdaa1c2d8d9b27ab41a299e4a31a195f93.png",
 			"alt": "Made some ads for the various regions in my save. Sometimes you just need to drum up tourism.",
 			"highlightsMeta": [
 				"signs",
@@ -981,7 +1317,6 @@
 		},
 		{
 			"src": "https://i.redd.it/18m9qogir5d81.png",
-			"localSrc": "53bee248a8d25c6e8cd998be0a979a1062a925550e34fda49b1314bd51383d58c2f8233627337db40c8b06e2d1fdb6c16818709b2e69c408347cf9c895498ad9.png",
 			"highlightsMeta": [
 				"grass fields",
 				"team mug"
@@ -990,6 +1325,8 @@
 		{
 			"src": "https://i.redd.it/4zjnptgir5d81.png",
 			"highlightsMeta": [
+				"interior",
+				"manifold",
 				"team mug"
 			]
 		}
@@ -1008,6 +1345,7 @@
 				"cityscape",
 				"explorer",
 				"foundation patterns",
+				"lights",
 				"roads",
 				"no team"
 			]

@@ -11,6 +11,55 @@
 			"skip": false
 		}
 	],
+	"https://twitter.com/DetailedPico/status/1495917272849858565": [
+		{
+			"src": "https://pbs.twimg.com/media/FMKQ0KLWYAQtugh.jpg",
+			"highlightsMeta": [
+				"glass",
+				"space elevator",
+				"tower",
+				"train station",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FMKQ0hnXsAEnutc.jpg",
+			"highlightsMeta": [
+				"northern forest",
+				"tower",
+				"train station",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FMKQ08MXwAEHEi8.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FMKQ1OsXMAIQOZ3.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Fjorim1/status/1493680969634791428": [
+		{
+			"src": "https://pbs.twimg.com/media/FLqeeFVXMAATB1l.jpg",
+			"highlightsMeta": [
+				"signs",
+				"tower",
+				"team hover pack"
+			]
+		}
+	],
+	"https://twitter.com/PerforatedS/status/1493403121296580609": [
+		{
+			"src": "https://pbs.twimg.com/media/FLmiFg9XMAUDjN9.jpg",
+			"highlightsMeta": [
+				"glitch",
+				"belts",
+				"no team"
+			]
+		}
+	],
 	"https://twitter.com/Catafly7/status/1492511097995542529": [
 		{
 			"src": "https://pbs.twimg.com/media/FLZ26XpakAE-FQN.jpg",
@@ -1955,13 +2004,18 @@
 	"https://twitter.com/PerforatedS/status/1366227631914508294": [
 		{
 			"src": "https://pbs.twimg.com/media/EvXQykGXYAQ-rq0.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"games",
+				"outpost",
+				"team hands"
+			]
 		}
 	],
 	"https://twitter.com/Lolipopgi_/status/1365695002593144835": [
 		{
 			"src": "https://pbs.twimg.com/media/EvPsBc-XcAIKSgG.jpg",
-			"localSrc": "97a47e747165792a9b7e9e427d700410606b675c483a069ea5c04f7edf7cdb4130e1889da484072851b64c2e875687bfe71907bba6e2fc43a4cd74c09bb8df59.jpg",
 			"highlightsMeta": [
 				"titan forest",
 				"nature",
@@ -1974,7 +2028,6 @@
 	"https://twitter.com/Smerkin5000/status/1365099636822712321": [
 		{
 			"src": "https://pbs.twimg.com/media/EvHOgJDUcAEV5MF.jpg",
-			"localSrc": "75494ee39a523fd5a7a1d306ba9ef90da65bfc16a0bf6b65e674c3541655f1165b8e716e1d9eb69870abe60f72f9fe56aab27af81dcf8fa9c4c9a36f8bfa8340.jpg",
 			"highlightsMeta": [
 				"grass fields",
 				"space elevator",
@@ -1987,9 +2040,9 @@
 	"https://twitter.com/bewacky01/status/1364856931987382274": [
 		{
 			"src": "https://pbs.twimg.com/media/EvDyJRQWQAE_qfF.jpg",
-			"localSrc": "f126720d262692580672898e66f41998b404169cd3157b0780f3cfd8db9e9a2dd848aedca56de426b082ecc6b4c67fd064be82eca163000536cc08c07bb10128.jpg",
 			"highlightsMeta": [
 				"grass fields",
+				"glass",
 				"space elevator",
 				"outpost",
 				"no team"
@@ -1999,7 +2052,6 @@
 	"https://twitter.com/itsjymmi/status/1366536185095606274": [
 		{
 			"src": "https://pbs.twimg.com/media/EvbpLHyXcAMh2I-.jpg",
-			"localSrc": "aa40e504312b2d3a0e0a305ef00ca5a63d4b1d046c806ee87d721443571d63b4a41898288d157ae8052c423f032a03f11a125b8b5a13b467514b2b5c175dc83c.jpg",
 			"highlightsMeta": [
 				"space elevator",
 				"manta",
@@ -2011,7 +2063,6 @@
 	"https://twitter.com/vsbmeza3/status/1358755756217159681": [
 		{
 			"src": "https://pbs.twimg.com/media/EttFBM7XcAgf0Km.jpg",
-			"localSrc": "2b4342981dc821c31bad76833e4c870e8be78935bcc6bbc9c00f3a7f87fa58c4a6def6976da44fac57793f1e7a7bf348ef7226d16d04de6bb01a9fe241590d05.jpg",
 			"highlightsMeta": [
 				"repetition",
 				"belts",
@@ -2038,7 +2089,6 @@
 	"https://twitter.com/FTLNewsFeed/status/1354949768762560516": [
 		{
 			"src": "https://pbs.twimg.com/media/Es2_YV7WMAogHyN.jpg",
-			"localSrc": "a33b50b31adeae4e5df9a2bfd673d852c51a6b7a8274effe9f3d9f52157c8bd36fbad987d4726a0095373eb7af6953eb7e95f3e43ef864b10f8865efdad35560.jpg",
 			"highlightsMeta": [
 				"signs",
 				"no team"
@@ -2048,7 +2098,6 @@
 	"https://twitter.com/Smerkin5000/status/1356041643703496705": [
 		{
 			"src": "https://pbs.twimg.com/media/EtGgeRKVEAEuuOO.jpg",
-			"localSrc": "5001a5f28cef018b590e43850e852c187516e20efa37e1f679ea20e8459eb972d5a72d540066282875ea98c3a90e601a35bfcda51346f0ab3c45752065b2868a.jpg",
 			"highlightsMeta": [
 				"belts",
 				"no team"
@@ -2058,7 +2107,6 @@
 	"https://twitter.com/_Paddy404_/status/1335595499085312006": [
 		{
 			"src": "https://pbs.twimg.com/media/Eoj80R3XEAALWfF.jpg",
-			"localSrc": "9732563416cdcc7c9628c531d191d0af9a83bf219718a2f6ccd83fdfd2d85332b9ae233264b459fc6649b831d966ea65d9aeecc772fa5665d797f2540d7bc3e1.jpg",
 			"highlightsMeta": [
 				"cityscape",
 				"sunrise/sunset",
@@ -2070,7 +2118,6 @@
 	"https://twitter.com/Cobalt_Valkyrie/status/1336739255574437888": [
 		{
 			"src": "https://pbs.twimg.com/media/Eo0NOwRVgAA2oO0.jpg",
-			"localSrc": "67456c5256fdbb4f780b6bd0c05f1495321bd5b9869d7987b13c09f793a5855757a38a128bfe091991b265871e66129586b94875d7a46f46a22d37c1b7bfab52.jpg",
 			"highlightsMeta": [
 				"manifold",
 				"repetition",
@@ -2081,11 +2128,12 @@
 	"https://twitter.com/The_Scalti/status/1351187824394043393": [
 		{
 			"src": "https://pbs.twimg.com/media/EsBiCYxW8AcV1Ch.jpg",
-			"localSrc": "89b7a9612d5576e3f1a3a524312f54af9371cd3fd3fdf7c95973c23005c0e166c10c2b577aaa688370844f6119f25b6a1a83edd9f4c253b0b7c9ab0d33be8526.jpg",
 			"highlightsMeta": [
 				"green valley",
 				"the gates of beugernath",
 				"architecture",
+				"glass",
+				"interior",
 				"manifold",
 				"belts",
 				"no team"
@@ -2095,7 +2143,6 @@
 	"https://twitter.com/duck1123/status/1342164560443273218": [
 		{
 			"src": "https://pbs.twimg.com/media/EqBTemzXEAMq0Sj.jpg",
-			"localSrc": "8b31bb9ef4efce4c63c31ed28fccedd0cbd3254ce1eb3b5cf3d706cf99e6dc3fee83548efa78cfcddb4db4ae5f673c63f3b57c2f40b0388bd8843c42292a737f.jpg",
 			"highlightsMeta": [
 				"ficsmas",
 				"radar tower",
@@ -2108,8 +2155,8 @@
 	"https://twitter.com/Reddo01556549/status/1347616660493127681": [
 		{
 			"src": "https://pbs.twimg.com/media/ErOyBPfXMAACt4A.jpg",
-			"localSrc": "e1268fc374b8dcf056bd79ea7ef95df4406135570c324fd352c3885557333028882de7225c664ff5a9ee080efe3e7378494f3599f4345e7c074105f625292897.jpg",
 			"highlightsMeta": [
+				"glass",
 				"manifold",
 				"modded",
 				"tower",
@@ -2124,7 +2171,6 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/EqtcqUtVoAIjyjL.jpg",
-			"localSrc": "4436147d80e16cd8858f4e247c0207171d299e19d68fce34e2b471ee301761e32f0e8c059513a986e4dab6e3ee368b8f458b8761dcc1f0e0ef9d27f50150d923.jpg",
 			"highlightsMeta": [
 				"blue crater",
 				"belts",
@@ -2137,7 +2183,6 @@
 	"https://twitter.com/Daddycr0n/status/1348377075305082889": [
 		{
 			"src": "https://pbs.twimg.com/media/ErZlA4_XEAMCHjC.jpg",
-			"localSrc": "906b980f830921a58147fae902819f30c9c4cb2ce9fad339319763e6fb4a79aeec308ff218831e7d971f0e84434eb10079580b7fc7b0e6bf93ff84d74fabd786.jpg",
 			"highlightsMeta": [
 				"architecture",
 				"belts",
@@ -2151,7 +2196,6 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/ErZlA5AXMAIBbeb.jpg",
-			"localSrc": "9dff08ce86eec89b8cd6a4def771e9fcc23830a40c065d9d54ee10bc6d6638a01535174d653562a8177fe008fe28abf40cfdf75c54e73ad2decf4c79fb2bb0ef.jpg",
 			"highlightsMeta": [
 				"rocky desert",
 				"architecture",
@@ -2167,7 +2211,6 @@
 	"https://twitter.com/Smerkin5000/status/1338174723369275393": [
 		{
 			"src": "https://pbs.twimg.com/media/EpImgvYVgAAWw81.jpg",
-			"localSrc": "5fddd1e3b294ae88ac3e013358c88506747595cdac57761ab19dd22312dc94051cdb2469d8270af9489229dfec13bb3ae9a4c08ef336b73c3ef8da05301b97e9.jpg",
 			"highlightsMeta": [
 				"architecture",
 				"space elevator",
@@ -2178,7 +2221,6 @@
 	"https://twitter.com/BW48_game/status/1338683101451411456": [
 		{
 			"src": "https://pbs.twimg.com/media/EpP0jjRU8AAvZAt.jpg",
-			"localSrc": "93a3ac0df6eff921698d1f8e298085458faa9175f3245036b919cf6f89aec979e5360afc8496f49fd7ccec2b832bacff49e827227a4ef945f74509f3df907196.jpg",
 			"highlightsMeta": [
 				"desert mountain plateaus",
 				"ficsmas",
@@ -2198,7 +2240,6 @@
 	"https://twitter.com/elblat2/status/1338333269255835653": [
 		{
 			"src": "https://pbs.twimg.com/media/EpK20bkU8AYEwJz.jpg",
-			"localSrc": "9f2d45c14423b2db6004e9323551f5c5d3c02a49cbe0c389bf58f2fb4e786c42f734150c340b2b17984a2cdcdad1c24bf0b7ed36378bd5c0cdd93e667cbd424a.jpg",
 			"highlightsMeta": [
 				"grass fields",
 				"grass fields arch",
@@ -2211,7 +2252,6 @@
 	"https://twitter.com/KoshSheen/status/1337391584187457539": [
 		{
 			"src": "https://pbs.twimg.com/media/Eo9d5XCW4AAlD0H.jpg",
-			"localSrc": "4686e06fe80d8385d9bc01c30a051a0dc44002e0da7177550090577a649963c598b6267027b2cdfd58e754d7b8eace8f203ebc3cc8cf6602a845828546482d55.jpg",
 			"highlightsMeta": [
 				"western dune forest",
 				"ficsmas",
@@ -2236,9 +2276,9 @@
 	"https://twitter.com/Reddo01556549/status/1338757580097777667": [
 		{
 			"src": "https://pbs.twimg.com/media/EpQ4E9IW8AIdxAB.jpg",
-			"localSrc": "d3d96c2f7f7a16502cb4a2b574921dc3f44659a7554c9f65100fc8fdba41bfbb13a4d2e9bca51f5c9f97bab6580a3108bc5976647d6154717dd8ad268ab8da6e.jpg",
 			"highlightsMeta": [
 				"ficsmas",
+				"glass",
 				"modded",
 				"night time",
 				"signs",
@@ -2249,9 +2289,9 @@
 	"https://twitter.com/RespawnRepeat/status/1337506487975940096": [
 		{
 			"src": "https://pbs.twimg.com/media/Eo_Gmk_XEAUTomi.jpg",
-			"localSrc": "4cf5857d7d250318879fb10b79d691a9722eff8ecf8de5c44536d7181f5476b41a648ed352c69974060f0ef41a0deca057ed63588529c6b6f4086ab2e6020dca.jpg",
 			"highlightsMeta": [
 				"ficsmas",
+				"glass",
 				"night time",
 				"no team"
 			]
@@ -2260,9 +2300,10 @@
 	"https://twitter.com/The_Scalti/status/1335615781476954112": [
 		{
 			"src": "https://pbs.twimg.com/media/EokPRQRXEAI7l3B.jpg",
-			"localSrc": "c56eee54210a71969400603c32bc5aeec6b98a97d77921a284faaba95cf2da67a61ef4bca555a46c7029d0789e0a2e9f52a01050490d05161224a767ff509c67.jpg",
 			"highlightsMeta": [
 				"rocky desert",
+				"glass",
+				"interior",
 				"manifold",
 				"belts",
 				"outpost",
@@ -2273,7 +2314,6 @@
 	"https://twitter.com/MDisraeli/status/1336143442821476354": [
 		{
 			"src": "https://pbs.twimg.com/media/EorvHilWMAA5A7Y.jpg",
-			"localSrc": "511ef52183a4c09b5ebb52917772c53c9795b570644bdc68ebbe3135ce0cecb530924aa96b60a7ff5bffa2789b5698d032f70908fcafcd9e1550baca7327472b.jpg",
 			"highlightsMeta": [
 				"ficsmas",
 				"night time",
@@ -2284,7 +2324,6 @@
 	"https://twitter.com/SoenKigi/status/1335628125477232640": [
 		{
 			"src": "https://pbs.twimg.com/media/EokaeARWMAIIJA6.jpg",
-			"localSrc": "810e325d3c24ddd55a03afd964764fd802b0740e9e0ebfe13e6a5952125f20e19c7538a5c00f5b81ef4fd0019db17650d2ca3e88ddd67801d805878a49e9395f.jpg",
 			"highlightsMeta": [
 				"grass fields",
 				"ficsmas",
@@ -2294,7 +2333,6 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/Eokaf00WEAEgbG_.jpg",
-			"localSrc": "ed89f066d2ebd5b09a859442c6b368b6fcc0379177727e4de2e6f3ff34a943ddffb28d530994b0ea9efe3d2348fc7f5bdb50890adb4275315a0d6c6f3676ecbf.jpg",
 			"highlightsMeta": [
 				"grass fields",
 				"ficsmas",
@@ -2306,11 +2344,10 @@
 	"https://twitter.com/Smerkin5000/status/1332737201319202817": [
 		{
 			"src": "https://pbs.twimg.com/media/En7VCApVgAENirv.jpg",
-			"localSrc": "8c50e73c6d1c53f7513a539d1743957a9e29134d9fa87cdf982140a9005d2e3dea8cc5b0fff40ebebb27b5f862412ca30c7e8b142d372e8b8b2e10d8458271ba.jpg",
 			"highlightsMeta": [
 				"train",
-				"tower",
 				"train station",
+				"tower",
 				"no team"
 			]
 		}
@@ -2318,15 +2355,14 @@
 	"https://twitter.com/wolfan_ex/status/1333376402343620609": [
 		{
 			"src": "https://pbs.twimg.com/media/EoEaXD_UYAQVWsl.jpg",
-			"localSrc": "5ebcb5ea1f462f480b454a70cf853e6ae4fca5452d01ada606b810b9fd1ee7403433676c72f884b66e76ab317d1233029b769c7f190a4059fc99165304feffcf.jpg",
 			"highlightsMeta": [
+				"interior",
 				"statue gallery",
 				"no team"
 			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/EoEaZl7VgAAESvE.jpg",
-			"localSrc": "4cab42c00f24b9bbca8d1823f5e9695294b78b606b324cba56e5b4a9dfb9d47aafb3bd73bf32c8f9dab6301d6579d960292b7e66e03941e59fcd21310059ffb4.jpg",
 			"highlightsMeta": [
 				"statue gallery",
 				"no team"
@@ -2340,7 +2376,6 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/EoE_fM5UYAAgm17.jpg",
-			"localSrc": "4066d5928ef24a583418610aceafe2cb911be70362f4eb4d9825e6c6804bf92d42b4488ac800a8100c021dde4847e756e8e6de94757dfaf014626c762bec6e70.jpg",
 			"highlightsMeta": [
 				"rocky desert",
 				"sunrise/sunset",
@@ -2352,8 +2387,9 @@
 	"https://twitter.com/Reddo01556549/status/1332063001059463169": [
 		{
 			"src": "https://pbs.twimg.com/media/Enxv2CYXMAEUC8H.jpg",
-			"localSrc": "c54430f61f6f78f23ed57b4570cef7f719d56bd4189e5ac6f3973b4334bb98d98cc2a43b2a62c0f4804c695d92bab7db34619b5b06193d7732eef945a7422525.jpg",
 			"highlightsMeta": [
+				"glass",
+				"modded",
 				"lights",
 				"pipes",
 				"viaduct",
@@ -2362,8 +2398,8 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/Enxv4nHXcAMQFAP.jpg",
-			"localSrc": "29867fa3af9ce9f915670a2fff528157c782f1343ba11d6cf95d32a2324823f69ca5cedca34e69ec36792c0e8d6b3aebd035442e4e13ab78ee578746ad658b25.jpg",
 			"highlightsMeta": [
+				"glass",
 				"tower",
 				"viaduct",
 				"team mug"
@@ -2377,10 +2413,10 @@
 	"https://twitter.com/Reddo01556549/status/1331001781330075653": [
 		{
 			"src": "https://pbs.twimg.com/media/EnirAaqXEAE5g4Q.jpg",
-			"localSrc": "87af2ebf9d7f22f32dd0f6568a318659d351e2a474b620fc15017b45b07df3974523a0fc922c54f354c66908f0d1ba4e8f2bc960ee295fb4b0654b53352ec273.jpg",
 			"highlightsMeta": [
 				"cityscape",
 				"modded",
+				"lights",
 				"signs",
 				"tower",
 				"no team"
@@ -2390,7 +2426,6 @@
 	"https://twitter.com/Smerkin5000/status/1330931232704663552": [
 		{
 			"src": "https://pbs.twimg.com/media/EnhqLQwUwAMhyiU.jpg",
-			"localSrc": "2cc0be91c877ee2d9d73d83fc521c30236acbb044848720c0ccedd807dfe838cf0c24e36d515dd3487bb939d726ae066cd60d0e32cb1f10b8656f239d5d0f1ed.jpg",
 			"highlightsMeta": [
 				"glitch",
 				"explorer",
@@ -2401,7 +2436,6 @@
 	"https://twitter.com/jmaniscatharg/status/1325404339985289216": [
 		{
 			"src": "https://pbs.twimg.com/media/EmTINi-U4AEO1VX.jpg",
-			"localSrc": "ebe96032922c6395bdfa969910f68fe488cfc1e2c2330cf378cbd345f1254e8aeb061ced16062aac0c83b43c0412983856576163fd0be3f73ca1f2f4f27d102b.jpg",
 			"highlightsMeta": [
 				"desert canyons",
 				"sunrise/sunset",
@@ -2414,8 +2448,9 @@
 	"https://twitter.com/Samueras/status/1323404069428494338": [
 		{
 			"src": "https://pbs.twimg.com/media/El2ssQlX0AAOSko.jpg",
-			"localSrc": "ea45a6409194449f1686a87a0516df3ae2ea340bca4b8dadfd35d8334875dba06389cffcc22006cb060cdf11cb5af9db4e1aa2c4e120eb40840e06a989cfd847.jpg",
 			"highlightsMeta": [
+				"glass",
+				"interior",
 				"train station",
 				"no team"
 			]
@@ -2424,7 +2459,6 @@
 	"https://twitter.com/jmaniscatharg/status/1322726219612188673": [
 		{
 			"src": "https://pbs.twimg.com/media/EltEeBZU8AA5nYe.png",
-			"localSrc": "29866bbcdbf4e39b76d8f909d33ebf7c4ec8a564a439207309bc42d2389db3d62f5c8570495252fbd6f313eb04b1d844935456d543eb962dee49aae8127b8732.png",
 			"highlightsMeta": [
 				"parachute",
 				"personal crate",
