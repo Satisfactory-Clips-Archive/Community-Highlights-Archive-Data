@@ -43,10 +43,26 @@
 			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
 		},
 		"in-game things": {
-			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+			"type": "object",
+			"required": [
+				"buildings",
+				"vehicles",
+				"other"
+			],
+			"properties": {
+				"buildings": {
+					"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+				},
+				"vehicles": {
+					"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+				},
+				"other": {
+					"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+				}
+			},
 		},
 		"creatures": {
-			"$ref": "../../data/highlights-meta.json#/definitions/highlightsMeta"
+			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
 		},
 		"things players build": {
 			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
