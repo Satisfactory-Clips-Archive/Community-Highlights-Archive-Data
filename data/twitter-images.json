@@ -11,6 +11,60 @@
 			"skip": false
 		}
 	],
+	"https://twitter.com/MarcusDMueller/status/1496779580442816516": [
+		{
+			"src": "https://pbs.twimg.com/media/FMWfgTPXoAA_eFp.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FMWhByzWQAAbr66.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"robo jace",
+				"weatherwax",
+				"team golden mug"
+			]
+		}
+	],
+	"https://twitter.com/oskurd1/status/1497532466776756228": [
+		{
+			"src": "https://pbs.twimg.com/media/FMhNQiiXEAE79G1.jpg",
+			"highlightsMeta": [
+				"green valley",
+				"robo jace",
+				"manifold",
+				"outpost",
+				"no team"
+			]
+		}
+	],
+	"https://twitter.com/PerforatedS/status/1497763011494301697": [
+		{
+			"src": "https://pbs.twimg.com/media/FMkfK_yX0AEjIxm.jpg",
+			"highlightsMeta": [
+				"western beaches",
+				"robo jace",
+				"glass",
+				"pipes",
+				"viaduct",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FMkfK_zWQAobHcK.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FMkfK_xWQAQ0DSn.jpg",
+			"highlightsMeta": [
+				"western beaches",
+				"robo jace",
+				"blender",
+				"belts",
+				"no team"
+			]
+		}
+	],
 	"https://twitter.com/DetailedPico/status/1495917272849858565": [
 		{
 			"src": "https://pbs.twimg.com/media/FMKQ0KLWYAQtugh.jpg",
