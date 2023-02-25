@@ -24,6 +24,28 @@
 			]
 		}
 	],
+	"https://twitter.com/Racton_LP/status/1499420576552828930": [
+		{
+			"src": "https://pbs.twimg.com/media/FM8DDvhWQAQwgNH.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FM8DEAHXsAQMClT.jpg",
+			"highlightsMeta": [
+				"eastern dune forest",
+				"grass fields",
+				"robo jace",
+				"night time",
+				"space elevator",
+				"spaceship",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FM8DET_XIAUsVOR.jpg",
+			"skip": true
+		}
+	],
 	"https://twitter.com/MarcusDMueller/status/1496779580442816516": [
 		{
 			"src": "https://pbs.twimg.com/media/FMWfgTPXoAA_eFp.jpg",
