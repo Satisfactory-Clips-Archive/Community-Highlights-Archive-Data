@@ -7,6 +7,8 @@
 			"items": {
 				"type": "string",
 				"enum": [
+					"uncertain location",
+					"unknown location",
 					"abyss cliffs",
 					"blue crater",
 					"cave",
@@ -30,8 +32,6 @@
 					"swamp",
 					"the great canyon",
 					"titan forest",
-					"uncertain location",
-					"unknown location",
 					"western beaches",
 					"western dune forest",
 					"grass fields arch",

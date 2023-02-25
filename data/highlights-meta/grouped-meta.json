@@ -1,5 +1,9 @@
 {
 	"biomes": {
+		"ambiguity": [
+			"uncertain location",
+			"unknown location"
+		],
 		"zones": [
 			"abyss cliffs",
 			"blue crater",
@@ -24,14 +28,17 @@
 			"swamp",
 			"the great canyon",
 			"titan forest",
-			"uncertain location",
-			"unknown location",
 			"western beaches",
 			"western dune forest"
 		],
 		"subzones": {
 			"desert canyons": [
 				"the great canyon"
+			],
+			"dune desert": [
+				"desert canyons",
+				"desert mountain plateaus",
+				"dune desert"
 			],
 			"grass fields": [
 				"grass fields arch"
