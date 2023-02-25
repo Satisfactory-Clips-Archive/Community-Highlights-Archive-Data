@@ -6412,6 +6412,7 @@
 				"games",
 				"cables",
 				"lights",
+				"pipes",
 				"no team"
 			]
 		}
@@ -6429,6 +6430,7 @@
 				"dune desert",
 				"sunrise/sunset",
 				"drone",
+				"train",
 				"outpost",
 				"viaduct",
 				"no team"
@@ -6439,7 +6441,9 @@
 			"alt": "4.5 assembly directory systems a min. Floor 1 -3 then the fully completed factory building.",
 			"highlightsMeta": [
 				"dune desert",
+				"sunrise/sunset",
 				"drone",
+				"frames",
 				"outpost",
 				"viaduct",
 				"no team"
@@ -6451,6 +6455,7 @@
 			"src": "https://i.redd.it/9dxl6eyxs9i71.png",
 			"alt": "Everyone likes radiation",
 			"highlightsMeta": [
+				"spire coast",
 				"manifold",
 				"repetition",
 				"cables",
@@ -6465,9 +6470,11 @@
 			"src": "https://i.redd.it/ep1zpbbyxui71.png",
 			"alt": "You ok bro?",
 			"highlightsMeta": [
+				"uncertain location",
+				"glass",
 				"spaghett",
-				"belts",
 				"space elevator",
+				"belts",
 				"team zipline"
 			]
 		}
@@ -6482,7 +6489,9 @@
 			"src": "https://v.redd.it/2f2x5vx5hmi71/DASH_720.mp4@86.1",
 			"alt": "enjoy the ride.. :)",
 			"highlightsMeta": [
+				"unknown location",
 				"art",
+				"train station",
 				"train",
 				"no team"
 			]
@@ -6498,6 +6507,7 @@
 			"src": "https://i.redd.it/fhjt1cr2g7h71.png",
 			"alt": "It's not a bug, it's a feature!",
 			"highlightsMeta": [
+				"uncertain location",
 				"glitch",
 				"cityscape",
 				"explorer",
@@ -6512,7 +6522,7 @@
 			"alt": "Industrial revolution",
 			"highlightsMeta": [
 				"dune desert",
-				"beams",
+				"frames",
 				"pipes",
 				"tower",
 				"no team"
@@ -6522,7 +6532,9 @@
 			"src": "https://i.redd.it/uxi4wde1erh71.jpg",
 			"alt": "Industrial revolution",
 			"highlightsMeta": [
+				"uncertain location",
 				"spaghett",
+				"frames",
 				"cables",
 				"lights",
 				"pipes",
