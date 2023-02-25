@@ -6808,6 +6808,7 @@
 				"paradise island",
 				"architecture",
 				"coal plant",
+				"power storage bank",
 				"no team"
 			]
 		},
@@ -6815,6 +6816,7 @@
 			"src": "https://i.redd.it/bbzwmgvytah71.jpg",
 			"alt": "this had to be done..",
 			"highlightsMeta": [
+				"paradise island",
 				"coal plant",
 				"power storage bank",
 				"no team"
@@ -6824,6 +6826,8 @@
 			"src": "https://i.redd.it/6wpxkdvytah71.jpg",
 			"alt": "this had to be done..",
 			"highlightsMeta": [
+				"paradise island",
+				"interior",
 				"power storage bank",
 				"no team"
 			]
@@ -6841,6 +6845,8 @@
 			"highlightsMeta": [
 				"grass fields arch",
 				"spaghett",
+				"space elevator",
+				"manta",
 				"team build gun"
 			]
 		}
@@ -6855,7 +6861,8 @@
 			"src": "https://i.imgur.com/suoaB9C.jpeg",
 			"alt": "My first run at Satisfactory 3D prints",
 			"highlightsMeta": [
-				"art",
+				"unknown location",
+				"fan art",
 				"no team"
 			]
 		}
@@ -6870,10 +6877,13 @@
 			"src": "https://i.redd.it/kyziy6a9yeh71.jpg",
 			"alt": "External view on approach. Five floors, plus the roof. Produces 19.8 GW of power, as well as 25 fabric/min.",
 			"highlightsMeta": [
+				"rocky desert",
 				"western beaches",
-				"lights",
+				"glass",
 				"radar tower",
+				"train station",
 				"train",
+				"lights",
 				"outpost",
 				"no team"
 			]
@@ -6882,7 +6892,9 @@
 			"src": "https://i.redd.it/1o5hgpa9yeh71.jpg",
 			"alt": "View of the refinery floor from operations. 40 refineries (@50%) cover crude oil to heavy oil residue. Resin is fed into 10 fabric refineries. 16 blenders producing diluted fuel.",
 			"highlightsMeta": [
+				"unknown location",
 				"interior",
+				"manifold",
 				"blender",
 				"pipes",
 				"team mug"
@@ -6892,6 +6904,7 @@
 			"src": "https://i.redd.it/ssnb7ca9yeh71.jpg",
 			"alt": "One of two floors of 66 generators. Fuel pipes are ceiling mounted, and fed down into 3 sets of looping feed pipes. Ultimately, all the post-roof-buffer fuel system is connected.",
 			"highlightsMeta": [
+				"unknown location",
 				"glass",
 				"interior",
 				"pipes",
@@ -6903,7 +6916,9 @@
 			"src": "https://i.redd.it/rhtepca9yeh71.jpg",
 			"alt": "Side fluid buffers for fuel. The bottom 3 are for crude oil. 30 x 100 MWh batteries.",
 			"highlightsMeta": [
+				"rocky desert",
 				"spire coast",
+				"frames",
 				"lights",
 				"pipes",
 				"power storage bank",
