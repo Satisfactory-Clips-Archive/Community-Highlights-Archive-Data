@@ -2,13 +2,26 @@
 	"https://twitter.com/Smerkin5000/status/1265749051917524992": [
 		{
 			"src": "https://pbs.twimg.com/media/EZDXzgjUYAAWyaV.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"glass",
+				"tractor",
+				"hub",
+				"lizard doggo",
+				"tower",
+				"viaduct",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Smerkin5000/status/1259204889747402753": [
 		{
 			"src": "https://pbs.twimg.com/media/EXmYAmuVcAEvCFY.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"swamp",
+				"arachnophobia mode",
+				"team inhaler"
+			]
 		}
 	],
 	"https://twitter.com/MarcusDMueller/status/1496779580442816516": [
@@ -362,7 +375,12 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FKFI8hiWUAAiD83.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"desert mountain plateaus",
+				"dune desert",
+				"tower",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Total_Xclipse/status/1486467582886653952": [
@@ -380,11 +398,27 @@
 	"https://twitter.com/brandon98225/status/1484154199436763139": [
 		{
 			"src": "https://pbs.twimg.com/media/FJjGQNtVUAESs-r.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"spire coast",
+				"glass",
+				"night time",
+				"lights",
+				"oil plant",
+				"team golden mug",
+				"team hover pack"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FJjGQOQVIAYE4FN.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"interior",
+				"night time",
+				"pipes",
+				"oil plant",
+				"team golden mug",
+				"team hover pack"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FJjGQO6VEAQHjYy.jpg",
@@ -398,7 +432,15 @@
 	"https://twitter.com/DaddyAndSonGame/status/1485556169582260227": [
 		{
 			"src": "https://pbs.twimg.com/media/FJ3A8btX0AAis3n.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"spire coast",
+				"radar tower",
+				"space elevator",
+				"boat",
+				"spaceship",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FJ3A9rIXMAEpAak.jpg",
@@ -416,7 +458,16 @@
 	"https://twitter.com/dannycanero/status/1485273275647283205": [
 		{
 			"src": "https://pbs.twimg.com/media/FJzAJQ5WYAkgYio.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"northern forest",
+				"glass",
+				"night time",
+				"lights",
+				"signs",
+				"coal plant",
+				"outpost",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Kkemo85/status/1485135232663793666": [
@@ -426,7 +477,13 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FJw9DvvXwAAERrg.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"train station",
+				"nuclear plant",
+				"tower",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FJw9DvwXMAEXVr8.jpg",
@@ -440,7 +497,16 @@
 	"https://twitter.com/mattya_game_/status/1483849338065506304": [
 		{
 			"src": "https://pbs.twimg.com/media/FJewRcXaUAEcOsZ.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"glass",
+				"space elevator",
+				"belts",
+				"outpost",
+				"viaduct",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FJewUkOaIAA-9GM.jpg",
@@ -448,7 +514,12 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FJewV0baMAEyYaN.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"interior",
+				"manifold",
+				"lights",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FJewV00aQAAS46n.jpg",
@@ -458,13 +529,24 @@
 	"https://twitter.com/TheRealBlackNet/status/1476164395495530497": [
 		{
 			"src": "https://pbs.twimg.com/media/FHxjbAqXMAM8Y48.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"space elevator",
+				"fireworks",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/xSgt_Pepperx/status/1474354512467009574": [
 		{
 			"src": "https://pbs.twimg.com/media/FHX1mhgXICcx4ef.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"the great canyon",
+				"ficsmas",
+				"belts",
+				"tower",
+				"team hover pack",
+				"team nut"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FHX1mhhXICMJCzN.jpg",
@@ -474,7 +556,14 @@
 	"https://twitter.com/BLAndrew575/status/1483311697632940032": [
 		{
 			"src": "https://pbs.twimg.com/media/FJXDQciXsAUpkNX.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"ficsmas",
+				"interior",
+				"manifold",
+				"repetition",
+				"lights",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FJXDQckXwAMdITB.jpg",
@@ -504,19 +593,37 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FJA683dWYAcS389.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"interior",
+				"lights",
+				"signs",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/cheddarbeard/status/1478013188016902149": [
 		{
 			"src": "https://pbs.twimg.com/media/FIL1F8uWUAg_z3N.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"beams",
+				"train signals",
+				"outpost",
+				"tower",
+				"viaduct",
+				"team hands"
+			]
 		}
 	],
 	"https://twitter.com/DaddyAndSonGame/status/1472218941972000768": [
 		{
 			"src": "https://pbs.twimg.com/media/FG5e4C9XMAExR-t.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"crater lakes",
+				"spaceship",
+				"team candy cane"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FG5e6CiXoAMd4C3.jpg",
@@ -530,25 +637,49 @@
 	"https://twitter.com/fading_to_light/status/1479291091048230913": [
 		{
 			"src": "https://pbs.twimg.com/media/FId_UaKVUAMhqbk.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"nuclear plant",
+				"power storage bank",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/Jimbers76/status/1483320971536654338": [
 		{
 			"src": "https://pbs.twimg.com/media/FJXQjHMUYAQ-cKl.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"northern forest",
+				"games",
+				"space elevator",
+				"signs",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Jimbers76/status/1480785787377442817": [
 		{
 			"src": "https://pbs.twimg.com/media/FIzO05CUUAQLXsm.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"lake forest",
+				"northern forest",
+				"games",
+				"sunrise/sunset",
+				"signs",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/jmaniscatharg/status/1477242100844355584": [
 		{
 			"src": "https://pbs.twimg.com/media/FIA312JUUAIN5ey.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"sunrise/sunset",
+				"lights",
+				"pipes",
+				"tower",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/runestonegaming/status/1482772265397751808": [
@@ -558,7 +689,13 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FJPdQ6qVQAIcloI.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"spire coast",
+				"sunrise/sunset",
+				"beams",
+				"tower",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FJPdSpiUcAAKtq4.jpg",
@@ -566,13 +703,22 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FJPdTjBVQAIEVt-.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"night time",
+				"space elevator",
+				"beams",
+				"tower",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/pobkac/status/1483225538982514689": [
 		{
 			"src": "https://pbs.twimg.com/media/FJV5py2XMAoMJNV.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"space elevator",
+				"team hands"
+			]
 		}
 	],
 	"https://twitter.com/Steve4S/status/1476613807577481225": [
@@ -586,7 +732,16 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FH38YHnWQAo6zoi.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"dune desert",
+				"sunrise/sunset",
+				"tubes",
+				"outpost",
+				"spaceship",
+				"viaduct",
+				"team golden mug",
+				"team hover pack"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FH38YHjXsAUNTvE.jpg",
@@ -596,11 +751,20 @@
 	"https://twitter.com/PerforatedS/status/1483278641865936900": [
 		{
 			"src": "https://pbs.twimg.com/media/FJWp4i2WQAEzUrv.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"architecture",
+				"lasagn",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FJWp4i3XEAcFko5.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"train station",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FJWp4i5WUAMJJa-.jpg",
@@ -618,7 +782,13 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FITDz2_XIAEwaks.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"cave",
+				"glass",
+				"beams",
+				"outpost",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/wolfan_ex/status/1476180610792423426": [
@@ -628,7 +798,15 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FHxyTpgaUAY0jGv.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"glass",
+				"train station",
+				"beams",
+				"cables",
+				"bridge",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FHxyW56aUAYlKzW.jpg",
@@ -646,7 +824,14 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FGjZUkpXoAQnbaf.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"lasagn",
+				"manifold",
+				"belts",
+				"lights",
+				"signs",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FGjZUkrXMAApVpO.jpg",
@@ -656,7 +841,13 @@
 	"https://twitter.com/AxialC44/status/1469025862754447360": [
 		{
 			"src": "https://pbs.twimg.com/media/FGMHIQJWQAsg_lc.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"interior",
+				"beams",
+				"lights",
+				"signs",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/mattya_game_/status/1468507829493706759": [
@@ -670,7 +861,17 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FGEvsbJVgAItdGI.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"western beaches",
+				"glass",
+				"night time",
+				"beams",
+				"lights",
+				"outpost",
+				"viaduct",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FGEwDPRUYAIkTeN.jpg",
@@ -688,7 +889,18 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FGDoXsjXsAcd-WA.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"red bamboo fields",
+				"cityscape",
+				"ficsmas",
+				"glass",
+				"modded",
+				"belts",
+				"foundation patterns",
+				"signs",
+				"roads",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/Catafly7/status/1470546265393885185": [
@@ -698,7 +910,14 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FGht1DJUUAIAMit.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"grass fields arch",
+				"ficsmas",
+				"awesome sink",
+				"beams",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FGht1DKVcAEfqXi.jpg",
@@ -712,7 +931,16 @@
 	"https://twitter.com/Greygal__Eve/status/1469325424165416966": [
 		{
 			"src": "https://pbs.twimg.com/media/FGQW4adVcAYHN-7.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"ficsmas",
+				"glass",
+				"interior",
+				"night time",
+				"lights",
+				"pipes",
+				"signs",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FGQXFd9VUAAqCi3.jpg",
@@ -730,13 +958,26 @@
 	"https://twitter.com/RTmanjoe/status/1469198409848471555": [
 		{
 			"src": "https://pbs.twimg.com/media/FGOkKu6WQAEYLMR.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"ficsmas",
+				"interior",
+				"manifold",
+				"lights",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/SoenKigi/status/1469862564582641668": [
 		{
 			"src": "https://pbs.twimg.com/media/FGX_xfKXoAAbQx2.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"ficsmas",
+				"manifold",
+				"weatherwax",
+				"belts",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FGX_xfIWUAAS74a.jpg",
@@ -754,17 +995,31 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FF7OwRHX0AMoRQn.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"interior",
+				"space elevator",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FF7OxbiXsAEC0Zm.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"architecture",
+				"space elevator",
+				"signs",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Tr1cky_zockt/status/1465656367004495873": [
 		{
 			"src": "https://pbs.twimg.com/media/FFcOGVsWYAEbbdd.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"northern forest",
+				"glass",
+				"tower",
+				"team nut"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FFcOHVJXoAgKmhE.jpg",
@@ -782,7 +1037,14 @@
 	"https://twitter.com/Eelyen/status/1466672392839782402": [
 		{
 			"src": "https://pbs.twimg.com/media/FFqqnxUXIAU3LbA.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"belts",
+				"cables",
+				"pipes",
+				"coal plant",
+				"tower",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FFqqrI3XsAEEEeZ.jpg",
@@ -796,7 +1058,12 @@
 	"https://twitter.com/Daddycr0n/status/1466426063081414661": [
 		{
 			"src": "https://pbs.twimg.com/media/FFnGSh1WYAkIM7V.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"games",
+				"interior",
+				"signs",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FFnH4j9XEAkepm1.jpg",
@@ -806,7 +1073,13 @@
 	"https://twitter.com/blidis_a/status/1468148217854537731": [
 		{
 			"src": "https://pbs.twimg.com/media/FF_pA5jXsAQx8fL.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"night time",
+				"lights",
+				"tower",
+				"team candy cane",
+				"team hover pack"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FF_pBQuWQAAfEIv.jpg",
@@ -820,7 +1093,15 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FGAU0MjVkAQXmx6.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"ficsmas",
+				"lasagn",
+				"lights",
+				"pipes",
+				"crane",
+				"team hover pack",
+				"team mug"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FGAU5AkUYAA0B2O.jpg",
@@ -838,23 +1119,44 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FE9UeFpWQAMlaeN.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"outpost",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FE9UuIxWUAIHEh7.png",
-			"skip": false
+			"highlightsMeta": [
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/AxialC44/status/1465407014838972424": [
 		{
 			"src": "https://pbs.twimg.com/media/FFYro4LXoAQxU97.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"glass",
+				"lasagn",
+				"space elevator",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/dupomat/status/1465335944224165894": [
 		{
 			"src": "https://pbs.twimg.com/media/FFXrGzoXoAM1dKA.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"grass fields arch",
+				"lights",
+				"tubes",
+				"manta",
+				"train station",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FFXrKxrXwAgTDIG.jpg",
@@ -868,39 +1170,78 @@
 	"https://twitter.com/Jimbers76/status/1464458318722715656": [
 		{
 			"src": "https://pbs.twimg.com/media/FFLNBLmVkAEUpt5.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"weatherwax",
+				"cables",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FFLNBLmVEAU7aRy.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"weatherwax",
+				"cables",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/KismetBP/status/1463885499622309888": [
 		{
 			"src": "https://pbs.twimg.com/media/FFDDKhAXsAsqpue.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"sunrise/sunset",
+				"space elevator",
+				"hub",
+				"signs",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/Total_Xclipse/status/1465530348691984387": [
 		{
 			"src": "https://pbs.twimg.com/media/FFabti0WYAEkiFz.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"northern forest",
+				"architecture",
+				"glass",
+				"space elevator",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Minipasglop1/status/1458953509722804232": [
 		{
 			"src": "https://pbs.twimg.com/media/FD8-XvwXoAsBP44.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"signs",
+				"tubes",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/picdediamant/status/1459280662679244806": [
 		{
 			"src": "https://pbs.twimg.com/media/FEBn-NMXIAYmVkj.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"cave",
+				"western dune forest",
+				"truck",
+				"outpost",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FEBn-NQXIAg4JE3.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"cave",
+				"glass",
+				"truck station",
+				"belts",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FEBn-NTWYAYu86t.jpg",
@@ -914,11 +1255,23 @@
 	"https://twitter.com/Smerkin5000/status/1459459934408478723": [
 		{
 			"src": "https://pbs.twimg.com/media/FEEKTN9VEAIp7bx.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"repetition",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FEEKUaHVcAQ7HM0.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"manifold",
+				"repetition",
+				"tractor",
+				"belts",
+				"signs",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FEELCOZVUAI_Nd5.jpg",
@@ -936,13 +1289,25 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FDXy_DlVEAEgtxb.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"parachute",
+				"coal plant",
+				"power storage bank",
+				"team hands"
+			]
 		}
 	],
 	"https://twitter.com/billythedoor/status/1459364213646938112": [
 		{
 			"src": "https://pbs.twimg.com/media/FECzw9RXMAEkgCs.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"sunrise/sunset",
+				"cables",
+				"pipes",
+				"coal plant",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FECzyRFXEAMvm5D.jpg",
@@ -956,13 +1321,23 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FENqf98X0AIGyB5.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"belts",
+				"pipes",
+				"coal plant",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/billythedoor/status/1461153086634876931": [
 		{
 			"src": "https://pbs.twimg.com/media/FEcO5FRX0AgXyVn.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"belts",
+				"pipes",
+				"coal plant",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FEcO7TxXwAELL0n.jpg",
@@ -972,13 +1347,25 @@
 	"https://twitter.com/binkieboo666/status/1457458180062076934": [
 		{
 			"src": "https://pbs.twimg.com/media/FDnue2DWQAERpy2.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"western beaches",
+				"glass",
+				"cables",
+				"train station",
+				"viaduct",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/minrok4/status/1460572563571154951": [
 		{
 			"src": "https://pbs.twimg.com/media/FET7FEgWQAMvgsQ.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"sunrise/sunset",
+				"weatherwax",
+				"beams",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/itsjymmi/status/1460986110318891012": [
@@ -992,7 +1379,12 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FEZ2T6wXwAApV6o.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"lights",
+				"outpost",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FEZ2bvSWQAMj12N.jpg",
@@ -1002,7 +1394,12 @@
 	"https://twitter.com/itsjymmi/status/1460987611917471746": [
 		{
 			"src": "https://pbs.twimg.com/media/FEZ3yHyWYAU40-v.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"interior",
+				"sunrise/sunset",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FEZ4Jt7XEAA31zQ.jpg",
@@ -1014,29 +1411,57 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FEZ4co2WQAg01Mi.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"manifold",
+				"belts",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/MiniKatalyst/status/1461945577751470082": [
 		{
 			"src": "https://pbs.twimg.com/media/FEnftH5VkAMhlBl.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"lasagn",
+				"nature",
+				"beams",
+				"belts",
+				"tubes",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/AxialC44/status/1461997746014019591": [
 		{
 			"src": "https://pbs.twimg.com/media/FEoOuuKX0AEFYKV.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"northern forest",
+				"architecture",
+				"glass",
+				"train",
+				"signs",
+				"bridge",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/SteveVanEekeren/status/1457194188005683201": [
 		{
 			"src": "https://pbs.twimg.com/media/FDj-QZfXoAAJkqI.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"manifold",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FDj-SCwWUAkoTxo.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"dune desert",
+				"manifold",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FDj-UDAXsAIr_r7.jpg",
@@ -1050,7 +1475,13 @@
 	"https://twitter.com/RRM30237253/status/1460550731468087298": [
 		{
 			"src": "https://pbs.twimg.com/media/FETqOfQXwAEKq3c.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"sunrise/sunset",
+				"beams",
+				"tower",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FETqOfUWUAYNDJ8.jpg",
@@ -1086,7 +1517,16 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FD04BG-UcAEk9FJ.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"pixel art",
+				"spaghett",
+				"sunrise/sunset",
+				"particle accelerator",
+				"space elevator",
+				"lights",
+				"fuel plant",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FD04ErOVUAIjxDF.jpg",
@@ -1096,13 +1536,21 @@
 	"https://twitter.com/dkarzon/status/1458383972828913671": [
 		{
 			"src": "https://pbs.twimg.com/media/FD04dNDVcAUner3.png",
-			"skip": false
+			"highlightsMeta": [
+				"pixel art",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Aleg8r/status/1457784344248913923": [
 		{
 			"src": "https://pbs.twimg.com/media/FDsXBgpVcAY0uPS.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"green valley",
+				"coal plant",
+				"team mug",
+				"team nut"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FDsXCZkVkA0lrXI.jpg",
@@ -1116,13 +1564,25 @@
 	"https://twitter.com/AxialC44/status/1457901421916008449": [
 		{
 			"src": "https://pbs.twimg.com/media/FDuBhHUXIAYxAqh.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"dune desert",
+				"outpost",
+				"viaduct",
+				"team golden mug"
+			]
 		}
 	],
 	"https://twitter.com/binkieboo666/status/1457461547664556035": [
 		{
 			"src": "https://pbs.twimg.com/media/FDnxi7aWUAY2jPp.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"western beaches",
+				"architecture",
+				"glass",
+				"train station",
+				"beams",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/Eurymachuss/status/1454228680612401155": [
@@ -1132,7 +1592,13 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FC50oyMXsAE45EG.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"night time",
+				"space elevator",
+				"belts",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FC50qDJWUAAR10d.jpg",
@@ -1150,27 +1616,58 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FDBunyVX0AI63Ec.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"glass",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/itsjymmi/status/1454162023873458176": [
 		{
 			"src": "https://pbs.twimg.com/media/FC44PA0WQBENWv6.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"bean",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FC44RMcWQAA5WL7.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"bean",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Daddycr0n/status/1455132025032253443": [
 		{
 			"src": "https://pbs.twimg.com/media/FDGjI5MXEAQ_i45.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"explorer",
+				"beams",
+				"lights",
+				"signs",
+				"train spiral",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FDGpLRDWQAEV0gK.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"awesome sink",
+				"beams",
+				"lights",
+				"signs",
+				"fuel plant",
+				"train spiral",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FDGqfoJWQAEZBDA.jpg",
@@ -1184,7 +1681,12 @@
 	"https://twitter.com/Tr1cky_zockt/status/1452726888049356801": [
 		{
 			"src": "https://pbs.twimg.com/media/FCkeqXmX0AU7xQN.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"games",
+				"factory cart",
+				"lights",
+				"team hover pack"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FCkerzsXEAIPzqq.jpg",
@@ -1194,35 +1696,74 @@
 	"https://twitter.com/Eurymachuss/status/1448621513851252736": [
 		{
 			"src": "https://pbs.twimg.com/media/FBqJllSX0AQYuV1.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"titan forest",
+				"glass",
+				"outpost",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/satiskopat/status/1448347167345844224": [
 		{
 			"src": "https://pbs.twimg.com/media/FBmPj0pXoAIcvBS.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"western beaches",
+				"night time",
+				"fuel plant",
+				"outpost",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FBmPj0zXEAUpbqf.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"beams",
+				"crane",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FBmPj04X0AMH7gZ.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"western beaches",
+				"night time",
+				"crane",
+				"fuel plant",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Nightwolfx03/status/1448550064209682433": [
 		{
 			"src": "https://pbs.twimg.com/media/FBpHcU0XMAMUNgr.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"interior",
+				"night time",
+				"repetition",
+				"lights",
+				"warehouse",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FBpHcU0WYAAC6pj.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"manifold",
+				"night time",
+				"repetition",
+				"lights",
+				"warehouse",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FBpHcU3WYAAi7X2.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"sunrise/sunset",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FBpIFtuXsAAY_hW.jpg",
@@ -1236,13 +1777,26 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FB7mBCDWEAIp3UB.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"manifold",
+				"fuel plant",
+				"team hover pack"
+			]
 		}
 	],
 	"https://twitter.com/JuiceBoxesGamin/status/1447774493112426499": [
 		{
 			"src": "https://pbs.twimg.com/media/FBeGk4uWYAUzf7r.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"northern forest",
+				"the great canyon",
+				"lasagn",
+				"manifold",
+				"space elevator",
+				"train station",
+				"manta",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FBeGk6TWYAAPEdp.jpg",
@@ -1254,39 +1808,72 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FBeGk8AWUAQQRZ5.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"particle accelerator",
+				"pipes",
+				"outpost",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Smerkin5000/status/1447600601857024001": [
 		{
 			"src": "https://pbs.twimg.com/media/FBboy-eVcAYI0k6.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"architecture",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FBbo0bqVIAY6DC3.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"architecture",
+				"interior",
+				"train station",
+				"train",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Skittishandbus/status/1446970591764910080": [
 		{
 			"src": "https://pbs.twimg.com/media/FBSsCp-UcAQ6Z5O.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"art",
+				"train",
+				"train signals",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FBSsCrEUYAEUc-Y.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"art",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Tr1cky_zockt/status/1441169015351640074": [
 		{
 			"src": "https://pbs.twimg.com/media/FAAPeMvVkAgC-9w.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"interior",
+				"lights",
+				"tubes",
+				"tower",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/PerforatedS/status/1439397021119549441": [
 		{
 			"src": "https://pbs.twimg.com/media/E_nDbmjXEAAkjPF.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"glass",
+				"truck",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Daddycr0n/status/1439906256538456065": [
@@ -1296,15 +1883,34 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E_uShlHXMAE5boH.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"architecture",
+				"glass",
+				"night time",
+				"tubes",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E_uShlGXoAAm4NL.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"sunrise/sunset",
+				"tower",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E_uShlzWYAIpWoD.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"sunrise/sunset",
+				"space elevator",
+				"spaceship",
+				"tower",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/BLAndrew575/status/1437294235850575872": [
@@ -1318,7 +1924,14 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E_JEP9KXMAQLhft.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"interior",
+				"fuel plant",
+				"power storage bank",
+				"tower",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E_JLKMXXsAAVGCL.jpg",
@@ -1328,13 +1941,22 @@
 	"https://twitter.com/PerforatedS/status/1437196688532377603": [
 		{
 			"src": "https://pbs.twimg.com/media/E_Hyi92XEAQDVFx.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"truck",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/vsbmeza3/status/1435696931616043016": [
 		{
 			"src": "https://pbs.twimg.com/media/E-yegYoX0AYdoOA.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"the great canyon",
+				"belts",
+				"ladder",
+				"team golden mug"
+			]
 		}
 	],
 	"https://twitter.com/_DeadSlug_/status/1436038513678503939": [
@@ -1344,7 +1966,14 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E-3VPQGWEAICwLX.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"radar tower",
+				"space elevator",
+				"beams",
+				"oil plant",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E-3VPQEXMAcQLHx.jpg",
@@ -1358,7 +1987,13 @@
 	"https://twitter.com/_DeadSlug_/status/1436038765110235141": [
 		{
 			"src": "https://pbs.twimg.com/media/E-3VmKUX0AclsTX.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"belts",
+				"lights",
+				"pipes",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E-3VmKcWQAgsAPa.jpg",
@@ -1366,7 +2001,14 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E-3VmKaX0AgDT5Z.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"beams",
+				"belts",
+				"fuel plant",
+				"power storage bank",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/_DeadSlug_/status/1436038931586420736": [
@@ -1380,21 +2022,46 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E-3VuktWYAEIJJd.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"interior",
+				"night time",
+				"beams",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Jimbers76/status/1430942095322144769": [
 		{
 			"src": "https://pbs.twimg.com/media/E9u5718VIAkLkan.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"desert canyons",
+				"dune desert",
+				"glass",
+				"modded",
+				"weatherwax",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E9u5730UYAA9YhR.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"desert canyons",
+				"dune desert",
+				"glass",
+				"weatherwax",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E9u575PUcAI4qe0.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"lookout tower",
+				"radar tower",
+				"space elevator",
+				"outpost",
+				"tower",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E9u576RVcAEErJL.jpg",
@@ -1404,25 +2071,42 @@
 	"https://twitter.com/KleyLive/status/1434119655464001538": [
 		{
 			"src": "https://pbs.twimg.com/media/E-cEAq3XsAEIqu4.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"beams",
+				"tubes",
+				"fuel plant",
+				"oil plant",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/AL7AIR/status/1430962891465895937": [
 		{
 			"src": "https://pbs.twimg.com/media/E9vKol-XsAciYXX.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Catafly7/status/1425672807380226050": [
 		{
 			"src": "https://pbs.twimg.com/media/E8kB1HZVoAU_5pG.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"western beaches",
+				"weatherwax",
+				"fuel plant",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Tr1cky_zockt/status/1428645512543150082": [
 		{
 			"src": "https://pbs.twimg.com/media/E9OLxbqWUAIpHfP.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"interior",
+				"belts",
+				"team nut"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E9OLx7tXoAMyyGG.jpg",
@@ -1436,19 +2120,33 @@
 	"https://twitter.com/BuildsBase/status/1425804190216069122": [
 		{
 			"src": "https://pbs.twimg.com/media/E8l5PLiXEAEa1ae.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"lasagn",
+				"pipes",
+				"fuel plant",
+				"team hover pack"
+			]
 		}
 	],
 	"https://twitter.com/Tr1cky_zockt/status/1426941059217637378": [
 		{
 			"src": "https://pbs.twimg.com/media/E82ANk3XsAcWouD.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"art",
+				"team nut"
+			]
 		}
 	],
 	"https://twitter.com/Jimbers76/status/1423777498555305985": [
 		{
 			"src": "https://pbs.twimg.com/media/E8JF_CMVUAAotq1.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"lights",
+				"outpost",
+				"spaceship",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E8JGBHCVIAMVSLs.jpg",
@@ -1460,13 +2158,24 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E8JGDKUVgAkoyF0.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"lights",
+				"outpost",
+				"spaceship",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Jimbers76/status/1424843893208608769": [
 		{
 			"src": "https://pbs.twimg.com/media/E8YPWbZVcCAaWK0.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"sunrise/sunset",
+				"truck station",
+				"team mug"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E8YPXl-VcBgICYQ.jpg",
@@ -1480,13 +2189,26 @@
 	"https://twitter.com/Jimbers76/status/1424570029572460551": [
 		{
 			"src": "https://pbs.twimg.com/media/E8UW3piVoAAzqCF.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"beams",
+				"lights",
+				"crane",
+				"spaceship",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/Jimbers76/status/1424980611345772549": [
 		{
 			"src": "https://pbs.twimg.com/media/E8aMNSLVkAMEt11.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"beams",
+				"cables",
+				"lights",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E8aMNR-VEAQoss0.jpg",
@@ -1500,33 +2222,67 @@
 	"https://twitter.com/SoenKigi/status/1424846085076529153": [
 		{
 			"src": "https://pbs.twimg.com/media/E8YRa_KXsAMucmI.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"western dune forest",
+				"weatherwax",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/DubiosDunsti/status/1417504477142294534": [
 		{
 			"src": "https://pbs.twimg.com/media/E6v8PYnXMAcTaz3.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"space elevator",
+				"cables",
+				"lights",
+				"warehouse",
+				"team mug"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E6v8Qr8XEAIX9Vm.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"interior",
+				"sunrise/sunset",
+				"lights",
+				"warehouse",
+				"team nut"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E6v8SGKWEAAgzjc.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"interior",
+				"cables",
+				"warehouse",
+				"team hover pack",
+				"team nut"
+			]
 		}
 	],
 	"https://twitter.com/Tr1cky_zockt/status/1415991331059552256": [
 		{
 			"src": "https://pbs.twimg.com/media/E6acFOlWUAQCv4X.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"cables",
+				"power storage bank",
+				"team feet",
+				"team hover pack",
+				"team nut"
+			]
 		}
 	],
 	"https://twitter.com/PerforatedS/status/1416534741793353741": [
 		{
 			"src": "https://pbs.twimg.com/media/E6iGyiWWYAYz5Qn.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"abyss cliffs",
+				"beams",
+				"outpost",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E6iG0xOWUAYXxBA.jpg",
@@ -1534,7 +2290,13 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E6iKD_vWYAMccc5.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"interior",
+				"night time",
+				"resource extractor",
+				"pipes",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E6iKI6PX0AEP_t8.jpg",
@@ -1544,7 +2306,14 @@
 	"https://twitter.com/BLAndrew575/status/1416625531664150528": [
 		{
 			"src": "https://pbs.twimg.com/media/E6jaSSmXMAYB1Ra.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"lasagn",
+				"night time",
+				"lights",
+				"pipes",
+				"oil plant",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E6jaSSjXsAI-GgV.jpg",
@@ -1558,7 +2327,15 @@
 	"https://twitter.com/BLAndrew575/status/1414787914618257410": [
 		{
 			"src": "https://pbs.twimg.com/media/E6JPt0TXIAA3xl0.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"spire coast",
+				"lasagn",
+				"manifold",
+				"lights",
+				"pipes",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E6JPt0ZXoAAVzOw.jpg",
@@ -1566,13 +2343,25 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E6JPt0TXEAMZiEu.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"spire coast",
+				"lasagn",
+				"manifold",
+				"train station",
+				"lights",
+				"pipes",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/RespawnRepeat/status/1412704615573905410": [
 		{
 			"src": "https://pbs.twimg.com/media/E5ru8bSXIAsL1uS.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"hub",
+				"team xenobasher"
+			]
 		}
 	],
 	"https://twitter.com/vsbmeza3/status/1412799298694168578": [
@@ -1582,7 +2371,11 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E5tFYW0XMAclZ7x.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"architecture",
+				"sunrise/sunset",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E5tFYXEWYAQ5z6K.jpg",
@@ -1592,7 +2385,11 @@
 	"https://twitter.com/runestonegaming/status/1410362885411270656": [
 		{
 			"src": "https://pbs.twimg.com/media/E5Kdc9lVkAAQwWx.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"western beaches",
+				"nuclear plant",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E5KddvbUYAQrkVE.jpg",
@@ -1600,13 +2397,21 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E5KdfOQUcAAULe9.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"western beaches",
+				"nuclear plant",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/BLAndrew575/status/1410835379419291650": [
 		{
 			"src": "https://pbs.twimg.com/media/E5RKclsXIAEy9mL.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glitch",
+				"factory cart",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Catafly7/status/1408626579324817410": [
@@ -1620,13 +2425,26 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E4xyVLBVUAAgy-R.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"drone",
+				"truck",
+				"cables",
+				"outpost",
+				"utility tower",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Smerkin5000/status/1409583536168833025": [
 		{
 			"src": "https://pbs.twimg.com/media/E4_X8TqVIBoBNu5.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"dune desert",
+				"manifold",
+				"statue gallery",
+				"team hands"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E4_X-KYVICouXuO.jpg",
@@ -1644,21 +2462,47 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E4UvYkkUcAQ_v0R.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"art",
+				"night time",
+				"lights",
+				"pipes",
+				"signs",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Daddycr0n/status/1406944416439455744": [
 		{
 			"src": "https://pbs.twimg.com/media/E4Z4edcXwAE4OI0.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"titan forest",
+				"glass",
+				"belts",
+				"tower",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E4Z4exlXwAAR-ft.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"titan forest",
+				"sunrise/sunset",
+				"belts",
+				"pipes",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E4Z4fBlXoAMaHpW.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"swamp",
+				"glass",
+				"pipes",
+				"tower",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E4Z4fWcWQAAD5Og.jpg",
@@ -1668,7 +2512,11 @@
 	"https://twitter.com/Daddycr0n/status/1402931591089995777": [
 		{
 			"src": "https://pbs.twimg.com/media/E3g2OuqXwAMNPb8.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"pixel art",
+				"sunrise/sunset",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Catafly7/status/1400398797453205504": [
@@ -1688,21 +2536,44 @@
 	"https://twitter.com/Tr1cky_zockt/status/1401559899318988811": [
 		{
 			"src": "https://pbs.twimg.com/media/E3NXQjxXEAEV0ao.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"architecture",
+				"radar tower",
+				"lights",
+				"pipes",
+				"viaduct",
+				"team nut"
+			]
 		}
 	],
 	"https://twitter.com/Daddycr0n/status/1401894834781237259": [
 		{
 			"src": "https://pbs.twimg.com/media/E3SHqVxXoAEL9nT.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"green valley",
+				"the gates of beugernath",
+				"architecture",
+				"train station",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E3SHqVxX0AUejhV.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"crater lakes",
+				"rocky desert",
+				"architecture",
+				"belts",
+				"viaduct",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E3SHqV2XIAAyONH.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"belts",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E3SHqV0WQAEosZe.jpg",
@@ -1712,7 +2583,13 @@
 	"https://twitter.com/Smerkin5000/status/1401969153427140608": [
 		{
 			"src": "https://pbs.twimg.com/media/E3TLT0cVIAsDuK-.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"dune desert",
+				"night time",
+				"truck",
+				"lights",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E3TLUymVEAQjLvN.jpg",
@@ -1722,39 +2599,85 @@
 	"https://twitter.com/runestonegaming/status/1402086366603739138": [
 		{
 			"src": "https://pbs.twimg.com/media/E3U1-kLUYAIBUAV.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"abyss cliffs",
+				"grass fields",
+				"southern forest",
+				"grass fields arch",
+				"train station",
+				"beams",
+				"belts",
+				"viaduct",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Smerkin5000/status/1399433666191757318": [
 		{
 			"src": "https://pbs.twimg.com/media/E2vJXoVVcAQe4AN.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"swamp",
+				"manifold",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E2vJYdCVEAYFR5n.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"swamp",
+				"swamp waterfall",
+				"repetition",
+				"particle accelerator",
+				"train station",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/RunesunTV/status/1399349958902534147": [
 		{
 			"src": "https://pbs.twimg.com/media/E2t9Fw9XMAIDSnr.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"games",
+				"weatherwax",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/KleyLive/status/1398679513618423813": [
 		{
 			"src": "https://pbs.twimg.com/media/E2kZeKTXwAQwv3D.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"glass",
+				"manta",
+				"outpost",
+				"viaduct",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E2kZeKVWQAM5fzr.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"interior",
+				"repetition",
+				"train station",
+				"belts",
+				"lights",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Tr1cky_zockt/status/1397173286786711553": [
 		{
 			"src": "https://pbs.twimg.com/media/E2PBTfUXoAIpL_6.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"interior",
+				"repetition",
+				"lights",
+				"power storage bank",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E2PBTheWEAkN1-6.jpg",
@@ -1764,13 +2687,23 @@
 	"https://twitter.com/felixrostrum/status/1396576699433771014": [
 		{
 			"src": "https://pbs.twimg.com/media/E2GjEH9XIAACYrT.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"space elevator",
+				"pipes",
+				"outpost",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Eurymachuss/status/1396267900760166413": [
 		{
 			"src": "https://pbs.twimg.com/media/E2CJ1VzWQAEoHKz.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"dune desert",
+				"pipes",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E2CKKrbXMAAX8WI.jpg",
@@ -1784,35 +2717,75 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E2BqHY2UYAIvaYE.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"western beaches",
+				"beams",
+				"nuclear plant",
+				"viaduct",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/KleyLive/status/1395021384426917891": [
 		{
 			"src": "https://pbs.twimg.com/media/E1wbE8iXIAQMBuj.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"night time",
+				"repetition",
+				"lights",
+				"fuel plant",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/kwak842/status/1394659612998180865": [
 		{
 			"src": "https://pbs.twimg.com/media/E1rTDkDXoAESOb-.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"dune desert",
+				"lasagn",
+				"manifold",
+				"belts",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Tr1cky_zockt/status/1395693647480381440": [
 		{
 			"src": "https://pbs.twimg.com/media/E15_-Z0UYAQjEIL.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"lookout tower",
+				"radar tower",
+				"space elevator",
+				"lights",
+				"viaduct",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Daddycr0n/status/1392081619356426242": [
 		{
 			"src": "https://pbs.twimg.com/media/E1GpaAzX0AMvq9m.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"interior",
+				"repetition",
+				"belts",
+				"lights",
+				"tower",
+				"team hover pack"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E1GpaBJXsAI8nAJ.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"titan forest",
+				"architecture",
+				"sunrise/sunset",
+				"space elevator",
+				"team hover pack"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E1GpaBvXsAUTQeE.jpg",
@@ -1826,31 +2799,63 @@
 	"https://twitter.com/PerforatedS/status/1394491199902343174": [
 		{
 			"src": "https://pbs.twimg.com/media/E1o6OoZWYAcMNfR.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"sunrise/sunset",
+				"bean",
+				"team hover pack"
+			]
 		}
 	],
 	"https://twitter.com/Tr1cky_zockt/status/1393907194949771268": [
 		{
 			"src": "https://pbs.twimg.com/media/E1gmGqBWEAMiF6O.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"snaketree forest",
+				"western dune forest",
+				"architecture",
+				"space elevator",
+				"viaduct",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Eurymachuss/status/1391923346217086977": [
 		{
 			"src": "https://pbs.twimg.com/media/E1EatA6XMAghRmz.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"glass",
+				"lasagn",
+				"repetition",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/FUBAR892/status/1391888411993251841": [
 		{
 			"src": "https://pbs.twimg.com/media/E1D61KKWYAAxk76.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"western beaches",
+				"cityscape",
+				"glass",
+				"lights",
+				"fuel plant",
+				"tower",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/MaroonRaptor66/status/1387287449932607489": [
 		{
 			"src": "https://pbs.twimg.com/media/E0Ch0fUXMAA7hv6.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"repetition",
+				"pipes",
+				"fuel plant",
+				"team hover pack"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E0Ch0-gWEAIIpF3.jpg",
@@ -1864,19 +2869,36 @@
 	"https://twitter.com/Smerkin5000/status/1388776778706030609": [
 		{
 			"src": "https://pbs.twimg.com/media/E0XsZyYVgAE_Cr3.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"dune desert",
+				"sunrise/sunset",
+				"train",
+				"viaduct",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Tr1cky_zockt/status/1387809789355376640": [
 		{
 			"src": "https://pbs.twimg.com/media/E0J9pcyXsAAiJ9b.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"western beaches",
+				"pipes",
+				"fuel plant",
+				"oil plant",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/xSgt_Pepperx/status/1387407134787317763": [
 		{
 			"src": "https://pbs.twimg.com/media/E0EPXBaXoAQpy3b.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"space elevator",
+				"team hover pack",
+				"team mug"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/E0EPXBZWEAM6e1v.jpg",
@@ -1894,31 +2916,62 @@
 	"https://twitter.com/FeyStream/status/1384410489996910594": [
 		{
 			"src": "https://pbs.twimg.com/media/EzZp440X0AEdFo-.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"cityscape",
+				"glass",
+				"sunrise/sunset",
+				"cables",
+				"lights",
+				"viaduct",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Jimbers76/status/1385008396231856130": [
 		{
 			"src": "https://pbs.twimg.com/media/EziJrLXVEAA4tdp.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"interior",
+				"nature",
+				"lights",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/LiveActionPixel/status/1385926883032899588": [
 		{
 			"src": "https://pbs.twimg.com/media/EzvMh9cXsAEdjsQ.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"northern forest",
+				"green valley",
+				"space elevator",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/MaroonRaptor66/status/1385736810068860930": [
 		{
 			"src": "https://pbs.twimg.com/media/EzsgRWUWEAI3o5p.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"repetition",
+				"blender",
+				"pipes",
+				"fuel plant",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Smerkin5000/status/1384224067092324380": [
 		{
 			"src": "https://pbs.twimg.com/media/EzXAETeUcAEt2IA.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"the gates of beugernath",
+				"night time",
+				"lights",
+				"nuclear plant",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/EzXAFtYUcAoZ8Tg.jpg",
@@ -1926,63 +2979,128 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/EzXAGsCVgAUEigc.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"sunrise/sunset",
+				"beams",
+				"lights",
+				"nuclear plant",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/jembawls/status/1383101151814488068": [
 		{
 			"src": "https://pbs.twimg.com/media/EzHDHAOXEAo-Y3T.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"signs",
+				"tubes",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/MaxTheCatfish/status/1378012398238502921": [
 		{
 			"src": "https://pbs.twimg.com/media/Ex-ujJaWUAkqClJ.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"the gates of beugernath",
+				"manifold",
+				"truck",
+				"boat",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/Ex-ukwbWYAYz9hF.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"the gates of beugernath",
+				"glass",
+				"lookout tower",
+				"boat",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/Ex-umFrWEAI48gU.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"the gates of beugernath",
+				"lookout tower",
+				"truck",
+				"boat",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/runestonegaming/status/1381728833049489417": [
 		{
 			"src": "https://pbs.twimg.com/media/Eyzi3i9UYAI3j8t.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"interior",
+				"belts",
+				"lights",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Smerkin5000/status/1381741033592000512": [
 		{
 			"src": "https://pbs.twimg.com/media/Eyzty2yVgAEsEz4.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"rocky desert",
+				"manifold",
+				"awesome sink",
+				"belts",
+				"pipes",
+				"viaduct",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/scotlynhatt/status/1374216216773033984": [
 		{
 			"src": "https://pbs.twimg.com/media/ExIx_09WQAIPvl1.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"night time",
+				"lights",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/Smerkin5000/status/1374174311972413440": [
 		{
 			"src": "https://pbs.twimg.com/media/ExIMEAHU8AEf4pF.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"lights",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/vsbmeza3/status/1370069440453312514": [
 		{
 			"src": "https://pbs.twimg.com/media/EwN2ZqKXEAA4qBn.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"repetition",
+				"fuel plant",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/PerforatedS/status/1369869533285126150": [
 		{
 			"src": "https://pbs.twimg.com/media/EwLAvOdXAAUlQnM.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"architecture",
+				"games",
+				"sunrise/sunset",
+				"lookout tower",
+				"train station",
+				"belts",
+				"signs",
+				"team mug"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/EwLAvObXYAEhgyY.jpg",
@@ -1990,17 +3108,38 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/EwLAvObWQAAcXS3.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"architecture",
+				"games",
+				"night time",
+				"lookout tower",
+				"train station",
+				"team mug"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/EwLAvOaXIAMcLg-.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"architecture",
+				"games",
+				"sunrise/sunset",
+				"lookout tower",
+				"train station",
+				"statue gallery",
+				"team mug"
+			]
 		}
 	],
 	"https://twitter.com/Smerkin5000/status/1371118864273010692": [
 		{
 			"src": "https://pbs.twimg.com/media/EwcxO12U8AIVGfV.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"northern forest",
+				"space elevator",
+				"lizard doggo",
+				"manta",
+				"team build gun"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/EwcxRzpVoAUumxM.jpg",
@@ -2008,7 +3147,13 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/EwcxTCjVEAM4bx8.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"northern forest",
+				"space elevator",
+				"lizard doggo",
+				"manta",
+				"team build gun"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/EwcxUNOVkAAi93D.jpg",
@@ -2018,29 +3163,61 @@
 	"https://twitter.com/itsjymmi/status/1368336782740295680": [
 		{
 			"src": "https://pbs.twimg.com/media/Ev1O-sQXAAIxit7.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"grass fields",
+				"glass",
+				"explorer",
+				"tower",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/itsjymmi/status/1369073300253663235": [
 		{
 			"src": "https://pbs.twimg.com/media/Ev_preIXYAAdO6-.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"glass",
+				"explorer",
+				"pipes",
+				"coal plant",
+				"tower",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/PerforatedS/status/1368776559922929665": [
 		{
 			"src": "https://pbs.twimg.com/media/Ev7eoUrXIAEzclP.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"architecture",
+				"games",
+				"night time",
+				"train station",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/Ev7eoUpWYAAu26X.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"architecture",
+				"games",
+				"sunrise/sunset",
+				"train station",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/Daddycr0n/status/1369269469093240841": [
 		{
 			"src": "https://pbs.twimg.com/media/EwCfI-vWYAAMOYe.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"red bamboo fields",
+				"architecture",
+				"sunrise/sunset",
+				"space elevator",
+				"fuel plant",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/kubanoed/status/1368488467299196933": [
@@ -2054,11 +3231,20 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/Ev3Y6ofXIAcfObx.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"space elevator",
+				"manta",
+				"team inhaler"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/Ev3Y6odXAAENi-K.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"interior",
+				"space elevator",
+				"lizard doggo",
+				"team inhaler"
+			]
 		}
 	],
 	"https://twitter.com/PerforatedS/status/1366227631914508294": [
@@ -2665,6 +3851,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/EiEcYCGWoAEbWzn.jpg",
 			"highlightsMeta": [
+				"jace would live there",
 				"glass",
 				"modded",
 				"beams",
@@ -2677,6 +3864,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/EiEbJpYWsAU-IOz.jpg",
 			"highlightsMeta": [
+				"jace would live there",
 				"modded",
 				"beams",
 				"explorer",
@@ -2725,11 +3913,53 @@
 		{
 			"src": "https://pbs.twimg.com/media/EhqXgBhXkAMX1jO?format=jpg&name=4096x4096",
 			"highlightsMeta": [
+				"jace would live there",
 				"cityscape",
 				"modded",
 				"signs",
 				"no team"
 			]
+		}
+	],
+	"https://twitter.com/Reddo01556549/status/1304815599860822021": [
+		{
+			"src": "https://pbs.twimg.com/media/EhuiZ35WkAEAnRt.jpg",
+			"highlightsMeta": [
+				"jace would live there",
+				"cityscape",
+				"cyberpunk",
+				"modded",
+				"beams",
+				"lights",
+				"tower",
+				"viaduct",
+				"no team"
+			]
+		}
+	],
+	"https://twitter.com/Reddo01556549/status/1303053814031962112": [
+		{
+			"src": "https://pbs.twimg.com/media/EhVfzNQXgAEyyAR.jpg",
+			"highlightsMeta": [
+				"jace would live there",
+				"glass",
+				"modded",
+				"night time",
+				"signs",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/EhVf6d-XkAA1q7U.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/EhVf8gIXgAEgY5L.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/EhVgaF6XYAUIMpd.jpg",
+			"skip": true
 		}
 	],
 	"https://twitter.com/papasnusi/status/1298980060813094917": [
