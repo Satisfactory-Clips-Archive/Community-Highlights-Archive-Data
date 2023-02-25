@@ -57,7 +57,7 @@
 				"dune desert",
 				"robo jace",
 				"weatherwax",
-				"team golden mug"
+				"team golden cup"
 			]
 		}
 	],
@@ -218,7 +218,7 @@
 				"temporary is never temporary",
 				"train station",
 				"bean",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -426,7 +426,7 @@
 				"night time",
 				"lights",
 				"oil plant",
-				"team golden mug",
+				"team golden cup",
 				"team hover pack"
 			]
 		},
@@ -438,7 +438,7 @@
 				"night time",
 				"pipes",
 				"oil plant",
-				"team golden mug",
+				"team golden cup",
 				"team hover pack"
 			]
 		},
@@ -663,7 +663,7 @@
 				"glass",
 				"nuclear plant",
 				"power storage bank",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -761,7 +761,7 @@
 				"outpost",
 				"spaceship",
 				"viaduct",
-				"team golden mug",
+				"team golden cup",
 				"team hover pack"
 			]
 		},
@@ -921,7 +921,7 @@
 				"foundation patterns",
 				"signs",
 				"roads",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1122,7 +1122,7 @@
 				"pipes",
 				"crane",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -1217,7 +1217,7 @@
 				"space elevator",
 				"hub",
 				"signs",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1240,7 +1240,7 @@
 				"glass",
 				"signs",
 				"tubes",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1375,7 +1375,7 @@
 				"cables",
 				"train station",
 				"viaduct",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1386,7 +1386,7 @@
 				"sunrise/sunset",
 				"weatherwax",
 				"beams",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1570,7 +1570,7 @@
 			"highlightsMeta": [
 				"green valley",
 				"coal plant",
-				"team mug",
+				"team cup",
 				"team nut"
 			]
 		},
@@ -1590,7 +1590,7 @@
 				"dune desert",
 				"outpost",
 				"viaduct",
-				"team golden mug"
+				"team golden cup"
 			]
 		}
 	],
@@ -1603,7 +1603,7 @@
 				"glass",
 				"train station",
 				"beams",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1977,7 +1977,7 @@
 				"the great canyon",
 				"belts",
 				"ladder",
-				"team golden mug"
+				"team golden cup"
 			]
 		}
 	],
@@ -2196,7 +2196,7 @@
 				"rocky desert",
 				"sunrise/sunset",
 				"truck station",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -2217,7 +2217,7 @@
 				"lights",
 				"crane",
 				"spaceship",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -2247,7 +2247,7 @@
 			"highlightsMeta": [
 				"western dune forest",
 				"weatherwax",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -2259,7 +2259,7 @@
 				"cables",
 				"lights",
 				"warehouse",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -2661,7 +2661,7 @@
 				"grass fields",
 				"games",
 				"weatherwax",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -2744,7 +2744,7 @@
 				"beams",
 				"nuclear plant",
 				"viaduct",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -2864,7 +2864,7 @@
 				"lights",
 				"fuel plant",
 				"tower",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -2918,7 +2918,7 @@
 				"glass",
 				"space elevator",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -2956,7 +2956,7 @@
 				"interior",
 				"nature",
 				"lights",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -3017,7 +3017,7 @@
 				"rocky desert",
 				"signs",
 				"tubes",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -3089,7 +3089,7 @@
 				"glass",
 				"night time",
 				"lights",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -3099,7 +3099,7 @@
 			"highlightsMeta": [
 				"glass",
 				"lights",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -3124,7 +3124,7 @@
 				"train station",
 				"belts",
 				"signs",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -3139,7 +3139,7 @@
 				"night time",
 				"lookout tower",
 				"train station",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -3151,7 +3151,7 @@
 				"lookout tower",
 				"train station",
 				"statue gallery",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -3564,7 +3564,7 @@
 				"modded",
 				"night time",
 				"signs",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -3676,7 +3676,7 @@
 				"lights",
 				"pipes",
 				"viaduct",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -3685,7 +3685,7 @@
 				"glass",
 				"tower",
 				"viaduct",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -3872,7 +3872,7 @@
 			"highlightsMeta": [
 				"dune desert",
 				"bean",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -4012,7 +4012,7 @@
 			"highlightsMeta": [
 				"glass",
 				"pipes",
-				"team mug"
+				"team cup"
 			]
 		}
 	],

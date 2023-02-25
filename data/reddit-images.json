@@ -163,7 +163,7 @@
 				"catwalk",
 				"signs",
 				"tubes",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -621,7 +621,7 @@
 				"train",
 				"train station",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -635,7 +635,7 @@
 				"pipes",
 				"truck",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -654,7 +654,7 @@
 				"lights",
 				"train",
 				"bridge",
-				"team golden mug",
+				"team golden cup",
 				"team hover pack"
 			]
 		},
@@ -665,7 +665,7 @@
 				"beams",
 				"train",
 				"bridge",
-				"team golden mug",
+				"team golden cup",
 				"team hover pack"
 			]
 		}
@@ -685,7 +685,7 @@
 				"lights",
 				"pipes",
 				"fuel plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -702,7 +702,7 @@
 				"green valley",
 				"glass",
 				"coal plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -739,7 +739,7 @@
 				"manifold",
 				"lights",
 				"pipes",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1046,7 +1046,7 @@
 				"tractor",
 				"roads",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1162,7 +1162,7 @@
 				"glass",
 				"drone",
 				"tower",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1177,14 +1177,14 @@
 			"highlightsMeta": [
 				"glass",
 				"signs",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
 			"src": "https://i.redd.it/j8ybfz7ub9g81.jpg",
 			"highlightsMeta": [
 				"glass",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1360,7 +1360,7 @@
 			"highlightsMeta": [
 				"spire coast",
 				"nuclear plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1396,7 +1396,7 @@
 				"crane",
 				"tower",
 				"viaduct",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1634,7 +1634,7 @@
 				"train station",
 				"roads",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1652,7 +1652,7 @@
 				"flying vehicles",
 				"space elevator",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1775,7 +1775,7 @@
 				"repetition",
 				"pipes",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1874,7 +1874,7 @@
 				"foundation patterns",
 				"signs",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1891,7 +1891,7 @@
 				"glass",
 				"signs",
 				"tubes",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1906,7 +1906,7 @@
 			"highlightsMeta": [
 				"grass fields",
 				"beams",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -1915,7 +1915,7 @@
 				"interior",
 				"manifold",
 				"beams",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -1997,7 +1997,7 @@
 			"highlightsMeta": [
 				"sunrise/sunset",
 				"nuclear plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -2037,7 +2037,7 @@
 				"train station",
 				"fuel plant",
 				"outpost",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -2105,7 +2105,7 @@
 			"highlightsMeta": [
 				"weatherwax",
 				"tower",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -2202,7 +2202,7 @@
 			"alt": "the entrance to my future nuclear site. anything i can improve?",
 			"highlightsMeta": [
 				"weatherwax",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -2235,7 +2235,7 @@
 				"glass",
 				"signs",
 				"warehouse",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -2354,7 +2354,7 @@
 			"highlightsMeta": [
 				"weatherwax",
 				"spaceship",
-				"team golden mug"
+				"team golden cup"
 			]
 		}
 	],
@@ -2449,7 +2449,7 @@
 				"oil plant",
 				"outpost",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -2469,7 +2469,7 @@
 				"beams",
 				"explorer",
 				"signs",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -2597,7 +2597,7 @@
 				"green valley",
 				"ficsmas",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -2737,7 +2737,7 @@
 				"architecture",
 				"glass",
 				"fuel plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -2816,7 +2816,7 @@
 			"highlightsMeta": [
 				"spire coast",
 				"oil rig",
-				"team golden mug"
+				"team golden cup"
 			]
 		}
 	],
@@ -2882,7 +2882,7 @@
 				"glass",
 				"night time",
 				"tower",
-				"team golden mug",
+				"team golden cup",
 				"team hover pack"
 			]
 		}
@@ -3014,7 +3014,7 @@
 				"signs",
 				"train station",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -3266,7 +3266,7 @@
 				"foundation patterns",
 				"lights",
 				"signs",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -3458,7 +3458,7 @@
 				"architecture",
 				"beams",
 				"radar tower",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -3493,7 +3493,7 @@
 				"foundation patterns",
 				"signs",
 				"oil plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -3662,7 +3662,7 @@
 			"alt": "Smelter Lean To",
 			"highlightsMeta": [
 				"nature",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -3692,7 +3692,7 @@
 				"glass",
 				"manifold",
 				"beams",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -3896,7 +3896,7 @@
 			"alt": "Now boarding on my quickwire factory.",
 			"highlightsMeta": [
 				"signs",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -4034,7 +4034,7 @@
 				"dune desert",
 				"sunrise/sunset",
 				"outpost",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -4320,7 +4320,7 @@
 				"cave",
 				"signs",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -4405,7 +4405,7 @@
 			"highlightsMeta": [
 				"hub",
 				"signs",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -4441,7 +4441,7 @@
 				"pipes",
 				"train station",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -4535,7 +4535,7 @@
 			"alt": "Neat power pole concept",
 			"highlightsMeta": [
 				"northern forest",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -4640,7 +4640,7 @@
 				"night time",
 				"lights",
 				"particle accelerator",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -4660,7 +4660,7 @@
 				"tower",
 				"train station",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -4836,7 +4836,7 @@
 				"lights",
 				"pipes",
 				"fuel plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -4870,7 +4870,7 @@
 			"highlightsMeta": [
 				"dune desert",
 				"architecture",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -4949,7 +4949,7 @@
 			"highlightsMeta": [
 				"manifold",
 				"belts",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -4962,7 +4962,7 @@
 				"hub",
 				"pipes",
 				"space elevator",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -5059,7 +5059,7 @@
 				"western beaches",
 				"architecture",
 				"fuel plant",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -5079,7 +5079,7 @@
 				"interior",
 				"beams",
 				"fuel plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -5258,7 +5258,7 @@
 				"western beaches",
 				"radar tower",
 				"fuel plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -5391,7 +5391,7 @@
 				"particle accelerator",
 				"nuclear plant",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -5403,7 +5403,7 @@
 				"nuclear plant",
 				"train station",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -5414,7 +5414,7 @@
 				"nuclear plant",
 				"train station",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -5430,7 +5430,7 @@
 				"personal crate",
 				"truck station",
 				"outpost",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -5443,7 +5443,7 @@
 				"personal crate",
 				"truck station",
 				"outpost",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -5574,7 +5574,7 @@
 				"glass",
 				"lights",
 				"outpost",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -5585,7 +5585,7 @@
 				"manifold",
 				"awesome sink",
 				"lights",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -5595,7 +5595,7 @@
 				"glass",
 				"interior",
 				"manifold",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -5606,7 +5606,7 @@
 				"awesome sink",
 				"belts",
 				"lights",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -5697,7 +5697,7 @@
 				"glass",
 				"lasagn",
 				"belts",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -5708,7 +5708,7 @@
 				"lasagn",
 				"repetition",
 				"space elevator",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -5719,7 +5719,7 @@
 			"highlightsMeta": [
 				"swamp",
 				"coal plant",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -5728,7 +5728,7 @@
 			"highlightsMeta": [
 				"crater lakes",
 				"coal plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -5953,7 +5953,7 @@
 				"belts",
 				"pipes",
 				"tower",
-				"team golden mug",
+				"team golden cup",
 				"team hover pack"
 			]
 		}
@@ -6047,7 +6047,7 @@
 				"snaketree forest",
 				"power storage bank",
 				"tower",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -6066,7 +6066,7 @@
 				"train station",
 				"outpost",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -6146,7 +6146,7 @@
 				"sunrise/sunset",
 				"tubes",
 				"fuel plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -6251,7 +6251,7 @@
 				"interior",
 				"nature",
 				"train station",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -6764,7 +6764,7 @@
 				"cables",
 				"lights",
 				"pipes",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -6791,7 +6791,7 @@
 				"belts",
 				"tower",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -6897,7 +6897,7 @@
 				"manifold",
 				"blender",
 				"pipes",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -7154,7 +7154,7 @@
 				"space elevator",
 				"tubes",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -7253,7 +7253,7 @@
 				"pipes",
 				"space elevator",
 				"train station",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -7265,7 +7265,7 @@
 				"train spiral",
 				"train station",
 				"viaduct",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -7274,7 +7274,7 @@
 			"highlightsMeta": [
 				"awesome sink",
 				"tower",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -7341,7 +7341,7 @@
 				"night time",
 				"lights",
 				"tower",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -7351,7 +7351,7 @@
 				"glass",
 				"pipes",
 				"fuel plant",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -7361,7 +7361,7 @@
 				"western beaches",
 				"beams",
 				"cables",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -7411,7 +7411,7 @@
 				"lights",
 				"radar tower",
 				"nuclear plant",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -7420,7 +7420,7 @@
 			"highlightsMeta": [
 				"beams",
 				"nuclear plant",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -7433,7 +7433,7 @@
 				"pipes",
 				"power storage bank",
 				"train station",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -7673,7 +7673,7 @@
 				"pipes",
 				"nuclear plant",
 				"viaduct",
-				"team golden mug",
+				"team golden cup",
 				"team hover pack"
 			]
 		}
@@ -7824,7 +7824,7 @@
 				"glass",
 				"belts",
 				"cables",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -7879,7 +7879,7 @@
 				"nuclear plant",
 				"train spiral",
 				"train station",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -8018,7 +8018,7 @@
 				"oil plant",
 				"outpost",
 				"viaduct",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -8160,7 +8160,7 @@
 				"bean",
 				"nuclear plant",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -8194,7 +8194,7 @@
 				"beams",
 				"belts",
 				"pipes",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -8206,7 +8206,7 @@
 				"train",
 				"outpost",
 				"viaduct",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -8333,7 +8333,7 @@
 				"lights",
 				"pipes",
 				"tower",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -8511,7 +8511,7 @@
 				"beams",
 				"lights",
 				"nuclear plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -8779,7 +8779,7 @@
 			"alt": "Everyone likes to play satisfactory.",
 			"highlightsMeta": [
 				"user interface",
-				"team golden mug"
+				"team golden cup"
 			]
 		}
 	],
@@ -8833,7 +8833,7 @@
 				"nuclear plant",
 				"train spiral",
 				"train station",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -8959,7 +8959,7 @@
 				"radar tower",
 				"tower",
 				"viaduct",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -9005,7 +9005,7 @@
 				"architecture",
 				"night time",
 				"space elevator",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -9187,7 +9187,7 @@
 				"space elevator",
 				"belts",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -9298,7 +9298,7 @@
 				"night time",
 				"belts",
 				"lights",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -9401,7 +9401,7 @@
 				"glass",
 				"space elevator",
 				"belts",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -9508,7 +9508,7 @@
 				"spaghett",
 				"belts",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -9593,7 +9593,7 @@
 				"lights",
 				"pipes",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -9612,7 +9612,7 @@
 				"manifold",
 				"belts",
 				"lights",
-				"team golden mug",
+				"team golden cup",
 				"team hover pack"
 			]
 		}
@@ -9680,7 +9680,7 @@
 				"belts",
 				"outpost",
 				"tower",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -9715,7 +9715,7 @@
 				"weatherwax",
 				"awesome shop",
 				"train",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -9856,7 +9856,7 @@
 			"highlightsMeta": [
 				"glitch",
 				"sunrise/sunset",
-				"team golden mug"
+				"team golden cup"
 			]
 		}
 	],
@@ -10143,7 +10143,7 @@
 			"alt": "Badly made, but that's the message I got from this game.",
 			"highlightsMeta": [
 				"pipes",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -10219,7 +10219,7 @@
 				"fuel plant",
 				"train station",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -10267,7 +10267,7 @@
 				"glitch",
 				"factory cart",
 				"belts",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -10353,7 +10353,7 @@
 				"belts",
 				"lights",
 				"warehouse",
-				"team golden mug",
+				"team golden cup",
 				"team hover pack"
 			]
 		}
@@ -10373,7 +10373,7 @@
 				"lights",
 				"pipes",
 				"nuclear plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -10496,7 +10496,7 @@
 				"drone",
 				"lights",
 				"team hover pack",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -10529,7 +10529,7 @@
 				"lights",
 				"coal plant",
 				"power storage bank",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -10632,7 +10632,7 @@
 				"sunrise/sunset",
 				"cables",
 				"pipes",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -10663,7 +10663,7 @@
 				"miner",
 				"space elevator",
 				"viaduct",
-				"team mug"
+				"team cup"
 			]
 		},
 		{
@@ -10674,7 +10674,7 @@
 				"pipes",
 				"manta",
 				"viaduct",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -10888,7 +10888,7 @@
 				"cables",
 				"outpost",
 				"viaduct",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -10946,7 +10946,7 @@
 				"train",
 				"outpost",
 				"tower",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -11253,7 +11253,7 @@
 				"the gates of beugernath",
 				"glass",
 				"viaduct",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -11323,7 +11323,7 @@
 				"tubes",
 				"bridge",
 				"outpost",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -11341,7 +11341,7 @@
 				"cityscape",
 				"radar tower",
 				"bean",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -11359,7 +11359,7 @@
 				"manifold",
 				"belts",
 				"lizard doggo",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -11714,7 +11714,7 @@
 				"dune desert",
 				"repetition",
 				"pipes",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -11805,7 +11805,7 @@
 				"manifold",
 				"belts",
 				"manta",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -11823,7 +11823,7 @@
 				"space elevator",
 				"belts",
 				"pipes",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -11842,7 +11842,7 @@
 				"interior",
 				"cables",
 				"lights",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -11882,7 +11882,7 @@
 				"pipes",
 				"signs",
 				"outpost",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -11943,7 +11943,7 @@
 				"beams",
 				"belts",
 				"coal plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -12041,7 +12041,7 @@
 				"train station",
 				"train",
 				"pipes",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -12425,7 +12425,7 @@
 				"glass",
 				"space elevator",
 				"crane",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -12609,7 +12609,7 @@
 				"crater lakes",
 				"space elevator",
 				"tower",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -12736,7 +12736,7 @@
 				"tubes",
 				"fuel plant",
 				"outpost",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -13181,7 +13181,7 @@
 				"swamp",
 				"glass",
 				"nuclear plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -13321,7 +13321,7 @@
 				"belts",
 				"cables",
 				"utility tower",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -13338,7 +13338,7 @@
 				"western beaches",
 				"space elevator",
 				"train",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
@@ -13626,7 +13626,7 @@
 				"manifold",
 				"awesome sink",
 				"fuel plant",
-				"team mug"
+				"team cup"
 			]
 		}
 	],
