@@ -34,7 +34,23 @@
 			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
 		},
 		"aesthetics": {
-			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+			"type": "object",
+			"required": [
+				"themes",
+				"time of day",
+				"other"
+			],
+			"properties": {
+				"themes": {
+					"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+				},
+				"time of day": {
+					"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+				},
+				"other": {
+					"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+				}
+			}
 		},
 		"jace": {
 			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"

@@ -24,6 +24,8 @@
 			"swamp",
 			"the great canyon",
 			"titan forest",
+			"uncertain location",
+			"unknown location",
 			"western beaches",
 			"western dune forest"
 		],
@@ -57,34 +59,47 @@
 	"jace": [
 		"jace would holiday there",
 		"jace would live there",
+		"jace would study there",
 		"jace would work there",
 		"robo jace"
 	],
-	"aesthetics": [
-		"architecture",
-		"art",
-		"cityscape",
-		"cyberpunk",
-		"ficsmas",
-		"final fantasy",
-		"games",
-		"glass",
-		"interior",
-		"lasagn",
-		"manifold",
-		"modded",
-		"nature",
-		"night time",
-		"oil rig",
-		"pixel art",
-		"repetition",
-		"skatepark",
-		"spaghett",
-		"sunrise/sunset",
-		"temporary is never temporary",
-		"underwater",
-		"weatherwax"
-	],
+	"aesthetics": {
+		"themes": [
+			"architecture",
+			"art",
+			"cityscape",
+			"cyberpunk",
+			"ficsmas",
+			"final fantasy",
+			"games",
+			"glass",
+			"industrial",
+			"interior",
+			"lasagn",
+			"manifold",
+			"nature",
+			"oil rig",
+			"pixel art",
+			"repetition",
+			"skatepark",
+			"spaghett",
+			"temporary is never temporary",
+			"underwater",
+			"weatherwax"
+		],
+		"time of day": [
+			"night time",
+			"sunrise/sunset"
+		],
+		"other": [
+			"fan art",
+			"memes",
+			"modded",
+			"multiplayer",
+			"reference images",
+			"references to other franchises"
+		]
+	},
 	"team": [
 		"no team",
 		"team beacon",
@@ -93,6 +108,7 @@
 		"team candy cane",
 		"team chainsaw",
 		"team customizer",
+		"team detonator",
 		"team feet",
 		"team golden mug",
 		"team hands",
@@ -104,9 +120,11 @@
 		"team nut",
 		"team object scanner",
 		"team paintgun",
+		"team parachute",
 		"team rebar",
 		"team rifle",
 		"team snowballs",
+		"team statue",
 		"team xenobasher",
 		"team xenozapper",
 		"team zipline"
@@ -123,7 +141,8 @@
 			"resource extractor",
 			"space elevator",
 			"train station",
-			"truck station"
+			"truck station",
+			"jump pad"
 		],
 		"vehicles": [
 			"cyber wagon",
@@ -135,6 +154,8 @@
 			"truck"
 		],
 		"other": [
+			"catwalk",
+			"frames",
 			"beams",
 			"belts",
 			"death crate",
