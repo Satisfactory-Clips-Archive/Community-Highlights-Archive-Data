@@ -1,0 +1,60 @@
+{
+	"$schema": "https://json-schema.org/draft/2019-09/schema",
+	"definitions": {
+		"highlightsMeta": {
+			"type": "array",
+			"minItems": 1,
+			"items": {
+				"type": "string",
+				"enum": [
+					"flying vehicles",
+					"bridge",
+					"viaduct",
+					"dam",
+					"tower",
+					"crane",
+					"oil rig",
+					"train spiral",
+					"outpost",
+					"house",
+					"train station",
+					"cave",
+					"the great canyon",
+					"northern forest",
+					"dune desert",
+					"crater lakes",
+					"rocky desert",
+					"grass fields arch",
+					"swamp waterfall",
+					"the gates of beugernath",
+					"team mug",
+					"team nut",
+					"team xenobasher",
+					"team zipline",
+					"team candy cane",
+					"team hover pack",
+					"glitch",
+					"space elevator",
+					"hub",
+					"coal plant",
+					"oil plant",
+					"nuclear plant",
+					"power storage bank",
+					"cityscape",
+					"cyberpunk",
+					"sunrise/sunset",
+					"night time",
+					"factory cart",
+					"truck",
+					"spaghett",
+					"radar tower",
+					"fireworks",
+					"jace would live there",
+					"jace would work there",
+					"jace would holiday there",
+					"weatherwax"
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,39 @@
+{
+	"$schema": "https://json-schema.org/draft/2019-09/schema",
+	"definitions": {
+		"highlightsMeta": {
+			"type": "array",
+			"minItems": 1,
+			"items": {
+				"type": "string",
+				"enum": [
+					"flying vehicles",
+					"bridge",
+					"grass fields arch",
+					"team mug",
+					"team nut",
+					"team xenobasher",
+					"team zipline",
+					"team candy cane",
+					"the gates of beugernath",
+					"glitch",
+					"viaduct",
+					"space elevator",
+					"hub",
+					"coal plant",
+					"oil plant",
+					"night time",
+					"factory cart",
+					"truck",
+					"spaghett",
+					"train spiral",
+					"radar tower",
+					"crane",
+					"oil rig",
+					"fireworks",
+					"weatherwax"
+				]
+			}
+		}
+	}
+}
