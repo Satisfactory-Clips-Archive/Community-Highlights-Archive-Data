@@ -3956,14 +3956,16 @@
 		{
 			"src": "https://pbs.twimg.com/media/EhuiZ35WkAEAnRt.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"jace would live there",
 				"cityscape",
 				"cyberpunk",
 				"modded",
-				"beams",
+				"frames",
 				"lights",
 				"tower",
 				"viaduct",
+				"industrial",
 				"no team"
 			]
 		}
@@ -3972,11 +3974,15 @@
 		{
 			"src": "https://pbs.twimg.com/media/EhVfzNQXgAEyyAR.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"jace would live there",
 				"glass",
-				"modded",
 				"night time",
+				"modded",
+				"train station",
+				"catwalk",
 				"signs",
+				"tubes",
 				"no team"
 			]
 		},
