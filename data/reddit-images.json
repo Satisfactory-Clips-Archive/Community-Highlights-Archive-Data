@@ -239,7 +239,7 @@
 				"architecture",
 				"glass",
 				"space elevator",
-				"beams",
+				"frames",
 				"cables",
 				"no team"
 			]
@@ -257,14 +257,15 @@
 			"highlightsMeta": [
 				"titan forest",
 				"miner",
+				"train station",
 				"truck station",
+				"frames",
 				"beams",
 				"belts",
 				"foundation patterns",
 				"lights",
 				"outpost",
 				"roads",
-				"train station",
 				"no team"
 			]
 		}
@@ -278,6 +279,7 @@
 		{
 			"src": "https://i.redd.it/yhju0g8uvek81.png",
 			"highlightsMeta": [
+				"uncertain location",
 				"robo jace",
 				"manifold",
 				"repetition",
@@ -306,6 +308,7 @@
 			"src": "https://i.redd.it/ue73ycclmkk81.png",
 			"alt": "lowest floor has a train roundabout for acces to all the stations in each wing",
 			"highlightsMeta": [
+				"unknown location",
 				"interior",
 				"train",
 				"signs",
@@ -324,6 +327,7 @@
 			"src": "https://i.redd.it/u4s3ho7r8nk81.png",
 			"alt": "As long as the instructions are clear, right?",
 			"highlightsMeta": [
+				"uncertain location",
 				"robo jace",
 				"glass",
 				"signs",
@@ -340,6 +344,7 @@
 		{
 			"src": "https://i.redd.it/izbrdfgpz5k81.png",
 			"highlightsMeta": [
+				"uncertain location",
 				"robo jace",
 				"particle accelerator",
 				"space elevator",
@@ -358,8 +363,11 @@
 		{
 			"src": "https://i.redd.it/zztyygp33gk81.png",
 			"highlightsMeta": [
+				"uncertain location",
 				"robo jace",
 				"weatherwax",
+				"spaceship",
+				"references to other franchises",
 				"team hands"
 			]
 		}
@@ -373,6 +381,7 @@
 		{
 			"src": "https://i.redd.it/pxd3dm3kvdk81.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"modded",
 				"cables",
 				"lights",
@@ -382,6 +391,7 @@
 		{
 			"src": "https://i.redd.it/9s95qp3kvdk81.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"modded",
 				"drone",
@@ -400,6 +410,7 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"robo jace",
+				"modded",
 				"lights",
 				"team nut"
 			]
@@ -430,6 +441,7 @@
 		{
 			"src": "https://i.redd.it/236ya2l2ymk81.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"robo jace",
 				"glass",
 				"sunrise/sunset",
@@ -442,8 +454,10 @@
 		{
 			"src": "https://i.redd.it/lrxwav03ymk81.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"robo jace",
 				"glass",
+				"industrial",
 				"sunrise/sunset",
 				"belts",
 				"lights",
@@ -496,7 +510,7 @@
 		{
 			"src": "https://i.redd.it/beq8d3y6k6k81.jpg",
 			"highlightsMeta": [
-				"red jungle",
+				"red bamboo fields",
 				"robo jace",
 				"radar tower",
 				"lights",
@@ -508,7 +522,7 @@
 		{
 			"src": "https://i.redd.it/a4lgb5y6k6k81.jpg",
 			"highlightsMeta": [
-				"red jungle",
+				"red bamboo fields",
 				"robo jace",
 				"glass",
 				"radar tower",
@@ -521,6 +535,7 @@
 		{
 			"src": "https://i.redd.it/0qrpc3y6k6k81.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"robo jace",
 				"interior",
 				"signs",
@@ -531,9 +546,12 @@
 		{
 			"src": "https://i.redd.it/8iw7b5y6k6k81.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"robo jace",
+				"references to other franchises",
 				"awesome shop",
 				"signs",
+				"power storage bank",
 				"no team"
 			]
 		}
@@ -6931,10 +6949,13 @@
 			"src": "https://i.redd.it/0xb4cujmbnh71.png",
 			"alt": "Chill train tunnel",
 			"highlightsMeta": [
+				"unknown location",
+				"glass",
 				"interior",
+				"train",
 				"lights",
 				"pipes",
-				"train",
+				"tubes",
 				"no team"
 			]
 		},
@@ -6942,10 +6963,12 @@
 			"src": "https://i.redd.it/71ovv0kmbnh71.png",
 			"alt": "Chill train tunnel",
 			"highlightsMeta": [
+				"uncertain location",
+				"glass",
 				"interior",
 				"night time",
-				"lights",
 				"train",
+				"lights",
 				"tubes",
 				"no team"
 			]
@@ -6963,9 +6986,9 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"games",
+				"space elevator",
 				"factory cart",
 				"pipes",
-				"space elevator",
 				"no team"
 			]
 		}
@@ -6982,7 +7005,9 @@
 			"highlightsMeta": [
 				"swamp",
 				"sunrise/sunset",
+				"space elevator",
 				"outpost",
+				"viaduct",
 				"no team"
 			]
 		}
@@ -6993,6 +7018,7 @@
 			"alt": "Update 5 ready",
 			"highlightsMeta": [
 				"dune desert",
+				"repetition",
 				"belts",
 				"no team"
 			]
@@ -7002,6 +7028,7 @@
 			"alt": "Update 5 ready",
 			"highlightsMeta": [
 				"dune desert",
+				"sunrise/sunset",
 				"belts",
 				"tower",
 				"no team"
@@ -7018,7 +7045,9 @@
 			"src": "https://i.redd.it/18f9k4e5gdg71.jpg",
 			"alt": "A new record.. 2.14 Billion .. 12 x 780 lines of Thermal propulsion rockets..",
 			"highlightsMeta": [
+				"unknown location",
 				"awesome sink",
+				"user interface",
 				"no team"
 			]
 		}
@@ -7032,7 +7061,7 @@
 				"architecture",
 				"sunrise/sunset",
 				"lights",
-				"tubes",
+				"pipes",
 				"no team"
 			]
 		}
@@ -7042,10 +7071,11 @@
 			"src": "https://i.redd.it/sofvo73b8zf71.png",
 			"alt": "Literally video game development",
 			"highlightsMeta": [
-				"red jungle",
+				"red bamboo fields",
 				"glass",
 				"spaghett",
 				"belts",
+				"outpost",
 				"tower",
 				"team hover pack",
 				"team xenobasher"
@@ -7055,9 +7085,10 @@
 			"src": "https://i.redd.it/16lbpf3b8zf71.png",
 			"alt": "Literally video game development",
 			"highlightsMeta": [
-				"red jungle",
+				"red bamboo fields",
 				"glass",
 				"lasagn",
+				"outpost",
 				"team hover pack",
 				"team xenobasher"
 			]
@@ -7073,6 +7104,8 @@
 			"src": "https://i.redd.it/6pnai53r56g71.png",
 			"alt": "New plastic factory multiplying by 3 the crude oil",
 			"highlightsMeta": [
+				"lake forest",
+				"drone",
 				"belts",
 				"pipes",
 				"tower",
@@ -7091,6 +7124,7 @@
 			"alt": "Harold enjoying the sunset, and pinin' for the fjords",
 			"highlightsMeta": [
 				"northern forest",
+				"frames",
 				"belts",
 				"cables",
 				"bean",
@@ -7127,7 +7161,8 @@
 			"highlightsMeta": [
 				"western dune forest",
 				"manifold",
-				"beams",
+				"repetition",
+				"frames",
 				"belts",
 				"viaduct",
 				"no team"
@@ -7139,6 +7174,8 @@
 			"src": "https://i.redd.it/r18gopt3did71.png",
 			"alt": "Order and spaghet",
 			"highlightsMeta": [
+				"uncertain location",
+				"industrial",
 				"manifold",
 				"team hover pack",
 				"team nut"
@@ -7149,19 +7186,25 @@
 			"alt": "Order and spaghet",
 			"highlightsMeta": [
 				"rocky desert",
+				"industrial",
 				"spaghett",
-				"belts",
 				"space elevator",
+				"frames",
+				"belts",
 				"tubes",
-				"team hover pack",
-				"team cup"
+				"team cup",
+				"team hover pack"
 			]
 		},
 		{
 			"src": "https://i.redd.it/woyr3hrgdid71.png",
 			"alt": "Order and spaghet",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"industrial",
+				"interior",
+				"manifold",
 				"belts",
 				"team nut"
 			]
@@ -7177,8 +7220,10 @@
 			"src": "https://i.redd.it/eyczubgukze71.png",
 			"alt": "Solar eclipse but reverse, literally unplayable",
 			"highlightsMeta": [
+				"uncertain location",
 				"glitch",
 				"sunrise/sunset",
+				"train station",
 				"team xenobasher"
 			]
 		}
@@ -7193,6 +7238,7 @@
 			"src": "https://i.redd.it/o060v138ije71.png",
 			"alt": "I have found my new favourite thing to make...",
 			"highlightsMeta": [
+				"unknown location",
 				"art",
 				"belts",
 				"team hover pack"
@@ -7209,10 +7255,12 @@
 			"src": "https://i.redd.it/t6c2d75nmze71.jpg",
 			"alt": "Overview, with mega battery",
 			"highlightsMeta": [
+				"uncertain location",
 				"weatherwax",
-				"belts",
 				"drone",
+				"belts",
 				"outpost",
+				"viaduct",
 				"team hover pack"
 			]
 		},
@@ -7220,6 +7268,8 @@
 			"src": "https://i.redd.it/brk3o7vdnze71.jpg",
 			"alt": "View down the rows",
 			"highlightsMeta": [
+				"uncertain location",
+				"manifold",
 				"weatherwax",
 				"drone",
 				"cables",
@@ -7230,8 +7280,9 @@
 			"src": "https://i.redd.it/hl18pfxk11f71.jpg",
 			"alt": "The mega battery jammed full of power storages",
 			"highlightsMeta": [
-				"sunrise/sunset",
+				"uncertain location",
 				"weatherwax",
+				"sunrise/sunset",
 				"drone",
 				"power storage bank",
 				"no team"
@@ -8402,8 +8453,9 @@
 			"src": "https://i.redd.it/elpsxl2vxa471.jpg",
 			"alt": "Finished my first layer of my \"Washing Machine\" :D",
 			"highlightsMeta": [
-				"modded",
+				"uncertain location",
 				"underwater",
+				"modded",
 				"pipes",
 				"no team"
 			]
@@ -8419,6 +8471,7 @@
 			"src": "https://i.redd.it/r9q2836pmp471.jpg",
 			"alt": "My motors production building - Trying to get something to look somewhat nice",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"space elevator",
 				"belts",
@@ -8437,11 +8490,12 @@
 			"src": "https://i.redd.it/ifqsipbh7s471.jpg",
 			"alt": "Fuel Build - Jace would live here!",
 			"highlightsMeta": [
-				"red jungle",
+				"crater lakes",
+				"red bamboo fields",
 				"nature",
+				"train station",
 				"power slug",
 				"outpost",
-				"train station",
 				"no team"
 			]
 		}
@@ -8454,6 +8508,7 @@
 				"rocky desert",
 				"night time",
 				"sunrise/sunset",
+				"frames",
 				"beams",
 				"cables",
 				"lights",
@@ -8472,9 +8527,10 @@
 			"src": "https://i.redd.it/bol3y4gdgk471.jpg",
 			"alt": "I’m pretty happy with this 9x3x12 (20/min) Modular Frame.",
 			"highlightsMeta": [
+				"northern forest",
 				"glass",
 				"manifold",
-				"beams",
+				"frames",
 				"no team"
 			]
 		}
@@ -8489,6 +8545,7 @@
 			"src": "https://i.redd.it/qwlwdd1j5h471.png",
 			"alt": "Riding the train like a pro! One way to get them home!",
 			"highlightsMeta": [
+				"uncertain location",
 				"train",
 				"belts",
 				"lizard doggo",
@@ -8507,8 +8564,9 @@
 			"src": "https://i.redd.it/d24cs31p3d471.jpg",
 			"alt": "The villians power lair.",
 			"highlightsMeta": [
+				"uncertain location",
 				"night time",
-				"beams",
+				"frames",
 				"lights",
 				"nuclear plant",
 				"team cup"
@@ -8527,6 +8585,7 @@
 			"highlightsMeta": [
 				"the gates of beugernath",
 				"lookout tower",
+				"frames",
 				"pipes",
 				"outpost",
 				"no team"
@@ -8536,11 +8595,15 @@
 			"src": "https://i.redd.it/97k9g8u021371.png",
 			"alt": "The Fakoi Farm is finished, 6 heater, filter units (2,250mw) and yes some of the fakoi (Factory Carts) do swim around. Making a video of it tonight",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"underwater",
+				"sunrise/sunset",
 				"factory cart",
-				"beams",
+				"frames",
 				"cables",
+				"catwalk",
+				"utility tower",
 				"no team"
 			]
 		}
@@ -8552,6 +8615,7 @@
 			"highlightsMeta": [
 				"swamp",
 				"glass",
+				"lights",
 				"fuel plant",
 				"outpost",
 				"viaduct",
@@ -8565,7 +8629,9 @@
 				"swamp",
 				"glass",
 				"cables",
+				"lights",
 				"outpost",
+				"catwalk",
 				"no team"
 			]
 		}
@@ -8582,10 +8648,10 @@
 			"highlightsMeta": [
 				"cave",
 				"miner",
+				"train station",
 				"train",
 				"belts",
 				"lights",
-				"train station",
 				"no team"
 			]
 		}
@@ -8600,12 +8666,14 @@
 			"src": "https://i.redd.it/njmwbkqvv0371.png",
 			"alt": "Usually bad at organization so I'm kinda proud of my 100GWh battery and 6 No-Waste nuclear reactors 😊",
 			"highlightsMeta": [
+				"rocky desert",
 				"glass",
+				"repetition",
+				"train station",
 				"drone",
 				"belts",
 				"pipes",
 				"power storage bank",
-				"train station",
 				"no team"
 			]
 		},
@@ -8613,7 +8681,9 @@
 			"src": "https://i.redd.it/w5rx1hjwv0371.png",
 			"alt": "Usually bad at organization so I'm kinda proud of my 100GWh battery and 6 No-Waste nuclear reactors 😊",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"interior",
 				"awesome sink",
 				"particle accelerator",
 				"belts",
@@ -8628,6 +8698,7 @@
 			"src": "https://i.redd.it/fxtu8gp6bn271.png",
 			"alt": "Pride factory",
 			"highlightsMeta": [
+				"uncertain location",
 				"lights",
 				"power storage bank",
 				"team hover pack"
@@ -8637,6 +8708,7 @@
 			"src": "https://i.redd.it/6e4d0l17bn271.png",
 			"alt": "Pride factory",
 			"highlightsMeta": [
+				"uncertain location",
 				"pixel art",
 				"sunrise/sunset",
 				"team paintgun"
@@ -8654,6 +8726,7 @@
 			"alt": "His name is Jeff.",
 			"highlightsMeta": [
 				"western dune forest",
+				"glitch",
 				"hog",
 				"team xenobasher"
 			]
@@ -8672,9 +8745,9 @@
 				"dune desert",
 				"spaghett",
 				"space elevator",
+				"train station",
 				"drone",
 				"belts",
-				"train station",
 				"team hover pack",
 				"team xenobasher"
 			]
@@ -8714,6 +8787,7 @@
 			"src": "https://i.redd.it/b3bugg5z8a271.png",
 			"alt": "I love the canals I've seen here, so I made some of my own.",
 			"highlightsMeta": [
+				"uncertain location",
 				"night time",
 				"belts",
 				"lights",
@@ -8724,10 +8798,11 @@
 			"src": "https://i.redd.it/brvzukuz8a271.png",
 			"alt": "I love the canals I've seen here, so I made some of my own.",
 			"highlightsMeta": [
+				"uncertain location",
 				"night time",
 				"belts",
 				"pipes",
-				"coal plant",
+				"fuel plant",
 				"no team"
 			]
 		}
@@ -8743,6 +8818,7 @@
 			"alt": "Base update #5: this is the base me and my friend created in 112 hours. We also now have nuclear energy so now i have tumors on 3 different parts of my body :).",
 			"highlightsMeta": [
 				"grass fields",
+				"spaghett",
 				"space elevator",
 				"belts",
 				"pipes",
@@ -8764,6 +8840,7 @@
 				"grass fields",
 				"glitch",
 				"belts",
+				"manta",
 				"team rifle"
 			]
 		}
@@ -8778,7 +8855,9 @@
 			"src": "https://i.redd.it/76nlkbng5qz61.jpg",
 			"alt": "Everyone likes to play satisfactory.",
 			"highlightsMeta": [
+				"uncertain location",
 				"user interface",
+				"fan art",
 				"team golden cup"
 			]
 		}
@@ -8791,6 +8870,7 @@
 				"dune desert",
 				"weatherwax",
 				"radar tower",
+				"drone",
 				"outpost",
 				"viaduct",
 				"no team"
@@ -8807,12 +8887,16 @@
 			"src": "https://i.redd.it/qmfvukhu21071.png",
 			"alt": "A View closer from the same side.",
 			"highlightsMeta": [
+				"uncertain location",
+				"cityscape",
 				"glass",
 				"space elevator",
 				"lights",
 				"pipes",
+				"tubes",
 				"tower",
 				"viaduct",
+				"multiplayer",
 				"no team"
 			]
 		}
@@ -8829,10 +8913,10 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"spire coast",
+				"train station",
 				"drone",
 				"nuclear plant",
 				"train spiral",
-				"train station",
 				"team cup"
 			]
 		}
@@ -8846,6 +8930,7 @@
 				"architecture",
 				"miner",
 				"radar tower",
+				"drone",
 				"pipes",
 				"no team"
 			]
@@ -8863,7 +8948,7 @@
 			"highlightsMeta": [
 				"swamp",
 				"glass",
-				"beams",
+				"frames",
 				"viaduct",
 				"no team"
 			]
@@ -8881,7 +8966,7 @@
 			"highlightsMeta": [
 				"dune desert",
 				"miner",
-				"beams",
+				"frames",
 				"belts",
 				"pipes",
 				"outpost",
@@ -8900,6 +8985,7 @@
 			"alt": "Going up in early tier 3 to get coal is not an easy task",
 			"highlightsMeta": [
 				"the great canyon",
+				"catwalk",
 				"cables",
 				"bean",
 				"no team"
@@ -8916,6 +9002,7 @@
 			"src": "https://i.redd.it/g2mf4psc9c071.png",
 			"alt": "Hallway to Spicy Factory",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"interior",
 				"night time",
@@ -8954,7 +9041,7 @@
 			"src": "https://i.redd.it/fflspnfqidz61.png",
 			"alt": "Update : Iron/Copper Factory !",
 			"highlightsMeta": [
-				"grass fields",
+				"northern forest",
 				"glass",
 				"radar tower",
 				"tower",
@@ -9036,6 +9123,7 @@
 			"alt": "Main generator substation to support my baseload generators in the northern oilfields. The generator feeder lines are switched to one of the 3 transmission circuits.",
 			"highlightsMeta": [
 				"northern forest",
+				"frames",
 				"beams",
 				"lights",
 				"no team"
@@ -9053,6 +9141,7 @@
 			"src": "https://i.redd.it/slot9uhe25071.png",
 			"alt": "That feeling when you're casually watching the stream a day late and notice yourself in the community highlights. Yes Snutt, all of those above WERE glass foundations, there's also another 2 layers above that.",
 			"highlightsMeta": [
+				"grass fields",
 				"glass",
 				"belts",
 				"manta",
@@ -9070,11 +9159,12 @@
 			"src": "https://i.redd.it/who7u41rviz61.png",
 			"alt": "My city / Ma ville",
 			"highlightsMeta": [
+				"uncertain location",
 				"cityscape",
 				"glass",
 				"radar tower",
-				"lights",
 				"train station",
+				"lights",
 				"no team"
 			]
 		}
@@ -9105,6 +9195,7 @@
 				"sunrise/sunset",
 				"lookout tower",
 				"train",
+				"frames",
 				"lights",
 				"bridge",
 				"no team"
@@ -9121,7 +9212,9 @@
 			"src": "https://i.redd.it/0u8ipuhzhzw61.jpg",
 			"alt": "Dramatic Lighting in my Aluminium factory",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"industrial",
 				"interior",
 				"manifold",
 				"night time",
@@ -9141,12 +9234,14 @@
 			"src": "https://i.redd.it/h0ou23lmllx61.png",
 			"alt": "Sierpinski Base (WIP)",
 			"highlightsMeta": [
+				"uncertain location",
 				"architecture",
 				"manifold",
 				"sunrise/sunset",
 				"awesome sink",
 				"lookout tower",
 				"space elevator",
+				"frames",
 				"cables",
 				"pipes",
 				"fuel plant",
@@ -9172,6 +9267,7 @@
 				"cables",
 				"lights",
 				"spaceship",
+				"references to other franchises",
 				"no team"
 			]
 		}
@@ -9186,8 +9282,8 @@
 				"spaghett",
 				"space elevator",
 				"belts",
-				"team hover pack",
-				"team cup"
+				"team cup",
+				"team hover pack"
 			]
 		}
 	],
@@ -9201,6 +9297,7 @@
 			"src": "https://i.redd.it/jvp23wcumfy61.jpg",
 			"alt": "Definetily not going in here",
 			"highlightsMeta": [
+				"red jungle",
 				"glitch",
 				"team xenobasher"
 			]
@@ -9226,6 +9323,7 @@
 			"src": "https://i.redd.it/wjy4tnavq0x61.png",
 			"alt": "underpass",
 			"highlightsMeta": [
+				"uncertain location",
 				"night time",
 				"lights",
 				"no team"
@@ -9242,6 +9340,7 @@
 			"src": "https://i.redd.it/7pcqaisdb6y61.png",
 			"alt": "My Doggo has a funny way of showing love",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"lizard doggo",
 				"no team"
@@ -9258,6 +9357,7 @@
 			"src": "https://i.redd.it/a3f907pps2y61.jpg",
 			"alt": "Rocket Base (Update, Spaceship Wings, Lights, Fueltanks,…) 🚀🖖",
 			"highlightsMeta": [
+				"uncertain location",
 				"lookout tower",
 				"beams",
 				"spaceship",
@@ -9277,7 +9377,7 @@
 			"alt": "I made some swirly, spiralling train track things",
 			"highlightsMeta": [
 				"rocky desert",
-				"beams",
+				"frames",
 				"cables",
 				"train spiral",
 				"team nut"
@@ -9294,7 +9394,10 @@
 			"src": "https://i.redd.it/dlkqb26t69y61.png",
 			"alt": "Night at factory street :)",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"industrial",
+				"repetition",
 				"night time",
 				"belts",
 				"lights",
@@ -9331,7 +9434,9 @@
 			"src": "https://i.redd.it/cf625k293zw61.png",
 			"alt": "Pay the bill",
 			"highlightsMeta": [
+				"unknown location",
 				"interior",
+				"multiplayer",
 				"lights",
 				"warehouse",
 				"no team"
@@ -9341,6 +9446,7 @@
 			"src": "https://i.redd.it/vkf8uf293zw61.png",
 			"alt": "Overview of the mall",
 			"highlightsMeta": [
+				"uncertain location",
 				"interior",
 				"cables",
 				"lights",
@@ -9359,6 +9465,8 @@
 			"src": "https://i.redd.it/hscudcjgjyw61.jpg",
 			"alt": "Building these is very satisfying",
 			"highlightsMeta": [
+				"unknown location",
+				"references to other franchises",
 				"belts",
 				"no team"
 			]
@@ -9369,16 +9477,18 @@
 			"src": "https://i.redd.it/7p8uy25bn2x61.png",
 			"alt": "Golden view!",
 			"highlightsMeta": [
-				"red jungle",
+				"red bamboo fields",
 				"lights",
 				"bridge",
-				"no team"
+				"team hands"
 			]
 		},
 		{
 			"src": "https://i.redd.it/whbgn55bn2x61.png",
 			"alt": "Golden view!",
 			"highlightsMeta": [
+				"uncertain location",
+				"night time",
 				"belts",
 				"lights",
 				"pipes",
@@ -9398,7 +9508,9 @@
 			"src": "https://i.redd.it/bx92th9dbyv61.png",
 			"alt": "Don't you wish your PC look this COOL!!!!",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"modded",
 				"space elevator",
 				"belts",
 				"team cup"
@@ -9417,7 +9529,8 @@
 			"highlightsMeta": [
 				"northern forest",
 				"glass",
-				"beams",
+				"nature",
+				"frames",
 				"pipes",
 				"tubes",
 				"manta",
