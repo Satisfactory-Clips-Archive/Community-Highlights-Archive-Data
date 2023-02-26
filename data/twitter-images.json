@@ -24,6 +24,58 @@
 			]
 		}
 	],
+	"https://twitter.com/AnthorNet/status/1502257776407552003": [
+		{
+			"src": "https://pbs.twimg.com/media/FNkXdhpXsAApGBI.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"foundation patterns",
+				"roads",
+				"viaduct",
+				"no team"
+			]
+		}
+	],
+	"https://twitter.com/Tr1cky_zockt/status/1503044214778695684": [
+		{
+			"src": "https://pbs.twimg.com/media/FNvgJcBXEAUQK1J.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FNvgJb5X0AMfuUZ.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FNvgJcCXIAQxBVL.jpg",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"glass",
+				"references to other franchises",
+				"foundation patterns",
+				"signs",
+				"outpost",
+				"roads",
+				"viaduct",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FNvgJcIXIAMGy24.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"glass",
+				"industrial",
+				"lookout tower",
+				"drone",
+				"frames",
+				"belts",
+				"crane",
+				"utility tower",
+				"no team"
+			]
+		}
+	],
 	"https://twitter.com/Racton_LP/status/1499420576552828930": [
 		{
 			"src": "https://pbs.twimg.com/media/FM8DDvhWQAQwgNH.jpg",

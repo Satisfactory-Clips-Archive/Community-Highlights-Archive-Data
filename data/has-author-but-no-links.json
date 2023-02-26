@@ -1316,5 +1316,43 @@
 				]
 			}
 		}
+	},
+	"2023-03-15": {
+		"yt-fNFJsu8ynvo": {
+			"04:24 Alex88FR - Hi, I'm selling these fine leather jackets": {
+				"timestamp": 264,
+				"raw_text": "Alex88FR - Hi, I'm selling these fine leather jackets",
+				"timestamps_for_links": [
+					276
+				]
+			},
+			"17:19 KaiaSebastian - Taking reservations https://www.reddit.com/r/SatisfactoryGame/comments/tbdpea/my_newest_satisfactory_restaurant_is_now_complete/": {
+				"timestamp": 1039,
+				"raw_text": "KaiaSebastian - Taking reservations https://www.reddit.com/r/SatisfactoryGame/comments/tbdpea/my_newest_satisfactory_restaurant_is_now_complete/",
+				"timestamps_for_links": [
+					1081
+				],
+				"highlightsMeta": [
+					"memes"
+				]
+			},
+			"23:16 NaSaddestCatEverme - Observatory of goodies": {
+				"timestamp": 1396,
+				"raw_text": "NaSaddestCatEverme - Observatory of goodies",
+				"timestamps_for_links": [
+					1402
+				]
+			},
+			"37:28 McGalleon - Snutt & Jace Talk: McGalleon's guide": {
+				"timestamp": 2248,
+				"raw_text": "McGalleon - Snutt & Jace Talk: McGalleon's guide",
+				"timestamps_for_links": [
+					2460
+				],
+				"highlightsMeta": [
+					"robo jace"
+				]
+			}
+		}
 	}
 }
