@@ -95,6 +95,90 @@
 					831,
 					874,
 					888
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 678,
+						"meta": [
+							"rocky desert",
+							"spire coast",
+							"manifold",
+							"space elevator",
+							"train station",
+							"train",
+							"oil plant",
+							"viaduct",
+							"team cup"
+						]
+					},
+					{
+						"timestamp": 707,
+						"meta": [
+							"uncertain location",
+							"rocky desert",
+							"spire coast",
+							"manifold",
+							"explorer",
+							"frames",
+							"pipes",
+							"team cup"
+						]
+					},
+					{
+						"timestamp": 808,
+						"meta": [
+							"uncertain location",
+							"rocky desert",
+							"glass",
+							"catwalk",
+							"belts",
+							"warehouse",
+							"team cup"
+						]
+					},
+					{
+						"timestamp": 831,
+						"meta": [
+							"rocky desert",
+							"manifold",
+							"train",
+							"pipes",
+							"oil plant",
+							"viaduct",
+							"team cup"
+						]
+					},
+					{
+						"timestamp": 874,
+						"meta": [
+							"uncertain location",
+							"rocky desert",
+							"interior",
+							"frames",
+							"belts",
+							"cables",
+							"nuclear plant",
+							"oil plant",
+							"utility tower",
+							"team cup"
+						]
+					},
+					{
+						"timestamp": 888,
+						"meta": [
+							"uncertain location",
+							"rocky desert",
+							"interior",
+							"memes",
+							"frames",
+							"belts",
+							"cables",
+							"nuclear plant",
+							"oil plant",
+							"utility tower",
+							"team cup"
+						]
+					}
 				]
 			},
 			"15:58 HamisTv - Welcome to Satis Land": {
@@ -104,6 +188,46 @@
 					968,
 					1005,
 					1046
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 968,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"games",
+							"glass",
+							"modded",
+							"foundation patterns",
+							"lights",
+							"team cup"
+						]
+					},
+					{
+						"timestamp": 1005,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"games",
+							"modded",
+							"lights",
+							"statue gallery",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 1046,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"games",
+							"night time",
+							"modded",
+							"train station",
+							"lights",
+							"no team"
+						]
+					}
 				]
 			},
 			"24:31 Smerkin5000 - The Bean": {
@@ -111,6 +235,18 @@
 				"raw_text": "Smerkin5000 - The Bean",
 				"timestamps_for_links": [
 					1502
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1502,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"catwalk",
+							"bean",
+							"team rifle"
+						]
+					}
 				]
 			}
 		}
@@ -123,6 +259,32 @@
 				"timestamps_for_links": [
 					103,
 					141
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 103,
+						"meta": [
+							"uncertain location",
+							"sunrise/sunset",
+							"train",
+							"frames",
+							"lizard doggo",
+							"viaduct",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 141,
+						"meta": [
+							"uncertain location",
+							"space elevator",
+							"train",
+							"frames",
+							"lizard doggo",
+							"viaduct",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -134,6 +296,19 @@
 				"raw_text": "bluewolf_90 - kibitzesque",
 				"timestamps_for_links": [
 					9
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 9,
+						"meta": [
+							"dune desert",
+							"architecture",
+							"train",
+							"crane",
+							"viaduct",
+							"team cup"
+						]
+					}
 				]
 			},
 			"05:00 Simon S. - Factory goes brrrr": {
@@ -141,6 +316,20 @@
 				"raw_text": "Simon S. - Factory goes brrrr",
 				"timestamps_for_links": [
 					301
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 301,
+						"meta": [
+							"uncertain location",
+							"manifold",
+							"repetition",
+							"modded",
+							"pipes",
+							"nuclear plant",
+							"no team"
+						]
+					}
 				]
 			},
 			"10:51 Tesonya - Ficsit Living, continued https://www.reddit.com/r/SatisfactoryGame/comments/iw18ii/ficsit_living/": {
@@ -150,6 +339,40 @@
 					652,
 					670,
 					681
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 652,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"interior",
+							"weatherwax",
+							"statue gallery",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 670,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"interior",
+							"sunrise/sunset",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 681,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"interior",
+							"weatherwax",
+							"sunrise/sunset",
+							"no team"
+						]
+					}
 				]
 			},
 			"13:40 SportyBolt - Avengers Tower": {
@@ -157,6 +380,20 @@
 				"raw_text": "SportyBolt - Avengers Tower",
 				"timestamps_for_links": [
 					821
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 821,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"references to other franchises",
+							"space elevator",
+							"signs",
+							"tower",
+							"team xenobasher"
+						]
+					}
 				]
 			}
 		}
@@ -168,6 +405,17 @@
 				"raw_text": "EPrime - steam",
 				"timestamps_for_links": [
 					311
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 311,
+						"meta": [
+							"spire coast",
+							"architecture",
+							"train spiral",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -179,6 +427,16 @@
 				"raw_text": "Sportybolt - reddit",
 				"timestamps_for_links": [
 					1191
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1191,
+						"meta": [
+							"unknown location",
+							"fan art",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -190,6 +448,19 @@
 				"raw_text": "TheLastPenfighter - a long bridge",
 				"timestamps_for_links": [
 					120
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 120,
+						"meta": [
+							"grass fields",
+							"sunrise/sunset",
+							"frames",
+							"bridge",
+							"viaduct",
+							"team cup"
+						]
+					}
 				]
 			},
 			"09:08 cwigginsNYC - more brutalism": {
