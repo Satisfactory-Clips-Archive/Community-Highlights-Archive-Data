@@ -8,12 +8,17 @@
 					496
 				],
 				"highlightsMeta": [
-					"dune desert",
-					"manifold",
-					"miner",
-					"frames",
-					"train spiral",
-					"no team"
+					{
+						"timestamp": 496,
+						"meta": [
+							"dune desert",
+							"manifold",
+							"miner",
+							"frames",
+							"train spiral",
+							"no team"
+						]
+					}
 				]
 			},
 			"20:48 @SMERKIN 5000 - enclosed gas": {
@@ -21,6 +26,20 @@
 				"raw_text": "@SMERKIN 5000 - enclosed gas",
 				"timestamps_for_links": [
 					1250
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1250,
+						"meta": [
+							"grass fields",
+							"glass",
+							"tractor",
+							"belts",
+							"lizard doggo",
+							"tower",
+							"no team"
+						]
+					}
 				]
 			},
 			"21:21 @SMERKIN 5000 - Another one from Smerkin": {
@@ -28,6 +47,17 @@
 				"raw_text": "@SMERKIN 5000 - Another one from Smerkin",
 				"timestamps_for_links": [
 					1282
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1282,
+						"meta": [
+							"uncertain location",
+							"nobelisk",
+							"arachnophobia mode",
+							"team inhaler"
+						]
+					}
 				]
 			}
 		}
@@ -39,6 +69,20 @@
 				"raw_text": "usuallyagoodguy - LGIO lite",
 				"timestamps_for_links": [
 					290
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 290,
+						"meta": [
+							"uncertain location",
+							"spaghett",
+							"belts",
+							"pipes",
+							"tubes",
+							"coal plant",
+							"no team"
+						]
+					}
 				]
 			},
 			"11:15 kokatrix - factory tour https://imgur.com/a/K6VwYWp": {
@@ -1225,9 +1269,6 @@
 				"timestamps_for_links": [
 					938,
 					948
-				],
-				"highlightsMeta": [
-					"team cup"
 				]
 			},
 			"23:40 ChadsaysGo - Coal powered crane": {
@@ -1237,8 +1278,13 @@
 					1422
 				],
 				"highlightsMeta": [
-					"crane",
-					"truck"
+					{
+						"timestamp": 1422,
+						"meta": [
+							"crane",
+							"truck"
+						]
+					}
 				]
 			},
 			"24:30 exch - Really wanted that Uranium node https://www.reddit.com/r/SatisfactoryGame/comments/scoz54/why_do_the_easy_thing_when_you_can_do_the_hard/": {
@@ -1248,8 +1294,13 @@
 					1473
 				],
 				"highlightsMeta": [
-					"train spiral",
-					"radar tower"
+					{
+						"timestamp": 1473,
+						"meta": [
+							"train spiral",
+							"radar tower"
+						]
+					}
 				]
 			}
 		}
@@ -1263,7 +1314,12 @@
 					420
 				],
 				"highlightsMeta": [
-					"cityscape"
+					{
+						"timestamp": 420,
+						"meta": [
+							"cityscape"
+						]
+					}
 				]
 			}
 		}
@@ -1290,7 +1346,12 @@
 					288
 				],
 				"highlightsMeta": [
-					"robo jace"
+					{
+						"timestamp": 288,
+						"meta": [
+							"robo jace"
+						]
+					}
 				]
 			},
 			"13:24 MarcusDMueller - The doggo": {
@@ -1300,7 +1361,12 @@
 					808
 				],
 				"highlightsMeta": [
-					"robo jace"
+					{
+						"timestamp": 808,
+						"meta": [
+							"robo jace"
+						]
+					}
 				]
 			},
 			"16:08 NootyDreams - My new screensaver": {
@@ -1310,7 +1376,12 @@
 					978
 				],
 				"highlightsMeta": [
-					"robo jace"
+					{
+						"timestamp": 978,
+						"meta": [
+							"robo jace"
+						]
+					}
 				]
 			},
 			"19:53 SkullyNYC - Factory tank!": {
@@ -1320,7 +1391,12 @@
 					1200
 				],
 				"highlightsMeta": [
-					"robo jace"
+					{
+						"timestamp": 1200,
+						"meta": [
+							"robo jace"
+						]
+					}
 				]
 			}
 		}
@@ -1341,7 +1417,12 @@
 					1081
 				],
 				"highlightsMeta": [
-					"memes"
+					{
+						"timestamp": 1081,
+						"meta": [
+							"memes"
+						]
+					}
 				]
 			},
 			"23:16 NaSaddestCatEverme - Observatory of goodies": {
@@ -1358,7 +1439,12 @@
 					2460
 				],
 				"highlightsMeta": [
-					"robo jace"
+					{
+						"timestamp": 2460,
+						"meta": [
+							"robo jace"
+						]
+					}
 				]
 			}
 		}

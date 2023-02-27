@@ -43,7 +43,22 @@
 					}
 				},
 				"highlightsMeta": {
-					"$ref": "highlights-meta.json#/definitions/highlightsMeta"
+					"type": "array",
+					"items": {
+						"type": "object",
+						"required": [
+							"timestamp",
+							"meta"
+						],
+						"properties": {
+							"timestamp": {
+								"type": "number"
+							},
+							"meta": {
+								"$ref": "highlights-meta.json#/definitions/highlightsMeta"
+							}
+						}
+					},
 				}
 			}
 		}
