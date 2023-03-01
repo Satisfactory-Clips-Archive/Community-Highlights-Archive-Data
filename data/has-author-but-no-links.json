@@ -2292,6 +2292,20 @@
 				"raw_text": "@Amelie of the Sea - King Kong is coming",
 				"timestamps_for_links": [
 					162
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 162,
+						"meta": [
+							"dune desert",
+							"desert mountain plateaus",
+							"references to other franchises",
+							"train station",
+							"outpost",
+							"tower",
+							"no team"
+						]
+					}
 				]
 			}
 		}

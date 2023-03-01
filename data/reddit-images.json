@@ -1,4 +1,399 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tj95kc/today_my_factory_is_4_years_old_there_have_been/": [
+		{
+			"src": "https://preview.redd.it/unr3smtewpo81.png?width=640&crop=smart&auto=webp&s=4ac81d96b07203a888da8f6a0e632c2a72172287",
+			"alt": "Today my factory is 4 years old. There have been so many changes since the beginning. Happy birthday :)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/unr3smtewpo81.png",
+			"alt": "Today my factory is 4 years old. There have been so many changes since the beginning. Happy birthday :)",
+			"highlightsMeta": [
+				"grass fields",
+				"grass fields arch",
+				"cityscape",
+				"glass",
+				"industrial",
+				"awesome sink",
+				"lookout tower",
+				"miner",
+				"radar tower",
+				"space elevator",
+				"drone",
+				"frames",
+				"belts",
+				"pipes",
+				"manta",
+				"power storage bank",
+				"viaduct",
+				"team golden cup",
+				"team hover pack"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tf506y/wip_in_defense_of_the_box_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/G9aoexzB1D1yllRYWfqEkfMZ_JaB5qDFMMz7JcXM1UY.jpg",
+			"alt": "WIP -- In defense of the \"box factory\"",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1uq9gztx5nn81.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"truck",
+				"power slug",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/wbzzsvtx5nn81.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"truck",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tifskx/working_chimneys_will_be_the_new_meta/": [
+		{
+			"src": "https://preview.redd.it/m6yz0ub7rho81.jpg?width=640&crop=smart&auto=webp&s=302e08ba91d4e6a0f1dbffa4b6b558093f9dd673",
+			"alt": "Working chimneys will be the new meta!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/m6yz0ub7rho81.jpg",
+			"alt": "Working chimneys will be the new meta!",
+			"highlightsMeta": [
+				"uncertain location",
+				"industrial",
+				"manifold",
+				"frames",
+				"train spiral",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tewxgg/industrial_city/": [
+		{
+			"src": "https://preview.redd.it/7e64mw6chln81.png?width=640&crop=smart&auto=webp&s=e325c494d37658b14f6be8439aa0b9e86668d467",
+			"alt": "Industrial City",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7e64mw6chln81.png",
+			"alt": "Industrial City",
+			"highlightsMeta": [
+				"rocky desert",
+				"manifold",
+				"blender",
+				"space elevator",
+				"train station",
+				"catwalk",
+				"pipes",
+				"team nut"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/titwq3/some_pipes_leading_to_my_oil_factory_i_will_need/": [
+		{
+			"src": "https://preview.redd.it/b9vtooe8klo81.png?width=640&crop=smart&auto=webp&s=208118230b4ba1661250a433e16fa9ece937b8bd",
+			"alt": "Some pipes leading to my oil factory :) I will need more for the fuel later, this is still work in progress.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/b9vtooe8klo81.png",
+			"alt": "Some pipes leading to my oil factory :) I will need more for the fuel later, this is still work in progress.",
+			"highlightsMeta": [
+				"uncertain location",
+				"lasagn",
+				"night time",
+				"pipes",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/theeuq/my_finished_suspension_bridge_its_my_second/": [
+		{
+			"src": "https://preview.redd.it/2k0hlv3pc7o81.jpg?width=640&crop=smart&auto=webp&s=000b9addb7f4f76ba771f2a9259d74573ef7f342",
+			"alt": "My finished “suspension” bridge, it’s my second attempt at one (the other was much smaller and I removed it ages ago) more info in comments.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2k0hlv3pc7o81.jpg",
+			"alt": "My finished “suspension” bridge, it’s my second attempt at one (the other was much smaller and I removed it ages ago) more info in comments.",
+			"highlightsMeta": [
+				"uncertain location",
+				"multiplayer",
+				"miner",
+				"beams",
+				"train signals",
+				"bridge",
+				"team inhaler"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tgrge7/uranium_mine/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/91JyRusqY05jXDo2scwy7yYmCXUoAZE5i0t-s5ypeGk.jpg",
+			"alt": "Uranium Mine",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gvtzzs4k22o81.png",
+			"alt": "Entrance + Dam continuation",
+			"highlightsMeta": [
+				"swamp waterfall",
+				"modded",
+				"catwalk",
+				"foundation patterns",
+				"lights",
+				"roads",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ehro934k22o81.png",
+			"alt": "To go inside you have to go through decontamination",
+			"highlightsMeta": [
+				"swamp waterfall",
+				"ficsmas",
+				"jump pad",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/cqxfq04k22o81.png",
+			"highlightsMeta": [
+				"swamp waterfall",
+				"interior",
+				"foundation patterns",
+				"team hover pack"
+			]
+		},
+		{
+			"src": "https://i.redd.it/uaj67r6k22o81.png",
+			"alt": "decontamination",
+			"highlightsMeta": [
+				"swamp waterfall",
+				"ficsmas",
+				"glass",
+				"jump pad",
+				"foundation patterns",
+				"lights",
+				"personal crate",
+				"signs",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/zjcqpc5k22o81.png",
+			"alt": "The belt",
+			"highlightsMeta": [
+				"cave",
+				"swamp waterfall",
+				"interior",
+				"belts",
+				"viaduct",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/3g8wb86k22o81.png",
+			"alt": "The actual mine (off, I like not being irradiated while taking screenshots)",
+			"highlightsMeta": [
+				"cave",
+				"swamp waterfall",
+				"jace would live there",
+				"miner",
+				"frames",
+				"belts",
+				"viaduct",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tekwwl/happy_cake_day/": [
+		{
+			"src": "https://preview.redd.it/o7oxcmpylin81.png?width=640&crop=smart&auto=webp&s=4a184f8f4b1f4a1a520c9eb987beaac9f84ccaec",
+			"alt": "Happy cake day",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/o7oxcmpylin81.png",
+			"alt": "Happy cake day",
+			"highlightsMeta": [
+				"rocky desert",
+				"jace would eat there",
+				"weatherwax",
+				"pipes",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tiwd6s/aluminum_factory_embracing_the_roundness/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/-dn7OEaJVhWP5y-kzFVEEHOfmT90R_Y5-tJOTpb8ies.jpg",
+			"alt": "Aluminum Factory. Embracing the roundness.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nwwkqs4m3mo81.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"final fantasy",
+				"glass",
+				"industrial",
+				"train",
+				"frames",
+				"belts",
+				"train signals",
+				"train station",
+				"viaduct",
+				"team nut"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tjnoe4/the_nod_nuclear_object_distribution_update_5/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Ed2Z_t5UWWE4kmN-OQVeHXDh1qSAaaEPq9V54Fx8kPM.jpg",
+			"alt": "\"The NOD\" (Nuclear Object Distribution) - Update 5 concept building",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8nukv2sz7to81.png",
+			"alt": "Front view of \"The NOD\". Some older folks may recognize...",
+			"highlightsMeta": [
+				"grass fields",
+				"grass fields arch",
+				"references to other franchises",
+				"train",
+				"beams",
+				"cables",
+				"outpost",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ck98joi28to81.png",
+			"alt": "A drone landing",
+			"highlightsMeta": [
+				"grass fields",
+				"references to other franchises",
+				"drone",
+				"outpost",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/h8ki00ua8to81.png",
+			"alt": "A starting drone...",
+			"highlightsMeta": [
+				"grass fields",
+				"industrial",
+				"interior",
+				"references to other franchises",
+				"drone",
+				"catwalk",
+				"beams",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"outpost",
+				"train station",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/thhp3p/the_great_hall/": [
+		{
+			"src": "https://preview.redd.it/yu9qvesd48o81.png?width=640&crop=smart&auto=webp&s=0c276eaff8d8fdeb1385f8b0db80264c2f3a586a",
+			"alt": "The Great Hall",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yu9qvesd48o81.png",
+			"alt": "The Great Hall",
+			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"glass",
+				"belts",
+				"lights",
+				"signs",
+				"team hover pack",
+				"team nut"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tilsfp/olympus_30k_mw_turbofuel_power_plant/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/0SWQkkaRxLpuIKDmEYFG3SqfP1OZGzNBSlSQqOzC7j0.jpg",
+			"alt": "Olympus (30K MW turbofuel power plant)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ba8719zepjo81.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"the gates of beugernath",
+				"architecture",
+				"train",
+				"viaduct",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/rrihzlzepjo81.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"the gates of beugernath",
+				"architecture",
+				"space elevator",
+				"train spiral",
+				"viaduct",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/siydefzepjo81.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"the gates of beugernath",
+				"architecture",
+				"space elevator",
+				"train spiral",
+				"viaduct",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tfj2ir/jace_would_live_here/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/zyzdY4XsXVOuX9nuTSjHfKKQLpHNcUZHwUR9cO7E7Hk.jpg",
+			"alt": "Jace would live here",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/q0jwe5p6brn81.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"miner",
+				"radar tower",
+				"drone",
+				"outpost",
+				"viaduct",
+				"no team"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/t9t52e/turbo_fuel_generators_section_on_roof_of_crude/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/EKYXFzJ0eeMO7y5rd9Y--tsczG3JLJbi8jbNh-vQ5tk.jpg",
@@ -11533,6 +11928,9 @@
 			"src": "https://i.redd.it/2agi6rz0txh61.jpg",
 			"alt": "115 hours in and just now I figured out you can see the contents of containers by pressing F as if you want to delete it.",
 			"highlightsMeta": [
+				"grass fields arch",
+				"sunrise/sunset",
+				"hub",
 				"signs",
 				"user interface",
 				"team build gun"
@@ -11549,10 +11947,11 @@
 			"src": "https://i.redd.it/scg9zx7cooi61.png",
 			"alt": "Sunrise in Amphitheater",
 			"highlightsMeta": [
-				"desert mountain plateaus",
 				"dune desert",
+				"desert mountain plateaus",
 				"glass",
 				"manifold",
+				"industrial",
 				"no team"
 			]
 		},
@@ -11562,7 +11961,9 @@
 			"highlightsMeta": [
 				"dune desert",
 				"glass",
+				"manifold",
 				"train",
+				"frames",
 				"outpost",
 				"no team"
 			]
@@ -11579,6 +11980,7 @@
 			"alt": "flying bacon?",
 			"highlightsMeta": [
 				"swamp",
+				"nature",
 				"flying crab",
 				"team nut"
 			]
@@ -11594,8 +11996,11 @@
 			"src": "https://i.redd.it/6be7xc74hhi61.png",
 			"alt": "End processing",
 			"highlightsMeta": [
+				"uncertain location",
 				"sunrise/sunset",
-				"beams",
+				"catwalk",
+				"frames",
+				"belts",
 				"outpost",
 				"no team"
 			]
@@ -11611,8 +12016,9 @@
 			"src": "https://i.redd.it/b9at0snfelh61.png",
 			"alt": "Happy Valentines Day! Sorry it's a little late.",
 			"highlightsMeta": [
-				"eastern dune forest",
+				"uncertain location",
 				"art",
+				"space elevator",
 				"pipes",
 				"no team"
 			]
@@ -11628,7 +12034,9 @@
 			"src": "https://i.redd.it/8hxmifxbdih61.png",
 			"alt": "This is getting out of hand",
 			"highlightsMeta": [
+				"grass fields",
 				"glass",
+				"industrial",
 				"manifold",
 				"spaghett",
 				"radar tower",
@@ -11648,6 +12056,7 @@
 			"src": "https://i.redd.it/5qxvhljlfkh61.jpg",
 			"alt": "more noodles..",
 			"highlightsMeta": [
+				"uncertain location",
 				"art",
 				"tubes",
 				"no team"
@@ -11657,6 +12066,7 @@
 			"src": "https://i.redd.it/yk7rncltfkh61.jpg",
 			"alt": "more noodles..",
 			"highlightsMeta": [
+				"uncertain location",
 				"art",
 				"tubes",
 				"no team"
@@ -11689,7 +12099,9 @@
 			"src": "https://i.redd.it/tec8e2nx22g61.png",
 			"alt": "I finished my first Nuclear Power Plant today.",
 			"highlightsMeta": [
-				"night time",
+				"uncertain location",
+				"sunrise/sunset",
+				"catwalk",
 				"cables",
 				"nuclear plant",
 				"no team"
@@ -11706,6 +12118,8 @@
 			"src": "https://i.redd.it/j04klg9ncag61.png",
 			"alt": "Sentinel Tank",
 			"highlightsMeta": [
+				"uncertain location",
+				"desert canyons",
 				"maze canyons",
 				"weatherwax",
 				"pipes",
@@ -11717,6 +12131,7 @@
 			"src": "https://i.redd.it/fqwzlltlcag61.png",
 			"alt": "Sentinel",
 			"highlightsMeta": [
+				"uncertain location",
 				"weatherwax",
 				"beams",
 				"pipes",
@@ -11736,9 +12151,13 @@
 			"src": "https://i.redd.it/c3aqwd0cdcf61.png",
 			"alt": "Classic Refinery throwback - Turbo fuel",
 			"highlightsMeta": [
+				"uncertain location",
+				"industrial",
 				"manifold",
 				"repetition",
 				"sunrise/sunset",
+				"catwalk",
+				"pipes",
 				"fuel plant",
 				"no team"
 			]
@@ -11755,7 +12174,9 @@
 			"alt": "Here is the front of my turbo fuel plant. Came out looking like a Greek/Roman ish style building.",
 			"highlightsMeta": [
 				"the gates of beugernath",
+				"architecture",
 				"glass",
+				"catwalk",
 				"viaduct",
 				"team cup"
 			]
@@ -11775,9 +12196,11 @@
 				"manifold",
 				"nature",
 				"lookout tower",
+				"belts",
 				"cables",
 				"bean",
 				"oil plant",
+				"multiplayer",
 				"no team"
 			]
 		}
@@ -11792,7 +12215,8 @@
 			"src": "https://i.redd.it/dlsq2yawj0f61.png",
 			"alt": "every time i start a new save",
 			"highlightsMeta": [
-				"grass fields",
+				"northern forest",
+				"nature",
 				"user interface",
 				"no team"
 			]
@@ -11859,9 +12283,11 @@
 			"src": "https://i.redd.it/ky05q798w4c61.png",
 			"alt": "We made a little petting zoo for our doggo <3",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"manifold",
 				"belts",
+				"ladder",
 				"lizard doggo",
 				"team cup"
 			]
@@ -11877,8 +12303,11 @@
 			"src": "https://i.redd.it/aq34kn2ng5d61.jpg",
 			"alt": "After realizing what an awful mess my factory is, decided to scrap everything and build a hub",
 			"highlightsMeta": [
+				"grass fields",
+				"lasagn",
 				"spaghett",
 				"hub",
+				"manta",
 				"coal plant",
 				"warehouse",
 				"team xenobasher"
@@ -11895,6 +12324,7 @@
 			"src": "https://i.redd.it/qf8mblsrejd61.jpg",
 			"alt": "don't ask, I got bored..",
 			"highlightsMeta": [
+				"uncertain location",
 				"interior",
 				"repetition",
 				"tubes",
@@ -11912,6 +12342,8 @@
 			"src": "https://i.redd.it/7f7if7tiz0d61.png",
 			"alt": "Saw a very old save, opened it, and was greeted by this monstrosity of a factory",
 			"highlightsMeta": [
+				"uncertain location",
+				"industrial",
 				"manifold",
 				"spaghett",
 				"space elevator",
@@ -11931,10 +12363,12 @@
 			"src": "https://i.redd.it/iqnpe1gqgkc61.png",
 			"alt": "FICSIT Inc. tried to hide the disaster but engineers quickly figured out their companions won't return from the shift",
 			"highlightsMeta": [
+				"uncertain location",
 				"manifold",
 				"modded",
 				"tractor",
-				"beams",
+				"frames",
+				"ladder",
 				"no team"
 			]
 		}
@@ -11949,6 +12383,7 @@
 			"src": "https://i.redd.it/4806it2ikcd61.png",
 			"alt": "Before last upgrades and closing it in walls wanted to make pic",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"lasagn",
 				"manifold",
@@ -11969,7 +12404,8 @@
 			"src": "https://i.redd.it/5yhm47nqp4d61.jpg",
 			"alt": "my new Lego project: miner Mk 1 (all white is supposed to be light Gray)",
 			"highlightsMeta": [
-				"weatherwax",
+				"unknown location",
+				"fan art",
 				"miner",
 				"no team"
 			]
@@ -11985,6 +12421,8 @@
 			"src": "https://i.redd.it/cz6ooyxvpyc61.jpg",
 			"alt": "I don’t have photoshop but I did the best I could do",
 			"highlightsMeta": [
+				"unknown location",
+				"memes",
 				"no team"
 			]
 		}
@@ -11999,6 +12437,7 @@
 			"src": "https://v.redd.it/h5x9ulmzqad61/DASH_720.mp4@13.9",
 			"alt": "I did another spaghetti",
 			"highlightsMeta": [
+				"uncertain location",
 				"art",
 				"weatherwax",
 				"pipes",
@@ -12016,13 +12455,16 @@
 			"src": "https://i.redd.it/iyhwow14h7b61.jpg",
 			"alt": "Here Lies My U3 819 a Minute Alclad Alumnium Sheets Plant",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"industrial",
 				"manifold",
-				"night time",
 				"repetition",
-				"belts",
-				"fuel plant",
+				"night time",
 				"train station",
+				"belts",
+				"pipes",
+				"fuel plant",
 				"no team"
 			]
 		}
@@ -12037,6 +12479,7 @@
 			"src": "https://i.redd.it/re5t2d43nza61.png",
 			"alt": "Look he's flying!",
 			"highlightsMeta": [
+				"uncertain location",
 				"glitch",
 				"ficsmas",
 				"glass",
@@ -12056,8 +12499,9 @@
 			"src": "https://i.redd.it/6pyxs0kcln861.png",
 			"alt": "Happy New Year! I made some Fireworks for everyone!",
 			"highlightsMeta": [
-				"sunrise/sunset",
+				"uncertain location",
 				"weatherwax",
+				"sunrise/sunset",
 				"space elevator",
 				"fireworks",
 				"pipes",
@@ -12077,7 +12521,9 @@
 			"highlightsMeta": [
 				"northern forest",
 				"ficsmas",
+				"glass",
 				"miner",
+				"catwalk",
 				"belts",
 				"outpost",
 				"no team"
@@ -12098,6 +12544,8 @@
 				"grass fields arch",
 				"ficsmas",
 				"glass",
+				"catwalk",
+				"belts",
 				"outpost",
 				"team nut"
 			]
@@ -12113,14 +12561,16 @@
 			"src": "https://i.redd.it/6f6j2uvj6m861.jpg",
 			"alt": "Just finished making my Hyper tube hub 4 hyper tubes travel under the floor to different locations!",
 			"highlightsMeta": [
-				"desert mountain plateaus",
 				"dune desert",
+				"desert mountain plateaus",
 				"ficsmas",
 				"awesome sink",
 				"lookout tower",
+				"frames",
 				"cables",
 				"lights",
 				"tubes",
+				"outpost",
 				"tower",
 				"warehouse",
 				"no team"
@@ -12137,8 +12587,10 @@
 			"src": "https://i.redd.it/n0n34c4svc561.png",
 			"alt": "Merry FICSMAS everybody. Can we keep this all year round?",
 			"highlightsMeta": [
+				"uncertain location",
 				"ficsmas",
 				"night time",
+				"hub",
 				"cables",
 				"lights",
 				"coal plant",
@@ -12180,9 +12632,11 @@
 				"western dune forest",
 				"glass",
 				"radar tower",
-				"beams",
+				"catwalk",
+				"frames",
 				"pipes",
 				"outpost",
+				"industrial",
 				"no team"
 			]
 		}
@@ -12198,6 +12652,7 @@
 			"alt": "I regret every second of it.",
 			"highlightsMeta": [
 				"the great canyon",
+				"green valley",
 				"the gates of beugernath",
 				"repetition",
 				"belts",
@@ -12216,6 +12671,7 @@
 			"alt": "Patience and lots of trial and error can lead to satisfying results.",
 			"highlightsMeta": [
 				"dune desert",
+				"lasagn",
 				"repetition",
 				"pipes",
 				"team cup"
@@ -12235,7 +12691,9 @@
 				"grass fields",
 				"cityscape",
 				"ficsmas",
+				"industrial",
 				"radar tower",
+				"factory cart",
 				"belts",
 				"pipes",
 				"manta",
@@ -12254,9 +12712,12 @@
 			"src": "https://i.redd.it/9jvffox0c0561.jpg",
 			"alt": "So, I made spaghetti. I mean this factory first sorts every item in game en then place it on a belt above to transfer it to another location. This way i just connect every ore up to this machine and it will organize it and bring it to my main location ;)",
 			"highlightsMeta": [
+				"uncertain location",
 				"spaghett",
 				"sunrise/sunset",
 				"oil plant",
+				"train station",
+				"warehouse",
 				"team hands"
 			]
 		}
@@ -12272,8 +12733,10 @@
 			"alt": "I'm rebuilding my spaghetti machine",
 			"highlightsMeta": [
 				"grass fields",
+				"ficsmas",
 				"miner",
 				"space elevator",
+				"tractor",
 				"dismantle crate",
 				"no team"
 			]
@@ -12289,6 +12752,8 @@
 			"src": "https://i.redd.it/ffuxl9iosl461.jpg",
 			"alt": "Snutt's Guide to Satisfactory Machines",
 			"highlightsMeta": [
+				"unknown location",
+				"memes",
 				"no team"
 			]
 		}
@@ -12307,7 +12772,9 @@
 				"ficsmas",
 				"glass",
 				"manifold",
+				"catwalk",
 				"belts",
+				"tubes",
 				"manta",
 				"team cup"
 			]
@@ -12323,6 +12790,9 @@
 			"src": "https://i.redd.it/6wsrp5dntr461.png",
 			"alt": "317 hours in",
 			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"industrial",
 				"radar tower",
 				"space elevator",
 				"belts",
@@ -12341,9 +12811,11 @@
 			"src": "https://i.imgur.com/Y6v3JdE.jpeg",
 			"alt": "I made a Ficsmas shrine that way I can enjoy Ficsmas all year round!",
 			"highlightsMeta": [
+				"uncertain location",
 				"ficsmas",
 				"glass",
 				"interior",
+				"belts",
 				"cables",
 				"lights",
 				"team cup"
@@ -12364,8 +12836,9 @@
 				"architecture",
 				"ficsmas",
 				"manifold",
+				"modded",
 				"space elevator",
-				"beams",
+				"frames",
 				"no team"
 			]
 		}
@@ -12383,6 +12856,8 @@
 				"grass fields",
 				"ficsmas",
 				"glass",
+				"miner",
+				"catwalk",
 				"pipes",
 				"signs",
 				"outpost",
@@ -12402,9 +12877,11 @@
 			"highlightsMeta": [
 				"northern forest",
 				"the great canyon",
+				"architecture",
 				"ficsmas",
 				"glass",
 				"manifold",
+				"train station",
 				"train",
 				"team candy cane"
 			]
@@ -12442,10 +12919,13 @@
 			"highlightsMeta": [
 				"grass fields",
 				"cityscape",
+				"industrial",
 				"radar tower",
 				"space elevator",
-				"beams",
+				"catwalk",
+				"frames",
 				"belts",
+				"tubes",
 				"coal plant",
 				"team cup"
 			]
@@ -12461,8 +12941,10 @@
 			"src": "https://i.redd.it/zcq7ax0fip361.png",
 			"alt": "Drive Through Train Washing Thingamajiggy",
 			"highlightsMeta": [
+				"uncertain location",
 				"ficsmas",
 				"interior",
+				"jump pad",
 				"train",
 				"no team"
 			]
@@ -12482,6 +12964,7 @@
 				"ficsmas",
 				"miner",
 				"space elevator",
+				"cables",
 				"outpost",
 				"team candy cane"
 			]
@@ -12501,8 +12984,9 @@
 				"cityscape",
 				"ficsmas",
 				"glass",
+				"sunrise/sunset",
 				"train",
-				"beams",
+				"frames",
 				"belts",
 				"viaduct",
 				"no team"
@@ -12519,6 +13003,7 @@
 			"src": "https://i.redd.it/bqh7noeaoo361.png",
 			"alt": "Tis The Season. Currently making 450 present/min.",
 			"highlightsMeta": [
+				"unknown location",
 				"ficsmas",
 				"interior",
 				"manifold",
@@ -12538,6 +13023,8 @@
 			"src": "https://i.redd.it/gomehvb2dp361.png",
 			"alt": "Wishing everyone a gay Fics*mas",
 			"highlightsMeta": [
+				"uncertain location",
+				"red bamboo fields",
 				"red jungle",
 				"ficsmas",
 				"glass",
@@ -12563,9 +13050,10 @@
 				"ficsmas",
 				"glass",
 				"manifold",
+				"train station",
+				"train",
 				"belts",
 				"cables",
-				"train station",
 				"no team"
 			]
 		}
@@ -12580,9 +13068,11 @@
 			"src": "https://i.redd.it/m5ubezvoqm261.png",
 			"alt": "O Fics*mas Crane! Oh Fics*mas Crane! How lovely are thy presents!",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"train station",
 				"train",
+				"catwalk",
 				"crane",
 				"team hands"
 			]
@@ -12598,9 +13088,12 @@
 			"src": "https://i.redd.it/k44s68s3cs361.png",
 			"alt": "Ficstmas has been automated!",
 			"highlightsMeta": [
+				"uncertain location",
+				"ficsmas",
 				"glass",
 				"space elevator",
 				"ladder",
+				"tubes",
 				"outpost",
 				"team hands"
 			]
@@ -12616,6 +13109,8 @@
 			"src": "https://i.redd.it/jqz2u6qyba161.png",
 			"alt": "That feeling when you haven't unlocked rails yet but have a stupidly long sky platform so all you have is an inflatable meep meep cart",
 			"highlightsMeta": [
+				"uncertain location",
+				"red bamboo fields",
 				"red jungle",
 				"glass",
 				"radar tower",
@@ -12657,8 +13152,8 @@
 				"rocky desert",
 				"sunrise/sunset",
 				"space elevator",
-				"outpost",
 				"train station",
+				"outpost",
 				"viaduct",
 				"no team"
 			]
@@ -12674,7 +13169,8 @@
 			"src": "https://i.redd.it/j60qp25edw161.png",
 			"alt": "Trains all figured out",
 			"highlightsMeta": [
-				"dune desert",
+				"uncertain location",
+				"manifold",
 				"space elevator",
 				"train",
 				"nuclear plant",
@@ -12694,8 +13190,8 @@
 			"highlightsMeta": [
 				"northern forest",
 				"glass",
-				"night time",
 				"spaghett",
+				"night time",
 				"belts",
 				"cables",
 				"no team"
@@ -12712,8 +13208,10 @@
 			"src": "https://i.redd.it/zib80yn2rg061.png",
 			"alt": "welcome MégaFactory",
 			"highlightsMeta": [
+				"uncertain location",
 				"cityscape",
 				"glass",
+				"industrial",
 				"radar tower",
 				"space elevator",
 				"train",
@@ -12733,8 +13231,10 @@
 			"src": "https://i.redd.it/5cg1dwpio3161.png",
 			"alt": "The factory begins - Copper & Caterium Processing Facility, Central Storage & Hub",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"sunrise/sunset",
+				"miner",
 				"space elevator",
 				"hub",
 				"no team"
@@ -12751,10 +13251,11 @@
 			"src": "https://i.redd.it/s4gy1nlxd6161.png",
 			"alt": "My future iron bus.",
 			"highlightsMeta": [
+				"crater lakes",
 				"lasagn",
 				"space elevator",
-				"pipes",
 				"train station",
+				"pipes",
 				"warehouse",
 				"no team"
 			]
@@ -12787,7 +13288,9 @@
 			"src": "https://i.redd.it/dfqhw5zcql061.png",
 			"alt": "A storage system I made.",
 			"highlightsMeta": [
+				"unknown location",
 				"interior",
+				"catwalk",
 				"cables",
 				"warehouse",
 				"no team"
@@ -12797,6 +13300,7 @@
 			"src": "https://i.redd.it/na5bqoycql061.png",
 			"alt": "Definitely no clipping here, hehe.",
 			"highlightsMeta": [
+				"uncertain location",
 				"spaghett",
 				"belts",
 				"no team"
@@ -12817,10 +13321,12 @@
 				"glass",
 				"sunrise/sunset",
 				"space elevator",
+				"train station",
 				"truck station",
+				"catwalk",
+				"frames",
 				"stairs",
 				"tower",
-				"train station",
 				"no team"
 			]
 		}
@@ -12851,9 +13357,12 @@
 			"src": "https://i.redd.it/3yxvhm5cb1z51.png",
 			"alt": "I like symmetry :) Caterium ingot Production 360/min",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"industrial",
 				"interior",
 				"manifold",
+				"catwalk",
 				"cables",
 				"no team"
 			]
@@ -12869,7 +13378,8 @@
 			"src": "https://i.redd.it/cdo6cxjligz51.png",
 			"alt": "Pioneer with Doggo Fanart",
 			"highlightsMeta": [
-				"art",
+				"unknown location",
+				"fan art",
 				"lizard doggo",
 				"no team"
 			]
@@ -12886,9 +13396,11 @@
 			"alt": "This badboy of a factory produces 1.9 Turbomotors per minute. Sorry for flexing with my cybertruck",
 			"highlightsMeta": [
 				"grass fields",
+				"industrial",
 				"spaghett",
 				"radar tower",
 				"space elevator",
+				"train station",
 				"cyber wagon",
 				"belts",
 				"coal plant",
@@ -12928,6 +13440,7 @@
 				"spire coast",
 				"glass",
 				"space elevator",
+				"frames",
 				"crane",
 				"team cup"
 			]
@@ -12943,8 +13456,10 @@
 			"src": "https://i.redd.it/rk4iw4pv1ol51.png",
 			"alt": "Spaghetti? Apparently I'm more of a lasagna guy...",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"lasagn",
+				"belts",
 				"hub",
 				"team inhaler"
 			]
@@ -12960,6 +13475,8 @@
 			"src": "https://i.redd.it/9zbypge6knz51.png",
 			"alt": "When all oil goes to one place",
 			"highlightsMeta": [
+				"rocky desert",
+				"miner",
 				"train station",
 				"pipes",
 				"team hands"
@@ -12976,6 +13493,8 @@
 			"src": "https://i.redd.it/swbeh1mcgrz51.jpg",
 			"alt": "Nope, I do not like it",
 			"highlightsMeta": [
+				"uncertain location",
+				"manifold",
 				"awesome sink",
 				"pipes",
 				"oil plant",
@@ -12995,6 +13514,7 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"glass",
+				"catwalk",
 				"belts",
 				"tower",
 				"no team"
@@ -13014,8 +13534,10 @@
 				"swamp",
 				"manifold",
 				"awesome sink",
-				"beams",
+				"catwalk",
+				"frames",
 				"fuel plant",
+				"viaduct",
 				"no team"
 			]
 		}
@@ -13047,7 +13569,9 @@
 			"src": "https://i.redd.it/mqpy457cdhx51.png",
 			"alt": "Me and my friend got to the top of the space elevator, only to be faced with what we can only assume is the god of this world... a single bacon agaric",
 			"highlightsMeta": [
+				"uncertain location",
 				"nature",
+				"multiplayer",
 				"no team"
 			]
 		}
@@ -13062,8 +13586,10 @@
 			"src": "https://i.redd.it/hb65swezpwx51.png",
 			"alt": "I used Update 3.5ish to host a rave party at my cyber car bounce house (music video in comments)",
 			"highlightsMeta": [
+				"uncertain location",
 				"flying vehicles",
 				"glass",
+				"jump pad",
 				"cables",
 				"no team"
 			]
@@ -13079,12 +13605,16 @@
 			"src": "https://i.redd.it/xm7nbl97wqw51.jpg",
 			"alt": "Meet Bertha!",
 			"highlightsMeta": [
+				"western beaches",
 				"lookout tower",
 				"space elevator",
 				"train station",
+				"frames",
+				"lights",
 				"manta",
 				"crane",
 				"fuel plant",
+				"spaceship",
 				"train spiral",
 				"no team"
 			]
@@ -13095,6 +13625,10 @@
 			"src": "https://i.redd.it/xr1fpqkd7uv51.png",
 			"alt": "We really like this view",
 			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"radar tower",
+				"bridge",
 				"tower",
 				"no team"
 			]
@@ -13111,6 +13645,7 @@
 			"alt": "Spent the last few hours building this. Still not sure what to use it for.",
 			"highlightsMeta": [
 				"crater lakes",
+				"radar tower",
 				"space elevator",
 				"tower",
 				"team cup"
@@ -13130,7 +13665,7 @@
 				"red jungle",
 				"architecture",
 				"space elevator",
-				"beams",
+				"frames",
 				"no team"
 			]
 		}
@@ -13178,9 +13713,10 @@
 			"src": "https://i.redd.it/dhqcovx3efw51.jpg",
 			"alt": "Fancy Building for not so fancy materials (just an iron plates, rods, screws,reinforced plate and modular frame factory)",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
-				"modded",
 				"sunrise/sunset",
+				"modded",
 				"hub",
 				"cables",
 				"signs",
@@ -13198,6 +13734,7 @@
 			"src": "https://i.redd.it/a7poetb4mkv51.jpg",
 			"alt": "The only mod I used to make this is Pak Utility to be able to fly",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"night time",
 				"tower",
@@ -13208,8 +13745,10 @@
 			"src": "https://i.redd.it/fwv5stb4mkv51.jpg",
 			"alt": "",
 			"highlightsMeta": [
+				"northern forest",
 				"glass",
 				"night time",
+				"tower",
 				"no team"
 			]
 		},
@@ -13217,7 +13756,9 @@
 			"src": "https://i.redd.it/s844hub4mkv51.jpg",
 			"alt": "",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"night time",
 				"lizard doggo",
 				"tower",
 				"no team"
@@ -13237,9 +13778,11 @@
 				"lake forest",
 				"manifold",
 				"belts",
+				"pipes",
 				"tubes",
 				"fuel plant",
 				"outpost",
+				"viaduct",
 				"team cup"
 			]
 		}
@@ -13257,7 +13800,7 @@
 				"dune desert",
 				"weatherwax",
 				"train station",
-				"beams",
+				"frames",
 				"no team"
 			]
 		}
@@ -13272,6 +13815,7 @@
 			"src": "https://i.redd.it/6f9e23ttdyu51.jpg",
 			"alt": "Curious Creature as Nessie",
 			"highlightsMeta": [
+				"uncertain location",
 				"bean",
 				"team xenobasher"
 			]
@@ -13280,6 +13824,7 @@
 			"src": "https://i.redd.it/m62rp64tdyu51.jpg",
 			"alt": "",
 			"highlightsMeta": [
+				"uncertain location",
 				"bean",
 				"team xenobasher"
 			]
@@ -13290,7 +13835,10 @@
 			"src": "https://external-preview.redd.it/UMVhI6nH-mTUNZKHh_3eFp7Z1XSMBiWVykpr-0cFu-A.png?width=640&crop=smart&auto=webp&s=11ffc2deb0d7e08319acd4ddf2c23f1f8e9dcc6e",
 			"alt": "Was asked how to build train spiral (see comment)",
 			"highlightsMeta": [
+				"uncertain location",
+				"glass",
 				"space elevator",
+				"tower",
 				"train spiral",
 				"team nut"
 			]
