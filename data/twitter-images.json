@@ -18,7 +18,9 @@
 		{
 			"src": "https://pbs.twimg.com/media/EXmYAmuVcAEvCFY.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"swamp",
+				"sunrise/sunset",
 				"arachnophobia mode",
 				"team inhaler"
 			]
@@ -467,8 +469,8 @@
 		{
 			"src": "https://pbs.twimg.com/media/FKFI8hiWUAAiD83.jpg",
 			"highlightsMeta": [
-				"desert mountain plateaus",
 				"dune desert",
+				"desert mountain plateaus",
 				"tower",
 				"no team"
 			]
@@ -493,6 +495,7 @@
 				"spire coast",
 				"glass",
 				"night time",
+				"train",
 				"lights",
 				"oil plant",
 				"team golden cup",
@@ -502,8 +505,10 @@
 		{
 			"src": "https://pbs.twimg.com/media/FJjGQOQVIAYE4FN.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"interior",
+				"manifold",
 				"night time",
 				"pipes",
 				"oil plant",
@@ -570,6 +575,8 @@
 			"src": "https://pbs.twimg.com/media/FJw9DvvXwAAERrg.jpg",
 			"highlightsMeta": [
 				"grass fields",
+				"sunrise/sunset",
+				"radar tower",
 				"train station",
 				"nuclear plant",
 				"tower",
@@ -593,6 +600,7 @@
 				"architecture",
 				"glass",
 				"space elevator",
+				"catwalk",
 				"belts",
 				"outpost",
 				"viaduct",
@@ -606,8 +614,11 @@
 		{
 			"src": "https://pbs.twimg.com/media/FJewV0baMAEyYaN.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"interior",
 				"manifold",
+				"catwalk",
+				"belts",
 				"lights",
 				"no team"
 			]
@@ -621,8 +632,10 @@
 		{
 			"src": "https://pbs.twimg.com/media/FHxjbAqXMAM8Y48.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"space elevator",
 				"fireworks",
+				"team detonator",
 				"no team"
 			]
 		}
@@ -648,6 +661,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FJXDQciXsAUpkNX.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"ficsmas",
 				"interior",
 				"manifold",
@@ -685,7 +699,9 @@
 		{
 			"src": "https://pbs.twimg.com/media/FJA683dWYAcS389.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"interior",
+				"cables",
 				"lights",
 				"signs",
 				"no team"
@@ -698,7 +714,8 @@
 			"highlightsMeta": [
 				"swamp",
 				"architecture",
-				"beams",
+				"radar tower",
+				"frames",
 				"train signals",
 				"outpost",
 				"tower",
