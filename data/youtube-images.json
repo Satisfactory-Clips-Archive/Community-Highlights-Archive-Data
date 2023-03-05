@@ -2,7 +2,13 @@
 	"https://www.youtube.com/watch?v=RsUvDKe1vOc": [
 		{
 			"src": "https://img.youtube.com/vi/RsUvDKe1vOc/hqdefault.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"pipes",
+				"fuel plant",
+				"no team"
+			]
 		}
 	],
 	"https://www.youtube.com/watch?v=vk7iOr_Z_0M": [

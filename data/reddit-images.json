@@ -6,7 +6,21 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/tqs8fopimlp81.png"
+			"src": "https://i.redd.it/tqs8fopimlp81.png",
+			"highlightsMeta": [
+				"dune desert",
+				"glass",
+				"industrial",
+				"night time",
+				"explorer",
+				"catwalk",
+				"frames",
+				"belts",
+				"lights",
+				"signs",
+				"utility tower",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tp3u8s/i_made_a_house_theres_isnt_like_a_point_to_it_it/": [
@@ -16,7 +30,17 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/utjyzlw1jsp81.png"
+			"src": "https://i.redd.it/utjyzlw1jsp81.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"glass",
+				"truck",
+				"foundation patterns",
+				"hub",
+				"coal plant",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tpk0pl/my_giant_canister_factory_2971_per_min/": [
@@ -26,7 +50,18 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/p81yp3suhxp81.jpg"
+			"src": "https://i.redd.it/p81yp3suhxp81.jpg",
+			"highlightsMeta": [
+				"snaketree forest",
+				"ficsmas",
+				"weatherwax",
+				"awesome sink",
+				"fireworks",
+				"pipes",
+				"roads",
+				"viaduct",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tol5d5/i_made_the_satisfactory_map_in_satisfactory_yes/": [
@@ -36,7 +71,14 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/jp0sy1si8pp81.png"
+			"src": "https://i.redd.it/jp0sy1si8pp81.png",
+			"highlightsMeta": [
+				"dune desert",
+				"ficsmas",
+				"manifold",
+				"signs",
+				"team hover pack"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tkdngt/moved_from_the_unesco_world_heritage_site_in/": [
@@ -47,11 +89,26 @@
 		},
 		{
 			"src": "https://i.redd.it/ncbvlg4a60p81.png",
-			"alt": "Manufacturing in the Grass Fields"
+			"alt": "Manufacturing in the Grass Fields",
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"glass",
+				"space elevator",
+				"lights",
+				"train signals",
+				"viaduct",
+				"no team"
+			]
 		},
 		{
 			"src": "https://i.redd.it/to7khv7b60p81.jpg",
-			"alt": "Van Nelle Factory in Rotterdam, Netherlands"
+			"alt": "Van Nelle Factory in Rotterdam, Netherlands",
+			"highlightsMeta": [
+				"unknown location",
+				"reference images",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tkzhsa/my_actual_project_right_now_cat_wire_production/": [
@@ -62,7 +119,18 @@
 		},
 		{
 			"src": "https://i.redd.it/xz40rxfkt5p81.jpg",
-			"alt": "My actual project right now: Cat wire production for all pure caterium nodes. Long time WIP ;p"
+			"alt": "My actual project right now: Cat wire production for all pure caterium nodes. Long time WIP ;p",
+			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"art",
+				"industrial",
+				"pixel art",
+				"space elevator",
+				"train spiral",
+				"train station",
+				"team golden cup"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tm26zk/current_savegame_300_hours_in/": [
@@ -73,7 +141,20 @@
 		},
 		{
 			"src": "https://i.redd.it/n3fq7popyap81.png",
-			"alt": "My Southern Factories - WIP"
+			"alt": "My Southern Factories - WIP",
+			"highlightsMeta": [
+				"grass fields arch",
+				"ficsmas",
+				"industrial",
+				"manifold",
+				"miner",
+				"space elevator",
+				"train",
+				"hub",
+				"roads",
+				"viaduct",
+				"team cup"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tlw4fx/decided_that_i_needed_a_fuel_station_just_drive/": [
@@ -83,7 +164,19 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/d03jvrtry8p81.png"
+			"src": "https://i.redd.it/d03jvrtry8p81.png",
+			"highlightsMeta": [
+				"grass fields arch",
+				"architecture",
+				"weatherwax",
+				"truck station",
+				"explorer",
+				"beams",
+				"foundation patterns",
+				"signs",
+				"roads",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tkt5de/i_love_my_little_family_they_even_bring_me_gifts/": [
@@ -94,7 +187,13 @@
 		},
 		{
 			"src": "https://i.redd.it/ta1uqyg3q4p81.jpg",
-			"alt": "I love my little family, they even bring me gifts like URANIUM WASTE or 15 FPS"
+			"alt": "I love my little family, they even bring me gifts like URANIUM WASTE or 15 FPS",
+			"highlightsMeta": [
+				"unknown location",
+				"repetition",
+				"lizard doggo",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tqg6iz/960_iron_ingots_per_minute_iron_smelting_facility/": [
@@ -105,7 +204,15 @@
 		},
 		{
 			"src": "https://i.redd.it/hgklqhwc66q81.jpg",
-			"alt": "960 iron ingots per minute Iron smelting facility."
+			"alt": "960 iron ingots per minute Iron smelting facility.",
+			"highlightsMeta": [
+				"green valley",
+				"architecture",
+				"glass",
+				"miner",
+				"signs",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tqb8yf/that_moment_when_you_look_over_a_completed/": [
@@ -116,7 +223,14 @@
 		},
 		{
 			"src": "https://i.redd.it/dfc5dybn25q81.jpg",
-			"alt": "That moment when you look over a completed recycled rubber factory with a sigh of relief!"
+			"alt": "That moment when you look over a completed recycled rubber factory with a sigh of relief!",
+			"highlightsMeta": [
+				"uncertain location",
+				"manifold",
+				"pipes",
+				"oil plant",
+				"team rifle"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tnyxxx/slanty_bridge_for_a_slanty_track/": [
@@ -127,7 +241,15 @@
 		},
 		{
 			"src": "https://i.redd.it/sik8w0czdlp81.png",
-			"alt": "Thought I'd cash in on that bridge meta."
+			"alt": "Thought I'd cash in on that bridge meta.",
+			"highlightsMeta": [
+				"rocky desert",
+				"train",
+				"frames",
+				"train signals",
+				"bridge",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tnwci6/something_special_for_someone_special_4/": [
@@ -138,7 +260,18 @@
 		},
 		{
 			"src": "https://i.redd.it/13mjz2bsskp81.jpg",
-			"alt": "12 working coal power plants in a special style"
+			"alt": "12 working coal power plants in a special style",
+			"highlightsMeta": [
+				"green valley",
+				"weatherwax",
+				"sunrise/sunset",
+				"miner",
+				"truck station",
+				"belts",
+				"coal plant",
+				"roads",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tpimrw/sis_poseidon_v2_more_and_blueprint_to_the_video/": [
@@ -148,7 +281,14 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/yfg9ukdi2xp81.jpg"
+			"src": "https://i.redd.it/yfg9ukdi2xp81.jpg",
+			"highlightsMeta": [
+				"western beaches",
+				"catwalk",
+				"pipes",
+				"boat",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tld880/sunrise_over_turbofuel/": [
@@ -159,7 +299,15 @@
 		},
 		{
 			"src": "https://i.redd.it/3rm2ak5z17p81.jpg",
-			"alt": "Sunrise over turbofuel."
+			"alt": "Sunrise over turbofuel.",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"sunrise/sunset",
+				"frames",
+				"fuel plant",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tlftm5/hello_pioneers_lately_ive_been_really_completing/": [
@@ -169,13 +317,46 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/ko80yb1697p81.png"
+			"src": "https://i.redd.it/ko80yb1697p81.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"glass",
+				"miner",
+				"train station",
+				"lights",
+				"signs",
+				"roads",
+				"viaduct",
+				"no team"
+			]
 		},
 		{
-			"src": "https://i.redd.it/78g9uj1697p81.png"
+			"src": "https://i.redd.it/78g9uj1697p81.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"glass",
+				"miner",
+				"space elevator",
+				"train signals",
+				"roads",
+				"train station",
+				"viaduct",
+				"no team"
+			]
 		},
 		{
-			"src": "https://i.redd.it/cffd1d1697p81.png"
+			"src": "https://i.redd.it/cffd1d1697p81.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"glass",
+				"train station",
+				"signs",
+				"train signals",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tp6mw3/quartz_factory_precinct/": [
@@ -186,11 +367,32 @@
 		},
 		{
 			"src": "https://i.redd.it/f702lkyt1tp81.png",
-			"alt": "View from the train station"
+			"alt": "View from the train station",
+			"highlightsMeta": [
+				"titan forest",
+				"architecture",
+				"glass",
+				"industrial",
+				"miner",
+				"belts",
+				"lights",
+				"signs",
+				"no team"
+			]
 		},
 		{
 			"src": "https://i.redd.it/soa3qiyt1tp81.png",
-			"alt": "Street view of my new quartz factory"
+			"alt": "Street view of my new quartz factory",
+			"highlightsMeta": [
+				"titan forest",
+				"glass",
+				"industrial",
+				"catwalk",
+				"belts",
+				"foundation patterns",
+				"roads",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tpu11s/ultra_compact_42_item_storage_system_6x7/": [
@@ -200,7 +402,18 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/k4al5qe3yzp81.jpg"
+			"src": "https://i.redd.it/k4al5qe3yzp81.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"industrial",
+				"particle accelerator",
+				"drone",
+				"belts",
+				"cables",
+				"signs",
+				"team hover pack"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/tj95kc/today_my_factory_is_4_years_old_there_have_been/": [

@@ -29,7 +29,16 @@
 	"https://twitter.com/vsbmeza3/status/1506418099406479362": [
 		{
 			"src": "https://pbs.twimg.com/media/FOffGjVXsAE2ibv.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"glass",
+				"manifold",
+				"train",
+				"frames",
+				"viaduct",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/duck1123/status/1505578633494245376": [

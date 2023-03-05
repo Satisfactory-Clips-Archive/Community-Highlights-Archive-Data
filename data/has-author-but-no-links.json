@@ -3004,6 +3004,20 @@
 				"raw_text": "Alex88FR - Tall tower is tall",
 				"timestamps_for_links": [
 					110
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 110,
+						"meta": [
+							"uncertain location",
+							"cityscape",
+							"glass",
+							"industrial",
+							"radar tower",
+							"tubes",
+							"team golden cup"
+						]
+					}
 				]
 			}
 		}
