@@ -746,6 +746,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FId_UaKVUAMhqbk.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"nuclear plant",
 				"power storage bank",
@@ -757,6 +758,8 @@
 		{
 			"src": "https://pbs.twimg.com/media/FJXQjHMUYAQ-cKl.jpg",
 			"highlightsMeta": [
+				"uncertain location",
+				"lake forest",
 				"northern forest",
 				"games",
 				"space elevator",
@@ -769,10 +772,13 @@
 		{
 			"src": "https://pbs.twimg.com/media/FIzO05CUUAQLXsm.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"lake forest",
 				"northern forest",
 				"games",
 				"sunrise/sunset",
+				"frames",
+				"beams",
 				"signs",
 				"no team"
 			]
@@ -782,6 +788,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FIA312JUUAIN5ey.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"sunrise/sunset",
 				"lights",
 				"pipes",
@@ -800,6 +807,7 @@
 			"highlightsMeta": [
 				"spire coast",
 				"sunrise/sunset",
+				"frames",
 				"beams",
 				"tower",
 				"no team"
@@ -812,8 +820,10 @@
 		{
 			"src": "https://pbs.twimg.com/media/FJPdTjBVQAIEVt-.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"night time",
 				"space elevator",
+				"frames",
 				"beams",
 				"tower",
 				"no team"
@@ -824,6 +834,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FJV5py2XMAoMJNV.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"space elevator",
 				"team hands"
 			]
@@ -847,6 +858,7 @@
 				"outpost",
 				"spaceship",
 				"viaduct",
+				"references to other franchises",
 				"team golden cup",
 				"team hover pack"
 			]
@@ -860,8 +872,11 @@
 		{
 			"src": "https://pbs.twimg.com/media/FJWp4i2WQAEzUrv.jpg",
 			"highlightsMeta": [
+				"rocky desert",
 				"architecture",
 				"lasagn",
+				"beams",
+				"train station",
 				"no team"
 			]
 		},
@@ -893,8 +908,10 @@
 			"highlightsMeta": [
 				"cave",
 				"glass",
-				"beams",
+				"frames",
+				"lights",
 				"outpost",
+				"catwalk",
 				"no team"
 			]
 		}
@@ -910,6 +927,7 @@
 				"rocky desert",
 				"glass",
 				"train station",
+				"frames",
 				"beams",
 				"cables",
 				"bridge",
@@ -933,6 +951,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FGjZUkpXoAQnbaf.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"lasagn",
 				"manifold",
 				"belts",
@@ -950,10 +969,13 @@
 		{
 			"src": "https://pbs.twimg.com/media/FGMHIQJWQAsg_lc.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"interior",
+				"catwalk",
 				"beams",
 				"lights",
 				"signs",
+				"references to other franchises",
 				"no team"
 			]
 		}
@@ -974,6 +996,7 @@
 				"western beaches",
 				"glass",
 				"night time",
+				"frames",
 				"beams",
 				"lights",
 				"outpost",
@@ -1040,6 +1063,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FGQW4adVcAYHN-7.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"ficsmas",
 				"glass",
 				"interior",
@@ -1067,6 +1091,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FGOkKu6WQAEYLMR.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"ficsmas",
 				"interior",
 				"manifold",
@@ -1083,6 +1108,7 @@
 				"ficsmas",
 				"manifold",
 				"weatherwax",
+				"memes",
 				"belts",
 				"no team"
 			]
@@ -1104,15 +1130,20 @@
 		{
 			"src": "https://pbs.twimg.com/media/FF7OwRHX0AMoRQn.jpg",
 			"highlightsMeta": [
+				"unknown location",
+				"glass",
 				"interior",
 				"space elevator",
+				"catwalk",
 				"no team"
 			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FF7OxbiXsAEC0Zm.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"architecture",
+				"night time",
 				"space elevator",
 				"signs",
 				"no team"
@@ -1125,6 +1156,7 @@
 			"highlightsMeta": [
 				"northern forest",
 				"glass",
+				"night time",
 				"tower",
 				"team nut"
 			]
@@ -1146,6 +1178,9 @@
 		{
 			"src": "https://pbs.twimg.com/media/FFqqnxUXIAU3LbA.jpg",
 			"highlightsMeta": [
+				"green valley",
+				"the gates of beugernath",
+				"spaghett",
 				"belts",
 				"cables",
 				"pipes",
@@ -1167,9 +1202,11 @@
 		{
 			"src": "https://pbs.twimg.com/media/FFnGSh1WYAkIM7V.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"games",
 				"interior",
 				"signs",
+				"multiplayer",
 				"no team"
 			]
 		},
@@ -1182,6 +1219,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FF_pA5jXsAQx8fL.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"night time",
 				"lights",
 				"tower",
@@ -1202,13 +1240,15 @@
 		{
 			"src": "https://pbs.twimg.com/media/FGAU0MjVkAQXmx6.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"ficsmas",
 				"lasagn",
+				"frames",
 				"lights",
 				"pipes",
 				"crane",
-				"team hover pack",
-				"team cup"
+				"team cup",
+				"team hover pack"
 			]
 		},
 		{
@@ -1228,7 +1268,11 @@
 		{
 			"src": "https://pbs.twimg.com/media/FE9UeFpWQAMlaeN.jpg",
 			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
 				"glass",
+				"awesome sink",
+				"belts",
 				"outpost",
 				"no team"
 			]
@@ -1236,6 +1280,9 @@
 		{
 			"src": "https://pbs.twimg.com/media/FE9UuIxWUAIHEh7.png",
 			"highlightsMeta": [
+				"unknown location",
+				"architecture",
+				"reference images",
 				"no team"
 			]
 		}
@@ -1259,10 +1306,11 @@
 			"highlightsMeta": [
 				"grass fields",
 				"grass fields arch",
+				"train station",
+				"train",
 				"lights",
 				"tubes",
 				"manta",
-				"train station",
 				"no team"
 			]
 		},
@@ -1280,6 +1328,7 @@
 			"src": "https://pbs.twimg.com/media/FFLNBLmVkAEUpt5.jpg",
 			"highlightsMeta": [
 				"rocky desert",
+				"architecture",
 				"weatherwax",
 				"cables",
 				"no team"
@@ -1289,6 +1338,7 @@
 			"src": "https://pbs.twimg.com/media/FFLNBLmVEAU7aRy.jpg",
 			"highlightsMeta": [
 				"rocky desert",
+				"architecture",
 				"weatherwax",
 				"cables",
 				"no team"
@@ -1299,6 +1349,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FFDDKhAXsAsqpue.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"sunrise/sunset",
 				"space elevator",
 				"hub",
@@ -1323,7 +1374,10 @@
 		{
 			"src": "https://pbs.twimg.com/media/FD8-XvwXoAsBP44.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"interior",
+				"catwalk",
 				"signs",
 				"tubes",
 				"team cup"
@@ -1336,6 +1390,8 @@
 			"highlightsMeta": [
 				"cave",
 				"western dune forest",
+				"architecture",
+				"glass",
 				"truck",
 				"outpost",
 				"no team"
@@ -1346,6 +1402,7 @@
 			"highlightsMeta": [
 				"cave",
 				"glass",
+				"interior",
 				"truck station",
 				"belts",
 				"no team"
@@ -1399,10 +1456,11 @@
 			"src": "https://pbs.twimg.com/media/FDXy_DlVEAEgtxb.jpg",
 			"highlightsMeta": [
 				"rocky desert",
+				"industrial",
 				"parachute",
 				"coal plant",
 				"power storage bank",
-				"team hands"
+				"team parachute"
 			]
 		}
 	],
@@ -1410,6 +1468,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FECzw9RXMAEkgCs.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"sunrise/sunset",
 				"cables",
 				"pipes",
@@ -1430,6 +1489,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FENqf98X0AIGyB5.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"belts",
 				"pipes",
 				"coal plant",
@@ -1441,6 +1501,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FEcO5FRX0AgXyVn.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"belts",
 				"pipes",
 				"coal plant",
@@ -1458,8 +1519,9 @@
 			"highlightsMeta": [
 				"western beaches",
 				"glass",
-				"cables",
 				"train station",
+				"frames",
+				"cables",
 				"viaduct",
 				"team cup"
 			]
@@ -1469,8 +1531,10 @@
 		{
 			"src": "https://pbs.twimg.com/media/FET7FEgWQAMvgsQ.jpg",
 			"highlightsMeta": [
-				"sunrise/sunset",
+				"uncertain location",
 				"weatherwax",
+				"sunrise/sunset",
+				"frames",
 				"beams",
 				"team cup"
 			]
@@ -1488,6 +1552,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FEZ2T6wXwAApV6o.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"lights",
 				"outpost",
@@ -1503,6 +1568,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FEZ3yHyWYAU40-v.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"interior",
 				"sunrise/sunset",
@@ -1520,7 +1586,9 @@
 		{
 			"src": "https://pbs.twimg.com/media/FEZ4co2WQAg01Mi.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"interior",
 				"manifold",
 				"belts",
 				"no team"
@@ -1534,7 +1602,7 @@
 				"rocky desert",
 				"lasagn",
 				"nature",
-				"beams",
+				"frames",
 				"belts",
 				"tubes",
 				"no team"
@@ -1548,7 +1616,9 @@
 				"northern forest",
 				"architecture",
 				"glass",
+				"lookout tower",
 				"train",
+				"beams",
 				"signs",
 				"bridge",
 				"no team"
@@ -1559,6 +1629,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FDj-QZfXoAAJkqI.jpg",
 			"highlightsMeta": [
+				"dune desert",
 				"manifold",
 				"no team"
 			]
@@ -1567,7 +1638,12 @@
 			"src": "https://pbs.twimg.com/media/FDj-SCwWUAkoTxo.jpg",
 			"highlightsMeta": [
 				"dune desert",
+				"glass",
 				"manifold",
+				"miner",
+				"space elevator",
+				"catwalk",
+				"outpost",
 				"no team"
 			]
 		},
@@ -1586,7 +1662,7 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"sunrise/sunset",
-				"beams",
+				"frames",
 				"tower",
 				"no team"
 			]
@@ -1626,11 +1702,14 @@
 		{
 			"src": "https://pbs.twimg.com/media/FD04BG-UcAEk9FJ.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"pixel art",
 				"spaghett",
 				"sunrise/sunset",
+				"miner",
 				"particle accelerator",
 				"space elevator",
+				"belts",
 				"lights",
 				"fuel plant",
 				"no team"
@@ -1645,7 +1724,9 @@
 		{
 			"src": "https://pbs.twimg.com/media/FD04dNDVcAUner3.png",
 			"highlightsMeta": [
+				"unknown location",
 				"pixel art",
+				"reference images",
 				"no team"
 			]
 		}
@@ -1655,6 +1736,9 @@
 			"src": "https://pbs.twimg.com/media/FDsXBgpVcAY0uPS.jpg",
 			"highlightsMeta": [
 				"green valley",
+				"industrial",
+				"catwalk",
+				"frames",
 				"coal plant",
 				"team cup",
 				"team nut"
@@ -1674,6 +1758,7 @@
 			"src": "https://pbs.twimg.com/media/FDuBhHUXIAYxAqh.jpg",
 			"highlightsMeta": [
 				"dune desert",
+				"architecture",
 				"outpost",
 				"viaduct",
 				"team golden cup"
@@ -1688,7 +1773,8 @@
 				"architecture",
 				"glass",
 				"train station",
-				"beams",
+				"frames",
+				"viaduct",
 				"team cup"
 			]
 		}
@@ -1701,9 +1787,11 @@
 		{
 			"src": "https://pbs.twimg.com/media/FC50oyMXsAE45EG.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"night time",
 				"space elevator",
+				"catwalk",
 				"belts",
 				"no team"
 			]
@@ -1726,6 +1814,7 @@
 			"src": "https://pbs.twimg.com/media/FDBunyVX0AI63Ec.jpg",
 			"highlightsMeta": [
 				"grass fields",
+				"snaketree forest",
 				"architecture",
 				"glass",
 				"no team"
@@ -1756,11 +1845,15 @@
 		{
 			"src": "https://pbs.twimg.com/media/FDGjI5MXEAQ_i45.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"night time",
 				"explorer",
+				"frames",
 				"beams",
 				"lights",
 				"signs",
+				"fuel plant",
 				"train spiral",
 				"no team"
 			]
@@ -1768,7 +1861,10 @@
 		{
 			"src": "https://pbs.twimg.com/media/FDGpLRDWQAEV0gK.jpg",
 			"highlightsMeta": [
+				"uncertain location",
+				"night time",
 				"awesome sink",
+				"frames",
 				"beams",
 				"lights",
 				"signs",
@@ -1790,9 +1886,12 @@
 		{
 			"src": "https://pbs.twimg.com/media/FCkeqXmX0AU7xQN.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"games",
 				"factory cart",
 				"lights",
+				"personal crate",
+				"multiplayer",
 				"team hover pack"
 			]
 		},
@@ -1806,6 +1905,7 @@
 			"src": "https://pbs.twimg.com/media/FBqJllSX0AQYuV1.jpg",
 			"highlightsMeta": [
 				"titan forest",
+				"architecture",
 				"glass",
 				"outpost",
 				"no team"
@@ -1826,7 +1926,8 @@
 		{
 			"src": "https://pbs.twimg.com/media/FBmPj0zXEAUpbqf.jpg",
 			"highlightsMeta": [
-				"beams",
+				"western beaches",
+				"frames",
 				"crane",
 				"no team"
 			]
@@ -1836,6 +1937,8 @@
 			"highlightsMeta": [
 				"western beaches",
 				"night time",
+				"blender",
+				"frames",
 				"crane",
 				"fuel plant",
 				"no team"
@@ -1846,10 +1949,12 @@
 		{
 			"src": "https://pbs.twimg.com/media/FBpHcU0XMAMUNgr.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"interior",
-				"night time",
 				"repetition",
+				"night time",
+				"catwalk",
 				"lights",
 				"warehouse",
 				"no team"
@@ -1858,9 +1963,11 @@
 		{
 			"src": "https://pbs.twimg.com/media/FBpHcU0WYAAC6pj.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"manifold",
-				"night time",
 				"repetition",
+				"night time",
+				"catwalk",
 				"lights",
 				"warehouse",
 				"no team"
@@ -1869,7 +1976,9 @@
 		{
 			"src": "https://pbs.twimg.com/media/FBpHcU3WYAAi7X2.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"sunrise/sunset",
+				"multiplayer",
 				"no team"
 			]
 		},
@@ -1886,6 +1995,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FB7mBCDWEAIp3UB.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"manifold",
 				"fuel plant",
 				"team hover pack"
@@ -1898,6 +2008,7 @@
 			"highlightsMeta": [
 				"northern forest",
 				"the great canyon",
+				"industrial",
 				"lasagn",
 				"manifold",
 				"space elevator",
@@ -1917,9 +2028,11 @@
 		{
 			"src": "https://pbs.twimg.com/media/FBeGk8AWUAQQRZ5.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"particle accelerator",
 				"pipes",
 				"outpost",
+				"industrial",
 				"no team"
 			]
 		}
@@ -1928,13 +2041,16 @@
 		{
 			"src": "https://pbs.twimg.com/media/FBboy-eVcAYI0k6.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"architecture",
-				"no team"
+				"space elevator",
+				"team parachute"
 			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FBbo0bqVIAY6DC3.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"architecture",
 				"interior",
 				"train station",
@@ -1947,7 +2063,9 @@
 		{
 			"src": "https://pbs.twimg.com/media/FBSsCp-UcAQ6Z5O.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"art",
+				"fan art",
 				"train",
 				"train signals",
 				"no team"
@@ -1956,7 +2074,9 @@
 		{
 			"src": "https://pbs.twimg.com/media/FBSsCrEUYAEUc-Y.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"art",
+				"fan art",
 				"no team"
 			]
 		}
@@ -1965,6 +2085,8 @@
 		{
 			"src": "https://pbs.twimg.com/media/FAAPeMvVkAgC-9w.jpg",
 			"highlightsMeta": [
+				"unknown location",
+				"glass",
 				"interior",
 				"lights",
 				"tubes",
@@ -1979,6 +2101,7 @@
 			"highlightsMeta": [
 				"grass fields",
 				"glass",
+				"miner",
 				"truck",
 				"no team"
 			]
@@ -1992,6 +2115,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/E_uShlHXMAE5boH.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"architecture",
 				"glass",
 				"night time",
@@ -2004,7 +2128,12 @@
 			"highlightsMeta": [
 				"dune desert",
 				"architecture",
+				"glass",
 				"sunrise/sunset",
+				"modded",
+				"radar tower",
+				"space elevator",
+				"tubes",
 				"tower",
 				"no team"
 			]
@@ -2012,8 +2141,10 @@
 		{
 			"src": "https://pbs.twimg.com/media/E_uShlzWYAIpWoD.jpg",
 			"highlightsMeta": [
+				"dune desert",
 				"glass",
 				"sunrise/sunset",
+				"modded",
 				"space elevator",
 				"spaceship",
 				"tower",
@@ -2033,6 +2164,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/E_JEP9KXMAQLhft.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"interior",
 				"fuel plant",
@@ -2051,6 +2183,7 @@
 			"src": "https://pbs.twimg.com/media/E_Hyi92XEAQDVFx.jpg",
 			"highlightsMeta": [
 				"grass fields",
+				"miner",
 				"truck",
 				"no team"
 			]
@@ -2060,6 +2193,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/E-yegYoX0AYdoOA.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"the great canyon",
 				"belts",
 				"ladder",
@@ -2075,10 +2209,14 @@
 		{
 			"src": "https://pbs.twimg.com/media/E-3VPQGWEAICwLX.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"industrial",
 				"radar tower",
 				"space elevator",
-				"beams",
+				"frames",
+				"lights",
+				"pipes",
 				"oil plant",
 				"no team"
 			]
@@ -2096,7 +2234,9 @@
 		{
 			"src": "https://pbs.twimg.com/media/E-3VmKUX0AclsTX.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"industrial",
 				"belts",
 				"lights",
 				"pipes",
@@ -2110,9 +2250,12 @@
 		{
 			"src": "https://pbs.twimg.com/media/E-3VmKaX0AgDT5Z.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
-				"beams",
+				"industrial",
+				"frames",
 				"belts",
+				"pipes",
 				"fuel plant",
 				"power storage bank",
 				"no team"
@@ -2131,9 +2274,12 @@
 		{
 			"src": "https://pbs.twimg.com/media/E-3VuktWYAEIJJd.jpg",
 			"highlightsMeta": [
+				"uncertain location",
+				"industrial",
 				"interior",
 				"night time",
-				"beams",
+				"frames",
+				"lights",
 				"no team"
 			]
 		}
@@ -2145,8 +2291,8 @@
 				"desert canyons",
 				"dune desert",
 				"glass",
-				"modded",
 				"weatherwax",
+				"modded",
 				"no team"
 			]
 		},
@@ -2163,6 +2309,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/E9u575PUcAI4qe0.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"lookout tower",
 				"radar tower",
 				"space elevator",
@@ -2180,7 +2327,9 @@
 		{
 			"src": "https://pbs.twimg.com/media/E-cEAq3XsAEIqu4.jpg",
 			"highlightsMeta": [
-				"beams",
+				"western beaches",
+				"catwalk",
+				"frames",
 				"tubes",
 				"fuel plant",
 				"oil plant",
@@ -2192,6 +2341,8 @@
 		{
 			"src": "https://pbs.twimg.com/media/E9vKol-XsAciYXX.jpg",
 			"highlightsMeta": [
+				"unknown location",
+				"references to other franchises",
 				"no team"
 			]
 		}
@@ -2211,6 +2362,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/E9OLxbqWUAIpHfP.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"interior",
 				"belts",
 				"team nut"
