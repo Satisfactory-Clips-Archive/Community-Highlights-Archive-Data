@@ -1,4 +1,421 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/twph11/the_station_is_finally_complete_what_should_i/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/qK2HOrRsDQu3LR0V1AHRsVsbQ0n4gf-MxEOxOJmfP4c.jpg",
+			"alt": "The station is finally complete. What should I name it?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d33e53xsynr81.png",
+			"alt": "Iron Lotus Station?",
+			"highlightsMeta": [
+				"northern forest",
+				"glass",
+				"awesome sink",
+				"train station",
+				"frames",
+				"beams",
+				"foundation patterns",
+				"lights",
+				"roads",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/twky5k/to_whoever_showed_me_i_could_use_signs_as/": [
+		{
+			"src": "https://preview.redd.it/ennkwoyqkmr81.png?width=640&crop=smart&auto=webp&s=70b5e65eef11287b3fe59bac53d279c5ebea5839",
+			"alt": "To whoever showed me I could use signs as decorative lighting, thank you for giving me and my ADHD another reason to not finish actually building my factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ennkwoyqkmr81.png",
+			"alt": "To whoever showed me I could use signs as decorative lighting, thank you for giving me and my ADHD another reason to not finish actually building my factory",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"industrial",
+				"lasagn",
+				"night time",
+				"belts",
+				"foundation patterns",
+				"cables",
+				"lights",
+				"pipes",
+				"signs",
+				"team cup"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tu24k8/just_a_small_concrete_factory/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/6yeOwGw7weQ1SRDkz0y80_PhI0ePMjgcDjBI8n7uYD8.jpg",
+			"alt": "Just a small concrete factory..",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ckt1349wjzq81.png",
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"glass",
+				"tractor",
+				"catwalk",
+				"beams",
+				"lights",
+				"signs",
+				"roads",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ttz0lt/ficsyt_motor_company/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/x7z7oDO9hN95CYcKbLrkTxDIm_GFyIij-O3k98P5u4g.jpg",
+			"alt": "Ficsyt Motor Company",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/16kinuf9wyq81.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"cityscape",
+				"glass",
+				"industrial",
+				"weatherwax",
+				"tractor",
+				"catwalk",
+				"foundation patterns",
+				"cables",
+				"lights",
+				"signs",
+				"roads",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/twk4ot/oh_no_what_have_i_done/": [
+		{
+			"src": "https://preview.redd.it/b8g6p4vddmr81.jpg?width=640&crop=smart&auto=webp&s=6ff638e94a38739d4bc0aa47169102716f293ca0",
+			"alt": "Oh No! What have I done!!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/b8g6p4vddmr81.jpg",
+			"alt": "Oh No! What have I done!!",
+			"highlightsMeta": [
+				"uncertain location",
+				"night time",
+				"miner",
+				"belts",
+				"bean",
+				"team xenozapper"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tum6qv/mushroom_shaped_oil_factory_on_the_spire_coast/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/s-xkuWzazgcjVsW6mn3zUJ1duiixA3NGXksXRSdFvLE.jpg",
+			"alt": "Mushroom shaped oil factory on the Spire Coast (yes, I know you shouldn't build there). This produces all the rubber, plastic, petroleum coke, polymer resin and fuel for my mega factory, with some fuel remaining for energy production.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7veqbwf215r81.png",
+			"alt": "The Oil Factory",
+			"highlightsMeta": [
+				"spire coast",
+				"awesome sink",
+				"pipes",
+				"fuel plant",
+				"oil plant",
+				"tower",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/xel4zbcc15r81.png",
+			"alt": "Fuel generators, lot of them",
+			"highlightsMeta": [
+				"spire coast",
+				"repetition",
+				"awesome sink",
+				"pipes",
+				"fuel plant",
+				"oil plant",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tvb6j0/making_rubber_with_alt_recipes_and_more_more_in/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/O2DtgGXtercs0kNJ8ydowcPRk9OjBsmKzcEYQXeLaqI.jpg",
+			"alt": "Making rubber with alt recipes and more. More in the description",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/r2g0znomvbr81.png",
+			"highlightsMeta": [
+				"titan forest",
+				"glass",
+				"industrial",
+				"signs",
+				"outpost",
+				"team hover pack"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tvs5sn/just_some_interior_decorating/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/9LxLNewR92xknAeaXOWIM_m7Lmq5q4YVkeLRQXMMlTs.jpg",
+			"alt": "Just some interior decorating",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5k73o8hulfr81.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"final fantasy",
+				"glass",
+				"awesome shop",
+				"catwalk",
+				"beams",
+				"lights",
+				"tower",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/75micbhulfr81.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"interior",
+				"modded",
+				"train station",
+				"lights",
+				"signs",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tvfgek/love_the_view_from_my_balcony/": [
+		{
+			"src": "https://preview.redd.it/wazo7dfpscr81.png?width=640&crop=smart&auto=webp&s=88b93c4cf4b80c3ece39c75f0f7b99f2fb87387e",
+			"alt": "Love the view from my balcony",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wazo7dfpscr81.png",
+			"alt": "Love the view from my balcony",
+			"highlightsMeta": [
+				"rocky desert",
+				"industrial",
+				"belts",
+				"team nut"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tszy0l/scanvoice_inspired_turbofuel_plant_2700_crude_to/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/gbajGx3kkYFK79S_2z97a7Y5MukKVgBJBAgr8KMOUrA.jpg",
+			"alt": "Scanvoice inspired turbofuel plant. 2700 crude to 3600 turbofuel.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/28sg68dc2qq81.png",
+			"highlightsMeta": [
+				"the gates of beugernath",
+				"train",
+				"frames",
+				"train signals",
+				"outpost",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ttjvma/where_is_my_helmet_my_70_doggos_farm/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/82Ohlgx0khekpfkQrh3Yiw0XXbuBjVvommq4EwJqOa8.jpg",
+			"alt": "Where is my helmet ?, my 70 doggos farm ^^",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ib4zaslbzuq81.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"weatherwax",
+				"modded",
+				"multiplayer",
+				"lookout tower",
+				"lizard doggo",
+				"nuclear plant",
+				"statue gallery",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tv1ex2/it_aint_much_but_its_honest_work/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/fMKH_MJ8i1bnLgny-hXGxxpj5IQvg4JDT6y6Ip9yWLQ.jpg",
+			"alt": "It ain't much, but it's honest work.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d41auelaw8r81.png",
+			"alt": "Might revisit the front of the building and do a little more",
+			"highlightsMeta": [
+				"grass fields",
+				"industrial",
+				"miner",
+				"cables",
+				"lights",
+				"signs",
+				"outpost",
+				"viaduct",
+				"team cup"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tuetsc/first_attempt_at_a_nice_and_consistent_building/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/sKSM91_bt490qijFEk1xokK8fB3lCJch4rk1jqVmQPM.jpg",
+			"alt": "First attempt at a \"nice\" and consistent building style, mixing modular factories (for ingots) and mainbase approaches",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/owbfhhf413r81.png",
+			"highlightsMeta": [
+				"northern forest",
+				"glass",
+				"miner",
+				"radar tower",
+				"train station",
+				"train",
+				"catwalk",
+				"frames",
+				"belts",
+				"viaduct",
+				"team nut"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tr3qt1/morning_in_my_mega_factory/": [
+		{
+			"src": "https://preview.redd.it/4llpelll9cq81.jpg?width=640&crop=smart&auto=webp&s=4ce213b4cd72880758ff3e8f997e2959429d530b",
+			"alt": "Morning in my mega factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4llpelll9cq81.jpg",
+			"alt": "Morning in my mega factory",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"industrial",
+				"interior",
+				"lasagn",
+				"catwalk",
+				"frames",
+				"belts",
+				"pipes",
+				"tubes",
+				"tower",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tsd37n/hello_pioneers_i_decided_to_expand_my_railroad/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/ZMMI0-_x5Rg9fec1Y585b3Y6O0Umh7gZOmQABDzq21A.jpg",
+			"alt": "Hello Pioneers, i decided to expand my rail/road network into the desert. But there was the Swamp between, so i build this bridge over it and i think it turned quit well :) I just finished 50% of it, because the intersection on the last picture tooks more time then the bridge ^^ Would u drive on it?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ih94a5a6akq81.png",
+			"highlightsMeta": [
+				"swamp",
+				"train",
+				"beams",
+				"train signals",
+				"bridge",
+				"roads",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/dko820a6akq81.png",
+			"highlightsMeta": [
+				"swamp",
+				"interior",
+				"tractor",
+				"beams",
+				"foundation patterns",
+				"bridge",
+				"roads",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tveqna/more_brutalist_architecture/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/HF9ChhM7C9NbvYzWW50gOHOMFOlFTcm74-Zk6pyMkLY.jpg",
+			"alt": "More Brutalist Architecture",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/42r5l7hnmcr81.png",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"stairs",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/b0m4gt4rmcr81.png",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"interior",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/c2n9ml4nmcr81.png",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"manifold",
+				"signs",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tv4pvi/the_scale_of_an_object_limited_factory/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/Ej-Xt25Ox0lBAPHFDtVDCSdKDZJL-KPZmhsTOPrd0A8.jpg",
+			"alt": "The scale of an object limited factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ldhx0nbzy9r81.png",
+			"highlightsMeta": [
+				"jungle spires",
+				"western beaches",
+				"glass",
+				"industrial",
+				"manifold",
+				"particle accelerator",
+				"radar tower",
+				"space elevator",
+				"catwalk",
+				"frames",
+				"belts",
+				"bridge",
+				"no team"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/to0l7f/midnight_shift/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/sU19G2deTt8JIeEPymyOzz7byA99IMseYyxq4qZb73o.jpg",
@@ -8037,6 +8454,7 @@
 				"unknown location",
 				"glass",
 				"interior",
+				"repetition",
 				"pipes",
 				"fuel plant",
 				"no team"
