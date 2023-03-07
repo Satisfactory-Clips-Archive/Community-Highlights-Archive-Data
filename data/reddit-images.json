@@ -7744,6 +7744,7 @@
 			"highlightsMeta": [
 				"dune desert",
 				"games",
+				"miner",
 				"cables",
 				"lights",
 				"pipes",
@@ -7762,9 +7763,11 @@
 			"alt": "4.5 assembly directory systems a min. Floor 1 -3 then the fully completed factory building.",
 			"highlightsMeta": [
 				"dune desert",
+				"glass",
 				"sunrise/sunset",
 				"drone",
 				"train",
+				"frames",
 				"outpost",
 				"viaduct",
 				"no team"
@@ -7775,6 +7778,7 @@
 			"alt": "4.5 assembly directory systems a min. Floor 1 -3 then the fully completed factory building.",
 			"highlightsMeta": [
 				"dune desert",
+				"glass",
 				"sunrise/sunset",
 				"drone",
 				"frames",
@@ -7792,6 +7796,7 @@
 				"spire coast",
 				"manifold",
 				"repetition",
+				"belts",
 				"cables",
 				"pipes",
 				"nuclear plant",
@@ -7842,9 +7847,12 @@
 			"alt": "It's not a bug, it's a feature!",
 			"highlightsMeta": [
 				"uncertain location",
+				"dune desert",
 				"glitch",
 				"cityscape",
+				"glass",
 				"explorer",
+				"belts",
 				"viaduct",
 				"no team"
 			]
@@ -7856,6 +7864,7 @@
 			"alt": "Industrial revolution",
 			"highlightsMeta": [
 				"dune desert",
+				"industrial",
 				"frames",
 				"pipes",
 				"tower",
@@ -7868,6 +7877,7 @@
 			"highlightsMeta": [
 				"uncertain location",
 				"spaghett",
+				"catwalk",
 				"frames",
 				"cables",
 				"lights",
@@ -7883,6 +7893,7 @@
 			"highlightsMeta": [
 				"northern forest",
 				"glitch",
+				"sunrise/sunset",
 				"manta",
 				"team xenozapper"
 			]
@@ -7894,12 +7905,14 @@
 			"alt": "Factory resort",
 			"highlightsMeta": [
 				"northern forest",
+				"green valley",
 				"radar tower",
 				"catwalk",
 				"belts",
+				"lights",
 				"tower",
-				"team hover pack",
-				"team cup"
+				"team cup",
+				"team hover pack"
 			]
 		}
 	],
@@ -7915,6 +7928,7 @@
 			"highlightsMeta": [
 				"paradise island",
 				"architecture",
+				"pipes",
 				"coal plant",
 				"power storage bank",
 				"no team"
@@ -7925,6 +7939,9 @@
 			"alt": "this had to be done..",
 			"highlightsMeta": [
 				"paradise island",
+				"glass",
+				"belts",
+				"pipes",
 				"coal plant",
 				"power storage bank",
 				"no team"
@@ -7936,6 +7953,7 @@
 			"highlightsMeta": [
 				"paradise island",
 				"interior",
+				"repetition",
 				"power storage bank",
 				"no team"
 			]
@@ -7952,8 +7970,10 @@
 			"alt": "Sometimes this game is more art than logic",
 			"highlightsMeta": [
 				"grass fields arch",
+				"manifold",
 				"spaghett",
 				"space elevator",
+				"belts",
 				"manta",
 				"team build gun"
 			]
@@ -8001,8 +8021,10 @@
 			"alt": "View of the refinery floor from operations. 40 refineries (@50%) cover crude oil to heavy oil residue. Resin is fed into 10 fabric refineries. 16 blenders producing diluted fuel.",
 			"highlightsMeta": [
 				"unknown location",
+				"glass",
 				"interior",
 				"manifold",
+				"repetition",
 				"blender",
 				"pipes",
 				"team cup"
