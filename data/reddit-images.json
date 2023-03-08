@@ -1758,6 +1758,7 @@
 				"space elevator",
 				"frames",
 				"cables",
+				"outpost",
 				"no team"
 			]
 		}
@@ -1818,6 +1819,8 @@
 				"robo jace",
 				"architecture",
 				"glass",
+				"catwalk",
+				"frames",
 				"no team"
 			]
 		},
@@ -1826,8 +1829,10 @@
 			"alt": "lowest floor has a train roundabout for acces to all the stations in each wing",
 			"highlightsMeta": [
 				"unknown location",
+				"industrial",
 				"interior",
 				"train",
+				"catwalk",
 				"signs",
 				"tower",
 				"no team"
@@ -1847,6 +1852,8 @@
 				"uncertain location",
 				"robo jace",
 				"glass",
+				"memes",
+				"modded",
 				"signs",
 				"team hover pack"
 			]
@@ -1883,8 +1890,8 @@
 				"uncertain location",
 				"robo jace",
 				"weatherwax",
-				"spaceship",
 				"references to other franchises",
+				"spaceship",
 				"team hands"
 			]
 		}
@@ -1928,6 +1935,7 @@
 				"rocky desert",
 				"robo jace",
 				"modded",
+				"catwalk",
 				"lights",
 				"team nut"
 			]
@@ -1944,7 +1952,10 @@
 			"highlightsMeta": [
 				"western dune forest",
 				"robo jace",
+				"night time",
+				"lights",
 				"signs",
+				"viaduct",
 				"no team"
 			]
 		}
@@ -1963,6 +1974,7 @@
 				"glass",
 				"sunrise/sunset",
 				"space elevator",
+				"frames",
 				"lights",
 				"manta",
 				"no team"
@@ -1976,6 +1988,7 @@
 				"glass",
 				"industrial",
 				"sunrise/sunset",
+				"catwalk",
 				"belts",
 				"lights",
 				"team hover pack"
@@ -2014,7 +2027,7 @@
 				"rocky desert",
 				"weatherwax",
 				"pipes",
-				"no team"
+				"team feet"
 			]
 		}
 	],
@@ -2030,6 +2043,7 @@
 				"red bamboo fields",
 				"robo jace",
 				"radar tower",
+				"drone",
 				"lights",
 				"signs",
 				"spaceship",
@@ -2044,7 +2058,9 @@
 				"glass",
 				"radar tower",
 				"drone",
+				"lights",
 				"signs",
+				"power storage bank",
 				"spaceship",
 				"no team"
 			]
@@ -2055,6 +2071,7 @@
 				"unknown location",
 				"robo jace",
 				"interior",
+				"lights",
 				"signs",
 				"spaceship",
 				"no team"
@@ -2065,6 +2082,7 @@
 			"highlightsMeta": [
 				"unknown location",
 				"robo jace",
+				"night time",
 				"references to other franchises",
 				"awesome shop",
 				"signs",
@@ -8778,6 +8796,7 @@
 				"unknown location",
 				"art",
 				"belts",
+				"team feet",
 				"team hover pack"
 			]
 		}
@@ -8793,6 +8812,7 @@
 			"alt": "Overview, with mega battery",
 			"highlightsMeta": [
 				"uncertain location",
+				"lasagn",
 				"weatherwax",
 				"drone",
 				"belts",
@@ -8809,6 +8829,7 @@
 				"manifold",
 				"weatherwax",
 				"drone",
+				"belts",
 				"cables",
 				"team hover pack"
 			]
@@ -9991,6 +10012,7 @@
 			"alt": "Finished my first layer of my \"Washing Machine\" :D",
 			"highlightsMeta": [
 				"uncertain location",
+				"lasagn",
 				"underwater",
 				"modded",
 				"pipes",
@@ -10027,8 +10049,8 @@
 			"src": "https://i.redd.it/ifqsipbh7s471.jpg",
 			"alt": "Fuel Build - Jace would live here!",
 			"highlightsMeta": [
-				"crater lakes",
 				"red bamboo fields",
+				"glass",
 				"nature",
 				"train station",
 				"power slug",
@@ -10043,6 +10065,7 @@
 			"alt": "Just a cool lookin bridge",
 			"highlightsMeta": [
 				"rocky desert",
+				"nature",
 				"night time",
 				"sunrise/sunset",
 				"frames",
@@ -10068,6 +10091,7 @@
 				"glass",
 				"manifold",
 				"frames",
+				"belts",
 				"no team"
 			]
 		}
@@ -10083,6 +10107,7 @@
 			"alt": "Riding the train like a pro! One way to get them home!",
 			"highlightsMeta": [
 				"uncertain location",
+				"snaketree forest",
 				"train",
 				"belts",
 				"lizard doggo",
@@ -10123,8 +10148,10 @@
 				"the gates of beugernath",
 				"lookout tower",
 				"frames",
+				"belts",
 				"pipes",
 				"outpost",
+				"utility tower",
 				"no team"
 			]
 		},
@@ -10137,9 +10164,10 @@
 				"underwater",
 				"sunrise/sunset",
 				"factory cart",
+				"catwalk",
 				"frames",
 				"cables",
-				"catwalk",
+				"lights",
 				"utility tower",
 				"no team"
 			]
@@ -10165,10 +10193,11 @@
 			"highlightsMeta": [
 				"swamp",
 				"glass",
+				"miner",
+				"catwalk",
 				"cables",
 				"lights",
 				"outpost",
-				"catwalk",
 				"no team"
 			]
 		}
@@ -10222,6 +10251,7 @@
 				"glass",
 				"interior",
 				"awesome sink",
+				"blender",
 				"particle accelerator",
 				"belts",
 				"pipes",
@@ -10248,6 +10278,7 @@
 				"uncertain location",
 				"pixel art",
 				"sunrise/sunset",
+				"tower",
 				"team paintgun"
 			]
 		}
@@ -10262,6 +10293,7 @@
 			"src": "https://i.redd.it/4bfbusjjug271.png",
 			"alt": "His name is Jeff.",
 			"highlightsMeta": [
+				"uncertain location",
 				"western dune forest",
 				"glitch",
 				"hog",
@@ -10284,6 +10316,7 @@
 				"space elevator",
 				"train station",
 				"drone",
+				"catwalk",
 				"belts",
 				"team hover pack",
 				"team xenobasher"
@@ -10294,10 +10327,11 @@
 			"alt": "48 Drone Ports - Bringing parts in from across the map",
 			"highlightsMeta": [
 				"desert mountain plateaus",
+				"glass",
 				"space elevator",
 				"drone",
 				"team hover pack",
-				"team xenozapper"
+				"team xenobasher"
 			]
 		}
 	],
@@ -10307,8 +10341,10 @@
 			"alt": "The artist also known as DrawingXaos",
 			"highlightsMeta": [
 				"swamp",
+				"glass",
 				"radar tower",
 				"drone",
+				"cables",
 				"power storage bank",
 				"no team"
 			]
@@ -10325,9 +10361,11 @@
 			"alt": "I love the canals I've seen here, so I made some of my own.",
 			"highlightsMeta": [
 				"uncertain location",
+				"glass",
 				"night time",
 				"belts",
 				"lights",
+				"pipes",
 				"no team"
 			]
 		},
@@ -10356,6 +10394,7 @@
 			"highlightsMeta": [
 				"grass fields",
 				"spaghett",
+				"awesome sink",
 				"space elevator",
 				"belts",
 				"pipes",
@@ -10393,8 +10432,8 @@
 			"alt": "Everyone likes to play satisfactory.",
 			"highlightsMeta": [
 				"uncertain location",
-				"user interface",
 				"fan art",
+				"user interface",
 				"team golden cup"
 			]
 		}
@@ -10406,8 +10445,10 @@
 			"highlightsMeta": [
 				"dune desert",
 				"weatherwax",
+				"miner",
 				"radar tower",
 				"drone",
+				"train",
 				"outpost",
 				"viaduct",
 				"no team"
@@ -10427,13 +10468,15 @@
 				"uncertain location",
 				"cityscape",
 				"glass",
+				"multiplayer",
+				"radar tower",
 				"space elevator",
+				"belts",
 				"lights",
 				"pipes",
 				"tubes",
 				"tower",
 				"viaduct",
-				"multiplayer",
 				"no team"
 			]
 		}
@@ -10450,6 +10493,7 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"spire coast",
+				"manifold",
 				"train station",
 				"drone",
 				"nuclear plant",
@@ -10486,6 +10530,8 @@
 				"swamp",
 				"glass",
 				"frames",
+				"tubes",
+				"outpost",
 				"viaduct",
 				"no team"
 			]
@@ -10544,6 +10590,7 @@
 				"interior",
 				"night time",
 				"lights",
+				"signs",
 				"tubes",
 				"no team"
 			]
@@ -10559,7 +10606,7 @@
 			"src": "https://i.redd.it/vwe8refst6z61.png",
 			"alt": "Suspended smeltery",
 			"highlightsMeta": [
-				"red jungle",
+				"northern forest",
 				"nature",
 				"cables",
 				"lights",
@@ -10579,8 +10626,10 @@
 			"alt": "Update : Iron/Copper Factory !",
 			"highlightsMeta": [
 				"northern forest",
+				"green valley",
 				"glass",
 				"radar tower",
+				"frames",
 				"tower",
 				"viaduct",
 				"team cup"
@@ -10663,6 +10712,7 @@
 				"frames",
 				"beams",
 				"lights",
+				"utility tower",
 				"no team"
 			]
 		}
@@ -10719,6 +10769,7 @@
 				"western dune forest",
 				"lookout tower",
 				"train",
+				"catwalk",
 				"cables",
 				"bridge",
 				"no team"
@@ -10732,6 +10783,7 @@
 				"sunrise/sunset",
 				"lookout tower",
 				"train",
+				"catwalk",
 				"frames",
 				"lights",
 				"bridge",
