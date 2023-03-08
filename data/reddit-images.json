@@ -1524,6 +1524,7 @@
 				"architecture",
 				"foundation patterns",
 				"signs",
+				"roads",
 				"no team"
 			]
 		}
@@ -1575,6 +1576,7 @@
 				"architecture",
 				"glass",
 				"lasagn",
+				"belts",
 				"no team"
 			]
 		}
@@ -1594,6 +1596,7 @@
 				"architecture",
 				"glass",
 				"space elevator",
+				"tower",
 				"team hover pack"
 			]
 		}
@@ -1669,7 +1672,10 @@
 			"highlightsMeta": [
 				"grass fields arch",
 				"robo jace",
+				"glass",
+				"spaghett",
 				"awesome sink",
+				"miner",
 				"catwalk",
 				"signs",
 				"tubes",
@@ -1692,6 +1698,7 @@
 				"architecture",
 				"space elevator",
 				"drone",
+				"catwalk",
 				"lights",
 				"signs",
 				"coal plant",
@@ -8465,7 +8472,7 @@
 			"alt": "Side fluid buffers for fuel. The bottom 3 are for crude oil. 30 x 100 MWh batteries.",
 			"highlightsMeta": [
 				"rocky desert",
-				"spire coast",
+				"western beaches",
 				"frames",
 				"lights",
 				"pipes",
