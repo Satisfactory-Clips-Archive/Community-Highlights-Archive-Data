@@ -11221,12 +11221,13 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"night time",
+				"references to other franchises",
 				"awesome sink",
+				"miner",
 				"belts",
 				"cables",
 				"lights",
 				"spaceship",
-				"references to other franchises",
 				"no team"
 			]
 		}
@@ -11317,8 +11318,10 @@
 			"alt": "Rocket Base (Update, Spaceship Wings, Lights, Fueltanks,…) 🚀🖖",
 			"highlightsMeta": [
 				"uncertain location",
+				"glass",
 				"lookout tower",
-				"beams",
+				"radar tower",
+				"frames",
 				"spaceship",
 				"tower",
 				"no team"
@@ -11376,6 +11379,7 @@
 			"highlightsMeta": [
 				"spire coast",
 				"cables",
+				"ladder",
 				"pipes",
 				"tower",
 				"team hover pack",
@@ -11439,6 +11443,7 @@
 				"red bamboo fields",
 				"lights",
 				"bridge",
+				"roads",
 				"team hands"
 			]
 		},
@@ -11469,6 +11474,8 @@
 			"highlightsMeta": [
 				"uncertain location",
 				"glass",
+				"manifold",
+				"sunrise/sunset",
 				"modded",
 				"space elevator",
 				"belts",
@@ -11489,10 +11496,13 @@
 				"northern forest",
 				"glass",
 				"nature",
+				"sunrise/sunset",
+				"catwalk",
 				"frames",
 				"pipes",
 				"tubes",
 				"manta",
+				"viaduct",
 				"no team"
 			]
 		}
@@ -11544,6 +11554,8 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"spire coast",
+				"industrial",
+				"spaghett",
 				"belts",
 				"lights",
 				"viaduct",
@@ -11562,8 +11574,8 @@
 			"alt": "Having coffee with myself!",
 			"highlightsMeta": [
 				"unknown location",
-				"personal crate",
 				"multiplayer",
+				"personal crate",
 				"no team"
 			]
 		}
@@ -11666,12 +11678,13 @@
 			"highlightsMeta": [
 				"uncertain location",
 				"glass",
+				"industrial",
 				"interior",
 				"manifold",
+				"catwalk",
 				"belts",
 				"lights",
 				"pipes",
-				"industrial",
 				"team cup",
 				"team hover pack"
 			]
@@ -11714,6 +11727,7 @@
 				"western beaches",
 				"glass",
 				"weatherwax",
+				"catwalk",
 				"frames",
 				"lights",
 				"pipes",
@@ -11801,6 +11815,7 @@
 			"highlightsMeta": [
 				"uncertain location",
 				"weatherwax",
+				"sunrise/sunset",
 				"awesome shop",
 				"train",
 				"team cup"
@@ -11819,6 +11834,7 @@
 			"highlightsMeta": [
 				"spire coast",
 				"oil rig",
+				"catwalk",
 				"frames",
 				"cables",
 				"pipes",
@@ -11898,8 +11914,8 @@
 			"src": "https://i.redd.it/tf4f836wyxt61.png",
 			"alt": "My Battery Backup, Now all I need to do is cal the Power it holds and wait for it to charge. 24hr + and counting.",
 			"highlightsMeta": [
-				"maze canyons",
 				"desert canyons",
+				"maze canyons",
 				"weatherwax",
 				"sunrise/sunset",
 				"train station",
@@ -11922,12 +11938,13 @@
 			"alt": "80's Satisfactory",
 			"highlightsMeta": [
 				"unknown location",
+				"industrial",
 				"manifold",
 				"repetition",
 				"blender",
 				"beams",
 				"lights",
-				"industrial",
+				"pipes",
 				"no team"
 			]
 		},
@@ -11936,11 +11953,11 @@
 			"alt": "25 Machines making 2500 Fuel per min",
 			"highlightsMeta": [
 				"unknown location",
+				"industrial",
 				"manifold",
 				"repetition",
 				"blender",
 				"pipes",
-				"industrial",
 				"no team"
 			]
 		}
@@ -11973,13 +11990,13 @@
 			"alt": "Night Overwiev",
 			"highlightsMeta": [
 				"uncertain location",
+				"industrial",
 				"night time",
 				"cables",
 				"lights",
 				"pipes",
 				"outpost",
 				"power storage bank",
-				"industrial",
 				"no team"
 			]
 		}
@@ -12029,6 +12046,7 @@
 				"night time",
 				"lookout tower",
 				"miner",
+				"hub",
 				"outpost",
 				"no team"
 			]
@@ -12047,6 +12065,7 @@
 				"uncertain location",
 				"glitch",
 				"explorer",
+				"cables",
 				"tower",
 				"team xenobasher"
 			]
@@ -12128,6 +12147,7 @@
 				"industrial",
 				"oil rig",
 				"sunrise/sunset",
+				"frames",
 				"lights",
 				"fuel plant",
 				"no team"
@@ -12168,6 +12188,7 @@
 				"grass fields",
 				"architecture",
 				"memes",
+				"miner",
 				"belts",
 				"cables",
 				"personal crate",
@@ -12258,6 +12279,8 @@
 			"alt": "Badly made, but that's the message I got from this game.",
 			"highlightsMeta": [
 				"uncertain location",
+				"memes",
+				"awesome sink",
 				"pipes",
 				"team cup"
 			]
@@ -12276,6 +12299,7 @@
 				"uncertain location",
 				"glass",
 				"interior",
+				"night time",
 				"cyber wagon",
 				"catwalk",
 				"belts",
@@ -12340,6 +12364,7 @@
 				"uncertain location",
 				"industrial",
 				"train station",
+				"catwalk",
 				"pipes",
 				"tubes",
 				"fuel plant",
@@ -12416,6 +12441,7 @@
 				"nature",
 				"oil rig",
 				"night time",
+				"frames",
 				"fuel plant",
 				"no team"
 			]
@@ -12433,6 +12459,8 @@
 			"highlightsMeta": [
 				"uncertain location",
 				"manifold",
+				"sunrise/sunset",
+				"miner",
 				"belts",
 				"outpost",
 				"no team"
@@ -12524,7 +12552,9 @@
 			"alt": "Electrical Substation - Waiting for Power Storages on Early Access :)",
 			"highlightsMeta": [
 				"western dune forest",
+				"catwalk",
 				"cables",
+				"ladder",
 				"utility tower",
 				"no team"
 			]
@@ -12542,6 +12572,7 @@
 			"highlightsMeta": [
 				"green valley",
 				"glass",
+				"catwalk",
 				"lights",
 				"outpost",
 				"no team"
@@ -12560,6 +12591,7 @@
 			"highlightsMeta": [
 				"grass fields",
 				"western beaches",
+				"lasagn",
 				"repetition",
 				"pipes",
 				"team hands"
@@ -12623,7 +12655,9 @@
 				"uncertain location",
 				"glass",
 				"interior",
+				"sunrise/sunset",
 				"train station",
+				"catwalk",
 				"belts",
 				"lights",
 				"manta",
@@ -12641,6 +12675,7 @@
 				"repetition",
 				"drone",
 				"lights",
+				"bridge",
 				"viaduct",
 				"team cup",
 				"team hover pack"
@@ -12734,6 +12769,7 @@
 			"alt": "Starting a new experimental game to checkout update 4!",
 			"highlightsMeta": [
 				"unknown location",
+				"fan art",
 				"hub",
 				"user interface",
 				"no team"
@@ -12821,6 +12857,7 @@
 			"src": "https://i.redd.it/s7s3uehz7vm61.png",
 			"alt": "Just showing off the improvements I made to my factory. Still can't believe I managed to build this. Feedback would be greatly appreciated.",
 			"highlightsMeta": [
+				"grass fields",
 				"snaketree forest",
 				"architecture",
 				"miner",
@@ -12835,7 +12872,9 @@
 			"alt": "Raw materials are transported over the bridge towards the mines.",
 			"highlightsMeta": [
 				"grass fields",
+				"architecture",
 				"lasagn",
+				"catwalk",
 				"pipes",
 				"manta",
 				"viaduct",
@@ -12854,10 +12893,10 @@
 			"alt": "We all start somewhere",
 			"highlightsMeta": [
 				"rocky desert",
+				"memes",
 				"belts",
 				"signs",
 				"tubes",
-				"memes",
 				"team nut"
 			]
 		}
@@ -12923,6 +12962,7 @@
 			"highlightsMeta": [
 				"spire coast",
 				"repetition",
+				"catwalk",
 				"frames",
 				"cables",
 				"nuclear plant",

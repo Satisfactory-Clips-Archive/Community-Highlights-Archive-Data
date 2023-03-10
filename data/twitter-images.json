@@ -177,6 +177,8 @@
 				"green valley",
 				"robo jace",
 				"manifold",
+				"weatherwax",
+				"coal plant",
 				"outpost",
 				"no team"
 			]
@@ -189,6 +191,7 @@
 				"western beaches",
 				"robo jace",
 				"glass",
+				"lookout tower",
 				"frames",
 				"pipes",
 				"viaduct",
@@ -205,8 +208,8 @@
 				"western beaches",
 				"robo jace",
 				"blender",
-				"belts",
 				"catwalk",
+				"belts",
 				"no team"
 			]
 		}
@@ -4353,12 +4356,13 @@
 				"jace would live there",
 				"cityscape",
 				"cyberpunk",
+				"industrial",
 				"modded",
+				"catwalk",
 				"frames",
 				"lights",
 				"tower",
 				"viaduct",
-				"industrial",
 				"no team"
 			]
 		}
@@ -4370,10 +4374,12 @@
 				"uncertain location",
 				"jace would live there",
 				"glass",
+				"industrial",
 				"night time",
 				"modded",
 				"train station",
 				"catwalk",
+				"lights",
 				"signs",
 				"tubes",
 				"no team"
