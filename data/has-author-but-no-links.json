@@ -3037,5 +3037,28 @@
 				]
 			}
 		}
+	},
+	"2022-04-12": {
+		"yt-sswk9b8O8rI": {
+			"07:03 Headvoice73 - Spiralling out of control": {
+				"timestamp": 423,
+				"raw_text": "Headvoice73 - Spiralling out of control",
+				"timestamps_for_links": [
+					452
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 452,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"space elevator",
+							"tower",
+							"no team"
+						]
+					}
+				]
+			}
+		}
 	}
 }

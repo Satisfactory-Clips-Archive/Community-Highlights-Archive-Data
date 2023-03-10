@@ -26,6 +26,31 @@
 			]
 		}
 	],
+	"https://twitter.com/Kkemo85/status/1512001400552796166": [
+		{
+			"src": "https://pbs.twimg.com/media/FPutCbtXoAU0xDY.jpg",
+			"highlightsMeta": [
+				"spire coast",
+				"glass",
+				"lookout tower",
+				"radar tower",
+				"outpost",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FPutCbvXIAEhUfc.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FPutCbuXoAA7nEv.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FPutCbsXsAUn0Rs.jpg",
+			"skip": true
+		}
+	],
 	"https://twitter.com/vsbmeza3/status/1506418099406479362": [
 		{
 			"src": "https://pbs.twimg.com/media/FOffGjVXsAE2ibv.jpg",
