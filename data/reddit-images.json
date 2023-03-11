@@ -12978,6 +12978,7 @@
 			"highlightsMeta": [
 				"grass fields",
 				"western beaches",
+				"modded",
 				"radar tower",
 				"coal plant",
 				"dam",
@@ -12992,9 +12993,10 @@
 				"western beaches",
 				"modded",
 				"radar tower",
+				"catwalk",
+				"cables",
 				"lights",
 				"dam",
-				"catwalk",
 				"no team"
 			]
 		},
@@ -13069,6 +13071,7 @@
 			"alt": "more & save to youtube chanel",
 			"highlightsMeta": [
 				"spire coast",
+				"modded",
 				"radar tower",
 				"catwalk",
 				"boat",
@@ -13084,9 +13087,9 @@
 				"spire coast",
 				"modded",
 				"awesome sink",
+				"catwalk",
 				"boat",
 				"tower",
-				"catwalk",
 				"no team"
 			]
 		}
