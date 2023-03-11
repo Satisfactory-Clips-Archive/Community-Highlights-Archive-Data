@@ -2829,8 +2829,15 @@
 					{
 						"timestamp": 1422,
 						"meta": [
+							"uncertain location",
+							"glass",
+							"truck",
+							"frames",
+							"ladder",
+							"signs",
+							"coal plant",
 							"crane",
-							"truck"
+							"team cup"
 						]
 					}
 				]
@@ -2845,8 +2852,11 @@
 					{
 						"timestamp": 1473,
 						"meta": [
+							"rocky desert",
+							"green valley",
+							"radar tower",
 							"train spiral",
-							"radar tower"
+							"no team"
 						]
 					}
 				]
@@ -2865,7 +2875,17 @@
 					{
 						"timestamp": 420,
 						"meta": [
-							"cityscape"
+							"uncertain location",
+							"cityscape",
+							"glass",
+							"industrial",
+							"memes",
+							"catwalk",
+							"foundation patterns",
+							"lights",
+							"signs",
+							"roads",
+							"no team"
 						]
 					}
 				]
@@ -2897,7 +2917,15 @@
 					{
 						"timestamp": 288,
 						"meta": [
-							"robo jace"
+							"uncertain location",
+							"robo jace",
+							"industrial",
+							"space elevator",
+							"catwalk",
+							"frames",
+							"fuel plant",
+							"tower",
+							"no team"
 						]
 					}
 				]
@@ -2912,7 +2940,13 @@
 					{
 						"timestamp": 808,
 						"meta": [
-							"robo jace"
+							"uncertain location",
+							"robo jace",
+							"signs",
+							"lizard doggo",
+							"statue gallery",
+							"team candy cane",
+							"team hover pack"
 						]
 					}
 				]
@@ -2927,7 +2961,13 @@
 					{
 						"timestamp": 978,
 						"meta": [
-							"robo jace"
+							"dune desert",
+							"robo jace",
+							"manifold",
+							"awesome sink",
+							"belts",
+							"tubes",
+							"no team"
 						]
 					}
 				]
@@ -2942,7 +2982,18 @@
 					{
 						"timestamp": 1200,
 						"meta": [
-							"robo jace"
+							"rocky desert",
+							"robo jace",
+							"architecture",
+							"miner",
+							"train",
+							"belts",
+							"lights",
+							"signs",
+							"stairs",
+							"outpost",
+							"viaduct",
+							"no team"
 						]
 					}
 				]
@@ -2968,7 +3019,15 @@
 					{
 						"timestamp": 1081,
 						"meta": [
-							"memes"
+							"unknown location",
+							"glass",
+							"interior",
+							"weatherwax",
+							"memes",
+							"catwalk",
+							"lights",
+							"signs",
+							"no team"
 						]
 					}
 				]
@@ -2990,7 +3049,9 @@
 					{
 						"timestamp": 2460,
 						"meta": [
-							"robo jace"
+							"unknown location",
+							"robo jace",
+							"no team"
 						]
 					}
 				]
