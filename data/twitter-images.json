@@ -26,6 +26,39 @@
 			]
 		}
 	],
+	"https://twitter.com/____Ronnie____/status/1516092871740473346": [
+		{
+			"src": "https://pbs.twimg.com/media/FQo9u12XoAcYxhR.jpg",
+			"skip": false,
+			"highlightsMeta": [
+				"jace would live there"
+			]
+		}
+	],
+	"https://twitter.com/PerforatedS/status/1514802899020251138": [
+		{
+			"src": "https://pbs.twimg.com/media/FQWpI4qVUAsyZQ1.jpg",
+			"skip": false
+		}
+	],
+	"https://twitter.com/BLAndrew575/status/1516229211815620608": [
+		{
+			"src": "https://pbs.twimg.com/media/FQq2HDxWYAEXgAH.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FQq2IUEXIAABRZE.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FQq2JpAWQAIIF-m.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FQq2LnYXEAAl8C6.jpg",
+			"skip": false
+		}
+	],
 	"https://twitter.com/Kkemo85/status/1512001400552796166": [
 		{
 			"src": "https://pbs.twimg.com/media/FPutCbtXoAU0xDY.jpg",
