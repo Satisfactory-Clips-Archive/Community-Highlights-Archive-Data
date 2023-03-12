@@ -5038,8 +5038,9 @@
 			"highlightsMeta": [
 				"green valley",
 				"ficsmas",
-				"team hover pack",
-				"team cup"
+				"coal plant",
+				"team cup",
+				"team hover pack"
 			]
 		}
 	],
@@ -5055,6 +5056,7 @@
 				"western dune forest",
 				"architecture",
 				"ficsmas",
+				"lights",
 				"no team"
 			]
 		}
@@ -5071,6 +5073,8 @@
 			"highlightsMeta": [
 				"grass fields",
 				"ficsmas",
+				"lights",
+				"signs",
 				"no team"
 			]
 		}
@@ -5088,6 +5092,8 @@
 				"grass fields",
 				"ficsmas",
 				"glass",
+				"miner",
+				"belts",
 				"team hover pack",
 				"team xenobasher"
 			]
@@ -5105,7 +5111,9 @@
 			"highlightsMeta": [
 				"dune desert",
 				"ficsmas",
+				"train",
 				"lights",
+				"tubes",
 				"outpost",
 				"team nut"
 			]
@@ -5123,8 +5131,13 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"ficsmas",
+				"manifold",
 				"night time",
 				"space elevator",
+				"belts",
+				"lights",
+				"signs",
+				"train spiral",
 				"no team"
 			]
 		}
@@ -5140,8 +5153,11 @@
 			"highlightsMeta": [
 				"western beaches",
 				"architecture",
-				"beams",
 				"train station",
+				"catwalk",
+				"frames",
+				"beams",
+				"belts",
 				"no team"
 			]
 		}
@@ -5156,12 +5172,16 @@
 			"src": "https://i.redd.it/7k83wxbfqu281.jpg",
 			"alt": "I named my space elevator. And then went overboard, as per usual.",
 			"highlightsMeta": [
+				"northern forest",
+				"green valley",
+				"glass",
 				"night time",
+				"space elevator",
+				"catwalk",
 				"beams",
 				"foundation patterns",
 				"lights",
 				"signs",
-				"space elevator",
 				"no team"
 			]
 		}
@@ -5178,6 +5198,8 @@
 				"western beaches",
 				"architecture",
 				"glass",
+				"beams",
+				"pipes",
 				"fuel plant",
 				"team cup"
 			]
@@ -5196,7 +5218,9 @@
 				"lake forest",
 				"architecture",
 				"glass",
+				"industrial",
 				"night time",
+				"fuel plant",
 				"no team"
 			]
 		}
@@ -5211,7 +5235,9 @@
 			"src": "https://i.redd.it/vh8mgq6736381.png",
 			"alt": "The sense of scale in this game is *chefs kiss*",
 			"highlightsMeta": [
+				"uncertain location",
 				"night time",
+				"beams",
 				"lights",
 				"bean",
 				"viaduct",
@@ -5222,9 +5248,15 @@
 			"src": "https://i.redd.it/0grfoz7whz281.jpg",
 			"alt": " 1 of the 2 Diluted Fuel wings next to Fuel Unpackaging",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"industrial",
+				"interior",
 				"night time",
+				"catwalk",
+				"frames",
 				"foundation patterns",
+				"lights",
 				"pipes",
 				"no team"
 			]
@@ -5240,7 +5272,12 @@
 			"src": "https://i.redd.it/3g6y5crac6381.png",
 			"alt": "Futuristic Brutalism ❤ ...although I think its a bit overkill for 2 train stations and 8 storage bins!",
 			"highlightsMeta": [
+				"uncertain location",
+				"red bamboo fields",
 				"red jungle",
+				"architecture",
+				"cables",
+				"lights",
 				"tower",
 				"no team"
 			]
@@ -5258,6 +5295,10 @@
 			"highlightsMeta": [
 				"spire coast",
 				"oil rig",
+				"frames",
+				"beams",
+				"lights",
+				"tubes",
 				"team golden cup"
 			]
 		}
@@ -5276,6 +5317,7 @@
 				"ficsmas",
 				"space elevator",
 				"train",
+				"belts",
 				"outpost",
 				"team xenobasher"
 			]
@@ -5288,6 +5330,9 @@
 				"western dune forest",
 				"architecture",
 				"ficsmas",
+				"glass",
+				"catwalk",
+				"beams",
 				"no team"
 			]
 		}
@@ -5302,10 +5347,14 @@
 			"src": "https://i.redd.it/tr21sm0vaj381.png",
 			"alt": "I changed my FISC*MAS factory and now it looks like presents :D",
 			"highlightsMeta": [
+				"uncertain location",
+				"red bamboo fields",
+				"red jungle",
 				"ficsmas",
 				"glass",
 				"weatherwax",
 				"space elevator",
+				"catwalk",
 				"no team"
 			]
 		}
@@ -5323,6 +5372,11 @@
 				"desert mountain plateaus",
 				"glass",
 				"night time",
+				"train station",
+				"catwalk",
+				"belts",
+				"lights",
+				"pipes",
 				"tower",
 				"team golden cup",
 				"team hover pack"
@@ -5339,10 +5393,12 @@
 			"src": "https://i.redd.it/pvvlq86r22381.jpg",
 			"alt": "Decorating for Ficsmas",
 			"highlightsMeta": [
+				"uncertain location",
 				"architecture",
 				"ficsmas",
 				"glass",
 				"train station",
+				"train signals",
 				"viaduct",
 				"no team"
 			]
@@ -5351,7 +5407,9 @@
 			"src": "https://i.redd.it/eqxoiu3432381.jpg",
 			"alt": "The original, in Cincinnati Ohio",
 			"highlightsMeta": [
+				"unknown location",
 				"architecture",
+				"reference images",
 				"train station",
 				"no team"
 			]
@@ -5366,7 +5424,10 @@
 		{
 			"src": "https://i.redd.it/pmworaorr1481.png",
 			"highlightsMeta": [
+				"uncertain location",
 				"ficsmas",
+				"weatherwax",
+				"viaduct",
 				"no team"
 			]
 		}
@@ -5383,10 +5444,11 @@
 			"highlightsMeta": [
 				"northern forest",
 				"ficsmas",
-				"factory cart",
-				"foundation patterns",
 				"radar tower",
+				"factory cart",
 				"tractor",
+				"foundation patterns",
+				"signs",
 				"no team"
 			]
 		}
@@ -5400,12 +5462,15 @@
 		{
 			"src": "https://i.redd.it/7p2hpuu642481.png",
 			"highlightsMeta": [
+				"grass fields",
+				"grass fields arch",
 				"cityscape",
 				"ficsmas",
 				"glass",
+				"industrial",
 				"night time",
-				"signs",
 				"space elevator",
+				"signs",
 				"train signals",
 				"team hover pack"
 			]
@@ -5423,6 +5488,8 @@
 			"highlightsMeta": [
 				"dune desert",
 				"glitch",
+				"miner",
+				"hub",
 				"team candy cane"
 			]
 		}
@@ -5439,6 +5506,7 @@
 			"highlightsMeta": [
 				"spire coast",
 				"ficsmas",
+				"fan art",
 				"lizard doggo",
 				"no team"
 			]
@@ -5453,10 +5521,13 @@
 		{
 			"src": "https://i.redd.it/p1fa44pa6k281.jpg",
 			"highlightsMeta": [
-				"signs",
+				"uncertain location",
 				"train station",
-				"team hover pack",
-				"team cup"
+				"catwalk",
+				"signs",
+				"train signals",
+				"team cup",
+				"team hover pack"
 			]
 		}
 	],
@@ -5472,6 +5543,10 @@
 			"highlightsMeta": [
 				"northern forest",
 				"glass",
+				"interior",
+				"frames",
+				"train signals",
+				"roads",
 				"viaduct",
 				"no team"
 			]
@@ -5489,6 +5564,9 @@
 			"highlightsMeta": [
 				"grass fields",
 				"weatherwax",
+				"beams",
+				"cables",
+				"utility tower",
 				"team hover pack"
 			]
 		}
@@ -5505,6 +5583,7 @@
 			"highlightsMeta": [
 				"green valley",
 				"art",
+				"pipes",
 				"no team"
 			]
 		}
@@ -5519,6 +5598,7 @@
 			"src": "https://i.redd.it/bkmicq5i8l281.png",
 			"alt": "Ficsit delivering entertainment to Pioneers. -Scrabbleit-",
 			"highlightsMeta": [
+				"uncertain location",
 				"games",
 				"signs",
 				"no team"
@@ -5552,7 +5632,9 @@
 			"src": "https://i.redd.it/em22tukuuj281.png",
 			"alt": "New player blues...",
 			"highlightsMeta": [
+				"uncertain location",
 				"death crate",
+				"cables",
 				"lights",
 				"tubes",
 				"team nut"
@@ -5569,8 +5651,10 @@
 			"src": "https://i.redd.it/my1bwdsx4k281.jpg",
 			"alt": "Supercomputers can already be bought at affordable prices on my planet.",
 			"highlightsMeta": [
+				"uncertain location",
 				"cityscape",
 				"glass",
+				"belts",
 				"signs",
 				"no team"
 			]
@@ -5588,9 +5672,10 @@
 			"highlightsMeta": [
 				"dune desert",
 				"glass",
-				"signs",
-				"tractor",
 				"truck station",
+				"tractor",
+				"catwalk",
+				"signs",
 				"outpost",
 				"no team"
 			]
@@ -5601,8 +5686,10 @@
 			"src": "https://i.redd.it/1n0r5bu17n281.png",
 			"alt": "Nighttime",
 			"highlightsMeta": [
+				"uncertain location",
 				"art",
 				"night time",
+				"beams",
 				"lights",
 				"no team"
 			]
@@ -5611,8 +5698,10 @@
 			"src": "https://i.redd.it/w27v10k68n281.png",
 			"alt": "From the inside. Removed all wall floods for the screenshot.",
 			"highlightsMeta": [
+				"unknown location",
 				"art",
 				"lights",
+				"signs",
 				"no team"
 			]
 		}
@@ -5628,9 +5717,11 @@
 			"alt": "Combining multiple sizes of sign for complex displays is quite refreshing.",
 			"highlightsMeta": [
 				"northern forest",
+				"frames",
 				"lights",
 				"signs",
 				"train signals",
+				"manta",
 				"no team"
 			]
 		}
@@ -5648,6 +5739,9 @@
 				"western dune forest",
 				"architecture",
 				"nature",
+				"catwalk",
+				"frames",
+				"beams",
 				"no team"
 			]
 		}
@@ -5662,6 +5756,9 @@
 			"src": "https://i.redd.it/qjarvz8l7e181.png",
 			"alt": "Huh...",
 			"highlightsMeta": [
+				"unknown location",
+				"interior",
+				"multiplayer",
 				"factory cart",
 				"hub",
 				"no team"
@@ -5676,6 +5773,10 @@
 				"northern forest",
 				"glass",
 				"nature",
+				"awesome sink",
+				"lookout tower",
+				"catwalk",
+				"warehouse",
 				"no team"
 			]
 		},
@@ -5684,9 +5785,12 @@
 			"alt": "Bridge",
 			"highlightsMeta": [
 				"northern forest",
+				"glass",
 				"nature",
+				"catwalk",
 				"signs",
 				"manta",
+				"manta gate",
 				"no team"
 			]
 		}
@@ -5701,6 +5805,7 @@
 			"src": "https://i.redd.it/6tnitca0k8181.jpg",
 			"alt": "WIP - Steel Beams Factory",
 			"highlightsMeta": [
+				"uncertain location",
 				"cityscape",
 				"glass",
 				"night time",
@@ -5708,6 +5813,7 @@
 				"foundation patterns",
 				"lights",
 				"signs",
+				"roads",
 				"team cup"
 			]
 		}
@@ -5718,7 +5824,10 @@
 			"alt": "Full thing including food court",
 			"highlightsMeta": [
 				"northern forest",
+				"architecture",
 				"space elevator",
+				"lights",
+				"signs",
 				"no team"
 			]
 		},
@@ -5729,6 +5838,8 @@
 				"northern forest",
 				"nature",
 				"space elevator",
+				"lights",
+				"signs",
 				"no team"
 			]
 		},
@@ -5737,8 +5848,13 @@
 			"alt": "The core",
 			"highlightsMeta": [
 				"northern forest",
-				"nature",
+				"architecture",
+				"interior",
 				"space elevator",
+				"beams",
+				"lights",
+				"pipes",
+				"signs",
 				"no team"
 			]
 		},
@@ -5749,6 +5865,9 @@
 				"northern forest",
 				"glitch",
 				"space elevator",
+				"frames",
+				"cables",
+				"tubes",
 				"team hover pack"
 			]
 		}
