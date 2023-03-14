@@ -3142,5 +3142,30 @@
 				]
 			}
 		}
+	},
+	"2022-04-26": {
+		"yt-s0DwMfY5mko": {
+			"10:38 houghi - Supportive stator factory https://www.reddit.com/r/SatisfactoryGame/comments/uabfit/more_work_on_the_stator_factory_links_to_high_res/": {
+				"timestamp": 638,
+				"raw_text": "Supportive stator factory https://www.reddit.com/r/SatisfactoryGame/comments/uabfit/more_work_on_the_stator_factory_links_to_high_res/",
+				"timestamps_for_links": [
+					688
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 688,
+						"meta": [
+							"spire coast",
+							"night time",
+							"references to other franchises",
+							"catwalk",
+							"frames",
+							"lights",
+							"team hover pack"
+						]
+					}
+				]
+			}
+		}
 	}
 }
