@@ -8786,6 +8786,8 @@
 			"highlightsMeta": [
 				"crater lakes",
 				"glass",
+				"sunrise/sunset",
+				"frames",
 				"lights",
 				"outpost",
 				"team cup"
@@ -8795,9 +8797,12 @@
 			"src": "https://i.redd.it/vxcuqf2ox5q71.png",
 			"alt": "Clean factory",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"interior",
 				"manifold",
 				"awesome sink",
+				"catwalk",
 				"lights",
 				"team cup"
 			]
@@ -8806,9 +8811,11 @@
 			"src": "https://i.redd.it/3thmgm2ox5q71.png",
 			"alt": "Clean factory",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"interior",
 				"manifold",
+				"catwalk",
 				"team cup"
 			]
 		},
@@ -8816,6 +8823,7 @@
 			"src": "https://i.redd.it/6j89z72ox5q71.png",
 			"alt": "Clean factory",
 			"highlightsMeta": [
+				"grass fields",
 				"grass fields arch",
 				"awesome sink",
 				"belts",
@@ -8829,8 +8837,11 @@
 			"src": "https://i.redd.it/wkwasdtxg2q71.png",
 			"alt": "Pleasing repetition :)",
 			"highlightsMeta": [
+				"rocky desert",
 				"western beaches",
 				"night time",
+				"train",
+				"frames",
 				"lights",
 				"viaduct",
 				"no team"
@@ -8849,9 +8860,9 @@
 			"highlightsMeta": [
 				"grass fields",
 				"space elevator",
+				"train station",
 				"tower",
 				"train spiral",
-				"train station",
 				"team xenobasher"
 			]
 		}
@@ -8861,12 +8872,15 @@
 			"src": "https://i.redd.it/8ob5rtwpq4p71.png",
 			"alt": "I made a Plastic/Rubber factory in the Blue Crater, using the recycled recipes. This factory makes 1000 Rubber and 800 Plastic from 600 Crude Oil.",
 			"highlightsMeta": [
+				"uncertain location",
 				"manifold",
-				"beams",
+				"blender",
+				"train station",
+				"frames",
 				"belts",
+				"lights",
 				"pipes",
 				"train spiral",
-				"train station",
 				"no team"
 			]
 		}
@@ -8882,6 +8896,7 @@
 			"alt": "lasagna",
 			"highlightsMeta": [
 				"grass fields",
+				"grass fields arch",
 				"lasagn",
 				"belts",
 				"pipes",
@@ -8892,7 +8907,9 @@
 			"src": "https://i.redd.it/n6uhgtojc6p71.jpg",
 			"alt": "The Matrix (side-on view)",
 			"highlightsMeta": [
+				"uncertain location",
 				"lasagn",
+				"belts",
 				"team hands"
 			]
 		}
@@ -8910,6 +8927,7 @@
 				"red jungle",
 				"glass",
 				"lasagn",
+				"manifold",
 				"belts",
 				"team cup"
 			]
@@ -8922,6 +8940,7 @@
 				"lasagn",
 				"repetition",
 				"space elevator",
+				"belts",
 				"team cup"
 			]
 		}
@@ -8956,6 +8975,8 @@
 			"src": "https://i.redd.it/jshinfskqnp71.png",
 			"alt": "Uranium tower: 4x5 foundations wide (fits one nuclear reactor), 550m high. Makes everything from raw materials",
 			"highlightsMeta": [
+				"uncertain location",
+				"glass",
 				"repetition",
 				"belts",
 				"pipes",
@@ -8967,6 +8988,7 @@
 			"src": "https://i.redd.it/gz6j6b7wqnp71.png",
 			"alt": "No lights, that's the fumes of the nuclear reactors in the evening",
 			"highlightsMeta": [
+				"uncertain location",
 				"repetition",
 				"belts",
 				"pipes",
@@ -9024,8 +9046,8 @@
 			"alt": "Not to big, not to small. 1.4 GW",
 			"highlightsMeta": [
 				"snaketree forest",
-				"modded",
 				"night time",
+				"modded",
 				"outpost",
 				"no team"
 			]
@@ -9034,6 +9056,7 @@
 			"src": "https://i.redd.it/dzutciyjhyn71.png",
 			"alt": "Brings a tear to my eye",
 			"highlightsMeta": [
+				"unknown location",
 				"interior",
 				"lights",
 				"power storage bank",
@@ -9052,7 +9075,8 @@
 			"alt": "HOVERING BELT SUPPORTS?",
 			"highlightsMeta": [
 				"grass fields",
-				"beams",
+				"manifold",
+				"frames",
 				"belts",
 				"parachute",
 				"tubes",
@@ -9063,7 +9087,11 @@
 			"src": "https://i.redd.it/4j138q6i93o71.png",
 			"alt": "HOVERING BELT SUPPORTS?",
 			"highlightsMeta": [
+				"uncertain location",
 				"drone",
+				"frames",
+				"lights",
+				"tubes",
 				"no team"
 			]
 		}
@@ -9078,8 +9106,10 @@
 			"src": "https://i.redd.it/lqht3uwv4oo71.png",
 			"alt": "Humble beginnings",
 			"highlightsMeta": [
+				"northern forest",
 				"spaghett",
 				"sunrise/sunset",
+				"hub",
 				"no team"
 			]
 		}
@@ -9096,8 +9126,10 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"jace would live there",
-				"outpost",
+				"glass",
 				"train station",
+				"signs",
+				"outpost",
 				"no team"
 			]
 		}
@@ -9112,8 +9144,10 @@
 			"src": "https://i.redd.it/4f4hl03jino71.jpg",
 			"alt": "Monster power tower finish and stable 100k MW, # of the beast 666 fuel generator. 1350 crude oil, 2400 coal/sulfur. *pure vanilla, no mod/no save edit*",
 			"highlightsMeta": [
+				"uncertain location",
 				"repetition",
 				"sunrise/sunset",
+				"radar tower",
 				"fuel plant",
 				"tower",
 				"no team"
@@ -9130,10 +9164,12 @@
 			"src": "https://i.redd.it/y52dqhwj9go71.jpg",
 			"alt": "Wanted to share my people collection from my 1st save. It would respawn me every time I played while offline. Not sure if this still happens in the current version",
 			"highlightsMeta": [
+				"uncertain location",
 				"glitch",
 				"repetition",
 				"awesome sink",
 				"hub",
+				"personal crate",
 				"no team"
 			]
 		}
@@ -9143,8 +9179,10 @@
 			"src": "https://i.redd.it/417yflg1bno71.png",
 			"alt": "Employee of the Planet",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"modded",
+				"hub",
 				"lights",
 				"pipes",
 				"tubes",
@@ -9164,7 +9202,11 @@
 			"highlightsMeta": [
 				"grass fields",
 				"glass",
+				"miner",
+				"drone",
+				"frames",
 				"belts",
+				"lights",
 				"pipes",
 				"tower",
 				"team golden cup",
@@ -9215,6 +9257,8 @@
 			"highlightsMeta": [
 				"dune desert",
 				"glass",
+				"catwalk",
+				"outpost",
 				"tower",
 				"no team"
 			]
@@ -9225,6 +9269,7 @@
 			"highlightsMeta": [
 				"dune desert",
 				"glass",
+				"catwalk",
 				"outpost",
 				"tower",
 				"no team"
@@ -9242,6 +9287,7 @@
 			"alt": "Copper ingot production plant! 3k ingots/min",
 			"highlightsMeta": [
 				"grass fields",
+				"miner",
 				"train spiral",
 				"viaduct",
 				"no team"
@@ -9259,6 +9305,7 @@
 			"alt": "We build this 100.000 MW battery!!",
 			"highlightsMeta": [
 				"snaketree forest",
+				"miner",
 				"power storage bank",
 				"tower",
 				"team cup"
@@ -9275,12 +9322,18 @@
 			"src": "https://i.redd.it/qndxmkdnc7n71.jpg",
 			"alt": "FMF Factory Station - The other side",
 			"highlightsMeta": [
+				"uncertain location",
 				"interior",
-				"belts",
+				"sunrise/sunset",
 				"train station",
+				"train",
+				"catwalk",
+				"frames",
+				"belts",
+				"lights",
 				"outpost",
-				"team hover pack",
-				"team cup"
+				"team cup",
+				"team hover pack"
 			]
 		}
 	],
@@ -9294,9 +9347,12 @@
 			"src": "https://i.redd.it/mmffz3qk79n71.png",
 			"alt": "Atmospheric shot of the nuke plant I posted recently...",
 			"highlightsMeta": [
+				"unknown location",
+				"glass",
 				"interior",
-				"beams",
+				"frames",
 				"lights",
+				"pipes",
 				"nuclear plant",
 				"tower",
 				"no team"
@@ -9310,6 +9366,9 @@
 			"highlightsMeta": [
 				"spire coast",
 				"architecture",
+				"sunrise/sunset",
+				"catwalk",
+				"belts",
 				"fuel plant",
 				"no team"
 			]
@@ -9319,6 +9378,8 @@
 			"alt": "Are you not entertained?",
 			"highlightsMeta": [
 				"spire coast",
+				"blender",
+				"pipes",
 				"fuel plant",
 				"no team"
 			]
@@ -9334,9 +9395,11 @@
 			"src": "https://i.redd.it/7w5sj1gr0kl71.png",
 			"alt": "When did my friend become a hedgehog?",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"interior",
 				"repetition",
+				"multiplayer",
 				"nobelisk",
 				"no team"
 			]
@@ -9348,6 +9411,8 @@
 			"alt": "So, after spending far too long on this, I've set up what I think it is a decent first attempt at a D-fuel refinery. 5 levels in total (pic: nice view of the main building)",
 			"highlightsMeta": [
 				"blue crater",
+				"frames",
+				"pipes",
 				"fuel plant",
 				"outpost",
 				"no team"
@@ -9357,7 +9422,10 @@
 			"src": "https://i.redd.it/vicsdiorlyl71.png",
 			"alt": "so, I'm happy with it so far, but like I said, I need a break. so if anyone has any decorating ideas or comments in general, go nuts!",
 			"highlightsMeta": [
+				"uncertain location",
 				"sunrise/sunset",
+				"catwalk",
+				"belts",
 				"tubes",
 				"fuel plant",
 				"team cup"
@@ -9376,8 +9444,8 @@
 			"highlightsMeta": [
 				"northern forest",
 				"architecture",
-				"beams",
 				"drone",
+				"frames",
 				"outpost",
 				"no team"
 			]
@@ -9387,8 +9455,8 @@
 			"alt": "Thermal Propulsion Rocket Factory",
 			"highlightsMeta": [
 				"northern forest",
-				"beams",
 				"drone",
+				"frames",
 				"no team"
 			]
 		}
@@ -9403,7 +9471,11 @@
 			"src": "https://i.redd.it/p45c1lsqikl71.jpg",
 			"alt": "Zero Waste Nuclear Power Plant based on TotalXclipse's Guide",
 			"highlightsMeta": [
+				"uncertain location",
+				"glass",
 				"sunrise/sunset",
+				"catwalk",
+				"frames",
 				"lights",
 				"pipes",
 				"nuclear plant",
@@ -9414,7 +9486,9 @@
 			"src": "https://i.redd.it/pokdhvrqikl71.jpg",
 			"alt": "Self indulgent scenic screenshot featuring another fantastic sunrise in the swamp. Thanks for viewing!",
 			"highlightsMeta": [
+				"uncertain location",
 				"sunrise/sunset",
+				"catwalk",
 				"lights",
 				"pipes",
 				"nuclear plant",
@@ -9425,9 +9499,13 @@
 			"src": "https://i.redd.it/49xbaorqikl71.jpg",
 			"alt": "The six reactors are placed in a half open hall supported by big steel columns. They are easily reached on foot without a suit.",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"interior",
 				"repetition",
+				"catwalk",
+				"frames",
+				"lights",
 				"nuclear plant",
 				"no team"
 			]
@@ -9443,10 +9521,13 @@
 			"src": "https://i.redd.it/qvgm2iqvtrl71.png",
 			"alt": "the smelters need dragon power ?, it is not problem !!!",
 			"highlightsMeta": [
+				"uncertain location",
 				"art",
 				"lasagn",
 				"manifold",
 				"modded",
+				"catwalk",
+				"belts",
 				"tower",
 				"no team"
 			]
@@ -9462,9 +9543,14 @@
 			"src": "https://i.redd.it/i7eyg21o60m71.jpg",
 			"alt": "Sometimes, I just stop, and marvel at the beauty of this game.",
 			"highlightsMeta": [
+				"uncertain location",
 				"interior",
 				"nature",
+				"awesome sink",
 				"train station",
+				"catwalk",
+				"frames",
+				"tubes",
 				"team cup"
 			]
 		}
@@ -9482,6 +9568,7 @@
 				"eastern dune forest",
 				"spaghett",
 				"space elevator",
+				"belts",
 				"team hands"
 			]
 		}
@@ -9499,6 +9586,7 @@
 				"dune desert",
 				"lasagn",
 				"repetition",
+				"belts",
 				"team nut"
 			]
 		}
@@ -9513,7 +9601,10 @@
 			"src": "https://i.redd.it/z1jru36iekl71.jpg",
 			"alt": "the \"Brooklyn Bridge\"",
 			"highlightsMeta": [
+				"dune desert",
 				"train",
+				"frames",
+				"pipes",
 				"bridge",
 				"no team"
 			]
@@ -9522,6 +9613,7 @@
 			"src": "https://i.redd.it/vvw0ui6iekl71.jpg",
 			"alt": "Brooklyn Bridge at Dusk with a nice view of my Megabase complex. I named it \"the lower Manhattan Project\".",
 			"highlightsMeta": [
+				"dune desert",
 				"sunrise/sunset",
 				"train",
 				"bridge",
@@ -9540,7 +9632,10 @@
 			"src": "https://i.redd.it/ohe8e0fdvlk71.jpg",
 			"alt": "Needed a new factory for the upgrade to MK.3 miners and MK.4-5 Belts--still not sure it's big enough",
 			"highlightsMeta": [
+				"uncertain location",
+				"glass",
 				"space elevator",
+				"train",
 				"outpost",
 				"no team"
 			]
@@ -9575,8 +9670,11 @@
 			"src": "https://i.redd.it/edxgi9jg0xj71.png",
 			"alt": "Busy railway network.",
 			"highlightsMeta": [
+				"uncertain location",
 				"sunrise/sunset",
 				"train station",
+				"train",
+				"catwalk",
 				"bridge",
 				"nuclear plant",
 				"no team"
@@ -9590,6 +9688,9 @@
 			"highlightsMeta": [
 				"western beaches",
 				"sunrise/sunset",
+				"blender",
+				"frames",
+				"pipes",
 				"fuel plant",
 				"team rifle"
 			]
@@ -9605,6 +9706,7 @@
 			"src": "https://i.redd.it/zjd490en9kk71.png",
 			"alt": "Pipework for the 40 blenders (to 4000 fuel generators) is getting along. Still a lot to do.",
 			"highlightsMeta": [
+				"uncertain location",
 				"architecture",
 				"repetition",
 				"blender",
@@ -9624,7 +9726,10 @@
 			"src": "https://i.redd.it/9xgymrr1n9k71.png",
 			"alt": "This smelter surprised me with a smile.",
 			"highlightsMeta": [
+				"uncertain location",
 				"art",
+				"interior",
+				"belts",
 				"team rebar"
 			]
 		}
@@ -9634,11 +9739,13 @@
 			"src": "https://i.redd.it/j6qch3w04kj71.png",
 			"alt": "The other side",
 			"highlightsMeta": [
+				"dune desert",
 				"desert mountain plateaus",
+				"glass",
+				"train station",
 				"train",
 				"outpost",
 				"train spiral",
-				"train station",
 				"team nut"
 			]
 		}
@@ -9666,9 +9773,13 @@
 			"src": "https://i.redd.it/4qrcm1oe60k71.png",
 			"alt": "Train goes round and round",
 			"highlightsMeta": [
+				"rocky desert",
+				"glass",
 				"night time",
-				"lights",
+				"miner",
 				"train station",
+				"lights",
+				"power slug",
 				"no team"
 			]
 		}
@@ -9684,6 +9795,7 @@
 			"alt": "237.600 MW diluted fuel power plant",
 			"highlightsMeta": [
 				"spire coast",
+				"glass",
 				"fuel plant",
 				"oil plant",
 				"tower",
@@ -9712,11 +9824,13 @@
 			"src": "https://i.redd.it/0g8rpqr8fbk71.png",
 			"alt": "u alright mate?",
 			"highlightsMeta": [
+				"uncertain location",
+				"manifold",
 				"spaghett",
-				"belts",
-				"pipes",
 				"radar tower",
 				"space elevator",
+				"belts",
+				"pipes",
 				"team hover pack"
 			]
 		}
@@ -9732,6 +9846,7 @@
 			"alt": "Southeast Corner",
 			"highlightsMeta": [
 				"rocky desert",
+				"glass",
 				"train",
 				"outpost",
 				"train spiral",
@@ -9746,7 +9861,10 @@
 			"alt": "Coastline resort",
 			"highlightsMeta": [
 				"western beaches",
+				"manifold",
+				"lights",
 				"fuel plant",
+				"oil plant",
 				"no team"
 			]
 		},
@@ -9754,10 +9872,14 @@
 			"src": "https://i.redd.it/ju7n8rsc71k71.png",
 			"alt": "Coastline resort",
 			"highlightsMeta": [
+				"western beaches",
 				"oil rig",
-				"cables",
 				"lookout tower",
 				"radar tower",
+				"catwalk",
+				"frames",
+				"cables",
+				"pipes",
 				"oil plant",
 				"no team"
 			]
@@ -9779,7 +9901,14 @@
 			"src": "https://i.redd.it/mjqgdiaikdj71.jpg",
 			"alt": "$2M condo",
 			"highlightsMeta": [
+				"northern forest",
+				"green valley",
+				"glass",
+				"sunrise/sunset",
+				"miner",
 				"radar tower",
+				"catwalk",
+				"belts",
 				"outpost",
 				"no team"
 			]
@@ -9797,6 +9926,8 @@
 			"alt": "View of the whole production line.",
 			"highlightsMeta": [
 				"western dune forest",
+				"manifold",
+				"pipes",
 				"outpost",
 				"tower",
 				"no team"
@@ -14997,6 +15128,10 @@
 		{
 			"src": "https://i.redd.it/jumtsrfoibe61.png",
 			"highlightsMeta": [
+				"snaketree forest",
+				"western beaches",
+				"grass fields arch",
+				"sunrise/sunset",
 				"tubes",
 				"bridge",
 				"outpost",
@@ -15014,9 +15149,12 @@
 			"src": "https://i.redd.it/zb3s8wtxwie61.png",
 			"alt": "new factory",
 			"highlightsMeta": [
+				"grass fields",
 				"grass fields arch",
 				"cityscape",
 				"radar tower",
+				"belts",
+				"pipes",
 				"bean",
 				"team cup"
 			]

@@ -269,6 +269,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/FMKQ0KLWYAQtugh.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"space elevator",
 				"train station",
@@ -298,7 +299,9 @@
 		{
 			"src": "https://pbs.twimg.com/media/FLqeeFVXMAATB1l.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"lights",
 				"signs",
 				"tower",
 				"team hover pack"
@@ -309,7 +312,9 @@
 		{
 			"src": "https://pbs.twimg.com/media/FLmiFg9XMAUDjN9.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glitch",
+				"space elevator",
 				"belts",
 				"no team"
 			]
@@ -327,10 +332,13 @@
 		{
 			"src": "https://pbs.twimg.com/media/FLZ26YGakAE4NMl.jpg",
 			"highlightsMeta": [
+				"grass fields",
 				"grass fields arch",
 				"signs",
+				"train signals",
 				"manta",
 				"roads",
+				"viaduct",
 				"no team"
 			]
 		}
@@ -353,8 +361,12 @@
 			"highlightsMeta": [
 				"snaketree forest",
 				"western dune forest",
-				"drone",
 				"particle accelerator",
+				"radar tower",
+				"drone",
+				"catwalk",
+				"frames",
+				"belts",
 				"signs",
 				"nuclear plant",
 				"no team"
@@ -370,6 +382,8 @@
 			"src": "https://pbs.twimg.com/media/FLg2R8gWYAYfpw4.jpg",
 			"highlightsMeta": [
 				"crater lakes",
+				"glass",
+				"viaduct",
 				"team hover pack"
 			]
 		}
@@ -381,7 +395,9 @@
 				"grass fields",
 				"manifold",
 				"temporary is never temporary",
+				"lookout tower",
 				"train station",
+				"belts",
 				"bean",
 				"team cup"
 			]
@@ -406,9 +422,12 @@
 				"crater lakes",
 				"particle accelerator",
 				"radar tower",
+				"catwalk",
+				"lights",
 				"signs",
 				"nuclear plant",
 				"train spiral",
+				"viaduct",
 				"no team"
 			]
 		},
@@ -432,6 +451,8 @@
 				"swamp",
 				"cityscape",
 				"final fantasy",
+				"awesome sink",
+				"nuclear plant",
 				"team hover pack"
 			]
 		},
@@ -448,8 +469,11 @@
 		{
 			"src": "https://pbs.twimg.com/media/FLT7vfaXEAIvQAs.jpg",
 			"highlightsMeta": [
+				"swamp",
 				"final fantasy",
+				"glass",
 				"signs",
+				"nuclear plant",
 				"no team"
 			]
 		},
@@ -463,6 +487,8 @@
 				"swamp",
 				"final fantasy",
 				"train station",
+				"frames",
+				"nuclear plant",
 				"no team"
 			]
 		},
@@ -481,8 +507,12 @@
 		{
 			"src": "https://pbs.twimg.com/media/FLl3fZOXoAc88dH.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"night time",
+				"catwalk",
+				"frames",
 				"beams",
+				"lights",
 				"signs",
 				"oil plant",
 				"no team"
@@ -506,7 +536,7 @@
 			"src": "https://pbs.twimg.com/media/FK1ut70XsAsP2Fw.jpg",
 			"highlightsMeta": [
 				"rocky desert",
-				"beams",
+				"frames",
 				"train spiral",
 				"no team"
 			]
@@ -529,9 +559,9 @@
 				"architecture",
 				"glass",
 				"night time",
+				"train station",
 				"beams",
 				"foundation patterns",
-				"train station",
 				"roads",
 				"no team"
 			]
@@ -543,6 +573,7 @@
 			"highlightsMeta": [
 				"lake forest",
 				"architecture",
+				"games",
 				"night time",
 				"fireworks",
 				"lights",
@@ -576,8 +607,10 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"glitch",
-				"factory cart",
+				"lookout tower",
 				"space elevator",
+				"factory cart",
+				"catwalk",
 				"no team"
 			]
 		}
@@ -3732,6 +3765,8 @@
 				"grass fields",
 				"architecture",
 				"games",
+				"lookout tower",
+				"train station",
 				"outpost",
 				"team hands"
 			]
@@ -3743,6 +3778,7 @@
 			"highlightsMeta": [
 				"titan forest",
 				"nature",
+				"catwalk",
 				"belts",
 				"outpost",
 				"no team"
@@ -3769,7 +3805,7 @@
 				"glass",
 				"space elevator",
 				"outpost",
-				"no team"
+				"team hands"
 			]
 		}
 	],
@@ -3777,6 +3813,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/EvbpLHyXcAMh2I-.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"nature",
 				"space elevator",
 				"manta",
@@ -3789,6 +3826,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/EttFBM7XcAgf0Km.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"repetition",
 				"belts",
 				"pipes",
@@ -3800,6 +3838,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/EtDfYxxU4AYK7hD.jpg",
 			"highlightsMeta": [
+				"grass fields",
 				"grass fields arch",
 				"nature",
 				"sunrise/sunset",
@@ -3816,6 +3855,9 @@
 		{
 			"src": "https://pbs.twimg.com/media/Es2_YV7WMAogHyN.jpg",
 			"highlightsMeta": [
+				"unknown location",
+				"fan art",
+				"references to other franchises",
 				"signs",
 				"no team"
 			]
@@ -3825,7 +3867,10 @@
 		{
 			"src": "https://pbs.twimg.com/media/EtGgeRKVEAEuuOO.jpg",
 			"highlightsMeta": [
+				"unknown location",
+				"interior",
 				"belts",
+				"user interface",
 				"no team"
 			]
 		}
@@ -3834,6 +3879,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/Eoj80R3XEAALWfF.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"cityscape",
 				"nature",
 				"sunrise/sunset",
@@ -3846,6 +3892,7 @@
 		{
 			"src": "https://pbs.twimg.com/media/Eo0NOwRVgAA2oO0.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"manifold",
 				"repetition",
 				"pipes",
