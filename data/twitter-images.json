@@ -26,6 +26,24 @@
 			]
 		}
 	],
+	"https://twitter.com/xSgt_Pepperx/status/1520420141577682949": [
+		{
+			"src": "https://pbs.twimg.com/media/FRmeBmsXoAcYTjW.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FRmeBmrXIAEduQn.jpg",
+			"skip": false
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FRmeBmsXEA0z2hX.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FRmeBmtXwAESwDx.jpg",
+			"skip": true
+		}
+	],
 	"https://twitter.com/Jimbers76/status/1517265722619035648": [
 		{
 			"src": "https://pbs.twimg.com/media/FQ5pHKYVsAAmZvf.jpg",
