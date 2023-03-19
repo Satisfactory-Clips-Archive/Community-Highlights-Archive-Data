@@ -4,18 +4,21 @@
 			"uncertain location",
 			"unknown location"
 		],
+		"canyons": [
+			"desert canyons",
+			"maze canyons",
+			"the great canyon"
+		],
 		"zones": [
 			"abyss cliffs",
 			"blue crater",
 			"cave",
 			"crater lakes",
-			"desert canyons",
 			"dune desert",
 			"eastern dune forest",
 			"grass fields",
 			"jungle spires",
 			"lake forest",
-			"maze canyons",
 			"northern forest",
 			"paradise island",
 			"red bamboo fields",
@@ -25,15 +28,11 @@
 			"southern forest",
 			"spire coast",
 			"swamp",
-			"the great canyon",
 			"titan forest",
 			"western beaches",
 			"western dune forest"
 		],
 		"subzones": {
-			"desert canyons": [
-				"the great canyon"
-			],
 			"dune desert": [
 				"desert canyons",
 				"desert mountain plateaus"
