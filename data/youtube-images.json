@@ -2,7 +2,12 @@
 	"https://www.youtube.com/watch?v=tt1z8pbu8g8": [
 		{
 			"src": "https://img.youtube.com/vi/tt1z8pbu8g8/hqdefault.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"uncertain location",
+				"belts",
+				"nuclear plant",
+				"no team"
+			]
 		}
 	],
 	"https://www.youtube.com/watch?v=ewPScvGuehQ": [
@@ -19,7 +24,11 @@
 	"https://www.youtube.com/watch?v=N2YCFwy0QpM": [
 		{
 			"src": "https://img.youtube.com/vi/N2YCFwy0QpM/hqdefault.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"unknown location",
+				"references to other franchises",
+				"no team"
+			]
 		}
 	],
 	"https://www.youtube.com/watch?v=gCEI1bRNC6s": [
@@ -96,6 +105,7 @@
 		{
 			"src": "https://img.youtube.com/vi/9A3GnzVaBW0/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -104,6 +114,7 @@
 		{
 			"src": "https://img.youtube.com/vi/Bt1J3RyLhDU/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"belts",
 				"warehouse",
 				"team hover pack"
@@ -114,6 +125,11 @@
 		{
 			"src": "https://img.youtube.com/vi/cfOBshAq40w/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"interior",
+				"lights",
+				"signs",
 				"fuel plant",
 				"spaceship",
 				"no team"
@@ -124,6 +140,7 @@
 		{
 			"src": "https://img.youtube.com/vi/pZ6yrzhQcZA/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"manifold",
 				"space elevator",
 				"no team"
@@ -134,6 +151,7 @@
 		{
 			"src": "https://img.youtube.com/vi/DAqKCp5q2MQ/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"nature",
 				"space elevator",
 				"fuel plant",
@@ -145,6 +163,11 @@
 		{
 			"src": "https://img.youtube.com/vi/qyGncigLYfo/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
+				"oil rig",
+				"awesome sink",
+				"catwalk",
+				"frames",
 				"coal plant",
 				"no team"
 			]
@@ -154,7 +177,9 @@
 		{
 			"src": "https://img.youtube.com/vi/sVeLw9Vm7g0/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"architecture",
+				"radar tower",
 				"no team"
 			]
 		}
@@ -163,7 +188,10 @@
 		{
 			"src": "https://img.youtube.com/vi/1LHUjGFZJ9Y/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"games",
+				"multiplayer",
+				"pipes",
 				"no team"
 			]
 		}
@@ -172,6 +200,7 @@
 		{
 			"src": "https://img.youtube.com/vi/rjVpNwIC6WU/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -180,8 +209,13 @@
 		{
 			"src": "https://img.youtube.com/vi/WrF5c6vk0QA/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"architecture",
 				"ficsmas",
+				"radar tower",
+				"truck",
+				"foundation patterns",
+				"roads",
 				"no team"
 			]
 		}
@@ -190,6 +224,7 @@
 		{
 			"src": "https://img.youtube.com/vi/4nMZhfA9luM/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"train",
 				"no team"
 			]
@@ -201,7 +236,9 @@
 			"highlightsMeta": [
 				"northern forest",
 				"glass",
+				"interior",
 				"nature",
+				"frames",
 				"roads",
 				"viaduct",
 				"no team"
@@ -212,6 +249,8 @@
 		{
 			"src": "https://img.youtube.com/vi/6RiYXI1Tfu4/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
+				"reference images",
 				"no team"
 			]
 		}
@@ -220,6 +259,7 @@
 		{
 			"src": "https://img.youtube.com/vi/hgXEqVlX_Q8/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -228,6 +268,9 @@
 		{
 			"src": "https://img.youtube.com/vi/Jsmh-6znTAs/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"lights",
 				"signs",
 				"no team"
 			]
@@ -240,6 +283,7 @@
 				"dune desert",
 				"glass",
 				"sunrise/sunset",
+				"lights",
 				"tower",
 				"no team"
 			]
@@ -249,8 +293,11 @@
 		{
 			"src": "https://img.youtube.com/vi/DEjghIfSTxg/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"architecture",
+				"glass",
 				"night time",
+				"space elevator",
 				"beams",
 				"no team"
 			]
@@ -266,6 +313,7 @@
 		{
 			"src": "https://img.youtube.com/vi/sAFE_L1d5ew/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -328,6 +376,7 @@
 		{
 			"src": "https://img.youtube.com/vi/Rumqu_lyapg/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -336,6 +385,7 @@
 		{
 			"src": "https://img.youtube.com/vi/u-F2Orn_I70/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -344,6 +394,7 @@
 		{
 			"src": "https://img.youtube.com/vi/H00giw7cRz8/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -352,7 +403,11 @@
 		{
 			"src": "https://img.youtube.com/vi/wtwjAK1fj_8/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
+				"interior",
 				"manifold",
+				"night time",
+				"belts",
 				"lights",
 				"pipes",
 				"no team"
@@ -373,6 +428,9 @@
 		{
 			"src": "https://img.youtube.com/vi/8mRS8ucA-2Y/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
+				"modded",
+				"belts",
 				"team build gun"
 			]
 		}
@@ -381,8 +439,10 @@
 		{
 			"src": "https://img.youtube.com/vi/9g3cWpNsCDE/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"spaghett",
 				"sunrise/sunset",
+				"belts",
 				"bridge",
 				"team hover pack",
 				"team inhaler"
@@ -393,6 +453,7 @@
 		{
 			"src": "https://img.youtube.com/vi/VQ5EcI909Zs/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -401,6 +462,7 @@
 		{
 			"src": "https://img.youtube.com/vi/Hn0fJFrLEpQ/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -409,6 +471,7 @@
 		{
 			"src": "https://img.youtube.com/vi/kq_IklMd0Mc/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -417,6 +480,7 @@
 		{
 			"src": "https://img.youtube.com/vi/q6SywO8A2Yk/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -438,7 +502,9 @@
 			"highlightsMeta": [
 				"grass fields",
 				"grass fields arch",
+				"spaghett",
 				"drone",
+				"belts",
 				"pipes",
 				"nuclear plant",
 				"no team"
@@ -449,6 +515,7 @@
 		{
 			"src": "https://img.youtube.com/vi/grzwzYP1ceE/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -457,6 +524,7 @@
 		{
 			"src": "https://img.youtube.com/vi/MJ4kI0B3UG4/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -465,7 +533,9 @@
 		{
 			"src": "https://img.youtube.com/vi/xVVmTAZCHJU/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"art",
+				"fan art",
 				"no team"
 			]
 		}
@@ -474,7 +544,12 @@
 		{
 			"src": "https://img.youtube.com/vi/Kl0gWGnm2bM/hqdefault.jpg",
 			"highlightsMeta": [
+				"red jungle",
 				"art",
+				"fan art",
+				"pipes",
+				"lizard doggo",
+				"stinger",
 				"no team"
 			]
 		}
@@ -483,8 +558,10 @@
 		{
 			"src": "https://img.youtube.com/vi/KI_muawlo7g/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"lights",
 				"signs",
+				"nuclear plant",
 				"no team"
 			]
 		}
@@ -493,6 +570,7 @@
 		{
 			"src": "https://img.youtube.com/vi/ndibN_JSy8o/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -501,6 +579,7 @@
 		{
 			"src": "https://img.youtube.com/vi/nuNzgw06ews/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"sunrise/sunset",
 				"tractor",
 				"viaduct",
@@ -512,6 +591,7 @@
 		{
 			"src": "https://img.youtube.com/vi/ejFvm7ESxk0/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -520,6 +600,7 @@
 		{
 			"src": "https://img.youtube.com/vi/UBj-gw_Jv_8/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -528,6 +609,7 @@
 		{
 			"src": "https://img.youtube.com/vi/K5YpKYuj2W0/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -536,6 +618,7 @@
 		{
 			"src": "https://img.youtube.com/vi/_puACB8clXQ/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -546,6 +629,8 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"games",
+				"space elevator",
+				"factory cart",
 				"no team"
 			]
 		}
@@ -556,6 +641,7 @@
 			"highlightsMeta": [
 				"swamp",
 				"architecture",
+				"sunrise/sunset",
 				"space elevator",
 				"no team"
 			]
@@ -567,6 +653,7 @@
 			"highlightsMeta": [
 				"swamp",
 				"architecture",
+				"sunrise/sunset",
 				"space elevator",
 				"no team"
 			]
@@ -576,6 +663,7 @@
 		{
 			"src": "https://img.youtube.com/vi/ZSU4oJ2kpQs/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -584,6 +672,8 @@
 		{
 			"src": "https://img.youtube.com/vi/j4oTKsvhtmA/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
+				"references to other franchises",
 				"tower",
 				"no team"
 			]
@@ -593,6 +683,7 @@
 		{
 			"src": "https://img.youtube.com/vi/wJUHyucTiuM/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"team cup"
 			]
 		}
@@ -601,6 +692,7 @@
 		{
 			"src": "https://img.youtube.com/vi/Lh0RQ9YYjwU/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -609,6 +701,7 @@
 		{
 			"src": "https://img.youtube.com/vi/8ZOx79_6uoQ/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -617,6 +710,7 @@
 		{
 			"src": "https://img.youtube.com/vi/9g0PvQbOblQ/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -625,6 +719,7 @@
 		{
 			"src": "https://img.youtube.com/vi/srjS5H6rZSI/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -633,6 +728,7 @@
 		{
 			"src": "https://img.youtube.com/vi/2mRmz5GUnp8/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -641,6 +737,7 @@
 		{
 			"src": "https://img.youtube.com/vi/jkJgJCCkhsk/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -649,6 +746,7 @@
 		{
 			"src": "https://img.youtube.com/vi/6Ow19L00bDc/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -657,6 +755,8 @@
 		{
 			"src": "https://img.youtube.com/vi/nGb-UgieHcE/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
+				"catwalk",
 				"fuel plant",
 				"no team"
 			]
@@ -666,7 +766,9 @@
 		{
 			"src": "https://img.youtube.com/vi/RlH9yQowWaY/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
+				"awesome sink",
 				"no team"
 			]
 		}
@@ -675,7 +777,10 @@
 		{
 			"src": "https://img.youtube.com/vi/Uf2krEoBuv0/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"interior",
+				"modded",
+				"lights",
 				"warehouse",
 				"no team"
 			]
@@ -685,6 +790,7 @@
 		{
 			"src": "https://img.youtube.com/vi/JuKondHQOso/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"manifold",
 				"team hover pack"
 			]
@@ -694,8 +800,10 @@
 		{
 			"src": "https://img.youtube.com/vi/sgSuLmLEr70/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"glass",
 				"lizard doggo",
+				"coal plant",
 				"team cup"
 			]
 		}
@@ -704,8 +812,9 @@
 		{
 			"src": "https://img.youtube.com/vi/_OosGOGi99M/hqdefault.jpg",
 			"highlightsMeta": [
-				"pipes",
+				"uncertain location",
 				"space elevator",
+				"pipes",
 				"nuclear plant",
 				"no team"
 			]
@@ -715,9 +824,10 @@
 		{
 			"src": "https://img.youtube.com/vi/5Tu2HsXRQNg/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"games",
-				"beams",
 				"factory cart",
+				"beams",
 				"no team"
 			]
 		}
@@ -730,6 +840,7 @@
 				"architecture",
 				"train",
 				"outpost",
+				"viaduct",
 				"no team"
 			]
 		}
@@ -738,6 +849,7 @@
 		{
 			"src": "https://img.youtube.com/vi/riAPgApH4JU/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -746,6 +858,7 @@
 		{
 			"src": "https://img.youtube.com/vi/aTfHPvrGZmo/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -764,6 +877,7 @@
 		{
 			"src": "https://img.youtube.com/vi/PvMiTd6cWRs/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -772,6 +886,7 @@
 		{
 			"src": "https://img.youtube.com/vi/sjo3yhJzE0Y/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -780,6 +895,7 @@
 		{
 			"src": "https://img.youtube.com/vi/b86m8SEx6Vw/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"repetition",
 				"pipes",
 				"team hover pack"
@@ -791,7 +907,9 @@
 			"src": "https://img.youtube.com/vi/tSgSZ7D_z6I/hqdefault.jpg",
 			"highlightsMeta": [
 				"spire coast",
+				"western beaches",
 				"oil plant",
+				"tower",
 				"no team"
 			]
 		}
@@ -800,6 +918,7 @@
 		{
 			"src": "https://img.youtube.com/vi/oCPV5Nt2gpc/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -811,7 +930,7 @@
 				"western beaches",
 				"architecture",
 				"art",
-				"beams",
+				"frames",
 				"team berry"
 			]
 		}
@@ -820,6 +939,7 @@
 		{
 			"src": "https://img.youtube.com/vi/ZSn0dL6Dcy4/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"lizard doggo",
 				"no team"
 			]
@@ -829,6 +949,7 @@
 		{
 			"src": "https://img.youtube.com/vi/41mxgVg4jNA/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -839,6 +960,7 @@
 			"highlightsMeta": [
 				"dune desert",
 				"architecture",
+				"space elevator",
 				"no team"
 			]
 		}
@@ -847,6 +969,7 @@
 		{
 			"src": "https://img.youtube.com/vi/9T6_-mR6pdE/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"nuclear plant",
 				"no team"
 			]
@@ -856,6 +979,7 @@
 		{
 			"src": "https://img.youtube.com/vi/Nwq3xeUIew4/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"modded",
 				"no team"
 			]
@@ -865,7 +989,11 @@
 		{
 			"src": "https://img.youtube.com/vi/buCv7DuvwX8/hqdefault.jpg",
 			"highlightsMeta": [
-				"art",
+				"uncertain location",
+				"fan art",
+				"power slug",
+				"fuel plant",
+				"nuclear plant",
 				"no team"
 			]
 		}
@@ -874,8 +1002,10 @@
 		{
 			"src": "https://img.youtube.com/vi/Gfm2-qKwOa8/hqdefault.jpg",
 			"highlightsMeta": [
+				"rocky desert",
 				"architecture",
 				"glass",
+				"frames",
 				"outpost",
 				"no team"
 			]
@@ -885,7 +1015,9 @@
 		{
 			"src": "https://img.youtube.com/vi/PpZdCFwBrFk/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"lookout tower",
+				"utility tower",
 				"no team"
 			]
 		}
@@ -894,6 +1026,7 @@
 		{
 			"src": "https://img.youtube.com/vi/boUYrE2ZiyQ/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"pipes",
 				"team build gun"
 			]
@@ -903,6 +1036,7 @@
 		{
 			"src": "https://img.youtube.com/vi/MhIaB4UPEP4/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"art",
 				"space elevator",
 				"no team"
@@ -913,6 +1047,7 @@
 		{
 			"src": "https://img.youtube.com/vi/OBf8E9htIlc/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"train",
 				"no team"
 			]
@@ -922,6 +1057,8 @@
 		{
 			"src": "https://img.youtube.com/vi/e8qsn_WeK9k/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
+				"train",
 				"team cup"
 			]
 		}
@@ -932,6 +1069,9 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"architecture",
+				"space elevator",
+				"belts",
+				"viaduct",
 				"no team"
 			]
 		}
@@ -940,7 +1080,10 @@
 		{
 			"src": "https://img.youtube.com/vi/2YndLrSB0Ow/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
+				"manifold",
 				"spaghett",
+				"belts",
 				"team xenobasher"
 			]
 		}
@@ -949,7 +1092,9 @@
 		{
 			"src": "https://img.youtube.com/vi/Ni4xgPoM7NM/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"ficsmas",
+				"sunrise/sunset",
 				"no team"
 			]
 		}
@@ -958,6 +1103,8 @@
 		{
 			"src": "https://img.youtube.com/vi/NmSqC_MqNlw/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
+				"user interface",
 				"team build gun"
 			]
 		}
@@ -966,6 +1113,7 @@
 		{
 			"src": "https://img.youtube.com/vi/t2X3wlvoShg/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"tubes",
 				"team cup"
 			]
@@ -975,6 +1123,8 @@
 		{
 			"src": "https://img.youtube.com/vi/h3YzPUfdihc/hqdefault.jpg",
 			"highlightsMeta": [
+				"grass fields",
+				"space elevator",
 				"no team"
 			]
 		}
@@ -983,6 +1133,9 @@
 		{
 			"src": "https://img.youtube.com/vi/7NE6etRWHyQ/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
+				"interior",
+				"pipes",
 				"no team"
 			]
 		}
@@ -991,6 +1144,7 @@
 		{
 			"src": "https://img.youtube.com/vi/6FV2UPTiIow/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"tubes",
 				"no team"
 			]
@@ -1000,6 +1154,7 @@
 		{
 			"src": "https://img.youtube.com/vi/IVy_-gV3h6M/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -1008,6 +1163,7 @@
 		{
 			"src": "https://img.youtube.com/vi/cLOvb6pC788/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -1016,7 +1172,9 @@
 		{
 			"src": "https://img.youtube.com/vi/rD8fThCgjyU/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
 				"games",
+				"frames",
 				"tubes",
 				"no team"
 			]
@@ -1037,6 +1195,7 @@
 		{
 			"src": "https://img.youtube.com/vi/MR5331unvbQ/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -1045,6 +1204,7 @@
 		{
 			"src": "https://img.youtube.com/vi/lfm0vKovpLc/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -1053,6 +1213,7 @@
 		{
 			"src": "https://img.youtube.com/vi/GWtv9JpKGS0/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -1061,6 +1222,7 @@
 		{
 			"src": "https://img.youtube.com/vi/gXCCQ_JBIUg/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -1069,6 +1231,7 @@
 		{
 			"src": "https://img.youtube.com/vi/_UZr4JLSA1c/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -1077,6 +1240,7 @@
 		{
 			"src": "https://img.youtube.com/vi/t814f8sansw/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -1085,6 +1249,7 @@
 		{
 			"src": "https://img.youtube.com/vi/5kcpbR2ViOg/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -1093,6 +1258,7 @@
 		{
 			"src": "https://img.youtube.com/vi/Lem_s04UYBA/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -1101,6 +1267,7 @@
 		{
 			"src": "https://img.youtube.com/vi/0DNgoTetdz0/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}
@@ -1109,6 +1276,8 @@
 		{
 			"src": "https://img.youtube.com/vi/XolXwtrM0tw/hqdefault.jpg",
 			"highlightsMeta": [
+				"uncertain location",
+				"sunrise/sunset",
 				"lizard doggo",
 				"no team"
 			]
@@ -1118,6 +1287,7 @@
 		{
 			"src": "https://img.youtube.com/vi/NJxOCbsJtZQ/hqdefault.jpg",
 			"highlightsMeta": [
+				"unknown location",
 				"no team"
 			]
 		}

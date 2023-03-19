@@ -2317,6 +2317,16 @@
 				"raw_text": "TheGamerFoxx - Content Creator Highlight https://www.twitch.tv/thegamerfoxx",
 				"timestamps_for_links": [
 					1065
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1065,
+						"meta": [
+							"unknown location",
+							"user interface",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -2328,6 +2338,20 @@
 				"raw_text": "Eurymachuss - Content Creator Highlight https://www.twitch.tv/eurymachus",
 				"timestamps_for_links": [
 					730
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 730,
+						"meta": [
+							"dune desert",
+							"glass",
+							"lasagn",
+							"repetition",
+							"catwalk",
+							"belts",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -2339,6 +2363,22 @@
 				"raw_text": "Daniel_Knight_15 - ok https://www.reddit.com/r/SatisfactoryGame/comments/ncq6ih/tier_8_madness/",
 				"timestamps_for_links": [
 					629
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 629,
+						"meta": [
+							"grass fields",
+							"grass fields arch",
+							"spaghett",
+							"blender",
+							"particle accelerator",
+							"space elevator",
+							"train",
+							"belts",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -2351,6 +2391,28 @@
 				"timestamps_for_links": [
 					1824,
 					1888.7
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1824,
+						"meta": [
+							"green valley",
+							"the gates of beugernath",
+							"multiplayer",
+							"team detonator",
+							"team rifle"
+						]
+					},
+					{
+						"timestamp": 1888.7,
+						"meta": [
+							"green valley",
+							"the gates of beugernath",
+							"hog",
+							"team detonator",
+							"team rifle"
+						]
+					}
 				]
 			}
 		}
@@ -2362,6 +2424,17 @@
 				"raw_text": "Locutus_vonBORG - Sweet! I love Battlestar Galactica!",
 				"timestamps_for_links": [
 					246
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 246,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"spaceship",
+							"no team"
+						]
+					}
 				]
 			},
 			"07:44 One-Nature5951 - Send nudes": {
@@ -2369,6 +2442,18 @@
 				"raw_text": "One-Nature5951 - Send nudes",
 				"timestamps_for_links": [
 					465
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 465,
+						"meta": [
+							"dune desert",
+							"belts",
+							"lights",
+							"pipes",
+							"team inhaler"
+						]
+					}
 				]
 			},
 			"14:42 Fizziberry - Content Creator Highlight https://www.twitch.tv/fizziberry": {
@@ -2376,6 +2461,15 @@
 				"raw_text": "Fizziberry - Content Creator Highlight https://www.twitch.tv/fizziberry",
 				"timestamps_for_links": [
 					911
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 911,
+						"meta": [
+							"uncertain location",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -2387,6 +2481,19 @@
 				"raw_text": "HamisTV - Snutt lives here",
 				"timestamps_for_links": [
 					263
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 263,
+						"meta": [
+							"dune desert",
+							"night time",
+							"radar tower",
+							"space elevator",
+							"lights",
+							"team cup"
+						]
+					}
 				]
 			},
 			"05:49 Myst1c-Bull3t - Clean.": {
@@ -2394,6 +2501,20 @@
 				"raw_text": "Myst1c-Bull3t - Clean.",
 				"timestamps_for_links": [
 					352
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 352,
+						"meta": [
+							"unknown location",
+							"interior",
+							"modded",
+							"belts",
+							"lights",
+							"warehouse",
+							"no team"
+						]
+					}
 				]
 			},
 			"15:12 vent-gaming - Trains 😍": {
@@ -2403,6 +2524,46 @@
 					914,
 					935,
 					988
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 914,
+						"meta": [
+							"western beaches",
+							"space elevator",
+							"train",
+							"catwalk",
+							"frames",
+							"oil plant",
+							"train spiral",
+							"viaduct",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 935,
+						"meta": [
+							"unknown location",
+							"interior",
+							"train station",
+							"train",
+							"catwalk",
+							"team hands"
+						]
+					},
+					{
+						"timestamp": 988,
+						"meta": [
+							"grass fields",
+							"snaketree forest",
+							"grass fields arch",
+							"glass",
+							"belts",
+							"outpost",
+							"viaduct",
+							"team hands"
+						]
+					}
 				]
 			}
 		}
@@ -2416,6 +2577,43 @@
 					64,
 					104,
 					137
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 64,
+						"meta": [
+							"uncertain location",
+							"night time",
+							"modded",
+							"foundation patterns",
+							"lights",
+							"signs",
+							"team golden cup"
+						]
+					},
+					{
+						"timestamp": 104,
+						"meta": [
+							"uncertain location",
+							"night time",
+							"modded",
+							"foundation patterns",
+							"signs",
+							"team golden cup"
+						]
+					},
+					{
+						"timestamp": 137,
+						"meta": [
+							"unknown location",
+							"interior",
+							"modded",
+							"frames",
+							"belts",
+							"lights",
+							"team golden cup"
+						]
+					}
 				]
 			}
 		}
@@ -2427,6 +2625,19 @@
 				"raw_text": "Meganerd5000 - 100% Legal",
 				"timestamps_for_links": [
 					593
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 593,
+						"meta": [
+							"uncertain location",
+							"spaghett",
+							"cables",
+							"pipes",
+							"tubes",
+							"team berry"
+						]
+					}
 				]
 			}
 		}
@@ -2439,6 +2650,31 @@
 				"timestamps_for_links": [
 					657,
 					686
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 657,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"interior",
+							"modded",
+							"beams",
+							"team xenobasher"
+						]
+					},
+					{
+						"timestamp": 686,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"interior",
+							"modded",
+							"beams",
+							"lights",
+							"team xenobasher"
+						]
+					}
 				]
 			}
 		}
@@ -2450,6 +2686,20 @@
 				"raw_text": "BAD_Rants - Lab 2(AB)b",
 				"timestamps_for_links": [
 					776
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 776,
+						"meta": [
+							"unknown location",
+							"glass",
+							"interior",
+							"manifold",
+							"belts",
+							"lights",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -2461,6 +2711,17 @@
 				"raw_text": "Unleased750 - Wish we had more power",
 				"timestamps_for_links": [
 					946
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 946,
+						"meta": [
+							"uncertain location",
+							"pipes",
+							"nuclear plant",
+							"team hover pack"
+						]
+					}
 				]
 			}
 		}
@@ -2472,6 +2733,22 @@
 				"raw_text": "Alex88FR - calm https://www.reddit.com/r/SatisfactoryGame/comments/p9l4z1/my_factory_turbofuel/",
 				"timestamps_for_links": [
 					84
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 84,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"belts",
+							"lights",
+							"pipes",
+							"fuel plant",
+							"oil plant",
+							"team golden cup",
+							"team hover pack"
+						]
+					}
 				]
 			}
 		}
@@ -2485,6 +2762,37 @@
 					1181.2,
 					1210,
 					1232
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1181.2,
+						"meta": [
+							"uncertain location",
+							"modded",
+							"fuel plant",
+							"tower",
+							"team feet",
+							"team object scanner"
+						]
+					},
+					{
+						"timestamp": 1210,
+						"meta": [
+							"unknown location",
+							"references to other franchises",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 1232,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"stairs",
+							"fuel plant",
+							"team build gun"
+						]
+					}
 				]
 			}
 		}
@@ -2499,6 +2807,48 @@
 					1635,
 					1651,
 					1675
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1624,
+						"meta": [
+							"rocky desert",
+							"explorer",
+							"belts",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 1635,
+						"meta": [
+							"rocky desert",
+							"explorer",
+							"lights",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 1651,
+						"meta": [
+							"the gates of beugernath",
+							"drone",
+							"frames",
+							"user interface",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 1675,
+						"meta": [
+							"the gates of beugernath",
+							"drone",
+							"explorer",
+							"frames",
+							"pipes",
+							"coal plant",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -2512,6 +2862,35 @@
 					30,
 					52,
 					61
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 30,
+						"meta": [
+							"uncertain location",
+							"night time",
+							"signs",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 52,
+						"meta": [
+							"uncertain location",
+							"night time",
+							"signs",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 61,
+						"meta": [
+							"uncertain location",
+							"night time",
+							"signs",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -2524,6 +2903,35 @@
 				"timestamps_for_links": [
 					692,
 					767
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 692,
+						"meta": [
+							"rocky desert",
+							"night time",
+							"train",
+							"frames",
+							"lights",
+							"viaduct",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 767,
+						"meta": [
+							"uncertain location",
+							"industrial",
+							"interior",
+							"catwalk",
+							"foundation patterns",
+							"lights",
+							"pipes",
+							"signs",
+							"roads",
+							"no team"
+						]
+					}
 				]
 			},
 			"13:46 Nextrix - BUY BUY BUY": {
@@ -2533,6 +2941,38 @@
 					827,
 					856,
 					877
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 827,
+						"meta": [
+							"unknown location",
+							"glass",
+							"awesome shop",
+							"signs",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 856,
+						"meta": [
+							"unknown location",
+							"glass",
+							"interior",
+							"signs",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 877,
+						"meta": [
+							"unknown location",
+							"glass",
+							"modded",
+							"signs",
+							"team cup"
+						]
+					}
 				]
 			},
 			"16:05 sproutthesprout - Top-tier Satisfactory RP": {
@@ -2541,6 +2981,26 @@
 				"timestamps_for_links": [
 					969,
 					991
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 969,
+						"meta": [
+							"uncertain location",
+							"hub",
+							"signs",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 991,
+						"meta": [
+							"uncertain location",
+							"hub",
+							"signs",
+							"no team"
+						]
+					}
 				]
 			},
 			"20:17 TheAirbornePasta - Hexagons are the Bestagons": {
@@ -2548,6 +3008,19 @@
 				"raw_text": "TheAirbornePasta - Hexagons are the Bestagons",
 				"timestamps_for_links": [
 					1222
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1222,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"train station",
+							"beams",
+							"viaduct",
+							"no team"
+						]
+					}
 				]
 			},
 			"33:20 Yarelsek - Where Power Shards are made": {
@@ -2559,6 +3032,55 @@
 					2068.1,
 					2072,
 					2092
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2002,
+						"meta": [
+							"unknown location",
+							"glass",
+							"interior",
+							"personal crate",
+							"signs",
+							"team cup"
+						]
+					},
+					{
+						"timestamp": 2067.61,
+						"meta": [
+							"unknown location",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 2068.1,
+						"meta": [
+							"unknown location",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 2072,
+						"meta": [
+							"unknown location",
+							"glass",
+							"interior",
+							"signs",
+							"nuclear plant",
+							"team cup"
+						]
+					},
+					{
+						"timestamp": 2092,
+						"meta": [
+							"unknown location",
+							"glass",
+							"signs",
+							"power slug",
+							"nuclear plant",
+							"team cup"
+						]
+					}
 				]
 			}
 		}
@@ -2570,6 +3092,17 @@
 				"raw_text": "Smerkin5000 - Repurposing Hovrinskaya Hospital https://twitter.com/Smerkin5000/status/1447600601857024001",
 				"timestamps_for_links": [
 					270
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 270,
+						"meta": [
+							"uncertain location",
+							"pixel art",
+							"belts",
+							"no team"
+						]
+					}
 				]
 			},
 			"13:08 balls_are_fat2 - #FreeTheManta https://www.reddit.com/r/SatisfactoryGame/comments/q2eqlv/ecofriendly_factory/": {
@@ -2577,6 +3110,18 @@
 				"raw_text": "balls_are_fat2 - #FreeTheManta https://www.reddit.com/r/SatisfactoryGame/comments/q2eqlv/ecofriendly_factory/",
 				"timestamps_for_links": [
 					879
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 879,
+						"meta": [
+							"uncertain location",
+							"lights",
+							"manta",
+							"manta gate",
+							"no team"
+						]
+					}
 				]
 			},
 			"15:17 Aemon144 - Conquering the Rocky Desert https://www.reddit.com/r/SatisfactoryGame/comments/q3ffdn/rocky_desert_infrastructure/": {
@@ -2584,6 +3129,20 @@
 				"raw_text": "Aemon144 - Conquering the Rocky Desert https://www.reddit.com/r/SatisfactoryGame/comments/q3ffdn/rocky_desert_infrastructure/",
 				"timestamps_for_links": [
 					956
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 956,
+						"meta": [
+							"rocky desert",
+							"nature",
+							"sunrise/sunset",
+							"catwalk",
+							"frames",
+							"belts",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -2595,6 +3154,19 @@
 				"raw_text": "Providence - OSHA Approved",
 				"timestamps_for_links": [
 					146
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 146,
+						"meta": [
+							"uncertain location",
+							"awesome sink",
+							"catwalk",
+							"frames",
+							"pipes",
+							"team rifle"
+						]
+					}
 				]
 			},
 			"14:15 K2Knockout - Manifold BONANZA https://www.reddit.com/r/SatisfactoryGame/comments/qabldk/i_call_it_the_hypermanifold/": {
@@ -2602,6 +3174,18 @@
 				"raw_text": "K2Knockout - Manifold BONANZA https://www.reddit.com/r/SatisfactoryGame/comments/qabldk/i_call_it_the_hypermanifold/",
 				"timestamps_for_links": [
 					914
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 914,
+						"meta": [
+							"uncertain location",
+							"lasagn",
+							"memes",
+							"belts",
+							"no team"
+						]
+					}
 				]
 			},
 			"32:04 @Panakotta000 - Content Creator Highlight https://www.youtube.com/c/Panakotta000": {
@@ -2612,6 +3196,44 @@
 					2062,
 					2070,
 					2171
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1992,
+						"meta": [
+							"uncertain location",
+							"modded",
+							"user interface",
+							"team cup"
+						]
+					},
+					{
+						"timestamp": 2062,
+						"meta": [
+							"unknown location",
+							"modded",
+							"signs",
+							"team cup"
+						]
+					},
+					{
+						"timestamp": 2070,
+						"meta": [
+							"unknown location",
+							"modded",
+							"signs",
+							"team cup"
+						]
+					},
+					{
+						"timestamp": 2171,
+						"meta": [
+							"unknown location",
+							"modded",
+							"user interface",
+							"team cup"
+						]
+					}
 				]
 			}
 		}
@@ -2623,6 +3245,19 @@
 				"raw_text": "isaywhatisay111 - Ceiling pipes ya know",
 				"timestamps_for_links": [
 					2872.624
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2872.624,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"interior",
+							"catwalk",
+							"pipes",
+							"team xenozapper"
+						]
+					}
 				]
 			},
 			"52:48 DoujinDev - Howl's Moving Factory": {
@@ -2630,6 +3265,24 @@
 				"raw_text": "DoujinDev - Howl's Moving Factory",
 				"timestamps_for_links": [
 					3176.391
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3176.391,
+						"meta": [
+							"uncertain location",
+							"blender",
+							"space elevator",
+							"train station",
+							"frames",
+							"belts",
+							"tubes",
+							"tower",
+							"viaduct",
+							"team hover pack",
+							"team zipline"
+						]
+					}
 				]
 			},
 			"53:56 duck1123 - gonna take you back to the past": {
@@ -2637,6 +3290,18 @@
 				"raw_text": "duck1123 - gonna take you back to the past",
 				"timestamps_for_links": [
 					3239.825
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3239.825,
+						"meta": [
+							"uncertain location",
+							"sunrise/sunset",
+							"belts",
+							"oil plant",
+							"no team"
+						]
+					}
 				]
 			},
 			"1:01:26 GrowlingStone - Silly explorer https://www.reddit.com/r/SatisfactoryGame/comments/qe2tof/my_explorer_hiding_after_tractor_crushed_in_it/": {
@@ -2644,6 +3309,20 @@
 				"raw_text": "GrowlingStone - Silly explorer https://www.reddit.com/r/SatisfactoryGame/comments/qe2tof/my_explorer_hiding_after_tractor_crushed_in_it/",
 				"timestamps_for_links": [
 					3719.152
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3719.152,
+						"meta": [
+							"uncertain location",
+							"glitch",
+							"manifold",
+							"memes",
+							"explorer",
+							"belts",
+							"team hover pack"
+						]
+					}
 				]
 			}
 		}
@@ -2657,6 +3336,40 @@
 					828.96,
 					856.766,
 					877.26
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 828.96,
+						"meta": [
+							"unknown location",
+							"glass",
+							"awesome shop",
+							"lights",
+							"signs",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 856.766,
+						"meta": [
+							"unknown location",
+							"interior",
+							"lights",
+							"signs",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 877.26,
+						"meta": [
+							"unknown location",
+							"glass",
+							"interior",
+							"modded",
+							"signs",
+							"team cup"
+						]
+					}
 				]
 			},
 			"15:13 K2Knockout - RIP https://www.reddit.com/r/SatisfactoryGame/comments/qgx6da/remembering_a_fallen_friend/": {
@@ -2664,6 +3377,18 @@
 				"raw_text": "K2Knockout - RIP https://www.reddit.com/r/SatisfactoryGame/comments/qgx6da/remembering_a_fallen_friend/",
 				"timestamps_for_links": [
 					933.04
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 933.04,
+						"meta": [
+							"grass fields",
+							"grass fields arch",
+							"memes",
+							"awesome shop",
+							"no team"
+						]
+					}
 				]
 			},
 			"16:05 sproutthesprout - Top-tier Satisfactory RP": {
@@ -2672,6 +3397,26 @@
 				"timestamps_for_links": [
 					968.034,
 					991.072
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 968.034,
+						"meta": [
+							"uncertain location",
+							"hub",
+							"signs",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 991.072,
+						"meta": [
+							"uncertain location",
+							"hub",
+							"signs",
+							"no team"
+						]
+					}
 				]
 			},
 			"20:17 TheAirbornePasta - Hexagons are the Bestagons": {
@@ -2679,6 +3424,19 @@
 				"raw_text": "TheAirbornePasta - Hexagons are the Bestagons",
 				"timestamps_for_links": [
 					1223.202
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1223.202,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"train station",
+							"beams",
+							"viaduct",
+							"no team"
+						]
+					}
 				]
 			},
 			"32:23 Xenocles - BEAMS https://www.reddit.com/r/SatisfactoryGame/comments/qhfgzs/my_first_beam_bridge/": {
@@ -2686,6 +3444,19 @@
 				"raw_text": "Xenocles - BEAMS https://www.reddit.com/r/SatisfactoryGame/comments/qhfgzs/my_first_beam_bridge/",
 				"timestamps_for_links": [
 					2130.725
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2130.725,
+						"meta": [
+							"uncertain location",
+							"reference images",
+							"frames",
+							"signs",
+							"manta",
+							"no team"
+						]
+					}
 				]
 			},
 			"33:20 Yarelsek - Where Power Shards are made": {
@@ -2697,6 +3468,55 @@
 					2068.1,
 					2072,
 					2092
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2002,
+						"meta": [
+							"unknown location",
+							"glass",
+							"interior",
+							"personal crate",
+							"signs",
+							"team cup"
+						]
+					},
+					{
+						"timestamp": 2067.61,
+						"meta": [
+							"unknown location",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 2068.1,
+						"meta": [
+							"unknown location",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 2072,
+						"meta": [
+							"unknown location",
+							"glass",
+							"interior",
+							"signs",
+							"nuclear plant",
+							"team cup"
+						]
+					},
+					{
+						"timestamp": 2092,
+						"meta": [
+							"unknown location",
+							"glass",
+							"signs",
+							"power slug",
+							"nuclear plant",
+							"team cup"
+						]
+					}
 				]
 			}
 		}
@@ -2708,6 +3528,18 @@
 				"raw_text": "CarlRoy74 - NANI?!?!",
 				"timestamps_for_links": [
 					437
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 437,
+						"meta": [
+							"rocky desert",
+							"memes",
+							"train",
+							"viaduct",
+							"no team"
+						]
+					}
 				]
 			},
 			"19:24 @blastroid7444 - Content Creator Highlight — original video no longer available https://www.youtube.com/watch?v=N6NWKMNWdqk": {
@@ -2715,6 +3547,19 @@
 				"raw_text": "@blastroid7444 - Content Creator Highlight — original video no longer available https://www.youtube.com/watch?v=N6NWKMNWdqk",
 				"timestamps_for_links": [
 					1181
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1181,
+						"meta": [
+							"unknown location",
+							"interior",
+							"modded",
+							"factory cart",
+							"beams",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -2726,6 +3571,18 @@
 				"raw_text": "Former-Picture-9603 - Absolutely STACKED!",
 				"timestamps_for_links": [
 					873
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 873,
+						"meta": [
+							"uncertain location",
+							"night time",
+							"frames",
+							"coal plant",
+							"team cup"
+						]
+					}
 				]
 			}
 		}
@@ -2737,6 +3594,20 @@
 				"raw_text": "foxyshanks - Trust in your hands",
 				"timestamps_for_links": [
 					691
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 691,
+						"meta": [
+							"dune desert",
+							"miner",
+							"radar tower",
+							"signs",
+							"train signals",
+							"viaduct",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -2748,6 +3619,21 @@
 				"raw_text": "negitoro_united - I can see my tower from here https://twitter.com/negitoro_united/status/1468594921284464640",
 				"timestamps_for_links": [
 					621
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 621,
+						"meta": [
+							"northern forest",
+							"the great canyon",
+							"green valley",
+							"architecture",
+							"space elevator",
+							"beams",
+							"tubes",
+							"team zipline"
+						]
+					}
 				]
 			},
 			"14:01 Alex88FR - Slick city times! https://www.reddit.com/r/SatisfactoryGame/comments/rdigee/motor_manufacturing/": {
@@ -2755,6 +3641,19 @@
 				"raw_text": "Alex88FR - Slick city times! https://www.reddit.com/r/SatisfactoryGame/comments/rdigee/motor_manufacturing/",
 				"timestamps_for_links": [
 					848
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 848,
+						"meta": [
+							"grass fields",
+							"glass",
+							"industrial",
+							"viaduct",
+							"team golden cup",
+							"team hover pack"
+						]
+					}
 				]
 			},
 			"21:09 Spike_Rush - Your boughs so green in summertime": {
@@ -2762,6 +3661,18 @@
 				"raw_text": "Spike_Rush - Your boughs so green in summertime",
 				"timestamps_for_links": [
 					1301
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1301,
+						"meta": [
+							"rocky desert",
+							"ficsmas",
+							"manifold",
+							"belts",
+							"team hover pack"
+						]
+					}
 				]
 			}
 		}
@@ -2773,6 +3684,21 @@
 				"raw_text": "SheneokNeok - Elegant block!",
 				"timestamps_for_links": [
 					2398
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2398,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"glass",
+							"space elevator",
+							"frames",
+							"lights",
+							"signs",
+							"no team"
+						]
+					}
 				]
 			},
 			"46:22 twoloafs - Oscillators for days! https://www.reddit.com/r/SatisfactoryGame/comments/s2299f/just_a_couple_of_screen_caps_of_my_crystal/": {
@@ -2781,6 +3707,33 @@
 				"timestamps_for_links": [
 					2801,
 					2860
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2801,
+						"meta": [
+							"dune desert",
+							"night time",
+							"frames",
+							"lights",
+							"outpost",
+							"viaduct",
+							"team hover pack"
+						]
+					},
+					{
+						"timestamp": 2860,
+						"meta": [
+							"unknown location",
+							"industrial",
+							"interior",
+							"manifold",
+							"catwalk",
+							"belts",
+							"lights",
+							"team hover pack"
+						]
+					}
 				]
 			}
 		}
@@ -2793,6 +3746,28 @@
 				"timestamps_for_links": [
 					1438,
 					1491
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1438,
+						"meta": [
+							"dune desert",
+							"night time",
+							"references to other franchises",
+							"lights",
+							"team golden cup"
+						]
+					},
+					{
+						"timestamp": 1491,
+						"meta": [
+							"dune desert",
+							"sunrise/sunset",
+							"references to other franchises",
+							"team golden cup",
+							"team hover pack"
+						]
+					}
 				]
 			},
 			"31:20 Sumo148 - Trains go here https://www.reddit.com/r/SatisfactoryGame/comments/sc2dje/first_playthrough_getting_into_trains_im_loving_it/": {
@@ -2801,6 +3776,32 @@
 				"timestamps_for_links": [
 					1883,
 					1896
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1883,
+						"meta": [
+							"swamp",
+							"catwalk",
+							"frames",
+							"lights",
+							"train signals",
+							"train spiral",
+							"team hover pack"
+						]
+					},
+					{
+						"timestamp": 1896,
+						"meta": [
+							"swamp",
+							"train",
+							"lights",
+							"train signals",
+							"train spiral",
+							"viaduct",
+							"team hover pack"
+						]
+					}
 				]
 			},
 			"34:39 prepared statement": {
@@ -2808,6 +3809,17 @@
 				"raw_text": "prepared statement",
 				"timestamps_for_links": [
 					2080
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2080,
+						"meta": [
+							"unknown location",
+							"memes",
+							"references to other franchises",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -2819,6 +3831,20 @@
 				"raw_text": "BUILD-O-RAMA - Big Factory Energy",
 				"timestamps_for_links": [
 					596
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 596,
+						"meta": [
+							"rocky desert",
+							"manifold",
+							"lookout tower",
+							"radar tower",
+							"belts",
+							"pipes",
+							"no team"
+						]
+					}
 				]
 			},
 			"15:34 Axe-of-Kindness - OMEGA BASE": {
@@ -2827,6 +3853,32 @@
 				"timestamps_for_links": [
 					938,
 					948
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 938,
+						"meta": [
+							"uncertain location",
+							"outpost",
+							"team cup"
+						]
+					},
+					{
+						"timestamp": 948,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"particle accelerator",
+							"space elevator",
+							"drone",
+							"frames",
+							"foundation patterns",
+							"lights",
+							"pipes",
+							"team cup",
+							"team hover pack"
+						]
+					}
 				]
 			},
 			"23:40 ChadsaysGo - Coal powered crane": {
@@ -2911,6 +3963,38 @@
 					890,
 					914,
 					950
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 890,
+						"meta": [
+							"crater lakes",
+							"sunrise/sunset",
+							"space elevator",
+							"belts",
+							"coal plant",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 914,
+						"meta": [
+							"uncertain location",
+							"pipes",
+							"fuel plant",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 950,
+						"meta": [
+							"crater lakes",
+							"space elevator",
+							"belts",
+							"fuel plant",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -3017,6 +4101,20 @@
 				"raw_text": "Alex88FR - Hi, I'm selling these fine leather jackets",
 				"timestamps_for_links": [
 					276
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 276,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"interior",
+							"sunrise/sunset",
+							"belts",
+							"hog",
+							"team golden cup"
+						]
+					}
 				]
 			},
 			"17:19 KaiaSebastian - Taking reservations https://www.reddit.com/r/SatisfactoryGame/comments/tbdpea/my_newest_satisfactory_restaurant_is_now_complete/": {
@@ -3047,6 +4145,21 @@
 				"raw_text": "NaSaddestCatEverme - Observatory of goodies",
 				"timestamps_for_links": [
 					1402
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1402,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"interior",
+							"catwalk",
+							"lights",
+							"tubes",
+							"warehouse",
+							"team inhaler"
+						]
+					}
 				]
 			},
 			"37:28 McGalleon - Snutt & Jace Talk: McGalleon's guide": {
@@ -3105,6 +4218,50 @@
 					1829,
 					1836,
 					1888
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1782,
+						"meta": [
+							"unknown location",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 1789,
+						"meta": [
+							"unknown location",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 1803,
+						"meta": [
+							"unknown location",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 1829,
+						"meta": [
+							"unknown location",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 1836,
+						"meta": [
+							"unknown location",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 1888,
+						"meta": [
+							"unknown location",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -3139,6 +4296,23 @@
 				"raw_text": "memerys2 - BIG OIL HQ",
 				"timestamps_for_links": [
 					272
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 272,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"explorer",
+							"tractor",
+							"truck",
+							"foundation patterns",
+							"lights",
+							"signs",
+							"roads",
+							"no team"
+						]
+					}
 				]
 			}
 		}
@@ -3175,6 +4349,25 @@
 				"raw_text": "Alex88FR - It's getting late https://www.reddit.com/r/SatisfactoryGame/comments/uh09ed/_/",
 				"timestamps_for_links": [
 					85
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 85,
+						"meta": [
+							"uncertain location",
+							"cityscape",
+							"night time",
+							"radar tower",
+							"space elevator",
+							"frames",
+							"belts",
+							"lights",
+							"tubes",
+							"coal plant",
+							"team golden cup",
+							"team hover pack"
+						]
+					}
 				]
 			}
 		}

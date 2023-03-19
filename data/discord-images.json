@@ -3,8 +3,9 @@
 		{
 			"src": "https://cdn.discordapp.com/attachments/458217769515876352/775171287001202698/Satisfactory18.png",
 			"highlightsMeta": [
-				"art",
+				"unknown location",
 				"interior",
+				"fan art",
 				"hub",
 				"lizard doggo",
 				"no team"
@@ -16,7 +17,8 @@
 			"src": "https://cdn.discordapp.com/attachments/458217769515876352/774651668045234207/Cult_Satis.png",
 			"alt": "The hide of a lizard doggo is excellent for exploring the deep secrets of the universe.\nThe cult sees everything.",
 			"highlightsMeta": [
-				"art",
+				"unknown location",
+				"fan art",
 				"lizard doggo",
 				"no team"
 			]
@@ -29,6 +31,7 @@
 			"highlightsMeta": [
 				"grass fields",
 				"pixel art",
+				"sunrise/sunset",
 				"team paintgun"
 			]
 		}
@@ -40,6 +43,7 @@
 			"highlightsMeta": [
 				"western dune forest",
 				"pipes",
+				"coal plant",
 				"no team"
 			]
 		}
@@ -51,7 +55,9 @@
 			"highlightsMeta": [
 				"grass fields",
 				"glass",
+				"awesome sink",
 				"radar tower",
+				"catwalk",
 				"outpost",
 				"team cup"
 			]
@@ -62,8 +68,11 @@
 			"src": "https://cdn.discordapp.com/attachments/553550313533997057/810876280802246666/unknown.png",
 			"alt": "Uhm Help?",
 			"highlightsMeta": [
+				"unknown location",
 				"glitch",
+				"interior",
 				"cyber wagon",
+				"hub",
 				"warehouse",
 				"no team"
 			]
