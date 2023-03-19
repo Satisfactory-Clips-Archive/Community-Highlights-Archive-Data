@@ -26,6 +26,54 @@
 			]
 		}
 	],
+	"https://twitter.com/ItsZatty67/status/1521598958849691648": [
+		{
+			"src": "https://pbs.twimg.com/media/FR3NuZUXIAY9OiG.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FR3Nvh7XoAMPJD4.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"glass",
+				"weatherwax",
+				"awesome sink",
+				"belts",
+				"outpost",
+				"team hover pack"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FR3NxgDX0AAewBY.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/AxialC44/status/1522093020442730496": [
+		{
+			"src": "https://pbs.twimg.com/media/FR-PKRnXwAM6qWP.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"glass",
+				"catwalk",
+				"beams",
+				"pipes",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FR-PKRoXwAEbbxc.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FR-PKRmX0AApLuB.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FR-PKRnXIAE8ztR.jpg",
+			"skip": true
+		}
+	],
 	"https://twitter.com/xSgt_Pepperx/status/1520420141577682949": [
 		{
 			"src": "https://pbs.twimg.com/media/FRmeBmsXoAcYTjW.jpg",
