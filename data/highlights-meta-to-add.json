@@ -26,11 +26,18 @@
 	"canals": [
 
 	],
+	"cooling tower": [
+		"https://i.redd.it/61b08a77bpy81.png"
+	],
 	"parking lot": [
+		"https://i.redd.it/61b08a77bpy81.png",
 		"yt-dlp/hnbyht7gaDA@64.png",
 		"yt-dlp/hnbyht7gaDA@104.png",
 		"https://i.redd.it/2rurqjpxaxv81.png",
 		"yt-dlp/zwYbXYu7Dn4@272.png",
 		"https://pbs.twimg.com/media/FQ5pHKYVsAAmZvf.jpg"
+	],
+	"long beach": [
+		"https://i.redd.it/61b08a77bpy81.png"
 	]
 }

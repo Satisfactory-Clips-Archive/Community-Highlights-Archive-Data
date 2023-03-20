@@ -26,6 +26,73 @@
 			]
 		}
 	],
+	"https://twitter.com/mattya_game_/status/1525133476231405568": [
+		{
+			"src": "https://pbs.twimg.com/media/FSpci50UAAAzMS0.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"industrial",
+				"night time",
+				"catwalk",
+				"lights",
+				"pipes",
+				"signs",
+				"team hover pack"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FSpci5-VIAAPBeS.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/PerforatedS/status/1525977299883024386": [
+		{
+			"src": "https://pbs.twimg.com/media/FS1cGhwXwAIes7X.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FS1cGhwWUAEX5wc.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"manifold",
+				"train station",
+				"train",
+				"belts",
+				"signs",
+				"train signals",
+				"power storage bank",
+				"no team"
+			]
+		}
+	],
+	"https://twitter.com/AnthorNet/status/1524387920165191681": [
+		{
+			"src": "https://pbs.twimg.com/media/FSe2j2CXEAE0Gvs.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"art",
+				"memes",
+				"particle accelerator",
+				"radar tower",
+				"truck station",
+				"nuclear plant",
+				"train station",
+				"no team"
+			]
+		}
+	],
+	"https://twitter.com/Rekalty/status/1524158485256192001": [
+		{
+			"src": "https://pbs.twimg.com/media/FSbmCBHWUAUDrxI.jpg",
+			"highlightsMeta": [
+				"unknown location",
+				"art",
+				"memes",
+				"reference images",
+				"no team"
+			]
+		}
+	],
 	"https://twitter.com/ItsZatty67/status/1521598958849691648": [
 		{
 			"src": "https://pbs.twimg.com/media/FR3NuZUXIAY9OiG.jpg",
