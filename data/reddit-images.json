@@ -553,7 +553,10 @@
 				"lights",
 				"bridge",
 				"tower",
-				"no team"
+				"no team",
+				"cooling tower",
+				"parking lot",
+				"long beach"
 			]
 		},
 		{
@@ -1274,7 +1277,8 @@
 				"foundation patterns",
 				"lights",
 				"roads",
-				"no team"
+				"no team",
+				"parking lot"
 			]
 		}
 	],
@@ -1992,7 +1996,8 @@
 				"cables",
 				"lights",
 				"signs",
-				"no team"
+				"no team",
+				"jace would scheme evil schemes here"
 			]
 		}
 	],
@@ -2412,7 +2417,8 @@
 				"lights",
 				"signs",
 				"roads",
-				"no team"
+				"no team",
+				"jace would look at art there"
 			]
 		}
 	],
@@ -3255,7 +3261,8 @@
 				"manifold",
 				"frames",
 				"train spiral",
-				"no team"
+				"no team",
+				"chimney"
 			]
 		}
 	],
@@ -3459,7 +3466,8 @@
 				"beams",
 				"cables",
 				"outpost",
-				"no team"
+				"no team",
+				"chimney"
 			]
 		},
 		{
@@ -3470,7 +3478,8 @@
 				"references to other franchises",
 				"drone",
 				"outpost",
-				"no team"
+				"no team",
+				"chimney"
 			]
 		},
 		{

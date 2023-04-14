@@ -37,6 +37,9 @@
 				"desert canyons",
 				"desert mountain plateaus"
 			],
+			"eastern dune forest": [
+				"coin tree forest"
+			],
 			"grass fields": [
 				"grass fields arch"
 			],
@@ -53,6 +56,10 @@
 			],
 			"swamp": [
 				"swamp waterfall"
+			],
+			"western beaches": [
+				"beach islands",
+				"long beach"
 			]
 		}
 	},
@@ -64,6 +71,8 @@
 		"jace would eat there",
 		"jace would holiday there",
 		"jace would live there",
+		"jace would look at art there",
+		"jace would scheme evil schemes here",
 		"jace would study there",
 		"jace would work there",
 		"robo jace"
@@ -82,6 +91,7 @@
 			"interior",
 			"lasagn",
 			"manifold",
+			"megafactory",
 			"nature",
 			"oil rig",
 			"pixel art",
@@ -198,17 +208,24 @@
 	"things players build": [
 		"boat",
 		"bridge",
+		"canals",
+		"causeway",
+		"chimney",
 		"coal plant",
+		"cooling tower",
 		"crane",
 		"dam",
 		"fuel plant",
+		"gondola",
 		"house",
 		"manta gate",
 		"nuclear plant",
 		"oil plant",
 		"outpost",
+		"parking lot",
 		"power storage bank",
 		"roads",
+		"signs as lights",
 		"spaceship",
 		"statue gallery",
 		"tower",
