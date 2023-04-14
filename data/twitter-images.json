@@ -26,6 +26,35 @@
 			]
 		}
 	],
+	"https://twitter.com/SkydivingTiger/status/1528841266246602752": [
+		{
+			"src": "https://pbs.twimg.com/media/FTeIh8-WUAIcsDf.jpg",
+			"highlightsMeta": [
+				"the gates of beugernath",
+				"explorer",
+				"signs",
+				"team beacon"
+			]
+		}
+	],
+	"https://twitter.com/morphlex/status/1528565450484994048": [
+		{
+			"src": "https://pbs.twimg.com/media/FTaOB7YXsAEg-Cc.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"glass",
+				"train",
+				"tower",
+				"train station",
+				"viaduct",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FTaOC7JX0AEY_eR.jpg",
+			"skip": true
+		}
+	],
 	"https://twitter.com/mattya_game_/status/1525133476231405568": [
 		{
 			"src": "https://pbs.twimg.com/media/FSpci50UAAAzMS0.jpg",

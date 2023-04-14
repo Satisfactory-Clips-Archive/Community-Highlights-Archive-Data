@@ -1,4 +1,319 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/uw1p3m/my_tron_tower_is_complete_but_at_what_cost/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/0fN08x1XfSmkJas5T-SdAQtLppDUoRKJ_YtapBgNPk4.jpg",
+			"alt": "My Tron Tower is complete, but at what cost? Apparently a few hours and a significant hit to my FPS....",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bwwbndmvl8191.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"frames",
+				"beams",
+				"lights",
+				"pipes",
+				"signs",
+				"roads",
+				"tower",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/uuqckg/tower_of_power_or_how_to_squeeze_in_100_fuel_gens/": [
+		{
+			"src": "https://preview.redd.it/5zalvvszsu091.jpg?width=640&crop=smart&auto=webp&s=8689be97e9587b2a814c6f624a4184c53945f2c7",
+			"alt": "Tower of power - or how to squeeze in 100 fuel gens into a small area",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5zalvvszsu091.jpg",
+			"alt": "Tower of power - or how to squeeze in 100 fuel gens into a small area",
+			"highlightsMeta": [
+				"western beaches",
+				"train",
+				"frames",
+				"train signals",
+				"fuel plant",
+				"train station",
+				"viaduct",
+				"team nut"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/uw79jf/lucrehulkclass_droid_control_ship_wip_update_3/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/4mp8kBSlBHHyCeV4-rcLrm11mtO184-MmY5XvPNwmoE.jpg",
+			"alt": "Lucrehulk-class Droid Control Ship (WIP) Update 3...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ggzwfuxrt9191.png",
+			"highlightsMeta": [
+				"northern forest",
+				"references to other franchises",
+				"drone",
+				"spaceship",
+				"train station",
+				"team hands"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/uwg6hd/i_have_never_loved_a_game_like_this_game/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/joHR78w_oElxxDLFxRsn4XVBzP5OWKAS54gJIR_0fn4.jpg",
+			"alt": "I.. Have NEVER, loved a game, like this game.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gfctn24czb191.jpg",
+			"alt": "Space Moth Transit Hub",
+			"highlightsMeta": [
+				"northern forest",
+				"space elevator",
+				"catwalk",
+				"frames",
+				"manta",
+				"manta gate",
+				"team golden cup"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/uvkl1z/cyber_bridge_to_start_my_cybertropolis/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Sk2dafj2HJr040_A89ds_6sz-4uwpEavaRRH_RHKPoY.jpg",
+			"alt": "Cyber Bridge to start my Cybertropolis!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/k61o61zvg3191.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"night time",
+				"lights",
+				"signs",
+				"roads",
+				"team hover pack",
+				"team xenobasher"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/uvblsv/space_vegas_is_back_baby_and_so_much_better_1800/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/2mK3Cas-xJ93QCjommuBupA5oJxl-X2RF5XDs30v-qE.jpg",
+			"alt": "Space Vegas is back baby... and so much better. 1800 oil to 4800 fuel making 60,000 MW of power.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1jfwdzm9a1191.png",
+			"highlightsMeta": [
+				"western beaches",
+				"sunrise/sunset",
+				"lights",
+				"pipes",
+				"signs",
+				"viaduct",
+				"team cup"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/uvbc7f/my_satisfactory_no_belt_highway_no_19_oil_storage/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/kdiLaGT5GM3bbgIC62dOJFcKsL-Fkq8bHnfKJUmORbY.jpg",
+			"alt": "My Satisfactory No Belt Highway No. 19 Oil Storage. Stores 345,600 M3 *6 oil. I built it so we can take our time rebuildnig the oil pipeline once update 6 hits.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9lpzy0ss71191.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"western beaches",
+				"radar tower",
+				"truck",
+				"frames",
+				"beams",
+				"signs",
+				"oil plant",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/uuuyjo/train_station_for_crude_oil_megafactory_finally/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/z-yKEZCcRw0wnVfxRPv-9Dt9YzOJ-ylQiq84P4lPfo4.jpg",
+			"alt": "Train station for crude oil megafactory, finally fully finished my first",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/e75a48gwyv091.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"space elevator",
+				"train station",
+				"train",
+				"catwalk",
+				"train signals",
+				"outpost",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/irq61w2xyv091.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"night time",
+				"space elevator",
+				"train",
+				"catwalk",
+				"train signals",
+				"outpost",
+				"train station",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/uuq4ub/testing_new_style_think_i_need_a_whole_city_built/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/_Qh1wWP3OXOr1TdaBeDLKlwIG8aNqu1mLBO5y6ZO8kQ.jpg",
+			"alt": "Testing new style, think I need a whole city built this way!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/tfl9c3h2ru091.png",
+			"highlightsMeta": [
+				"unknown location",
+				"interior",
+				"manifold",
+				"pipes",
+				"signs",
+				"team cup"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/utd53z/new_16_x_coal_generator_build_wip/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/vo03iuQ_spc3Z2LwhVmphNaaKbx0EEI8PDRrRX4rA28.jpg",
+			"alt": "New 16 x coal generator build (WIP)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/c5mgjrbxzh091.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"night time",
+				"beams",
+				"lights",
+				"pipes",
+				"coal plant",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/usrkgm/water_extraction_facility/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/GlmiWE3s7qVyBaF02FbZzUuQm_7MT8ikacVUG68d7Jg.jpg",
+			"alt": "Water Extraction Facility",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2otuc1m30c091.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"modded",
+				"frames",
+				"lights",
+				"dam",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/usms3x/what_you_guys_think_of_my_pets_findings/": [
+		{
+			"src": "https://preview.redd.it/qyce6619ua091.jpg?width=640&crop=smart&auto=webp&s=db6895f7adb9818be4374e0d9f772b1d50e7db0e",
+			"alt": "what you guys think of my pet's findings",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qyce6619ua091.jpg",
+			"alt": "what you guys think of my pet's findings",
+			"highlightsMeta": [
+				"grass fields",
+				"signs",
+				"user interface",
+				"team berry"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/uw9xwn/nuclear_pasta_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/iIsLwZ_yYh_4wyokMu2B2L5ToDyB7_7h3_BITtix21U.jpg",
+			"alt": "Nuclear Pasta Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3n892i8zda191.jpg",
+			"alt": "Command Center (left) houses copper miners and one assembler :D",
+			"highlightsMeta": [
+				"grass fields",
+				"modded",
+				"miner",
+				"particle accelerator",
+				"drone",
+				"pipes",
+				"train signals",
+				"train station",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/uvc6el/future_rubber_plastic_and_fabric_factory_empty/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/7ndFa31twUqMIgtRqi8guHae1eQ-7FUnZC0adonctWI.jpg",
+			"alt": "Future rubber, plastic and fabric factory (empty, waiting for update 6 to relocate the main base and connect to it with train tracks)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/l7746o4nf1191.png",
+			"highlightsMeta": [
+				"western beaches",
+				"architecture",
+				"oil plant",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/usjx0t/turbo_fuel_towers/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/0NHWSbxlTIODIegTKlU2YPizAtLvojFtpWUIEap5tsY.jpg",
+			"alt": "Turbo Fuel Towers",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dq1632nl4a091.jpg",
+			"alt": "Caption: Showcase of my Turbofuel towers with 178 generators (work in progress), which are fed from one pure oil node using alt. recipes. the Power Plant is located at the gold coast on th",
+			"highlightsMeta": [
+				"western beaches",
+				"radar tower",
+				"fuel plant",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/f2ng7h1o4a091.png",
+			"alt": "looking up the generator tower with 40 units",
+			"highlightsMeta": [
+				"western beaches",
+				"space elevator",
+				"catwalk",
+				"belts",
+				"ladder",
+				"lights",
+				"signs",
+				"fuel plant",
+				"no team"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/uqo6rs/a_couple_of_small_outpost_style_constructions_i/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/XFQPqpBnofIMN9n1ZTI-IjTP_a7LuT-AkHm4VZv4hAU.jpg",

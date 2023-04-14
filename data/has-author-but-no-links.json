@@ -4371,5 +4371,36 @@
 				]
 			}
 		}
+	},
+	"2022-05-24": {
+		"yt-t_MwPRNxlRo": {
+			"26:59 Imaginary-Pipe-1699 - hallway of hypnotization https://www.reddit.com/r/SatisfactoryGame/comments/uuq4ub/testing_new_style_think_i_need_a_whole_city_built/": {
+				"timestamp": 1619,
+				"raw_text": "Imaginary-Pipe-1699 - hallway of hypnotization https://www.reddit.com/r/SatisfactoryGame/comments/uuq4ub/testing_new_style_think_i_need_a_whole_city_built/",
+				"timestamps_for_links": [
+					1676,
+					1742
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1676,
+						"meta": [
+							"unknown location",
+							"references to other franchises",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 1742,
+						"meta": [
+							"unknown location",
+							"interior",
+							"references to other franchises",
+							"team cup"
+						]
+					}
+				]
+			}
+		}
 	}
 }
