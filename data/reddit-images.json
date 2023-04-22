@@ -6,7 +6,15 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/e7n7eqcowf591.png"
+			"src": "https://i.redd.it/e7n7eqcowf591.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"foundation patterns",
+				"signs",
+				"tubes",
+				"signs as lights",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/vbh8y1/u5_bridge_sreen/": [
@@ -16,7 +24,15 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/zbcls5p59f591.png"
+			"src": "https://i.redd.it/zbcls5p59f591.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"abyss cliffs",
+				"sunrise/sunset",
+				"bridge",
+				"signs as lights",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/vbgnr9/my_little_crane_site/": [
@@ -27,7 +43,15 @@
 		},
 		{
 			"src": "https://i.redd.it/djfkeg5t4f591.png",
-			"alt": "My little crane site"
+			"alt": "My little crane site",
+			"highlightsMeta": [
+				"rocky desert",
+				"frames",
+				"beams",
+				"cables",
+				"crane",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/vbf69r/saw_lots_of_people_making_fuel_gen_towers_and/": [
@@ -37,7 +61,16 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/yuv7g9tjse591.png"
+			"src": "https://i.redd.it/yuv7g9tjse591.png",
+			"highlightsMeta": [
+				"the gates of beugernath",
+				"blender",
+				"frames",
+				"cables",
+				"coal plant",
+				"fuel plant",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/varigt/flying_factory_wip/": [
@@ -49,7 +82,15 @@
 		{
 			"src": "https://i.redd.it/50e3b8j1c8591.png",
 			"highlightsMeta": [
-				"references to other franchises"
+				"dune desert",
+				"desert mountain plateaus",
+				"references to other franchises",
+				"belts",
+				"cables",
+				"pipes",
+				"signs as lights",
+				"spaceship",
+				"team hover pack"
 			]
 		}
 	],
@@ -60,10 +101,28 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/cjrideveu7591.jpg"
+			"src": "https://i.redd.it/cjrideveu7591.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"drone",
+				"frames",
+				"signs as lights",
+				"viaduct",
+				"no team"
+			]
 		},
 		{
-			"src": "https://i.redd.it/uw4n0qhfu7591.jpg"
+			"src": "https://i.redd.it/uw4n0qhfu7591.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"drone",
+				"beams",
+				"belts",
+				"signs as lights",
+				"viaduct",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/v94ybc/procrastinating_made_this_instead_of_moving_out/": [
@@ -74,7 +133,16 @@
 		},
 		{
 			"src": "https://i.redd.it/h5b22sbgvr491.png",
-			"alt": "Procrastinating.. Made this instead of moving out of the Northern Coast"
+			"alt": "Procrastinating.. Made this instead of moving out of the Northern Coast",
+			"highlightsMeta": [
+				"uncertain location",
+				"rocky desert",
+				"architecture",
+				"glass",
+				"interior",
+				"lights",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/v8y59w/these_are_clearly_hot_air_balloons/": [
@@ -84,7 +152,12 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/5d0fwfeflp491.png"
+			"src": "https://i.redd.it/5d0fwfeflp491.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"weatherwax",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/v8vv2x/me_just_build_a_simple_train_intersection/": [
@@ -94,7 +167,15 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/zcl3sv2s1p491.jpg"
+			"src": "https://i.redd.it/zcl3sv2s1p491.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"train signals",
+				"signs as lights",
+				"viaduct",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/v8sad8/satisfactory_inside_satisfactory_on_a_329_led/": [
@@ -105,7 +186,14 @@
 		},
 		{
 			"src": "https://i.redd.it/ywrpub4b5o491.png",
-			"alt": "Satisfactory inside Satisfactory on a 32:9 LED screen using 4608 streetlights :)"
+			"alt": "Satisfactory inside Satisfactory on a 32:9 LED screen using 4608 streetlights :)",
+			"highlightsMeta": [
+				"red jungle",
+				"night time",
+				"signs",
+				"signs as lights",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/v8pts0/found_a_nice_flat_place_to_build_more_details_in/": [
@@ -115,7 +203,13 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/m3e1eyalln491.png"
+			"src": "https://i.redd.it/m3e1eyalln491.png",
+			"highlightsMeta": [
+				"desert mountain plateaus",
+				"cables",
+				"fuel plant",
+				"team hover pack"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/v8ntkt/copper_works_factory_producing_wire_cable_with/": [
@@ -126,10 +220,29 @@
 		},
 		{
 			"src": "https://i.redd.it/f0zgnkoixm491.png",
-			"alt": "Copper Works Factory View"
+			"alt": "Copper Works Factory View",
+			"highlightsMeta": [
+				"rocky desert",
+				"frames",
+				"beams",
+				"belts",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"outpost",
+				"viaduct",
+				"no team"
+			]
 		},
 		{
-			"src": "https://i.redd.it/nbkbzu8aym491.png"
+			"src": "https://i.redd.it/nbkbzu8aym491.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"interior",
+				"manifold",
+				"belts",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/v8jwub/blue_crater_3_tier3_and_tier4_shenanigans/": [
@@ -141,12 +254,33 @@
 		{
 			"src": "https://i.redd.it/stgao5oa7m491.png",
 			"highlightsMeta": [
-				"jace would live there"
+				"blue crater",
+				"jace would live there",
+				"industrial",
+				"catwalk",
+				"frames",
+				"cables",
+				"lights",
+				"pipes",
+				"signs",
+				"fuel plant",
+				"train spiral",
+				"no team"
 			]
 		},
 		{
 			"src": "https://i.redd.it/fycxy5oa7m491.png",
-			"alt": "Steel Building"
+			"alt": "Steel Building",
+			"highlightsMeta": [
+				"blue crater",
+				"industrial",
+				"catwalk",
+				"frames",
+				"belts",
+				"lights",
+				"coal plant",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/v8jcxz/does_rule_1_of_rocket_league_apply_here/": [
@@ -157,7 +291,16 @@
 		},
 		{
 			"src": "https://i.redd.it/s8989xaj5m491.jpg",
-			"alt": "Does Rule 1 of Rocket League apply here?"
+			"alt": "Does Rule 1 of Rocket League apply here?",
+			"highlightsMeta": [
+				"dune desert",
+				"glitch",
+				"night time",
+				"space elevator",
+				"explorer",
+				"team hover pack",
+				"team xenobasher"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/vbvwza/update_6_hype_signs/": [
@@ -168,7 +311,12 @@
 		},
 		{
 			"src": "https://i.redd.it/smz51re8ti591.png",
-			"alt": "Update 6 Hype (signs)"
+			"alt": "Update 6 Hype (signs)",
+			"highlightsMeta": [
+				"rocky desert",
+				"signs",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/v89qxh/finally_settled_on_a_central_storage_solution/": [
@@ -178,7 +326,18 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/z22s3t0c8j491.png"
+			"src": "https://i.redd.it/z22s3t0c8j491.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"abyss cliffs",
+				"glass",
+				"space elevator",
+				"catwalk",
+				"ladder",
+				"signs",
+				"viaduct",
+				"team xenobasher"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/v82lh0/saw_this_in_a_post_the_other_day_and_decided_to/": [
@@ -188,13 +347,29 @@
 			"skip": true
 		},
 		{
-			"src": "https://i.redd.it/6sjrt4dgbh491.png"
+			"src": "https://i.redd.it/6sjrt4dgbh491.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"awesome sink",
+				"space elevator",
+				"frames",
+				"beams",
+				"cables",
+				"lights",
+				"tubes",
+				"outpost",
+				"no team"
+			]
 		},
 		{
 			"src": "https://i.redd.it/xnnuaivfbh491.png",
 			"highlightsMeta": [
+				"unknown location",
+				"final fantasy",
 				"reference images",
-				"final fantasy"
+				"no team"
 			]
 		}
 	],
@@ -207,13 +382,27 @@
 		{
 			"src": "https://i.redd.it/kxcvagjr4a491.png",
 			"highlightsMeta": [
-				"final fantasy"
+				"swamp",
+				"titan forest",
+				"final fantasy",
+				"lights",
+				"nuclear plant",
+				"no team"
 			]
 		},
 		{
 			"src": "https://i.redd.it/2kkj21tr4a491.png",
 			"highlightsMeta": [
-				"final fantasy"
+				"swamp",
+				"titan forest",
+				"final fantasy",
+				"glass",
+				"interior",
+				"belts",
+				"lights",
+				"signs",
+				"warehouse",
+				"no team"
 			]
 		}
 	],
@@ -225,7 +414,18 @@
 		},
 		{
 			"src": "https://i.redd.it/yoddkgakn8491.jpg",
-			"alt": "[OC] I'm old and I've played a LOT of games so it's a testament to how amazing this game is when I say no other game I've played has given me near as much of a feeling of accomplishment as this one has. Still blows my mind."
+			"alt": "[OC] I'm old and I've played a LOT of games so it's a testament to how amazing this game is when I say no other game I've played has given me near as much of a feeling of accomplishment as this one has. Still blows my mind.",
+			"highlightsMeta": [
+				"crater lakes",
+				"architecture",
+				"glass",
+				"catwalk",
+				"belts",
+				"lights",
+				"pipes",
+				"tower",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/v5foat/sneak_peek_new_coal_power_plant_wip/": [

@@ -29,13 +29,28 @@
 	"https://twitter.com/_Dragonhart/status/1536260867221618688": [
 		{
 			"src": "https://pbs.twimg.com/media/FVHkdD_UcAETUy8.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"beach islands",
+				"glass",
+				"train",
+				"fuel plant",
+				"tower",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/AxialC44/status/1535543449679761409": [
 		{
 			"src": "https://pbs.twimg.com/media/FU9YW9zXwAAzy6B.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"glass",
+				"train station",
+				"signs",
+				"train signals",
+				"no team"
+			]
 		}
 	],
 	"https://twitter.com/SkydivingTiger/status/1528841266246602752": [
