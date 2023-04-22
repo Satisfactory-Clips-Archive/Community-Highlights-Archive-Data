@@ -4406,5 +4406,28 @@
 				]
 			}
 		}
+	},
+	"2022-06-28": {
+		"yt-2luYaLKCFyg": {
+			"35:40 houghi - I'm not angry... I'm disappointed https://www.reddit.com/r/SatisfactoryGame/comments/vgrp4g/why_did_snutt_not_warn_about_changes_in_update_6/": {
+				"timestamp": 2140,
+				"raw_text": "houghi - I'm not angry... I'm disappointed https://www.reddit.com/r/SatisfactoryGame/comments/vgrp4g/why_did_snutt_not_warn_about_changes_in_update_6/",
+				"timestamps_for_links": [
+					2164
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2164,
+						"meta": [
+							"spire coast",
+							"glass",
+							"manifold",
+							"memes",
+							"team hover pack"
+						]
+					}
+				]
+			}
+		}
 	}
 }

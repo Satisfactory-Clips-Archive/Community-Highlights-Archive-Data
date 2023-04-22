@@ -26,6 +26,64 @@
 			]
 		}
 	],
+	"https://twitter.com/_Dragonhart/status/1538955780656730113": [
+		{
+			"src": "https://pbs.twimg.com/media/FVt3aL2VsAA4QLF.jpg",
+			"highlightsMeta": [
+				"red jungle",
+				"references to other franchises",
+				"train station",
+				"lights",
+				"train signals",
+				"train spiral",
+				"team golden cup"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FVt3oUvVIAANeVU.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FVt3vdsUAAEhBQx.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/BLAndrew575/status/1538985674602315777": [
+		{
+			"src": "https://pbs.twimg.com/media/FVuRsSuX0AUtgrO.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"beach islands",
+				"nobelisk",
+				"bird",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FVuRsSvX0AIcqM1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FVuRsSwXwAIJbEe.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FVuRsSuX0AcJ4ID.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/heighRick/status/1537898084386021376": [
+		{
+			"src": "https://pbs.twimg.com/media/FVe2DfpUYAEr1tQ.jpg",
+			"highlightsMeta": [
+				"lake forest",
+				"manifold",
+				"frames",
+				"belts",
+				"no team"
+			]
+		}
+	],
 	"https://twitter.com/_Dragonhart/status/1536260867221618688": [
 		{
 			"src": "https://pbs.twimg.com/media/FVHkdD_UcAETUy8.jpg",
