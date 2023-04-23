@@ -26,6 +26,51 @@
 			]
 		}
 	],
+	"https://twitter.com/djcorny/status/1542222888580915201": [
+		{
+			"src": "https://pbs.twimg.com/media/FWcTXRZXgAAv0My.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"interior",
+				"references to other franchises",
+				"foundation patterns",
+				"lights",
+				"signs as lights",
+				"spaceship",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FWcTc6dXoAgeAoy.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/morphlex/status/1542145175102918658": [
+		{
+			"src": "https://pbs.twimg.com/media/FWbMssJXwAAccij.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FWbMssKXEAEyb7H.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FWbMssUWIAAB8as.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FWbMssQXEAEu3is.jpg",
+			"highlightsMeta": [
+				"beach islands",
+				"art",
+				"frames",
+				"fuel plant",
+				"signs as lights",
+				"tower",
+				"no team"
+			]
+		}
+	],
 	"https://twitter.com/_Dragonhart/status/1538955780656730113": [
 		{
 			"src": "https://pbs.twimg.com/media/FVt3aL2VsAA4QLF.jpg",
