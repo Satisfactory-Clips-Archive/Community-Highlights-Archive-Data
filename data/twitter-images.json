@@ -26,6 +26,63 @@
 			]
 		}
 	],
+	"https://twitter.com/Its_Bitz/status/1545495439323152387": [
+		{
+			"src": "https://pbs.twimg.com/media/FXKx_NvXkAAUuEv.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FXKx_N0XoAM1ufS.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FXKx_NxXwAgGJiz.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"sunrise/sunset",
+				"outpost",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FXKx_NzWYAIfkYN.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"interior",
+				"manifold",
+				"sunrise/sunset",
+				"belts",
+				"signs as lights",
+				"no team"
+			]
+		}
+	],
+	"https://twitter.com/_Dragonhart/status/1546406761325740032": [
+		{
+			"src": "https://pbs.twimg.com/media/FXXwar2UUAAVHMV.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FXXwar3VsAAW0U_.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FXXwar3UYAATAld.jpg",
+			"highlightsMeta": [
+				"lake forest",
+				"final fantasy",
+				"lights",
+				"fuel plant",
+				"tower",
+				"train spiral",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FXXwar4VUAAfjOe.jpg",
+			"skip": true
+		}
+	],
 	"https://twitter.com/djcorny/status/1542222888580915201": [
 		{
 			"src": "https://pbs.twimg.com/media/FWcTXRZXgAAv0My.jpg",
