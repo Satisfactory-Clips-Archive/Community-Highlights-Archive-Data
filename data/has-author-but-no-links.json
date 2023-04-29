@@ -4429,5 +4429,30 @@
 				]
 			}
 		}
+	},
+	"2022-09-13": {
+		"yt-MnmgZIzYd1s": {
+			"22:16 AngryKarpador - look at em go! https://www.reddit.com/r/SatisfactoryGame/comments/x5k8l9/factory_cart_race/": {
+				"timestamp": 1336,
+				"raw_text": "AngryKarpador - look at em go! https://www.reddit.com/r/SatisfactoryGame/comments/x5k8l9/factory_cart_race/",
+				"timestamps_for_links": [
+					1340
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1340,
+						"meta": [
+							"factory cart",
+							"signs",
+							"games",
+							"interior",
+							"lights",
+							"glass",
+							"pipes"
+						]
+					}
+				]
+			}
+		}
 	}
 }
