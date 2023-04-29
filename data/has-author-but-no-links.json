@@ -4442,13 +4442,15 @@
 					{
 						"timestamp": 1340,
 						"meta": [
-							"factory cart",
-							"signs",
+							"uncertain location",
 							"games",
-							"interior",
-							"lights",
 							"glass",
-							"pipes"
+							"interior",
+							"factory cart",
+							"lights",
+							"pipes",
+							"signs",
+							"no team"
 						]
 					}
 				]
