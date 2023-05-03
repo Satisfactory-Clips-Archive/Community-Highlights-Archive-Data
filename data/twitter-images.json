@@ -26,6 +26,41 @@
 			]
 		}
 	],
+	"https://twitter.com/Xero685/status/1570744849812561927": [
+		{
+			"src": "https://pbs.twimg.com/media/FcxoF8GXwAEHP5d.jpg",
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"glass",
+				"awesome sink",
+				"foundation patterns",
+				"manta",
+				"roads",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FcxoF8KWAAAPXOU.jpg",
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"interior",
+				"catwalk",
+				"belts",
+				"lights",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FcxoF8bX0AMOi4T.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FcxoF8xWIAE2St4.jpg",
+			"skip": true
+		}
+	],
 	"https://twitter.com/_Dragonhart/status/1562704822876266498": [
 		{
 			"src": "https://pbs.twimg.com/media/Fa_XoRuUYAEUDw_.jpg",

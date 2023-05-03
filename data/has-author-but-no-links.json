@@ -4456,5 +4456,29 @@
 				]
 			}
 		}
+	},
+	"2022-09-20": {
+		"yt-8WZYDHAVmio": {
+			"20:29 TheNonchalantZealot - look at the sky": {
+				"timestamp": 1229,
+				"raw_text": "TheNonchalantZealot - look at the sky",
+				"timestamps_for_links": [
+					1232
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1232,
+						"meta": [
+							"northern forest",
+							"nature",
+							"night time",
+							"space elevator",
+							"hog",
+							"no team"
+						]
+					}
+				]
+			}
+		}
 	}
 }
