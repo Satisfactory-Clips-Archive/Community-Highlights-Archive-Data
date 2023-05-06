@@ -26,6 +26,75 @@
 			]
 		}
 	],
+	"https://twitter.com/_Tech4Life_/status/1573822846442291203": [
+		{
+			"src": "https://pbs.twimg.com/media/FddWI9xWYAE6Vyn.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FddWI9vXkAE4ws-.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FddWI9zWAAAeDv7.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FddWI9yXkAARuhP.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"manifold",
+				"signs as lights",
+				"team cup"
+			]
+		}
+	],
+	"https://twitter.com/hametsuki/status/1573382396921401345": [
+		{
+			"src": "https://pbs.twimg.com/media/FdXGq4vakAAff2F.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"green valley",
+				"the gates of beugernath",
+				"nature",
+				"sunrise/sunset",
+				"no team"
+			]
+		}
+	],
+	"https://twitter.com/xSgt_Pepperx/status/1573321720009838593": [
+		{
+			"src": "https://pbs.twimg.com/media/FdWOSX6XoAEUmWv.jpg",
+			"highlightsMeta": [
+				"northern forest",
+				"ficsmas",
+				"industrial",
+				"interior",
+				"radar tower",
+				"drone",
+				"catwalk",
+				"beams",
+				"pipes",
+				"manta",
+				"spaceship",
+				"viaduct",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FdWOSX6XwAMs6nH.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FdWOSX6WQAQ1Buy.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FdWOSX7XkAE319q.jpg",
+			"skip": true
+		}
+	],
 	"https://twitter.com/Xero685/status/1570744849812561927": [
 		{
 			"src": "https://pbs.twimg.com/media/FcxoF8GXwAEHP5d.jpg",

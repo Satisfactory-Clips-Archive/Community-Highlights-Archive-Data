@@ -4480,5 +4480,49 @@
 				]
 			}
 		}
+	},
+	"2022-09-27": {
+		"yt-PJxT9Pqm_pA": {
+			"09:10 Sunrii5e - nsfw": {
+				"timestamp": 550,
+				"raw_text": "Sunrii5e - nsfw",
+				"timestamps_for_links": [
+					562
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 562,
+						"meta": [
+							"green valley",
+							"manifold",
+							"modded",
+							"beams",
+							"bean",
+							"team hover pack",
+							"team xenobasher"
+						]
+					}
+				]
+			},
+			"14:00 CrystalZago - IMMA FIRING MAH LAZER https://twitter.com/CrystalZago/status/1572158667352571904": {
+				"timestamp": 840,
+				"raw_text": "CrystalZago - IMMA FIRING MAH LAZER https://twitter.com/CrystalZago/status/1572158667352571904",
+				"timestamps_for_links": [
+					842
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 842,
+						"meta": [
+							"grass fields arch",
+							"architecture",
+							"manta",
+							"signs as lights",
+							"no team"
+						]
+					}
+				]
+			}
+		}
 	}
 }
