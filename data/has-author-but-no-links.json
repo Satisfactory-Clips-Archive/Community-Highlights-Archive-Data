@@ -4524,5 +4524,180 @@
 				]
 			}
 		}
+	},
+	"2022-10-04": {
+		"yt-XhhtuG5CWcM": {
+			"31:07 JelliDraw - Save the Planet! https://www.reddit.com/r/SatisfactoryGame/comments/xsbxo0/a_splash_of_color_save_the_green/": {
+				"raw_text": "JelliDraw - Save the Planet! https://www.reddit.com/r/SatisfactoryGame/comments/xsbxo0/a_splash_of_color_save_the_green/",
+				"timestamp": 1867,
+				"timestamps_for_links": [
+					1870
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1870,
+						"meta": [
+							"uncertain location",
+							"cityscape",
+							"nature",
+							"night time",
+							"frames",
+							"beams",
+							"cables",
+							"lights",
+							"signs",
+							"no team"
+						]
+					}
+				]
+			},
+			"42:16 UnmanagedEntity - Take me across https://www.reddit.com/r/SatisfactoryGame/comments/xpmj3m/enjoying_the_view_from_my_recently_finished/": {
+				"timestamp": 2536,
+				"raw_text": "UnmanagedEntity - Take me across https://www.reddit.com/r/SatisfactoryGame/comments/xpmj3m/enjoying_the_view_from_my_recently_finished/",
+				"timestamps_for_links": [
+					2040
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2040,
+						"meta": [
+							"lake forest",
+							"red bamboo fields",
+							"nature",
+							"catwalk",
+							"bridge",
+							"team cup"
+						]
+					}
+				]
+			},
+			"46:13 @blastroid7444 - Snutt & Jace play in Blastroid's Electronic Battleship map": {
+				"timestamp": 2773,
+				"raw_text": "@blastroid7444 - Snutt & Jace play in Blastroid's Electronic Battleship map",
+				"timestamps_for_links": [
+					2797,
+					2872,
+					2946,
+					3119,
+					4052
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2797,
+						"meta": [
+							"uncertain location",
+							"games",
+							"interior",
+							"multiplayer",
+							"catwalk",
+							"signs",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 2872,
+						"meta": [
+							"uncertain location",
+							"games",
+							"interior",
+							"multiplayer",
+							"signs",
+							"team hover pack"
+						]
+					},
+					{
+						"timestamp": 2946,
+						"meta": [
+							"uncertain location",
+							"games",
+							"interior",
+							"multiplayer",
+							"cables",
+							"signs",
+							"team hover pack"
+						]
+					},
+					{
+						"timestamp": 3119,
+						"meta": [
+							"uncertain location",
+							"games",
+							"interior",
+							"multiplayer",
+							"lights",
+							"signs",
+							"team hover pack"
+						]
+					},
+					{
+						"timestamp": 4052,
+						"meta": [
+							"uncertain location",
+							"games",
+							"interior",
+							"multiplayer",
+							"signs",
+							"team hover pack"
+						]
+					}
+				]
+			},
+			"01:30:35 @blastroid7444 - Snutt & Jace take behind-the-scenes tour of Blastroid's Electronic Battleship map": {
+				"timestamp": 5435,
+				"raw_text": "@blastroid7444 - Snutt & Jace take behind-the-scenes tour of Blastroid's Electronic Battleship map",
+				"timestamps_for_links": [
+					5440,
+					5479,
+					5526,
+					5549
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 5440,
+						"meta": [
+							"uncertain location",
+							"games",
+							"interior",
+							"night time",
+							"multiplayer",
+							"signs",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 5479,
+						"meta": [
+							"uncertain location",
+							"games",
+							"night time",
+							"multiplayer",
+							"signs",
+							"no team"
+						]
+					},
+					{
+						"timestamp": 5526,
+						"meta": [
+							"uncertain location",
+							"catwalk",
+							"cables",
+							"signs",
+							"team hover pack"
+						]
+					},
+					{
+						"timestamp": 5549,
+						"meta": [
+							"uncertain location",
+							"games",
+							"multiplayer",
+							"catwalk",
+							"cables",
+							"team hover pack"
+						]
+					}
+				]
+			}
+		}
 	}
 }

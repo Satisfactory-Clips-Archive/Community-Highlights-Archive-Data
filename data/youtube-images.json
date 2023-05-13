@@ -1,4 +1,27 @@
 {
+	"https://www.youtube.com/watch?v=vGikWrINkZk": [
+		{
+			"src": "https://img.youtube.com/vi/vGikWrINkZk/hqdefault.jpg",
+			"highlightsMeta": [
+				"swamp",
+				"pipes",
+				"bridge",
+				"nuclear plant",
+				"no team"
+			]
+		}
+	],
+	"https://www.youtube.com/watch?v=H1NFSs_vCi4": [
+		{
+			"src": "https://img.youtube.com/vi/H1NFSs_vCi4/hqdefault.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"games",
+				"boat",
+				"no team"
+			]
+		}
+	],
 	"https://youtu.be/v9ZDWFExbYw": [
 		{
 			"src": "https://img.youtube.com/vi/v9ZDWFExbYw/hqdefault.jpg",
