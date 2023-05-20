@@ -1,4 +1,486 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/y5wirk/warhammer_40k_librarium/": [
+		{
+			"src": "https://preview.redd.it/y01950y2g9u91.png?width=640&crop=smart&auto=webp&s=11a8e6f9d69091f3d0f2fd8a6113ae728190a2b3",
+			"alt": "Warhammer 40k Librarium",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/y01950y2g9u91.png",
+			"alt": "Warhammer 40k Librarium",
+			"highlightsMeta": [
+				"red jungle",
+				"glass",
+				"references to other franchises",
+				"radar tower",
+				"lights",
+				"train signals",
+				"tower",
+				"viaduct",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/y4r2le/blue_crater_diluted_fuel_power_plant_wip_details/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/xkTtsYBsfXirBYRadDKzSl3pb8JmdodkLr_61ojsQbY.jpg",
+			"alt": "blue crater diluted fuel power plant wip - details in the comments",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0pavm3qqlzt91.png",
+			"highlightsMeta": [
+				"blue crater",
+				"manifold",
+				"night time",
+				"radar tower",
+				"pipes",
+				"fuel plant",
+				"signs as lights",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/y43g61/mega_tower_what_do_you_all_think/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/FmjlxRuUrvZPGljjE5l4I4SYTQ_32nErS88Sm8pTjgk.jpg",
+			"alt": "Mega tower what do you all think?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0d51ju9rstt91.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"space elevator",
+				"signs",
+				"tower",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/y3nyom/bartertown_is_donefor_now/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/WY8rRcrK-8uQ0ekaStLO2JqWqQ_sF3BHNJgHm2nUEJo.jpg",
+			"alt": "Bartertown is done...for now",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7h5as11wbqt91.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"final fantasy",
+				"industrial",
+				"manifold",
+				"sunrise/sunset",
+				"catwalk",
+				"frames",
+				"belts",
+				"lights",
+				"parking lot",
+				"viaduct",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/y350o1/welcome_to_dune_city_wip/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/utQQPCpoalcaPCJ2Uazv60wwvw7XdDB1zF18MQt_Oxw.jpg",
+			"alt": "Welcome to Dune City [WIP]",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2cju4nkc0mt91.png",
+			"alt": "Skyline of Dune City",
+			"highlightsMeta": [
+				"dune desert",
+				"jace would live there",
+				"cityscape",
+				"glass",
+				"space elevator",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/igcr6ykc0mt91.png",
+			"alt": "FICSIT Center",
+			"highlightsMeta": [
+				"dune desert",
+				"jace would live there",
+				"glass",
+				"space elevator",
+				"beams",
+				"foundation patterns",
+				"signs",
+				"roads",
+				"tower",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/y1lvup/nuclear_waste_facility/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/QOe3tJIaMKDi7uF8PSEgVjwbmIOQBR7on4PnT27AHfw.jpg",
+			"alt": "Nuclear Waste Facility",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ceqhdp1909t91.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"train station",
+				"truck",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"nuclear plant",
+				"outpost",
+				"parking lot",
+				"roads",
+				"warehouse",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/y15eiw/the_train_tree_of_life_1920x1080/": [
+		{
+			"src": "https://preview.redd.it/1gy8kfjgk5t91.png?width=640&crop=smart&auto=webp&s=ef9f5f52525bb10e09af2a017e85918658b1217c",
+			"alt": "The Train Tree of Life (1920x1080)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1gy8kfjgk5t91.png",
+			"alt": "The Train Tree of Life (1920x1080)",
+			"highlightsMeta": [
+				"titan forest",
+				"flying vehicles",
+				"nature",
+				"sunrise/sunset",
+				"train",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/y0lsiw/the_new_hub_is_almost_finished/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/R7EHUhfkq2Mgk8FbL3K02QFmBREELzP2PCuOgO-25bc.jpg",
+			"alt": "The new Hub is almost finished",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/p1pmsyblp0t91.png",
+			"alt": "Outside view from the Rocky Desert",
+			"highlightsMeta": [
+				"northern forest",
+				"sunrise/sunset",
+				"space elevator",
+				"manta gate",
+				"outpost",
+				"viaduct",
+				"team cup"
+			]
+		},
+		{
+			"src": "https://i.redd.it/v6ovdoblp0t91.png",
+			"alt": "Yea you better fly off! Damn mosquitoes getting really big out here",
+			"highlightsMeta": [
+				"northern forest",
+				"glass",
+				"interior",
+				"cables",
+				"lights",
+				"bean",
+				"manta",
+				"manta gate",
+				"viaduct",
+				"team cup"
+			]
+		},
+		{
+			"src": "https://i.redd.it/v5ssvzblp0t91.png",
+			"alt": "Inside view",
+			"highlightsMeta": [
+				"northern forest",
+				"glass",
+				"hub",
+				"tubes",
+				"manta gate",
+				"team cup"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/xzray4/big_thanks_to_all_of_coffee_stain_for_this/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/1WtSZJAclt6smtphhK4p7-nojSP96B2oNvi-ROIHmaM.jpg",
+			"alt": "Big thanks to all of Coffee Stain for this absolutely incredible Game ❤️ This is me and my friend's 700 hour world. This is what 8 months on a single save can look like!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nbb93s4mets91.png",
+			"alt": "112.5 GW Nuclear Power Plant",
+			"highlightsMeta": [
+				"swamp",
+				"radar tower",
+				"space elevator",
+				"frames",
+				"belts",
+				"pipes",
+				"train signals",
+				"nuclear plant",
+				"viaduct",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/xznopb/desert_gas_station/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/zCj_--ToHJzsabKePrXFLaKwSZm6rad6o0OjSU6FhIk.jpg",
+			"alt": "desert gas station",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/h2psku1fmss91.png",
+			"highlightsMeta": [
+				"dune desert",
+				"awesome shop",
+				"explorer",
+				"tractor",
+				"truck",
+				"beams",
+				"signs",
+				"team cup"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/xzk8bz/40gw_turbo_fuel_powerplant/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Zq-3N4cT4ISF0Du6m1hwQU6H4KfcN0aFVTpOHU-Aezw.jpg",
+			"alt": "40GW Turbo Fuel Powerplant",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zhtwisnmurs91.png",
+			"alt": "Tower is inspired by the gasometer (old gas storage)",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"glass",
+				"sunrise/sunset",
+				"train station",
+				"catwalk",
+				"train signals",
+				"oil plant",
+				"tower",
+				"viaduct",
+				"team hands"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/xzfm7r/imperial_star_destroyer_11_scale_no_mods_used/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/47nMb1X3nEfDywxwTU_G6Q0NSuPspJf1fCMEFqrzVvk.jpg",
+			"alt": "Imperial Star Destroyer - 1:1 scale, no mods used, 145k items, 1,6 kilometers long, started 4 months and 210 in-game hours ago, FINALLY complete :)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qzxeh6izfqs91.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"references to other franchises",
+				"spaceship",
+				"team hands"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/xyo4ti/midgar/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/pHJ9zVAersJb62012EDTKA-uOHWAmSx8JzV378EQiPA.jpg",
+			"alt": "Midgar",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kg8adnwftjs91.png",
+			"highlightsMeta": [
+				"swamp",
+				"final fantasy",
+				"night time",
+				"particle accelerator",
+				"frames",
+				"lights",
+				"signs",
+				"nuclear plant",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/xxetc8/only_20_gw_fuel_power_i_tried_new_shapes_and_this/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/iAcG020vD5xdHwE18KG6AZe3bdhj8zeatBCmSvdPCA8.jpg",
+			"alt": "Only 20 GW fuel power. I tried new shapes and this time not an industrial cube.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hmup9ndhq8s91.png",
+			"highlightsMeta": [
+				"blue crater",
+				"catwalk",
+				"frames",
+				"beams",
+				"foundation patterns",
+				"cables",
+				"lights",
+				"pipes",
+				"signs",
+				"fuel plant",
+				"parking lot",
+				"roads",
+				"signs as lights",
+				"viaduct",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/y4y4jkzmq8s91.png",
+			"highlightsMeta": [
+				"blue crater",
+				"interior",
+				"manifold",
+				"catwalk",
+				"frames",
+				"beams",
+				"lights",
+				"pipes",
+				"signs",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/xxdxnj/postcards_from_tartarus/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/b8HmEnA7z7ay3LvFkSbYbv2zzNuoibdH7cHO98miVX0.jpg",
+			"alt": "Postcards from Tartarus",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qwnzxsril8s91.png",
+			"highlightsMeta": [
+				"dune desert",
+				"references to other franchises",
+				"frames",
+				"signs as lights",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/xwu3ai/so_nice_i_built_it_twice_double_helix_198gw_fuel/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/jiIHs1EFI8oe55FSTQVzp9EQ59mAJvn4cvZaxumJlUw.jpg",
+			"alt": "So nice, I built it twice. Double helix 19.8GW fuel generator tower using single pure oil node.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qthtpq8tm3s91.png",
+			"highlightsMeta": [
+				"northern forest",
+				"spire coast",
+				"green valley",
+				"radar tower",
+				"foundation patterns",
+				"signs",
+				"manta",
+				"bridge",
+				"outpost",
+				"roads",
+				"tower",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/xvqs5t/my_weapons_factory_in_the_rocky_desert_makes_80/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/h5PD3Ne68gJzuyP6Xf8IOkJvryUuv0TlXikOttdWkZc.jpg",
+			"alt": "My Weapons factory in the rocky desert, makes 80% of all the bullets/bombs",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ec0h1ctitur91.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"night time",
+				"radar tower",
+				"tower",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/xzzswy/central_processing/": [
+		{
+			"src": "https://preview.redd.it/yhqaj6sf9vs91.png?width=640&crop=smart&auto=webp&s=9d875d21b2714dddce44c71d6226b6cc5210de81",
+			"alt": "Central Processing",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yhqaj6sf9vs91.png",
+			"alt": "Central Processing",
+			"highlightsMeta": [
+				"grass fields",
+				"industrial",
+				"miner",
+				"radar tower",
+				"space elevator",
+				"train station",
+				"catwalk",
+				"frames",
+				"foundation patterns",
+				"hub",
+				"cables",
+				"signs",
+				"train signals",
+				"manta",
+				"manta gate",
+				"roads",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yaqsw3/reuploading_with_more_pictures_old_post_got/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/lbGIeNDdGkewkj25IbTcDmaI84_xWh8C6M59QorDS1s.jpg",
+			"alt": "Reuploading with more pictures. Old post got deleted.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/p5udc0ssldv91.png",
+			"highlightsMeta": [
+				"spire coast",
+				"architecture",
+				"glass",
+				"sunrise/sunset",
+				"space elevator",
+				"nuclear plant",
+				"signs as lights",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/359alkrwldv91.png",
+			"highlightsMeta": [
+				"spire coast",
+				"interior",
+				"tubes",
+				"power storage bank",
+				"signs as lights",
+				"team cup"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ml4twirwldv91.png",
+			"highlightsMeta": [
+				"spire coast",
+				"interior",
+				"signs as lights",
+				"no team"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/xv49lr/small_factory_of_aluminium_from_dj_fear_factor/": [
 		{
 			"src": "https://preview.redd.it/6h4f8k5ilpr91.jpg?width=640&crop=smart&auto=webp&s=d8ba3ae8dbde4c4082172c2028fe04038f859385",
@@ -18207,6 +18689,7 @@
 				"multiplayer",
 				"radar tower",
 				"space elevator",
+				"factory cart",
 				"belts",
 				"lights",
 				"pipes",

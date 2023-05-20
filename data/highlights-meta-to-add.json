@@ -13,7 +13,8 @@
 		"https://i.redd.it/z22s3t0c8j491.png"
 	],
 	"jace would not live there": [
-		"https://i.redd.it/c7nrdld6ntj91.png"
+		"https://i.redd.it/c7nrdld6ntj91.png",
+		"https://i.redd.it/zhtwisnmurs91.png"
 	],
 	"tunnel": [
 		"https://i.redd.it/4giow6kvfcr91.png"
@@ -23,5 +24,25 @@
 	],
 	"rain": [
 		"https://i.redd.it/su6scn2xy0r91.png"
+	],
+	"crash site": [
+		"https://i.redd.it/7h5as11wbqt91.png",
+		"https://i.redd.it/nbb93s4mets91.png"
+	],
+	"gas station": [
+		"https://i.redd.it/h2psku1fmss91.png"
+	],
+	"refinery": [
+		"https://i.redd.it/y4y4jkzmq8s91.png",
+		"https://i.redd.it/ml4twirwldv91.png"
+	],
+	"jace would cross this bridge": [
+		"https://i.redd.it/qthtpq8tm3s91.png"
+	],
+	"fog": [
+		"https://i.redd.it/ec0h1ctitur91.png"
+	],
+	"jace would commute there": [
+		"https://i.redd.it/yhqaj6sf9vs91.png"
 	]
 }
