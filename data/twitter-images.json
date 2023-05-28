@@ -26,6 +26,32 @@
 			]
 		}
 	],
+	"https://twitter.com/MFreezzzz/status/1585692504589881344": [
+		{
+			"src": "https://pbs.twimg.com/media/FgGC2WQWABI982D.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"miner",
+				"belts",
+				"stairs",
+				"outpost",
+				"viaduct",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FgGC2XEWABcqaDz.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FgGC2XrWYAA7GsH.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FgGC2YSWAAYuPxT.jpg",
+			"skip": true
+		}
+	],
 	"https://twitter.com/PerforatedS/status/1581409755863560192": [
 		{
 			"src": "https://pbs.twimg.com/media/FfJLlojWQAM7FBJ.jpg",

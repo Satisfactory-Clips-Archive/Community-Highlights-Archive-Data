@@ -26,6 +26,7 @@
 		"https://i.redd.it/su6scn2xy0r91.png"
 	],
 	"crash site": [
+		"https://i.redd.it/vwe8refst6z61.png",
 		"https://i.redd.it/ajsb6tqoxjv91.png",
 		"https://i.redd.it/7h5as11wbqt91.png",
 		"https://i.redd.it/nbb93s4mets91.png"
@@ -34,6 +35,11 @@
 		"https://i.redd.it/h2psku1fmss91.png"
 	],
 	"refinery": [
+		"yt-dlp/zBi4vHaETU0@4592.png",
+		"https://i.imgur.com/KszV9Tq.jpeg",
+		"https://i.redd.it/rl4x7hes23w91.png",
+		"https://i.redd.it/h3vj36bvilw91.png",
+		"https://i.redd.it/6q72k56b8sw91.png",
 		"https://i.redd.it/y4y4jkzmq8s91.png",
 		"https://i.redd.it/ml4twirwldv91.png"
 	],
@@ -41,9 +47,23 @@
 		"https://i.redd.it/qthtpq8tm3s91.png"
 	],
 	"fog": [
+		"https://i.redd.it/1bnlgiwigbw91.png",
+		"https://i.redd.it/ygejr3ddbkw91.png",
 		"https://i.redd.it/ec0h1ctitur91.png"
 	],
 	"jace would commute there": [
 		"https://i.redd.it/yhqaj6sf9vs91.png"
+	],
+	"jace would drink there": [
+		"yt-dlp/zBi4vHaETU0@4108.png",
+		"yt-dlp/zBi4vHaETU0@4128.png"
+	],
+	"boombox": [
+		"yt-dlp/zBi4vHaETU0@3861.png",
+		"yt-dlp/zBi4vHaETU0@3868.png",
+		"yt-dlp/zBi4vHaETU0@3894.png"
+	],
+	"lighthouse": [
+		"yt-dlp/zBi4vHaETU0@4026.png"
 	]
 }
