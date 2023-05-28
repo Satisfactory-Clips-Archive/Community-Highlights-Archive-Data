@@ -5745,8 +5745,7 @@
 					4966,
 					4984,
 					4995,
-					5000,
-					5026
+					5000
 				],
 				"highlightsMeta": [
 					{
@@ -5822,16 +5821,6 @@
 							"interior",
 							"beams",
 							"pipes",
-							"no team"
-						]
-					},
-					{
-						"timestamp": 5026,
-						"meta": [
-							"uncertain location",
-							"beams",
-							"stairs",
-							"tower",
 							"no team"
 						]
 					}
