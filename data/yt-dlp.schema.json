@@ -43,7 +43,13 @@
 					}
 				},
 				"highlightsMeta": {
+					"$ref": "#/definitions/highlightsMetaArray"
+				}
+			}
+		},
+				"highlightsMetaArray": {
 					"type": "array",
+					"minItems": 1,
 					"items": {
 						"type": "object",
 						"required": [
@@ -58,9 +64,7 @@
 								"$ref": "highlights-meta.json#/definitions/highlightsMeta"
 							}
 						}
-					},
+					}
 				}
-			}
-		}
 	}
 }

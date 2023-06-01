@@ -4813,9 +4813,9 @@
 					}
 				]
 			},
-			"58:31 @pobkac  - Super-detailed chest": {
+			"58:31 @pobkac - Super-detailed chest": {
 				"timestamp": 3511,
-				"raw_text": "@pobkac  - Super-detailed chest",
+				"raw_text": "@pobkac - Super-detailed chest",
 				"timestamps_for_links": [
 					3512,
 					3526
@@ -4972,9 +4972,9 @@
 					}
 				]
 			},
-			"1:01:39 @BLAndrew575  - The Pirate Bay laptop": {
+			"1:01:39 @BLAndrew575- - The Pirate Bay laptop": {
 				"timestamp": 3699,
-				"raw_text": "@BLAndrew575  - The Pirate Bay laptop",
+				"raw_text": "@BLAndrew575- - The Pirate Bay laptop",
 				"timestamps_for_links": [
 					3732
 				],
@@ -5567,9 +5567,9 @@
 					}
 				]
 			},
-			"1:18:26 @xerosworld  - Golden-toothed pirate skull": {
+			"1:18:26 @xeros-world - Golden-toothed pirate skull": {
 				"timestamp": 4706,
-				"raw_text": "@xerosworld  - Golden-toothed pirate skull",
+				"raw_text": "@xeros-world - Golden-toothed pirate skull",
 				"timestamps_for_links": [
 					4713,
 					4751
@@ -5960,6 +5960,70 @@
 							"beams",
 							"lights",
 							"personal crate",
+							"no team"
+						]
+					}
+				]
+			}
+		}
+	},
+	"2022-11-08": {
+		"yt-qppdw8E_dS4": {
+			"06:45 CraftArchitect - don't feed the factory": {
+				"timestamp": 405,
+				"raw_text": "CraftArchitect - don't feed the factory",
+				"timestamps_for_links": [
+					421
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 421,
+						"meta": [
+							"uncertain location",
+							"industrial",
+							"interior",
+							"lasagn",
+							"manifold",
+							"frames",
+							"belts",
+							"lights",
+							"no team"
+						]
+					}
+				]
+			},
+			"07:58 CraftArchitect - bridge": {
+				"timestamp": 478,
+				"raw_text": "CraftArchitect - bridge",
+				"timestamps_for_links": [
+					495
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 495,
+						"meta": [
+							"northern forest",
+							"nature",
+							"bridge",
+							"no team"
+						]
+					}
+				]
+			},
+			"28:10 @xeros-world - Pass It On Winner!": {
+				"timestamp": 1690,
+				"raw_text": "@xeros-world - Pass It On Winner!",
+				"timestamps_for_links": [
+					1808
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1808,
+						"meta": [
+							"uncertain location",
+							"beams",
+							"lights",
+							"signs as lights",
 							"no team"
 						]
 					}
