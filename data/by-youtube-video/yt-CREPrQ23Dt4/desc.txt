@@ -1,27 +1,25 @@
 Community Highlights for the November 15th, 2022 Livestream originally streamed on https://www.twitch.tv/coffeestainstudiosdevs & https://www.youtube.com/watch?v=CREPrQ23Dt4
 
-1468.707861,1545.627371,Intro
-1545.627371,2747.935885015783,Highlights
-1545.627371,1600.753136,PumpkinHead_LIVE - B R I D G E
-1600.753136,1706.967109,0LowLight0 - Mr. Stark I don't feeling so good.
-1706.967109,1770.8666666666666,Raciper - Trains Trains Trains
-1770.9,1845.3333333333333,cwigginsNYC - Stairs Stairs Stairs
-1845.3666666666666,1951.8,tomsa744 - Secret Lab
-1951.8333333333333,1994.343689,From_Scratch_Games - Concrete Solutions hue hue hue
-1994.343689,2086.309739,JohanTravel - they need to be stopped
-2086.309739,2118.956647,jkay2 - it works
-2118.956647,2183.966543,CraftArchitect - p r o d u c t i o n
-2183.966543,2283.73581,TheTrueSCP - instructions unclear
-2283.73581,2371.473118,AbsentMarker335 - hypertube !boost
-2371.473118,2435.9666666666667,Der_Mund1 - Welcome to the Turbo Fuel
-2436,2513.320883,Milomilli - shoot some hoops
-2513.320883,2573.712128,bob-de-b - Claw Game
-2573.712128,2656.074341,Fishypants2000 - seaport factory
-2656.074341,2747.935885015783,vincent2057 - HOLY SHIT
-2747.935885015783,2768.45073,How to get featured in Community Highlights
-2768.45073,3038.281947,Reddit Competition
-2768.45073,2825.364271,Intro
-2825.364271,2888.580977,LaCaveDuJP - Community Pick
-2888.580977,2930.468233,bob-de-b - Coffee Stain Pick
-2930.468233,3004.972807,Extreme_Blueberry_99 - Coffee Stain Honorable Mention
-3004.972807,3038.281947,Outro
+24:28 Intro
+25:45 PumpkinHead_LIVE - B R I D G E https://www.reddit.com/r/SatisfactoryGame/comments/yv0a9w/tamar_bridge_u6_vanilla/
+26:40 0LowLight0 - Mr. Stark I don't feeling so good. https://www.reddit.com/r/SatisfactoryGame/comments/yungir/when_a_bean_feels_comfortable_around_you/
+28:26 Raciper - Trains Trains Trains https://www.reddit.com/r/SatisfactoryGame/comments/yu9nll/i_am_impressed_how_well_the_satisfactory_train/
+29:30 cwigginsNYC - Stairs Stairs Stairs https://www.reddit.com/r/SatisfactoryGame/comments/yt6tz2/cliff_life_stairs_are_a_pain_i_put_a_lot_of/
+30:45 tomsa744 - Secret Lab https://www.reddit.com/r/SatisfactoryGame/comments/ysd1sn/crystal_and_silica_lab/
+32:31 From_Scratch_Games - Concrete Solutions hue hue hue https://www.reddit.com/r/SatisfactoryGame/comments/ys9j9p/my_new_factory_that_is_producing_3200_concrete_pm/
+33:14 JohanTravel - they need to be stopped https://www.reddit.com/r/SatisfactoryGame/comments/yrfl17/all_aboard_the_spaghetti_train/
+34:46 jkay2 - it works https://www.reddit.com/r/SatisfactoryGame/comments/yqzq9g/today_one_person_puked_from_this_perfection_quite/
+35:18 CraftArchitect - p r o d u c t i o n
+36:23 TheTrueSCP - instructions unclear https://www.reddit.com/r/SatisfactoryGame/comments/yuu3pt/wait_thats_illegal/
+38:03 AbsentMarker335 - hypertube !boost https://www.reddit.com/r/SatisfactoryGame/comments/yv2vgb/im_sorry/
+39:31 Der_Mund1 - Welcome to the Turbo Fuel https://www.reddit.com/r/SatisfactoryGame/comments/ypt3fs/my_new_turbofuel_plant_630_oil_140fuel_gens/
+40:36 Milomilli - shoot some hoops https://www.reddit.com/r/SatisfactoryGame/comments/ymbwju/i_made_a_basketball_ring/
+41:53 bob-de-b - Claw Game https://www.reddit.com/r/SatisfactoryGame/comments/ysot2x/my_blueprint_machine_just_got_delivered_hoisting/
+42:53 Fishypants2000 - seaport factory https://www.reddit.com/r/SatisfactoryGame/comments/ym6dr8/my_seaport_factory_wip/
+44:16 vincent2057 - HOLY SHIT https://www.reddit.com/r/SatisfactoryGame/comments/ytl5nm/sisterray/
+45:47 How to get featured in Community Highlights
+46:08 Reddit Competition
+47:05 LaCaveDuJP - Community Pick https://www.reddit.com/r/SatisfactoryGame/comments/xzfm7r/imperial_star_destroyer_11_scale_no_mods_used/
+48:08 bob-de-b - Coffee Stain Pick https://www.reddit.com/r/SatisfactoryGame/comments/y7hj0m/satisfactorypunk2022_build_11_pics/
+48:50 Extreme_Blueberry_99 - Coffee Stain Honorable Mention https://www.reddit.com/r/SatisfactoryGame/comments/xyo4ti/midgar/
+50:04 Outro

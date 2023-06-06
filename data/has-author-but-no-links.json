@@ -6030,5 +6030,32 @@
 				]
 			}
 		}
+	},
+	"2022-11-15": {
+		"yt-CREPrQ23Dt4": {
+			"35:18 CraftArchitect - p r o d u c t i o n": {
+				"timestamp": 2118,
+				"raw_text": "CraftArchitect - p r o d u c t i o n",
+				"timestamps_for_links": [
+					2156
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2156,
+						"meta": [
+							"unknown location",
+							"industrial",
+							"interior",
+							"manifold",
+							"catwalk",
+							"frames",
+							"beams",
+							"belts",
+							"no team"
+						]
+					}
+				]
+			}
+		}
 	}
 }

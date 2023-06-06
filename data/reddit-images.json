@@ -1,4 +1,510 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yv0a9w/tamar_bridge_u6_vanilla/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/eCvafF69VPkQnJSTNwwxFnu0NHFL6lC8dlfO5h3mA98.jpg",
+			"alt": "Tamar Bridge U6 Vanilla",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/97kd7roaaxz91.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"catwalk",
+				"frames",
+				"beams",
+				"lights",
+				"signs",
+				"bridge",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yungir/when_a_bean_feels_comfortable_around_you/": [
+		{
+			"src": "https://preview.redd.it/j6ud6dni4uz91.png?width=640&crop=smart&auto=webp&s=8d7d7d9a6c0197311c75c6aad265f7b403ab3100",
+			"alt": "When a bean feels comfortable around you..",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/j6ud6dni4uz91.png",
+			"alt": "When a bean feels comfortable around you..",
+			"highlightsMeta": [
+				"beach islands",
+				"glitch",
+				"lasagn",
+				"cables",
+				"pipes",
+				"bean",
+				"viaduct",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yu9nll/i_am_impressed_how_well_the_satisfactory_train/": [
+		{
+			"src": "https://preview.redd.it/zh587k8wfrz91.png?width=640&crop=smart&auto=webp&s=4eeb073cdd5d7d69d1bead7c09c7100aa536cfaf",
+			"alt": "I am impressed how well the Satisfactory Train signaling holds up.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zh587k8wfrz91.png",
+			"alt": "I am impressed how well the Satisfactory Train signaling holds up.",
+			"highlightsMeta": [
+				"dune desert",
+				"awesome sink",
+				"miner",
+				"train station",
+				"catwalk",
+				"signs",
+				"train signals",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yt6tz2/cliff_life_stairs_are_a_pain_i_put_a_lot_of/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/dm5TIQuCbcSEgWVgyIuylLakWKXmW7WekKPZuR0dzEI.jpg",
+			"alt": "Cliff life: Stairs are a pain. I put a lot of thought into this but it turns out it's just WAY too big a hassle to actually use--I've never used hyper tubes before (just because of how they look), who has nice looking hyper tube designs I can see? Do they exist?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ygbt28qosiz91.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"spire coast",
+				"miner",
+				"catwalk",
+				"stairs",
+				"bean",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ysd1sn/crystal_and_silica_lab/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/hPsbhq10wvZlJ0bTfipTPHfXnaivuANMllTs9RIdBlY.jpg",
+			"alt": "Crystal and silica lab",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4mbwo4oq6cz91.png",
+			"highlightsMeta": [
+				"grass fields",
+				"snaketree forest",
+				"glass",
+				"manifold",
+				"night time",
+				"catwalk",
+				"lights",
+				"signs",
+				"tubes",
+				"outpost",
+				"viaduct",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/zg9rb4hr6cz91.png",
+			"highlightsMeta": [
+				"grass fields",
+				"snaketree forest",
+				"industrial",
+				"interior",
+				"manifold",
+				"night time",
+				"catwalk",
+				"frames",
+				"belts",
+				"foundation patterns",
+				"lights",
+				"outpost",
+				"viaduct",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ys9j9p/my_new_factory_that_is_producing_3200_concrete_pm/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/tarOdVqFuXYm3IBiHtOOHtVTM-SemmMGIOcWemaMSIk.jpg",
+			"alt": "My new factory that is producing 3200 concrete pm",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zm33pbynhbz91.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"western dune forest",
+				"glass",
+				"manifold",
+				"catwalk",
+				"belts",
+				"pipes",
+				"signs",
+				"train signals",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yrfl17/all_aboard_the_spaghetti_train/": [
+		{
+			"src": "https://external-preview.redd.it/-LBAlrF0bqyMHt_UzpF50NfZAeUJZfsVCxhMajqm_ko.jpg?width=640&crop=smart&auto=webp&s=af0f399baad471068b1b28b793715cdbdf8f5591",
+			"alt": "All aboard the spaghetti train",
+			"skip": true
+		},
+		{
+			"src": "https://i.imgur.com/i9aQtuT.jpeg",
+			"highlightsMeta": [
+				"grass fields",
+				"manifold",
+				"spaghett",
+				"blender",
+				"lookout tower",
+				"miner",
+				"radar tower",
+				"space elevator",
+				"train station",
+				"drone",
+				"train",
+				"belts",
+				"pipes",
+				"tubes",
+				"nuclear plant",
+				"power storage bank",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yqzq9g/today_one_person_puked_from_this_perfection_quite/": [
+		{
+			"src": "https://preview.redd.it/4aut2dk4l0z91.jpg?width=640&crop=smart&auto=webp&s=ad9ff58acfb818afdb1c5e78204ccb3ec04b375f",
+			"alt": "Today one person puked from this perfection. Quite proud of it.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4aut2dk4l0z91.jpg",
+			"alt": "Today one person puked from this perfection. Quite proud of it.",
+			"highlightsMeta": [
+				"rocky desert",
+				"glitch",
+				"miner",
+				"space elevator",
+				"belts",
+				"team nut"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yuu3pt/wait_thats_illegal/": [
+		{
+			"src": "https://preview.redd.it/zg7o8ykwgxz91.png?width=640&crop=smart&auto=webp&s=b54d0ca196486c5fac8bce052f485dd92ba2b84b",
+			"alt": "Wait, THATS illegal",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zg7o8ykwgxz91.png",
+			"alt": "Wait, THATS illegal",
+			"highlightsMeta": [
+				"unknown location",
+				"pipes",
+				"team rebar"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yv2vgb/im_sorry/": [
+		{
+			"src": "https://preview.redd.it/5vyagsc8rxz91.png?width=640&crop=smart&auto=webp&s=283efa1c2f224b3f2c2ee50d71040e768cd276ec",
+			"alt": "I'm sorry...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5vyagsc8rxz91.png",
+			"alt": "I'm sorry...",
+			"highlightsMeta": [
+				"uncertain location",
+				"interior",
+				"pipes",
+				"tubes",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ypt3fs/my_new_turbofuel_plant_630_oil_140fuel_gens/": [
+		{
+			"src": "https://preview.redd.it/x3m5rvaujry91.png?width=640&crop=smart&auto=webp&s=001a0eb8b8bdac4cbae1c1f5dbab27d455fa37f5",
+			"alt": "My new Turbofuel plant (630 oil, 140Fuel gens producing 21GW of electricity)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/x3m5rvaujry91.png",
+			"alt": "My new Turbofuel plant (630 oil, 140Fuel gens producing 21GW of electricity)",
+			"highlightsMeta": [
+				"uncertain location",
+				"train station",
+				"catwalk",
+				"train signals",
+				"fuel plant",
+				"signs as lights",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ymbwju/i_made_a_basketball_ring/": [
+		{
+			"src": "https://preview.redd.it/g3sm4w33c0y91.png?width=640&crop=smart&auto=webp&s=e39f326c1debe78ada07c07780ae03e429327608",
+			"alt": "I made a basketball ring",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/g3sm4w33c0y91.png",
+			"alt": "I made a basketball ring",
+			"highlightsMeta": [
+				"uncertain location",
+				"games",
+				"beams",
+				"signs",
+				"tubes",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ysot2x/my_blueprint_machine_just_got_delivered_hoisting/": [
+		{
+			"src": "https://preview.redd.it/6huoqvybtfz91.png?width=640&crop=smart&auto=webp&s=96cd08db3a0a473690f3e586f17865d11f552e57",
+			"alt": "My Blueprint machine just got delivered, hoisting it up!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6huoqvybtfz91.png",
+			"alt": "My Blueprint machine just got delivered, hoisting it up!",
+			"highlightsMeta": [
+				"rocky desert",
+				"truck",
+				"beams",
+				"signs",
+				"crane",
+				"outpost",
+				"signs as lights",
+				"team cup"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ym6dr8/my_seaport_factory_wip/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/ullIZIEW-8Am-R8feMgpPgSN-ZaD_IfegpHDj_DYVDY.jpg",
+			"alt": "My Seaport Factory WIP",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/z5mk2frj7zx91.jpg",
+			"alt": "Entrance to the factory. The highway of conveyor belts shuttle raw resources inside",
+			"highlightsMeta": [
+				"long beach",
+				"art",
+				"glass",
+				"manifold",
+				"memes",
+				"lookout tower",
+				"belts",
+				"foundation patterns",
+				"lights",
+				"pipes",
+				"signs",
+				"crane",
+				"signs as lights",
+				"team golden cup"
+			]
+		},
+		{
+			"src": "https://i.redd.it/frz1gpqj7zx91.jpg",
+			"alt": "An ominous warning to any potential inhabitants of Massage-2(A-B)b ...",
+			"highlightsMeta": [
+				"long beach",
+				"art",
+				"glass",
+				"manifold",
+				"memes",
+				"lookout tower",
+				"belts",
+				"pipes",
+				"signs",
+				"crane",
+				"signs as lights",
+				"team golden cup"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ytl5nm/sisterray/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/2-xOxvBPDwfKNcWbUpDIOmv_Fqax0W5f8rTHkX6Pc6k.jpg",
+			"alt": "Sister-Ray",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wccnyeidmlz91.png",
+			"alt": "With \"meteor\"",
+			"highlightsMeta": [
+				"swamp",
+				"final fantasy",
+				"night time",
+				"modded",
+				"miner",
+				"drone",
+				"catwalk",
+				"frames",
+				"beams",
+				"belts",
+				"lights",
+				"pipes",
+				"tubes",
+				"nuclear plant",
+				"power storage bank",
+				"signs as lights",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/tufw5i75nlz91.png",
+			"highlightsMeta": [
+				"swamp",
+				"final fantasy",
+				"night time",
+				"modded",
+				"miner",
+				"drone",
+				"catwalk",
+				"frames",
+				"beams",
+				"belts",
+				"lights",
+				"pipes",
+				"tubes",
+				"nuclear plant",
+				"power storage bank",
+				"signs as lights",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/flhjew3amlz91.png",
+			"highlightsMeta": [
+				"swamp",
+				"final fantasy",
+				"glass",
+				"night time",
+				"modded",
+				"miner",
+				"drone",
+				"catwalk",
+				"frames",
+				"beams",
+				"belts",
+				"lights",
+				"pipes",
+				"tubes",
+				"nuclear plant",
+				"power storage bank",
+				"signs as lights",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/25lmvsk2plz91.jpg",
+			"alt": " No!!! We are not going to try build an emerald weapon!!! Before you make any suggestions. This will have to do!",
+			"highlightsMeta": [
+				"swamp",
+				"final fantasy",
+				"night time",
+				"modded",
+				"miner",
+				"drone",
+				"catwalk",
+				"frames",
+				"beams",
+				"belts",
+				"lights",
+				"pipes",
+				"tubes",
+				"arachnophobia mode",
+				"nuclear plant",
+				"power storage bank",
+				"signs as lights",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/xzfm7r/imperial_star_destroyer_11_scale_no_mods_used/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/47nMb1X3nEfDywxwTU_G6Q0NSuPspJf1fCMEFqrzVvk.jpg",
+			"alt": "Imperial Star Destroyer - 1:1 scale, no mods used, 145k items, 1,6 kilometers long, started 4 months and 210 in-game hours ago, FINALLY complete :)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d3u966pyfqs91.png",
+			"alt": "I don't have a banana for scale, but the lit windows on the sides are 1m square signs :)",
+			"highlightsMeta": [
+				"uncertain location",
+				"references to other franchises",
+				"signs as lights",
+				"spaceship",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qzxeh6izfqs91.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"references to other franchises",
+				"spaceship",
+				"signs as lights",
+				"team hands"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/y7hj0m/satisfactorypunk2022_build_11_pics/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/mYlI9mRP-fPJjYu7tOP8nd80piUoag1mbxhWE-SQ3Cs.jpg",
+			"alt": "SatisfactoryPunk:2022 Build (11 pics)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yx3daooogmu91.png",
+			"highlightsMeta": [
+				"beach islands",
+				"jace would live there",
+				"cyberpunk",
+				"sunrise/sunset",
+				"memes",
+				"modded",
+				"truck",
+				"beams",
+				"lights",
+				"signs",
+				"signs as lights",
+				"tower",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/xyo4ti/midgar/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/pHJ9zVAersJb62012EDTKA-uOHWAmSx8JzV378EQiPA.jpg",
+			"alt": "Midgar",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kg8adnwftjs91.png",
+			"highlightsMeta": [
+				"swamp",
+				"final fantasy",
+				"night time",
+				"particle accelerator",
+				"frames",
+				"lights",
+				"signs",
+				"nuclear plant",
+				"no team"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/ypdew3/a_lovely_day_at_the_factory/": [
 		{
 			"src": "https://preview.redd.it/az6purzu8oy91.png?width=640&crop=smart&auto=webp&s=a25e202cbc5c633099ff2981e077231c3c621b06",
@@ -1384,43 +1890,6 @@
 				"tower",
 				"viaduct",
 				"team hands"
-			]
-		}
-	],
-	"https://www.reddit.com/r/SatisfactoryGame/comments/xzfm7r/imperial_star_destroyer_11_scale_no_mods_used/": [
-		{
-			"src": "https://b.thumbs.redditmedia.com/47nMb1X3nEfDywxwTU_G6Q0NSuPspJf1fCMEFqrzVvk.jpg",
-			"alt": "Imperial Star Destroyer - 1:1 scale, no mods used, 145k items, 1,6 kilometers long, started 4 months and 210 in-game hours ago, FINALLY complete :)",
-			"skip": true
-		},
-		{
-			"src": "https://i.redd.it/qzxeh6izfqs91.png",
-			"highlightsMeta": [
-				"uncertain location",
-				"references to other franchises",
-				"spaceship",
-				"team hands"
-			]
-		}
-	],
-	"https://www.reddit.com/r/SatisfactoryGame/comments/xyo4ti/midgar/": [
-		{
-			"src": "https://b.thumbs.redditmedia.com/pHJ9zVAersJb62012EDTKA-uOHWAmSx8JzV378EQiPA.jpg",
-			"alt": "Midgar",
-			"skip": true
-		},
-		{
-			"src": "https://i.redd.it/kg8adnwftjs91.png",
-			"highlightsMeta": [
-				"swamp",
-				"final fantasy",
-				"night time",
-				"particle accelerator",
-				"frames",
-				"lights",
-				"signs",
-				"nuclear plant",
-				"no team"
 			]
 		}
 	],
