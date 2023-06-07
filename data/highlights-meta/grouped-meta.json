@@ -69,11 +69,18 @@
 		"glitch"
 	],
 	"jace": [
+		"jace mom would live here",
+		"jace would commute there",
+		"jace would cross this bridge",
+		"jace would drink there",
 		"jace would eat there",
 		"jace would holiday there",
 		"jace would live there",
 		"jace would look at art there",
+		"jace would not live there",
 		"jace would scheme evil schemes here",
+		"jace would stay there for the weekend",
+		"jace would stay there overnight",
 		"jace would study there",
 		"jace would work there",
 		"robo jace"
@@ -86,6 +93,7 @@
 			"cyberpunk",
 			"ficsmas",
 			"final fantasy",
+			"fog",
 			"games",
 			"glass",
 			"industrial",
@@ -96,6 +104,7 @@
 			"nature",
 			"oil rig",
 			"pixel art",
+			"rain",
 			"repetition",
 			"skatepark",
 			"spaghett",
@@ -158,7 +167,11 @@
 			"space elevator",
 			"train station",
 			"truck station",
-			"jump pad"
+			"jump pad",
+			"manufacturer",
+			"smelter",
+			"constructor",
+			"refinery"
 		],
 		"vehicles": [
 			"cyber wagon",
@@ -170,6 +183,7 @@
 			"truck"
 		],
 		"other": [
+			"boombox",
 			"catwalk",
 			"frames",
 			"beams",
@@ -191,7 +205,9 @@
 			"stairs",
 			"train signals",
 			"tubes",
-			"user interface"
+			"user interface",
+			"train tracks",
+			"crash site"
 		]
 	},
 	"creatures": [
@@ -207,6 +223,7 @@
 		"stinger"
 	],
 	"things players build": [
+		"bestagons",
 		"boat",
 		"bridge",
 		"canals",
@@ -217,8 +234,11 @@
 		"crane",
 		"dam",
 		"fuel plant",
+		"gas station",
 		"gondola",
 		"house",
+		"hypertube cannon",
+		"lighthouse",
 		"manta gate",
 		"nuclear plant",
 		"oil plant",
@@ -232,6 +252,7 @@
 		"tower",
 		"train spiral",
 		"train station",
+		"tunnel",
 		"utility tower",
 		"viaduct",
 		"warehouse"

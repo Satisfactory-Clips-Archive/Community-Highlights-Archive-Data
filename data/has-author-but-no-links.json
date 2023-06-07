@@ -5046,7 +5046,8 @@
 							"weatherwax",
 							"pipes",
 							"signs",
-							"no team"
+							"no team",
+							"boombox"
 						]
 					},
 					{
@@ -5057,7 +5058,8 @@
 							"weatherwax",
 							"pipes",
 							"signs",
-							"no team"
+							"no team",
+							"boombox"
 						]
 					},
 					{
@@ -5068,7 +5070,8 @@
 							"weatherwax",
 							"pipes",
 							"signs",
-							"no team"
+							"no team",
+							"boombox"
 						]
 					}
 				]
@@ -5146,7 +5149,8 @@
 							"glass",
 							"signs as lights",
 							"tower",
-							"no team"
+							"no team",
+							"lighthouse"
 						]
 					},
 					{
@@ -5210,7 +5214,8 @@
 							"lights",
 							"signs",
 							"signs as lights",
-							"no team"
+							"no team",
+							"jace would drink there"
 						]
 					},
 					{
@@ -5242,7 +5247,8 @@
 						"timestamp": 4128,
 						"meta": [
 							"uncertain location",
-							"no team"
+							"no team",
+							"jace would drink there"
 						]
 					},
 					{
@@ -5462,7 +5468,8 @@
 							"personal crate",
 							"nuclear plant",
 							"power storage bank",
-							"no team"
+							"no team",
+							"refinery"
 						]
 					},
 					{
@@ -6051,7 +6058,8 @@
 							"frames",
 							"beams",
 							"belts",
-							"no team"
+							"no team",
+							"constructor"
 						]
 					}
 				]

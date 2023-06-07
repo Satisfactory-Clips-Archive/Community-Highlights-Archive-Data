@@ -57,7 +57,9 @@
 				"catwalk",
 				"signs",
 				"train signals",
-				"no team"
+				"no team",
+				"train tracks",
+				"manufacturer"
 			]
 		}
 	],
@@ -141,7 +143,9 @@
 				"pipes",
 				"signs",
 				"train signals",
-				"no team"
+				"no team",
+				"refinery",
+				"train tracks"
 			]
 		}
 	],
@@ -170,7 +174,9 @@
 				"tubes",
 				"nuclear plant",
 				"power storage bank",
-				"no team"
+				"no team",
+				"refinery",
+				"train tracks"
 			]
 		}
 	],
@@ -189,7 +195,9 @@
 				"miner",
 				"space elevator",
 				"belts",
-				"team nut"
+				"team nut",
+				"smelter",
+				"constructor"
 			]
 		}
 	],
@@ -205,7 +213,8 @@
 			"highlightsMeta": [
 				"unknown location",
 				"pipes",
-				"team rebar"
+				"team rebar",
+				"refinery"
 			]
 		}
 	],
@@ -243,7 +252,8 @@
 				"train signals",
 				"fuel plant",
 				"signs as lights",
-				"no team"
+				"no team",
+				"train tracks"
 			]
 		}
 	],
@@ -310,7 +320,8 @@
 				"signs",
 				"crane",
 				"signs as lights",
-				"team golden cup"
+				"team golden cup",
+				"refinery"
 			]
 		},
 		{
@@ -403,7 +414,8 @@
 				"nuclear plant",
 				"power storage bank",
 				"signs as lights",
-				"no team"
+				"no team",
+				"train tracks"
 			]
 		},
 		{
@@ -581,7 +593,8 @@
 				"tubes",
 				"outpost",
 				"viaduct",
-				"no team"
+				"no team",
+				"fog"
 			]
 		}
 	],
@@ -601,7 +614,8 @@
 				"manifold",
 				"belts",
 				"lights",
-				"no team"
+				"no team",
+				"refinery"
 			]
 		}
 	],
@@ -626,7 +640,8 @@
 				"signs as lights",
 				"viaduct",
 				"warehouse",
-				"no team"
+				"no team",
+				"train tracks"
 			]
 		},
 		{
@@ -639,7 +654,8 @@
 				"belts",
 				"pipes",
 				"signs",
-				"no team"
+				"no team",
+				"refinery"
 			]
 		}
 	],
@@ -931,7 +947,8 @@
 				"frames",
 				"belts",
 				"power storage bank",
-				"no team"
+				"no team",
+				"refinery"
 			]
 		}
 	],
@@ -1015,7 +1032,8 @@
 				"pipes",
 				"nuclear plant",
 				"viaduct",
-				"no team"
+				"no team",
+				"refinery"
 			]
 		}
 	],
@@ -1034,7 +1052,8 @@
 				"belts",
 				"lights",
 				"warehouse",
-				"no team"
+				"no team",
+				"fog"
 			]
 		}
 	],
@@ -1094,7 +1113,8 @@
 				"signs",
 				"spaceship",
 				"warehouse",
-				"no team"
+				"no team",
+				"fog"
 			]
 		}
 	],
@@ -1156,7 +1176,8 @@
 				"frames",
 				"lights",
 				"pipes",
-				"no team"
+				"no team",
+				"refinery"
 			]
 		}
 	],
@@ -1181,7 +1202,8 @@
 				"drone",
 				"train",
 				"nuclear plant",
-				"no team"
+				"no team",
+				"refinery"
 			]
 		}
 	],
@@ -1316,7 +1338,8 @@
 				"manifold",
 				"catwalk",
 				"user interface",
-				"viaduct"
+				"viaduct",
+				"crash site"
 			]
 		}
 	],
@@ -1697,7 +1720,8 @@
 				"lights",
 				"parking lot",
 				"viaduct",
-				"no team"
+				"no team",
+				"crash site"
 			]
 		}
 	],
@@ -1846,7 +1870,8 @@
 				"train signals",
 				"nuclear plant",
 				"viaduct",
-				"no team"
+				"no team",
+				"crash site"
 			]
 		}
 	],
@@ -1866,7 +1891,8 @@
 				"truck",
 				"beams",
 				"signs",
-				"team cup"
+				"team cup",
+				"gas station"
 			]
 		}
 	],
@@ -1889,7 +1915,8 @@
 				"oil plant",
 				"tower",
 				"viaduct",
-				"team hands"
+				"team hands",
+				"jace would not live there"
 			]
 		}
 	],
@@ -1931,7 +1958,8 @@
 				"lights",
 				"pipes",
 				"signs",
-				"no team"
+				"no team",
+				"refinery"
 			]
 		}
 	],
@@ -1972,7 +2000,8 @@
 				"outpost",
 				"roads",
 				"tower",
-				"no team"
+				"no team",
+				"jace would cross this bridge"
 			]
 		}
 	],
@@ -1989,7 +2018,8 @@
 				"night time",
 				"radar tower",
 				"tower",
-				"no team"
+				"no team",
+				"fog"
 			]
 		}
 	],
@@ -2019,7 +2049,8 @@
 				"manta",
 				"manta gate",
 				"roads",
-				"no team"
+				"no team",
+				"jace would commute there"
 			]
 		}
 	],
@@ -2059,7 +2090,8 @@
 				"spire coast",
 				"interior",
 				"signs as lights",
-				"no team"
+				"no team",
+				"refinery"
 			]
 		}
 	],
@@ -2196,7 +2228,8 @@
 				"train",
 				"lights",
 				"pipes",
-				"no team"
+				"no team",
+				"tunnel"
 			]
 		}
 	],
@@ -2234,7 +2267,8 @@
 				"catwalk",
 				"belts",
 				"coal plant",
-				"no team"
+				"no team",
+				"bestagons"
 			]
 		}
 	],
@@ -2537,7 +2571,8 @@
 				"cables",
 				"lights",
 				"signs",
-				"no team"
+				"no team",
+				"rain"
 			]
 		}
 	],
@@ -3717,7 +3752,8 @@
 				"drone",
 				"catwalk",
 				"train signals",
-				"no team"
+				"no team",
+				"jace would not live there"
 			]
 		}
 	],
@@ -4033,7 +4069,8 @@
 				"cables",
 				"lights",
 				"spaceship",
-				"no team"
+				"no team",
+				"hypertube cannon"
 			]
 		},
 		{
@@ -5286,7 +5323,8 @@
 				"awesome sink",
 				"signs",
 				"tower",
-				"no team"
+				"no team",
+				"jace would stay there for the weekend"
 			]
 		},
 		{
@@ -5373,7 +5411,8 @@
 				"dune desert",
 				"architecture",
 				"references to other franchises",
-				"team hands"
+				"team hands",
+				"jace mom would live here"
 			]
 		}
 	],
@@ -5525,7 +5564,8 @@
 				"signs",
 				"tubes",
 				"signs as lights",
-				"no team"
+				"no team",
+				"hypertube cannon"
 			]
 		}
 	],
@@ -5848,7 +5888,8 @@
 				"ladder",
 				"signs",
 				"viaduct",
-				"team xenobasher"
+				"team xenobasher",
+				"jace would stay there overnight"
 			]
 		}
 	],
@@ -10472,7 +10513,8 @@
 				"manifold",
 				"repetition",
 				"pipes",
-				"no team"
+				"no team",
+				"fog"
 			]
 		}
 	],
@@ -10505,7 +10547,8 @@
 				"catwalk",
 				"signs",
 				"tower",
-				"no team"
+				"no team",
+				"train tracks"
 			]
 		}
 	],
@@ -10544,7 +10587,8 @@
 				"space elevator",
 				"belts",
 				"tubes",
-				"no team"
+				"no team",
+				"manufacturer"
 			]
 		}
 	],
@@ -20413,7 +20457,8 @@
 				"cables",
 				"lights",
 				"pipes",
-				"no team"
+				"no team",
+				"crash site"
 			]
 		}
 	],
