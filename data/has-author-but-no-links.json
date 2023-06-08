@@ -6065,5 +6065,103 @@
 				]
 			}
 		}
+	},
+	"2022-11-22": {
+		"yt-eHj9pQCwrSs": {
+			"21:11 AnthorNet - Content Creator Highlight https://satisfactory-calculator.com/ https://satisfactory-calculator.com/en/interactive-map https://satisfactory-calculator.com/en/blueprints https://satisfactory-calculator.com/en/megaprints": {
+				"timestamp": 1271,
+				"raw_text": "AnthorNet - Content Creator Highlight https://satisfactory-calculator.com/ https://satisfactory-calculator.com/en/interactive-map https://satisfactory-calculator.com/en/blueprints https://satisfactory-calculator.com/en/megaprints",
+				"timestamps_for_links": [
+					1278,
+					1460,
+					1489,
+					1558,
+					1585,
+					1630,
+					1638
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1278,
+						"meta": [
+							"unknown location",
+							"no team",
+							"user interface"
+						]
+					},
+					{
+						"timestamp": 1460,
+						"meta": [
+							"unknown location",
+							"no team",
+							"user interface"
+						]
+					},
+					{
+						"timestamp": 1489,
+						"meta": [
+							"unknown location",
+							"no team",
+							"user interface"
+						]
+					},
+					{
+						"timestamp": 1558,
+						"meta": [
+							"rocky desert",
+							"no team",
+							"user interface",
+							"utility tower",
+							"beams",
+							"night time",
+							"blueprint designer"
+						]
+					},
+					{
+						"timestamp": 1585,
+						"meta": [
+							"spire coast",
+							"team hover pack",
+							"beams",
+							"signs",
+							"manifold",
+							"beams",
+							"blueprint designer",
+							"refinery",
+							"constructor",
+							"manifold"
+						]
+					},
+					{
+						"timestamp": 1630,
+						"meta": [
+							"unknown location",
+							"no team",
+							"user interface",
+							"beams",
+							"signs",
+							"manifold",
+							"beams",
+							"blueprint designer",
+							"refinery",
+							"constructor",
+							"manifold"
+						]
+					},
+					{
+						"timestamp": 1638,
+						"meta": [
+							"lake forest",
+							"no team",
+							"train tracks",
+							"viaduct",
+							"signs as lights",
+							"bridge",
+							"modded"
+						]
+					}
+				]
+			}
+		}
 	}
 }

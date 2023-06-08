@@ -1,4 +1,496 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yxhsmv/proof_of_concept_aluminum_processing_blueprint/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/DxOvmKQhoAAf20gMfFplPYTVYkGUqD7Zwizci1ijlpI.jpg",
+			"alt": "Proof of Concept: Aluminum Processing Blueprint",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/p7btiqs25g0a1.jpg",
+			"alt": "240 Baux, 240 Water, and 120 Coal makes 200 Ingots!",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"red jungle",
+				"uncertain location",
+				"team hover pack",
+				"refinery",
+				"blueprint designer",
+				"space elevator",
+				"smelter",
+				"manifold",
+				"pipes",
+				"belts",
+				"catwalk",
+				"cables",
+				"tubes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/f808o2ze5g0a1.jpg",
+			"alt": "Even the Silica is recycled in system!",
+			"highlightsMeta": [
+				"rocky desert",
+				"team hover pack",
+				"refinery",
+				"blueprint designer",
+				"space elevator",
+				"smelter",
+				"manifold",
+				"pipes",
+				"belts",
+				"catwalk",
+				"cables",
+				"tubes",
+				"blender",
+				"train tracks",
+				"lights",
+				"train station",
+				"miner"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yzuvd6/finished_my_spire_coast_power_plant_45gw_1755/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/l2EkEszWtNzu4dTOPDcq84ZMn7C6u3vE7fA70vlSDto.jpg",
+			"alt": "Finished my Spire Coast Power Plant. 45GW & 1755 Rubber p/m",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bpgk3ep3711a1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"no team",
+				"signs",
+				"modded",
+				"glass",
+				"tubes",
+				"outpost",
+				"fuel plant",
+				"oil plant",
+				"radar tower",
+				"train station",
+				"catwalk",
+				"train signals",
+				"train tracks",
+				"oil extractor",
+				"manifold",
+				"refinery",
+				"awesome sink",
+				"train",
+				"pipes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/j61bf5ip611a1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"no team",
+				"modded",
+				"glass",
+				"tubes",
+				"outpost",
+				"fuel plant",
+				"oil plant",
+				"radar tower",
+				"train station",
+				"catwalk",
+				"train signals",
+				"train tracks",
+				"oil extractor",
+				"manifold",
+				"refinery",
+				"blender",
+				"pipes",
+				"lights",
+				"nature",
+				"interior"
+			]
+		},
+		{
+			"src": "https://i.redd.it/1kumvsjx711a1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"team hover pack",
+				"signs",
+				"modded",
+				"glass",
+				"tubes",
+				"outpost",
+				"fuel plant",
+				"oil plant",
+				"train station",
+				"catwalk",
+				"train signals",
+				"train tracks",
+				"manifold",
+				"refinery",
+				"awesome sink",
+				"pipes",
+				"nature"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yz4mvx/maybe_blueprints_were_a_bad_idea_19200_power/": [
+		{
+			"src": "https://preview.redd.it/r8wy44q2hu0a1.png?width=640&crop=smart&auto=webp&s=c309613cf4143936a4878cf6331952b590e52511",
+			"alt": "Maybe blueprints were a bad idea. 19,200 power storage buildings in a Menger sponge, storing almost 2 terawatt hours.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/r8wy44q2hu0a1.png",
+			"alt": "Maybe blueprints were a bad idea. 19,200 power storage buildings in a Menger sponge, storing almost 2 terawatt hours.",
+			"highlightsMeta": [
+				"spire coast",
+				"no team",
+				"blueprint designer",
+				"power storage bank",
+				"radar tower",
+				"outpost",
+				"glass",
+				"cables"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yyf4yk/just_factory_carts_being_hilarious/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/lQNGBoRGxd_Un_6v8WtPkqIdQBltl65pYHJk7yyyEU4.jpg",
+			"alt": "Just factory carts being hilarious",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/i2ylr23i8o0a1.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"multiplayer",
+				"factory cart",
+				"glitch",
+				"constructor",
+				"belts"
+			]
+		},
+		{
+			"src": "https://i.redd.it/tykgqc2i8o0a1.jpg",
+			"highlightsMeta": [
+				"unknown location",
+				"no team",
+				"multiplayer",
+				"factory cart",
+				"glitch"
+			]
+		},
+		{
+			"src": "https://i.redd.it/jy9b8d2i8o0a1.jpg",
+			"highlightsMeta": [
+				"uncertain location location",
+				"no team",
+				"multiplayer",
+				"factory cart",
+				"glitch",
+				"manifold",
+				"smelter",
+				"miner",
+				"belts"
+			]
+		},
+		{
+			"src": "https://i.redd.it/8hww623i8o0a1.jpg",
+			"highlightsMeta": [
+				"unknown location",
+				"no team",
+				"multiplayer",
+				"factory cart",
+				"glitch"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yy0qym/ive_had_a_late_game_power_outage_before_never/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/yHrWLbk6YEmBdO39nFoJkXBrIt85PC4mnarsFlLyJ8M.jpg",
+			"alt": "I've had a late game power outage before... Never Again. (WIP)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qhz3r4g2nk0a1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"power storage bank",
+				"fuel plant",
+				"frames",
+				"interior",
+				"catwalk",
+				"pipes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/3ww550w2nk0a1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"power storage bank",
+				"fuel plant",
+				"frames",
+				"interior",
+				"catwalk",
+				"pipes"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yxdh5f/still_building_making_the_most_densified_bowl_of/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/0wcT1jfeftcq_pLdtIuCWMlaTXZyQ1nOt4QiC2B1Jq4.jpg",
+			"alt": "Still building, making the most densified bowl of spagett possible.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/e8fwz3441f0a1.png",
+			"alt": "looking North on a beautiful afternoon",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"tower",
+				"glass",
+				"train",
+				"frames",
+				"drone",
+				"pipes",
+				"cables",
+				"tubes",
+				"train tracks",
+				"particle accelerator",
+				"blender",
+				"manufacturer",
+				"belts",
+				"megafactory",
+				"radar tower",
+				"manifold"
+			]
+		},
+		{
+			"src": "https://i.redd.it/8uobw3n25f0a1.png",
+			"alt": "It just works",
+			"highlightsMeta": [
+				"rocky desert",
+				"team hover pack",
+				"tubes",
+				"belts",
+				"manifold",
+				"team hover pack",
+				"manifold",
+				"assembler",
+				"lasagn"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yzifmg/powerpylons/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/9nF3th4pT_Xy_DdKybAOYiRLgF2JJuefL25Gj5OnpY4.jpg",
+			"alt": "Powerpylons",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/865552ik6y0a1.png",
+			"alt": "My big pp",
+			"highlightsMeta": [
+				"spire coast",
+				"no team",
+				"night time",
+				"blueprint designer",
+				"beams",
+				"frames",
+				"catwalk",
+				"lights",
+				"glass",
+				"signs as lights",
+				"manifold",
+				"smelter",
+				"belts",
+				"utility tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/0ruh01ik6y0a1.png",
+			"alt": "These are tilted versions. (1 in 8m incline)",
+			"highlightsMeta": [
+				"spire coast",
+				"no team",
+				"beams",
+				"frames",
+				"catwalk",
+				"lights",
+				"glass",
+				"signs as lights",
+				"manifold",
+				"smelter",
+				"belts",
+				"utility tower",
+				"cables",
+				"space elevator",
+				"tubes",
+				"train",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yzo99y/pulse_looks_normal/": [
+		{
+			"src": "https://preview.redd.it/nu7fkexckz0a1.png?width=640&crop=smart&auto=webp&s=8e424ee00764415f872983de729ab0655ac4df5b",
+			"alt": "Pulse looks normal.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nu7fkexckz0a1.png",
+			"alt": "Pulse looks normal.",
+			"highlightsMeta": [
+				"dune desert",
+				"team nobelisk",
+				"user interface"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yzzp3a/diluted_fuel_power_plant_planning_board_105000_mw/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/KooM5JfOUQsi5AQDq3FpoMtLvoefkZ93Z91Agjge71I.jpg",
+			"alt": "Diluted Fuel Power Plant Planning Board (105,000 MW)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qj7ie20ap21a1.png",
+			"alt": "Planning Board Room/Building",
+			"highlightsMeta": [
+				"uncertain location",
+				"outpost",
+				"signs",
+				"glass",
+				"foundation patterns",
+				"pipes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/a30tus19p21a1.jpg",
+			"alt": "Planning Board Room/Building",
+			"highlightsMeta": [
+				"uncertain location",
+				"outpost",
+				"signs",
+				"glass",
+				"interior"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/yzxepd/unlocking_the_true_power_of_blueprints/": [
+		{
+			"src": "https://preview.redd.it/pq8bygany11a1.jpg?width=640&crop=smart&auto=webp&s=1edf2f604d7a571633e19f3b75d94d8b64e9b51d",
+			"alt": "Unlocking the true power of blueprints",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/pq8bygany11a1.jpg",
+			"alt": "Unlocking the true power of blueprints",
+			"highlightsMeta": [
+				"final fantasy",
+				"dune desert",
+				"pixel art",
+				"no team",
+				"blueprint designer",
+				"outpost",
+				"train tracks",
+				"train signals",
+				"awesome sink",
+				"train station",
+				"belts",
+				"viaduct",
+				"cables"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/z1ct34/luminous_zipline_in_the_northern_forest/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/LIjalJPDadMTzWiOnVbsheMsH5NE3nsRSMj_bVRIrBA.jpg",
+			"alt": "Luminous Zipline in the northern forest",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jo141zdbud1a1.png",
+			"highlightsMeta": [
+				"northern forest",
+				"green valley",
+				"cables",
+				"catwalk",
+				"signs as lights",
+				"lookout tower",
+				"utility tower",
+				"train tracks",
+				"miner",
+				"outpost",
+				"frames",
+				"signs as lights",
+				"night time",
+				"fuel plant",
+				"train signals",
+				"beams"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qqutmwdbud1a1.png",
+			"highlightsMeta": [
+				"northern forest",
+				"space elevator",
+				"train tracks",
+				"train signals",
+				"outpost",
+				"glass",
+				"utility tower",
+				"beams",
+				"signs as lights",
+				"cables",
+				"lights",
+				"tubes"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/z0yzpe/bridges_of_my_inprogress_rail_network/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/8BjxCB9aRwk1RBCIgBuKJwZEGeJcbEcQxeJps6KH4fg.jpg",
+			"alt": "Bridges of my in-progress rail network",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2kyk7f2w2b1a1.png",
+			"highlightsMeta": [
+				"western dune forest",
+				"train tracks",
+				"train",
+				"power slug",
+				"bridge",
+				"nature"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/z0k6es/every_time_i_paste_a_bp_i_shed_a_tear_1200mwh_per/": [
+		{
+			"src": "https://preview.redd.it/f51g5ubi671a1.png?width=640&crop=smart&auto=webp&s=c8ff612ccf10ebf7a71aa3f59cf4c695e1cd4dcc",
+			"alt": "Every time I paste a BP I shed a tear, 1200MWh per level (thank you sinwarrior for the design)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/f51g5ubi671a1.png",
+			"alt": "Every time I paste a BP I shed a tear, 1200MWh per level (thank you sinwarrior for the design)",
+			"highlightsMeta": [
+				"rocky desert",
+				"team hover pack",
+				"power storage bank",
+				"glass",
+				"signs as lights",
+				"miner",
+				"belts",
+				"beams",
+				"blueprint designer",
+				"frames"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/yv0a9w/tamar_bridge_u6_vanilla/": [
 		{
 			"src": "https://a.thumbs.redditmedia.com/eCvafF69VPkQnJSTNwwxFnu0NHFL6lC8dlfO5h3mA98.jpg",

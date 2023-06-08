@@ -156,11 +156,14 @@
 	],
 	"in-game things": {
 		"buildings": [
+			"assembler",
 			"awesome shop",
 			"awesome sink",
 			"blender",
+			"blueprint designer",
 			"lookout tower",
 			"miner",
+			"oil extractor",
 			"particle accelerator",
 			"radar tower",
 			"resource extractor",
