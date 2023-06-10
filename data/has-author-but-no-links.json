@@ -6163,5 +6163,60 @@
 				]
 			}
 		}
+	},
+	"2022-11-29": {
+		"yt-PCB3GEP83nA": {
+			"14:42 Hurricane - Pre-packaged Balance https://satisfactory-calculator.com/en/blueprints/index/details/id/1578/name/3+to+4+balancer": {
+				"timestamp": 882,
+				"raw_text": "Hurricane - Pre-packaged Balance https://satisfactory-calculator.com/en/blueprints/index/details/id/1578/name/3+to+4+balancer",
+				"timestamps_for_links": [
+					886
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 886,
+						"meta": [
+							"uncertain location",
+							"team hover pack",
+							"blueprint designer",
+							"belts"
+						]
+					}
+				]
+			},
+			"27:16 CraftArchitect - Spaghet": {
+				"timestamp": 1636,
+				"raw_text": "CraftArchitect - Spaghet",
+				"timestamps_for_links": [
+					1643,
+					1673
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1643,
+						"meta": [
+							"red bamboo fields",
+							"red jungle",
+							"pipes",
+							"belts",
+							"team hands",
+							"lasagn"
+						]
+					},
+					{
+						"timestamp": 1673,
+						"meta": [
+							"red bamboo fields",
+							"red jungle",
+							"pipes",
+							"belts",
+							"team hands",
+							"lasagn",
+							"memes"
+						]
+					}
+				]
+			}
+		}
 	}
 }
