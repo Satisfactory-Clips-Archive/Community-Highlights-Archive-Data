@@ -1,4 +1,664 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/zcxosm/my_ficsmas_factory_so_far/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/uJhpFv5s3vwiRqnZpoYdisJh0ooI-gS1hfJbQBUvllw.jpg",
+			"alt": "My ficsmas factory so far",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2tqdolvhh04a1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"no team",
+				"ficsmas",
+				"belts",
+				"manifold",
+				"constructor",
+				"catwalk"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/zcmk5t/when_you_plan_your_factories_so_poorly_you_have/": [
+		{
+			"src": "https://preview.redd.it/8byyn7dzrz3a1.png?width=640&crop=smart&auto=webp&s=d328401ce2c87807c4a0ec144b321bf4d8d13dab",
+			"alt": "when you plan your factories so poorly you have to make things like this.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8byyn7dzrz3a1.png",
+			"alt": "when you plan your factories so poorly you have to make things like this.",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"spaghett",
+				"belts"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/zckkmi/my_desert_power_plants/": [
+		{
+			"src": "https://preview.redd.it/ok5gb4w9fz3a1.jpg?width=640&crop=smart&auto=webp&s=7872cad1a7bfb1e76085a9c2d5a992650a47861f",
+			"alt": "My desert power plants",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ok5gb4w9fz3a1.jpg",
+			"alt": "My desert power plants",
+			"highlightsMeta": [
+				"dune desert",
+				"sunrise/sunset",
+				"team hands",
+				"miner",
+				"constructor",
+				"water extractor",
+				"pipes"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/tso25l/enjoy_your_new_job/": [
+		{
+			"src": "https://preview.redd.it/62m777l4cmq81.png?width=640&crop=smart&auto=webp&s=ab30c8613c6fdef7c4e90a2ce8000f0f40d8d238",
+			"alt": "Enjoy your new job",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/62m777l4cmq81.png",
+			"alt": "Enjoy your new job",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"sunrise/sunset",
+				"interior",
+				"personal crate",
+				"beams",
+				"signs",
+				"multiplayer"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/zbptzx/a_full_ficsmas_factory/": [
+		{
+			"src": "https://preview.redd.it/67sro40ctq3a1.png?width=640&crop=smart&auto=webp&s=0145d3b05f1d3b34f14157443ab0b3578c92df35",
+			"alt": "A full Ficsmas factory!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/67sro40ctq3a1.png",
+			"alt": "A full Ficsmas factory!",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"ficsmas",
+				"outpost",
+				"manifold",
+				"train station",
+				"train tracks",
+				"train signals",
+				"awesome sink",
+				"smelter",
+				"belts",
+				"pipes"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/zbgpa4/my_first_ever_world_and_here_i_learned_a_lot_of/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/fCeRhcIjpaCn7F2WG25VNXh5lUt2vHM5E0VJkjuDubE.jpg",
+			"alt": "My first ever world and here I learned a lot of things while trying to rebuild a more decent one. So I'll scratch this and make iteration #2 lol. Haven't progressed that far and this doesn't look much even after 25 hours but I'm really enjoying building in this game~ Tips and advice are welcome!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bcuki0hreo3a1.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"hub",
+				"awesome shop",
+				"space elevator",
+				"miner",
+				"lookout tower",
+				"cables",
+				"constructor",
+				"belts",
+				"personal crate",
+				"temporary is never temporary"
+			]
+		},
+		{
+			"src": "https://i.redd.it/we7xpm9seo3a1.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"rain",
+				"hub",
+				"miner",
+				"lookout tower",
+				"smelter",
+				"constructor",
+				"assembler",
+				"biomass burner",
+				"cables",
+				"space elevator"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/zb8lx9/beautiful_night_sky_i_was_setting_up_a_particle/": [
+		{
+			"src": "https://preview.redd.it/q9cuew1pbm3a1.png?width=640&crop=smart&auto=webp&s=c5bc8de4ce158eb7eee5ed93ad7119ca861edc39",
+			"alt": "Beautiful Night Sky (I was setting up a particle accelerator when this happened.)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/q9cuew1pbm3a1.png",
+			"alt": "Beautiful Night Sky (I was setting up a particle accelerator when this happened.)",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"particle accelerator",
+				"belts",
+				"cables",
+				"outpost"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/zaxdv4/decided_to_decorate_a_coal_node_in_the_red_forest/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Nh5zTRxBSRqECig4-ZrBLPJuepHHq6-E1wpGaA3-q8U.jpg",
+			"alt": "Decided to decorate a coal node in the red forest that exports its coal via drone",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1bpmlvkxrj3a1.png",
+			"alt": "Drone port overhangs the side of the building due to initially trying to build inside 4x4 grid",
+			"highlightsMeta": [
+				"red jungle",
+				"team hands",
+				"railing",
+				"glass",
+				"outpost",
+				"miner",
+				"drone"
+			]
+		},
+		{
+			"src": "https://i.redd.it/bnyg6rkxrj3a1.png",
+			"alt": "Stairs wrap around the miner with glass all the way up to see the movement",
+			"highlightsMeta": [
+				"red jungle",
+				"team hands",
+				"railing",
+				"glass",
+				"outpost",
+				"miner",
+				"interior",
+				"stairs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/1bpmlvkxrj3a1.png",
+			"alt": "Drone port overhangs the side of the building due to initially trying to build inside 4x4 grid",
+			"highlightsMeta": [
+				"red jungle",
+				"team hands",
+				"glass",
+				"outpost",
+				"drone",
+				"stairs",
+				"interior"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/zarbte/i_build_a_roof_out_of_conveyor_belleds_what_do/": [
+		{
+			"src": "https://preview.redd.it/iakbb43ani3a1.png?width=640&crop=smart&auto=webp&s=83ea35eddb11c0f530af7a924e200d72d0e8f467",
+			"alt": "i build a roof out of conveyor belleds what do you guys thing",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/iakbb43ani3a1.png",
+			"alt": "i build a roof out of conveyor belleds what do you guys thing",
+			"highlightsMeta": [
+				"dune desert",
+				"no team",
+				"belts"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/zafcmg/ficsmas_has_come_early_to_midgar/": [
+		{
+			"src": "https://i.redd.it/7jsplju5wf3a1.png",
+			"highlightsMeta": [
+				"swamp",
+				"uncertain location",
+				"final fantasy",
+				"nuclear plant",
+				"ficsmas",
+				"frames",
+				"lights",
+				"belts",
+				"night time"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ixbnvk4dwf3a1.png",
+			"highlightsMeta": [
+				"swamp",
+				"uncertain location",
+				"final fantasy",
+				"nuclear plant",
+				"ficsmas",
+				"frames",
+				"lights",
+				"belts",
+				"sunrise/sunset",
+				"drone",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/059h1m6gwf3a1.png",
+			"alt": "a jolly reactor",
+			"highlightsMeta": [
+				"swamp",
+				"uncertain location",
+				"final fantasy",
+				"nuclear plant",
+				"ficsmas",
+				"frames",
+				"lights",
+				"belts",
+				"catwalk",
+				"pipes",
+				"cables",
+				"signs"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/z9sllv/more_gothic_experiments_this_time_xevexian/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/YG6Qn7dAxEEK-JmHA4X3jaMOtBeJiue9k4i-q2_fiN8.jpg",
+			"alt": "More Gothic experiments this time Xevexian Station... for trains!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hws860hfeb3a1.jpg",
+			"alt": "Xevexian Station... for trains!",
+			"highlightsMeta": [
+				"grass fields",
+				"uncertain location",
+				"night time",
+				"architecture",
+				"glass",
+				"lights",
+				"train station"
+			]
+		},
+		{
+			"src": "https://i.redd.it/4rg7i9egeb3a1.jpg",
+			"alt": "Daytime view",
+			"highlightsMeta": [
+				"grass fields",
+				"uncertain location",
+				"architecture",
+				"glass",
+				"lights",
+				"train station",
+				"train",
+				"train tracks",
+				"viaduct",
+				"train signals"
+			]
+		},
+		{
+			"src": "https://i.redd.it/4rg7i9egeb3a1.jpg",
+			"alt": "There is a quatrefoil train exit/entrance on both ends. It's a little tight but it doesn't clip.",
+			"highlightsMeta": [
+				"grass fields",
+				"uncertain location",
+				"architecture",
+				"glass",
+				"lights",
+				"train station",
+				"train",
+				"train tracks",
+				"viaduct",
+				"train signals",
+				"sunrise/sunset"
+			]
+		},
+		{
+			"src": "https://i.redd.it/708ntntieb3a1.jpg",
+			"highlightsMeta": [
+				"grass fields",
+				"uncertain location",
+				"night time",
+				"architecture",
+				"glass",
+				"lights",
+				"train station",
+				"interior",
+				"train",
+				"train signals"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/z9fgwt/ficsmas_factory_spread_sheet/": [
+		{
+			"src": "https://preview.redd.it/3xbxu5io183a1.png?width=640&crop=smart&auto=webp&s=8c5ecc514e39328fe32b6376671ee97e4182bded",
+			"alt": "FICSMAS factory spread sheet",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3xbxu5io183a1.png",
+			"alt": "FICSMAS factory spread sheet",
+			"highlightsMeta": [
+				"unknown location",
+				"no team",
+				"signs"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/z83be2/a_new_bridge_on_my_doublestacked_rail_network/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Y4_9VE6tgJY3h9AFqHcLK6Vs5UvZkSNk8kAFbg_y-So.jpg",
+			"alt": "A new bridge on my double-stacked rail network",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zujbyo37xx2a1.png",
+			"alt": "Side view with the construction train on the lower deck",
+			"highlightsMeta": [
+				"desert canyons",
+				"bridge",
+				"no team",
+				"train",
+				"train tracks",
+				"space elevator",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/wu5cnf1cxx2a1.png",
+			"alt": "Through the bridge",
+			"highlightsMeta": [
+				"desert canyons",
+				"bridge",
+				"no team",
+				"train",
+				"train tracks",
+				"space elevator",
+				"tower",
+				"interior"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/z9f226/managed_to_grab_this_really_pretty_screenshot/": [
+		{
+			"src": "https://preview.redd.it/mwm3lpngy73a1.png?width=640&crop=smart&auto=webp&s=71259f33b740f83e385869183558c3967e59ae92",
+			"alt": "Managed to grab this really pretty screenshot",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mwm3lpngy73a1.png",
+			"alt": "Managed to grab this really pretty screenshot",
+			"highlightsMeta": [
+				"beach islands",
+				"no team",
+				"nature",
+				"train signals",
+				"train",
+				"train tracks",
+				"viaduct",
+				"lights",
+				"cables",
+				"fog"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/z85fq7/my_new_quality_control_manager_is_really_taking/": [
+		{
+			"src": "https://preview.redd.it/76g24hocby2a1.png?width=640&crop=smart&auto=webp&s=1157248477365db071480b274e225db8a0ea0627",
+			"alt": "My new quality control manager is really taking the job seriously.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/76g24hocby2a1.png",
+			"alt": "My new quality control manager is really taking the job seriously.",
+			"highlightsMeta": [
+				"grass fields",
+				"no team",
+				"belts",
+				"assembler",
+				"bean",
+				"manta",
+				"cables",
+				"miner",
+				"belts",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/z7wczd/the_sky_is_the_limit_free_your_mind/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/zL9gOCGThTn6d2BdfptHyosVUm2ktRdRdJhThnzm6TY.jpg",
+			"alt": "the sky is the limit, free your mind!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4ot1ri9jmw2a1.png",
+			"highlightsMeta": [
+				"unknown location",
+				"team hover pack",
+				"fog",
+				"frames",
+				"cables"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/ze3zby/wip_ficsmas_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/nkiO0VPOnrsRHGwn_bJubQRbf_1kRBAqHJjsyJbVvLo.jpg",
+			"alt": "WIP Ficsmas factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/10vcho5ga94a1.jpg",
+			"alt": "Mandatory Ficsit Holiday cheer. haven't done Ficsmas since the first year. Wanted to go bigger this year and make something I won't tear down a few days after it ends.",
+			"highlightsMeta": [
+				"interior",
+				"ficsmas",
+				"railing",
+				"cables"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/zdpwqt/why/": [
+		{
+			"src": "https://preview.redd.it/cttzmyf9c64a1.png?width=640&crop=smart&auto=webp&s=7819bf4b62bb1d82b6536ee075f9e856e8247f2a",
+			"alt": "Why",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cttzmyf9c64a1.png",
+			"alt": "Why",
+			"highlightsMeta": [
+				"beach islands",
+				"no team",
+				"rain",
+				"belts",
+				"art"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/zdmw3c/couple_of_shots_of_my_batterydrone_factory_and_it/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/2gfDqacCJZm-7q4Ffl-FuzxaNxgNMafq87AQVzKcEYU.jpg",
+			"alt": "Couple of shots of my battery/Drone factory, and it works well with my aluminum factory. either that or it looks like a train LUL",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/y398tdacs54a1.png",
+			"highlightsMeta": [
+				"lake forest",
+				"no team",
+				"night time",
+				"lights",
+				"signs as lights",
+				"power storage bank",
+				"glass"
+			]
+		},
+		{
+			"src": "https://i.redd.it/efjrkzbds54a1.png",
+			"highlightsMeta": [
+				"lake forest",
+				"no team",
+				"bean",
+				"lights",
+				"signs as lights",
+				"glass",
+				"refinery",
+				"smelter",
+				"manifold",
+				"pipes",
+				"water extractor"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/zd8e33/the_factory_must_grow/": [
+		{
+			"src": "https://preview.redd.it/n1y2hls8434a1.png?width=640&crop=smart&auto=webp&s=306c9dd93788592e882e8f9f0dad06b43d76ad11",
+			"alt": "the factory must grow",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/n1y2hls8434a1.png",
+			"alt": "the factory must grow",
+			"highlightsMeta": [
+				"snaketree forest",
+				"team hover pack",
+				"team golden cup",
+				"train tracks",
+				"drone",
+				"signs",
+				"lights",
+				"tower",
+				"cityscape",
+				"pipes",
+				"glass"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/zd3ohe/its_beginning_to_look_a_lot_like_ficsmas/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/rUZP-1A0xkDMxJG2Geb2fvRnQDe7mKupCcouD9gMNBw.jpg",
+			"alt": "It's beginning to look a lot like FICSMAS",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bc7eqzjy524a1.png",
+			"alt": "It's starting to snow! Kinda...",
+			"highlightsMeta": [
+				"sunrise/sunset",
+				"ficsmas",
+				"grass fields",
+				"no team",
+				"frames",
+				"signs",
+				"lights",
+				"hub",
+				"foundation patterns",
+				"catwalk",
+				"refinery",
+				"glass",
+				"lights",
+				"belts",
+				"cityscape"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ig5l78ky524a1.png",
+			"alt": "Farting trees",
+			"highlightsMeta": [
+				"sunrise/sunset",
+				"no team",
+				"ficsmas",
+				"grass fields",
+				"frames",
+				"signs",
+				"lights",
+				"hub",
+				"foundation patterns",
+				"catwalk",
+				"refinery",
+				"glass",
+				"lights",
+				"belts",
+				"train station",
+				"roads",
+				"tubes",
+				"cables",
+				"manta",
+				"cityscape"
+			]
+		},
+		{
+			"src": "https://i.redd.it/8x4ygkky524a1.png",
+			"alt": "Imagine waking up to this",
+			"highlightsMeta": [
+				"uncertain location",
+				"warehouse",
+				"signs",
+				"interior",
+				"hub",
+				"cables",
+				"foundation patterns",
+				"catwalk",
+				"ficsmas",
+				"beams"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qczwb8ky524a1.png",
+			"alt": "Home sweet home",
+			"highlightsMeta": [
+				"night time",
+				"ficsmas",
+				"grass fields",
+				"roads",
+				"foundation patterns",
+				"signs as lights",
+				"cables",
+				"hub",
+				"tubes",
+				"frames",
+				"belts",
+				"lights",
+				"glass",
+				"refinery",
+				"cityscape"
+			]
+		},
+		{
+			"src": "https://i.redd.it/hty5taky524a1.png",
+			"alt": "<3",
+			"highlightsMeta": [
+				"night time",
+				"grass fields",
+				"cityscape",
+				"no team",
+				"roads",
+				"foundation patterns",
+				"catwalk",
+				"cables",
+				"lights",
+				"belts",
+				"signs",
+				"tubes",
+				"frames"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/z7hrxe/beauty_shot_of_copper_alloy_ingot_blueprint/": [
 		{
 			"src": "https://preview.redd.it/e14mqxsz4t2a1.jpg?width=640&crop=smart&auto=webp&s=1655bca08ba2a83a6305b8e2c8c8f7fbffb6746e",

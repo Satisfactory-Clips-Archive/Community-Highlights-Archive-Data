@@ -6218,5 +6218,28 @@
 				]
 			}
 		}
+	},
+	"2022-12-06": {
+		"yt-fVCw51TOHeA": {
+			"38:37 solarflare1337 - Chat: 1 for Aluminum 2 for Aluminium https://satisfactory-calculator.com/en/blueprints/index/details/id/1475/name/aluminum+ingot+240+per+minute": {
+				"timestamp": 2317,
+				"raw_text": "solarflare1337 - Chat: 1 for Aluminum 2 for Aluminium https://satisfactory-calculator.com/en/blueprints/index/details/id/1475/name/aluminum+ingot+240+per+minute",
+				"timestamps_for_links": [
+					2334
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2334,
+						"meta": [
+							"northern forest",
+							"refinery",
+							"manifold",
+							"glass",
+							"team cup"
+						]
+					}
+				]
+			}
+		}
 	}
 }

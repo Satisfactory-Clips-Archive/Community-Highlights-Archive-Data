@@ -1,0 +1,10 @@
+{
+	"includes": {
+		"media": [
+			{
+				"type": "photo",
+				"url": "https://pbs.twimg.com/media/FjRCVs5XgAMOWH6.jpg"
+			}
+		]
+	}
+}

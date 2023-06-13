@@ -1,4 +1,19 @@
 {
+	"https://www.youtube.com/watch?v=A1ju2_1sUj0": [
+		{
+			"src": "https://img.youtube.com/vi/A1ju2_1sUj0/hqdefault.jpg",
+			"skip": false,
+			"highlightsMeta": [
+				"unknown location",
+				"no team",
+				"smelter",
+				"manifold",
+				"belts",
+				"constructor",
+				"cables"
+			]
+		}
+	],
 	"https://www.youtube.com/watch?v=IFqogSObP6E": [
 		{
 			"src": "https://img.youtube.com/vi/IFqogSObP6E/hqdefault.jpg",

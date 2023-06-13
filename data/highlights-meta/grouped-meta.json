@@ -176,7 +176,9 @@
 			"manufacturer",
 			"smelter",
 			"constructor",
-			"refinery"
+			"refinery",
+			"water extractor",
+			"biomass burner"
 		],
 		"vehicles": [
 			"cyber wagon",
@@ -190,6 +192,7 @@
 		"other": [
 			"boombox",
 			"catwalk",
+			"railing",
 			"frames",
 			"beams",
 			"belts",
