@@ -1,5 +1,6 @@
 {
 	"$schema": "https://json-schema.org/draft/2019-09/schema",
+	"$id": "grouped-meta.schema.json",
 	"type": "object",
 	"required": [
 		"biomes",
@@ -79,7 +80,7 @@
 				"other": {
 					"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
 				}
-			},
+			}
 		},
 		"creatures": {
 			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
