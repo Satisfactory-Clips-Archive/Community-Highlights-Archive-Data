@@ -6241,5 +6241,38 @@
 				]
 			}
 		}
+	},
+	"2022-12-13": {
+		"yt-Ny6KcOCdABM": {
+			"19:56 nightb3rt - CLEAN https://twitter.com/nightb3rt/status/1600593148589363202": {
+				"timestamp": 1196,
+				"raw_text": "nightb3rt - CLEAN https://twitter.com/nightb3rt/status/1600593148589363202",
+				"timestamps_for_links": [
+					1205
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1205,
+						"meta": [
+							"uncertain location",
+							"manta",
+							"no team",
+							"outpost",
+							"refinery",
+							"manifold",
+							"radar tower",
+							"lights",
+							"frames",
+							"beams",
+							"tower",
+							"lookout tower",
+							"train tracks",
+							"bridge",
+							"fog"
+						]
+					}
+				]
+			}
+		}
 	}
 }

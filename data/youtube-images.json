@@ -1,4 +1,30 @@
 {
+	"https://www.youtube.com/watch?v=reT5Ti3-9uQ": [
+		{
+			"src": "https://img.youtube.com/vi/reT5Ti3-9uQ/hqdefault.jpg",
+			"skip": true
+		}
+	],
+	"https://www.youtube.com/watch?v=ZljktwoQPRI": [
+		{
+			"src": "https://img.youtube.com/vi/ZljktwoQPRI/hqdefault.jpg",
+			"skip": true
+		}
+	],
+	"https://www.youtube.com/watch?v=sNCHQGfni_k": [
+		{
+			"src": "https://img.youtube.com/vi/sNCHQGfni_k/hqdefault.jpg",
+			"skip": false,
+			"highlightsMeta": [
+				"unknown location",
+				"no team",
+				"signs",
+				"games",
+				"architecture",
+				"foundation patterns"
+			]
+		}
+	],
 	"https://www.youtube.com/watch?v=A1ju2_1sUj0": [
 		{
 			"src": "https://img.youtube.com/vi/A1ju2_1sUj0/hqdefault.jpg",
