@@ -1,0 +1,15 @@
+{
+	"$schema": "https://json-schema.org/draft/2019-09/schema",
+	"$id": "dated.schema.json",
+	"type": "object",
+	"additionalProperties": false,
+	"patternProperties": {
+		"^\\d{4,}-\\d{2}-\\d{2}$":  {
+			"type": "object",
+			"additionalProperties": false,
+			"patternProperties": {
+				"^yt-[A-Za-z0-9\\-_]{11,}$":  {"type": "string"}
+			}
+		}
+	}
+}

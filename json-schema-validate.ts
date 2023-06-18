@@ -6,6 +6,7 @@ import twitch_clips_schema from './data/twitch-clip-images.schema.json' assert {
 import highlights_meta_schema from './data/highlights-meta.json' assert {type: 'json'};
 import grouped_meta_schema from './data/highlights-meta/grouped-meta.schema.json' assert {type: 'json'};
 import authors_schema from './data/authors.schema.json' assert {type: 'json'};
+import dated_schema from './data/dated.schema.json' assert {type: 'json'};
 
 import discord from './data/discord-images.json' assert {type: 'json'};
 import reddit from './data/reddit-images.json' assert {type: 'json'};
@@ -15,6 +16,9 @@ import ytdlp from './data/has-author-but-no-links.json' assert {type: 'json'};
 import twitch_clips from './data/twitch-clip-images.json' assert {type: 'json'};
 import grouped_meta from './data/highlights-meta/grouped-meta.json' assert {type: 'json'};
 import authors from './data/authors.json' assert {type: 'json'};
+import dated from './data/dated.json' assert {type: 'json'};
+
+declare type validations_type = {[key: string]: object};
 
 declare type image_source_type = {
 	[key: string]: {
@@ -56,6 +60,12 @@ declare type authors_type = {
 	aliased: {[key: string]: string},
 };
 
+declare type dated_type = {
+	[key: string]: {
+		[key: string]: string,
+	},
+};
+
 const fudge_highlights_meta_schema = Object.assign(
 	{},
 	highlights_meta_schema,
@@ -85,11 +95,12 @@ async function validate<T>(json:any, schema:JSONSchemaType<T>) : Promise<T> {
 }
 
 const validations_to_make: [
-	[JSONSchemaType<image_source_type>, {[key: string]: object}],
-	[JSONSchemaType<ytldp_type>, {[key: string]: object}],
-	[JSONSchemaType<twitch_clips_type>, {[key: string]: object}],
-	[JSONSchemaType<grouped_meta_type>, {[key: string]: object}],
-	[JSONSchemaType<authors_type>, {[key: string]: object}],
+	[JSONSchemaType<image_source_type>, validations_type],
+	[JSONSchemaType<ytldp_type>, validations_type],
+	[JSONSchemaType<twitch_clips_type>, validations_type],
+	[JSONSchemaType<grouped_meta_type>, validations_type],
+	[JSONSchemaType<authors_type>, validations_type],
+	[JSONSchemaType<dated_type>, validations_type],
 ] = [
 	[
 		(image_sources_schema as unknown) as JSONSchemaType<image_source_type>,
@@ -123,6 +134,12 @@ const validations_to_make: [
 		{
 			authors,
 		}
+	],
+	[
+		(dated_schema as unknown) as JSONSchemaType<dated_type>,
+		{
+			dated,
+		},
 	],
 ];
 
