@@ -96,6 +96,8 @@ Indicates when each version of `data/highlights-meta.json` was created. Generall
 ## `data/authors.json`
 An index of Community Highlights creators.
 
+Validated by `data/authors.schema.json`.
+
 ### `data/authors.json#unaliased`
 The names extracted from `data/by-youtube-video/*/desc.txt` with the uuid generated randomly at the time they are
 	processed by the site builder.
@@ -108,8 +110,16 @@ Creator names are not always consistently presented in `data/by-youtube-video/*/
 
 Entries can be added to this section in advance of their corresponding file being added to `data/by-youtube-video/`
 
+## `data/authors.schema.json`
+The JSON Schema for validating `data/authors.json`.
+
 ## `data/dated.json`
 An index of Community Highlights videos, listed by date.
+
+Validated by `data/dated.schema.json`.
+
+## `data/dated.schema.json`
+The JSON Schema for validating `data/dated.json`.
 
 ## `data/discord-images.json`
 An index of Community Highlights links, the corresponding image & any appropriate caption or meta values.
