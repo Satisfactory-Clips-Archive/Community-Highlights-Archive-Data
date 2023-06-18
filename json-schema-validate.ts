@@ -5,6 +5,7 @@ import ytldp_schema from './data/yt-dlp.schema.json' assert {type: 'json'};
 import twitch_clips_schema from './data/twitch-clip-images.schema.json' assert {type: 'json'};
 import highlights_meta_schema from './data/highlights-meta.json' assert {type: 'json'};
 import grouped_meta_schema from './data/highlights-meta/grouped-meta.schema.json' assert {type: 'json'};
+import authors_schema from './data/authors.schema.json' assert {type: 'json'};
 
 import discord from './data/discord-images.json' assert {type: 'json'};
 import reddit from './data/reddit-images.json' assert {type: 'json'};
@@ -13,6 +14,7 @@ import youtube from './data/youtube-images.json' assert {type: 'json'};
 import ytdlp from './data/has-author-but-no-links.json' assert {type: 'json'};
 import twitch_clips from './data/twitch-clip-images.json' assert {type: 'json'};
 import grouped_meta from './data/highlights-meta/grouped-meta.json' assert {type: 'json'};
+import authors from './data/authors.json' assert {type: 'json'};
 
 declare type image_source_type = {
 	[key: string]: {
@@ -49,6 +51,11 @@ declare type grouped_meta_type = {
 	[key: string]: grouped_meta_type|string[],
 };
 
+declare type authors_type = {
+	unaliased: {[key: string]: string},
+	aliased: {[key: string]: string},
+};
+
 const fudge_highlights_meta_schema = Object.assign(
 	{},
 	highlights_meta_schema,
@@ -82,6 +89,7 @@ const validations_to_make: [
 	[JSONSchemaType<ytldp_type>, {[key: string]: object}],
 	[JSONSchemaType<twitch_clips_type>, {[key: string]: object}],
 	[JSONSchemaType<grouped_meta_type>, {[key: string]: object}],
+	[JSONSchemaType<authors_type>, {[key: string]: object}],
 ] = [
 	[
 		(image_sources_schema as unknown) as JSONSchemaType<image_source_type>,
@@ -109,6 +117,12 @@ const validations_to_make: [
 		{
 			grouped_meta,
 		},
+	],
+	[
+		(authors_schema as unknown) as JSONSchemaType<authors_type>,
+		{
+			authors,
+		}
 	],
 ];
 

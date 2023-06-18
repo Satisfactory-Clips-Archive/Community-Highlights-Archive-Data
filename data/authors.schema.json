@@ -1,0 +1,24 @@
+{
+	"$schema": "https://json-schema.org/draft/2019-09/schema",
+	"$id": "authors.schema.json",
+	"type": "object",
+	"required": [
+		"unaliased",
+		"aliased"
+	],
+	"additionalProperties": false,
+	"properties": {
+		"unaliased": {
+			"type": "object",
+			"additionalProperties": {
+				"type": "string"
+			}
+		},
+		"aliased": {
+			"type": "object",
+			"additionalProperties": {
+				"type": "string"
+			}
+		}
+	}
+}
