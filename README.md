@@ -73,6 +73,7 @@ Since the Twitter api changes, retrieval of Twitter api data is now a manual pro
 * Filenames are the lowercase hexadecimal digest of the sha-512 hash of the tweet url.
 
 ### Example
+#### Has images
 `https://twitter.com/SoenKigi/status/1599976711445131264` resolves to
 	`8148ef2b37d3cf8b72f10e05047e4b6833f8ce3e9b29f5fdffbb4da0b64269eadf34c68e20f23eb8e14556e9534b0cff4dc02eea6aa4902488493eb37ad02c5d.json`
 
@@ -85,6 +86,15 @@ Since the Twitter api changes, retrieval of Twitter api data is now a manual pro
 				"url": "https://pbs.twimg.com/media/FjRCVs5XgAMOWH6.jpg"
 			}
 		]
+	}
+}
+```
+
+#### Tweet deleted since sourcing
+```json
+{
+	"includes": {
+		"media": []
 	}
 }
 ```
