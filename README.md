@@ -13,7 +13,7 @@ The meta value are associated with images manually, automated no image processin
 
 ## Notes
 * Please edit [`data/highlights-meta-to-add.json`](data/highlights-meta-to-add.json)
-    her than making changes to the various data files as portions of that process are already handled by the site
+    rather than making changes to the various data files as portions of that process are already handled by the site
     builder.
 * If you are not familiar with editing files on GitHub, please refer to
     [GitHub's documentation](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository)
