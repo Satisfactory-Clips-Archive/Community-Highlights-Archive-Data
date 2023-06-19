@@ -11,29 +11,42 @@ The meta value are associated with images manually, automated no image processin
 * Sometimes meta values are added in response to something featured in a new Community Highlights video
 * Sometimes aspects of a Community Highlights entry weren't noticed 🤷‍♂️
 
-### Adding an existing value to an image
-This is a general guide for making PRs against this repo.
-
-1. Find the corresponding JSON document for the image
-   * Discord, Reddit, Twitch clips, Twitter, and YouTube-sourced entries have their own separate files
-   * Entries with no source found at the point of processing will be in `data/has-author-but-no-links.json`
-   * Entries that had a source at some point will be in `data/has-author-but-no-links.json` rather than the
-       corresponding JSON file for that website/service.
-   * Entries that have additional imagery extracted from the Community Highlights YouTube video itself will also be
-       found in `data/has-author-but-no-links.json`
-2. Locate the entry in the file(s) for the image you are adding the additional meta value(s) to.
-3. Add the value to the appropriate property/sub-object
-   * Files validated by `data/image-sources.schema.json` have a per-image `highlightsMeta` array
-   * Files validated by `data/twitch-clip-images.json` or `data/yt-dlp.schema.json` have
-       sub-objects with a `meta` property.
-4. Save the file & commit the changes.
+## Notes
+* Please edit [`data/highlights-meta-to-add.json`](data/highlights-meta-to-add.json)
+    her than making changes to the various data files as portions of that process are already handled by the site
+    builder.
+* If you are not familiar with editing files on GitHub, please refer to
+    [GitHub's documentation](https://docs.github.com/en/repositories/working-with-files/managing-files/editing-files#editing-files-in-another-users-repository)
+    before attempting to edit [`data/highlights-meta-to-add.json`](data/highlights-meta-to-add.json).
+* Meta values are generally lower-case, community names preferred over actual names (e.g. "bean" instead of
+    "Space Giraffe-Tick-Penguin-Whale Thing" or "Confusing Creature")
 
 ### Renaming an existing value
 Please don't 😅. Please instead file an Issue to have a meta value changed.
 
-### Adding a new meta value
-Please edit `data/highlights-meta-to-add.json` rather than making changes to the various data files as portions
-	of that process are already handled by the site builder.
+### Adding meta values to images
+
+1. Locate or add the JSON key for the new or current meta value, using a JSON array (`[]` for new values)
+2. Find the image URL
+	* The simplest way to check where an image came from may be to browse the
+        [Community Highlights Archive website](https://communityhighlights.satisfactory.video/).
+        If the highlights entry does not appear to have a source link (i.e. if it was extracted from the YouTube video),
+		you may need to contact SignpostMarv on Discord or Twitter for the `yt-dlp`-style image link.
+	* For Tweets:
+      1. open the tweet (e.g. https://twitter.com/jembawls/status/1383101151814488068)
+      2. open the image in the tweet that was used in the highlights entry in a new tab (e.g.
+          https://pbs.twimg.com/media/EzHDHAOXEAo-Y3T?format=jpg&name=small)
+      3. Search the GitHub repo for the image id - the bit after `/media/` but before `?format` (e.g.
+          https://github.com/search?q=repo%3ASatisfactory-Clips-Archive%2FCommunity-Highlights-Archive-Data%20EzHDHAOXEAo-Y3T&type=code)
+      4. Copy the image url from the search results (e.g. `https://pbs.twimg.com/media/EzHDHAOXEAo-Y3T.jpg`)
+    * For Reddit posts (similar to the above Tweets example):
+      1. Open the Reddit post
+      2. Open the image from the Reddit post that was featured in the highlights entry in a new tab
+      3. Search for the filename
+      4. Copy the image url from the search results
+3. Add the image URL to the appropriate JSON array
+4. Repeat steps 1-3 for each change to be made
+5. Save/Commit/PR
 
 #### Example
 ```json
