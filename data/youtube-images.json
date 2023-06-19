@@ -1,4 +1,27 @@
 {
+	"https://www.youtube.com/watch?v=wQG33TX_qZU": [
+		{
+			"src": "https://img.youtube.com/vi/wQG33TX_qZU/hqdefault.jpg",
+			"skip": true
+		}
+	],
+	"https://www.youtube.com/watch?v=EopulYWK2G8": [
+		{
+			"src": "https://img.youtube.com/vi/EopulYWK2G8/hqdefault.jpg",
+			"skip": true
+		}
+	],
+	"https://www.youtube.com/watch?v=KmSCez2BRbs": [
+		{
+			"src": "https://img.youtube.com/vi/KmSCez2BRbs/hqdefault.jpg",
+			"highlightsMeta": [
+				"unknown location",
+				"no team",
+				"constructor",
+				"belts"
+			]
+		}
+	],
 	"https://www.youtube.com/watch?v=reT5Ti3-9uQ": [
 		{
 			"src": "https://img.youtube.com/vi/reT5Ti3-9uQ/hqdefault.jpg",
