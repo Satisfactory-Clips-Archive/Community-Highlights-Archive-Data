@@ -4,6 +4,39 @@
 			"src": "https://b.thumbs.redditmedia.com/A1aHdj3kGGgaWNCr4Q-SkfOJns0aZc-f-UPqrLxPh7U.jpg",
 			"alt": "17GW power station. The morning sun gives fantastic lighting and the clean lines are fantastic. Over 100 Fuel Generators.",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3sn9e3xh8x7a1.jpg",
+			"highlightsMeta": [
+				"spire coast",
+				"sunrise/sunset",
+				"fog",
+				"fuel plant",
+				"cables",
+				"repetition"
+			]
+		},
+		{
+			"src": "https://i.redd.it/cfz4x3xh8x7a1.jpg",
+			"highlightsMeta": [
+				"spire coast",
+				"sunrise/sunset",
+				"fog",
+				"fuel plant",
+				"cables",
+				"repetition"
+			]
+		},
+		{
+			"src": "https://i.redd.it/bf3004xh8x7a1.jpg",
+			"highlightsMeta": [
+				"spire coast",
+				"pipes",
+				"manifold",
+				"fuel plant",
+				"cables",
+				"repetition"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/zvrdr9/": [
@@ -11,6 +44,14 @@
 			"src": "https://b.thumbs.redditmedia.com/Ctrw0isgvb9F8CWMCmgrFRGcS7DddXGPod-ucbEEdTM.jpg",
 			"alt": "\"Note that the water needs to be deep enough\" they say, \"rivers do not commonly suffice\" they say... pt.1",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yovbuj0tw98a1.png",
+			"highlightsMeta": [
+				"northern forest",
+				"crash site",
+				"water extractor"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/ztszj0/": [
@@ -21,7 +62,16 @@
 		},
 		{
 			"src": "https://i.redd.it/ekeo4ghhar7a1.jpg",
-			"alt": "Thought I’d preserve the holiday cheer."
+			"alt": "Thought I’d preserve the holiday cheer.",
+			"highlightsMeta": [
+				"ficsmas",
+				"grass fields",
+				"glass",
+				"lights",
+				"team cup",
+				"space elevator",
+				"manifold"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/ztot4j/": [
@@ -32,7 +82,16 @@
 		},
 		{
 			"src": "https://i.redd.it/6258x5n9so7a1.png",
-			"alt": "My favorite way for spaghetti. Very useful, compact and comfortable (especially if you have a hoover already)"
+			"alt": "My favorite way for spaghetti. Very useful, compact and comfortable (especially if you have a hoover already)",
+			"highlightsMeta": [
+				"lasagn",
+				"belts",
+				"team hover pack",
+				"glass",
+				"radar tower",
+				"manifold",
+				"warehouse"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/ztn8kx/": [
@@ -40,6 +99,57 @@
 			"src": "https://a.thumbs.redditmedia.com/3rKaj4yvE4zOscD--91yENEFBY9GhXHVqEbjPjGzYT0.jpg",
 			"alt": "Just another bridge",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4wwzfb2ujo7a1.png",
+			"alt": "Bridge to Paradise Island",
+			"highlightsMeta": [
+				"paradise island",
+				"grass fields",
+				"no team",
+				"train signals",
+				"bridge",
+				"ficsmas",
+				"frames",
+				"lights",
+				"cables",
+				"train tracks"
+			]
+		},
+		{
+			"src": "https://i.redd.it/3zp05d2ujo7a1.png",
+			"alt": "Combined road and rail",
+			"highlightsMeta": [
+				"paradise island",
+				"grass fields",
+				"no team",
+				"bridge",
+				"frames",
+				"lights",
+				"cables",
+				"train tracks",
+				"foundation patterns",
+				"roads"
+			]
+		},
+		{
+			"src": "https://i.redd.it/8emc9i2ujo7a1.png",
+			"alt":  "Bridge's first user",
+			"highlightsMeta": [
+				"paradise island",
+				"grass fields",
+				"no team",
+				"bridge",
+				"frames",
+				"lights",
+				"cables",
+				"train tracks",
+				"foundation patterns",
+				"roads",
+				"train station",
+				"bean",
+				"train signals"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/ztbw0g/": [
@@ -50,7 +160,15 @@
 		},
 		{
 			"src": "https://i.redd.it/8gk7w73uhm7a1.png",
-			"alt": "How Many? Yes."
+			"alt": "How Many? Yes.",
+			"highlightsMeta": [
+				"tubes",
+				"cables",
+				"belts",
+				"ficsmas",
+				"crater lakes",
+				"glass"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/100c5i8/": [
@@ -68,7 +186,12 @@
 		},
 		{
 			"src": "https://i.redd.it/t75bt6zqee7a1.png",
-			"alt": "Phew. It took 132 hours but i finally made it"
+			"alt": "Phew. It took 132 hours but i finally made it",
+			"highlightsMeta": [
+				"space elevator",
+				"unknown location",
+				"user interface"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/zsad5q/": [
@@ -114,7 +237,23 @@
 		},
 		{
 			"src": "https://i.redd.it/vlhq2pp10w8a1.png",
-			"alt": "8 Plutonium Rods p/m, everything except aluminium is produced on site"
+			"alt": "8 Plutonium Rods p/m, everything except aluminium is produced on site",
+			"highlightsMeta": [
+				"manifold",
+				"particle accelerator",
+				"blender",
+				"refinery",
+				"water extractor",
+				"team feet",
+				"ficsmas",
+				"train station",
+				"belts",
+				"assembler",
+				"train tracks",
+				"train signals",
+				"pipes",
+				"manufacturer"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/zwslnm/": [
@@ -132,7 +271,11 @@
 		},
 		{
 			"src": "https://i.redd.it/mfm2ishnle8a1.png",
-			"alt": "I was playing The Cycle: Frontier and I found this box while wandering around. Had to take a sec to check who made this game lmao."
+			"alt": "I was playing The Cycle: Frontier and I found this box while wandering around. Had to take a sec to check who made this game lmao.",
+			"highlightsMeta": [
+				"references to other franchises",
+				"unknown location"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1083ft1/": [
@@ -143,7 +286,13 @@
 		},
 		{
 			"src": "https://i.redd.it/x8v86w6xi7ba1.png",
-			"alt": "Next plan, a statue holding every item"
+			"alt": "Next plan, a statue holding every item",
+			"highlightsMeta": [
+				"statue gallery",
+				"interior",
+				"unknown location",
+				"boombox"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/107xam3/": [
@@ -154,7 +303,14 @@
 		},
 		{
 			"src": "https://i.redd.it/jeo0gxqhz5ba1.jpg",
-			"alt": "my Favorite Screenshot yet, gotta love the symmetry :)"
+			"alt": "my Favorite Screenshot yet, gotta love the symmetry :)",
+			"highlightsMeta": [
+				"interior",
+				"unknown location",
+				"no team",
+				"belts",
+				"repetition"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/107s9ng/": [
@@ -172,7 +328,15 @@
 		},
 		{
 			"src": "https://i.redd.it/hp0svvvw71ba1.png",
-			"alt": "FICSIT employees must keep their clothes clean at all times"
+			"alt": "FICSIT employees must keep their clothes clean at all times",
+			"highlightsMeta": [
+				"interior",
+				"lizard doggo",
+				"beams",
+				"northern forest",
+				"signs",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1072i74/": [
