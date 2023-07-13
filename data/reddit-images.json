@@ -134,7 +134,7 @@
 		},
 		{
 			"src": "https://i.redd.it/8emc9i2ujo7a1.png",
-			"alt":  "Bridge's first user",
+			"alt": "Bridge's first user",
 			"highlightsMeta": [
 				"paradise island",
 				"grass fields",
@@ -347,7 +347,16 @@
 		},
 		{
 			"src": "https://i.redd.it/sh6otha0mxaa1.jpg",
-			"alt": "Probably the one good view in my current save"
+			"alt": "Probably the one good view in my current save",
+			"highlightsMeta": [
+				"nature",
+				"dune desert",
+				"viaduct",
+				"belts",
+				"space elevator",
+				"radar tower",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1065jk0/": [
@@ -365,7 +374,18 @@
 		},
 		{
 			"src": "https://i.redd.it/b18plcbqgraa1.png",
-			"alt": "We have built IKEA at our server."
+			"alt": "We have built IKEA at our server.",
+			"highlightsMeta": [
+				"references to other franchises",
+				"warehouse",
+				"multiplayer",
+				"night time",
+				"train signals",
+				"railing",
+				"train tracks",
+				"cables",
+				"ficsmas"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10624qz/": [
@@ -376,7 +396,13 @@
 		},
 		{
 			"src": "https://i.redd.it/inmwb8ukrqaa1.jpg",
-			"alt": "I think you know where this is going"
+			"alt": "I think you know where this is going",
+			"highlightsMeta": [
+				"team zipline",
+				"rocky desert",
+				"user interface",
+				"night time"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10591l5/": [
@@ -387,7 +413,19 @@
 		},
 		{
 			"src": "https://i.redd.it/2tw9sfzgbiaa1.png",
-			"alt": "After Elysium and Tartarus, I found my new district's name !"
+			"alt": "After Elysium and Tartarus, I found my new district's name !",
+			"highlightsMeta": [
+				"grass fields crater",
+				"outpost",
+				"train tracks",
+				"roads",
+				"foundation patterns",
+				"signs",
+				"glass",
+				"train station",
+				"frames",
+				"lights"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1056sy6/": [
@@ -433,7 +471,15 @@
 		},
 		{
 			"src": "https://i.redd.it/wuqf3ncq5y9a1.png",
-			"alt": "2700 Plastic / minute (i still need 900 more)"
+			"alt": "2700 Plastic / minute (i still need 900 more)",
+			"highlightsMeta": [
+				"spire coast",
+				"tower",
+				"architecture",
+				"pipes",
+				"glass",
+				"refinery"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/100hcke/": [
@@ -472,7 +518,17 @@
 		},
 		{
 			"src": "https://i.redd.it/yjwl8q86qo9a1.png",
-			"alt": "This is one way to go :)"
+			"alt": "This is one way to go :)",
+			"highlightsMeta": [
+				"rocky desert",
+				"assembler",
+				"outpost",
+				"weatherwax",
+				"train station",
+				"lights",
+				"train tracks",
+				"train signals"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/100u11m/": [
