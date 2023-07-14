@@ -88,17 +88,34 @@
 	"https://twitter.com/SummerChild81/status/1608972620166488066": [
 		{
 			"src": "https://pbs.twimg.com/media/FlQ4DqrXkAQzqyt.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"references to other franchises",
+				"pixel art",
+				"unknown location",
+				"signs"
+			]
 		}
 	],
 	"https://twitter.com/BLAndrew575/status/1612321215951036416": [
 		{
 			"src": "https://pbs.twimg.com/media/FmAbVNCWIAAvJTs.jpg",
-			"skip": true
+			"highlightsMeta": [
+				"user interface",
+				"unknown location",
+				"no team"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FmAdPhLWIAApAN6.jpg",
-			"skip": true
+			"highlightsMeta": [
+				"repetition",
+				"unknown location",
+				"no team",
+				"belts",
+				"awesome sink",
+				"cables",
+				"ficsmas"
+			]
 		}
 	],
 	"https://twitter.com/d3r_jo/status/1610580671524642817": [

@@ -229,6 +229,22 @@
 			"src": "https://b.thumbs.redditmedia.com/V3TGOaS3K7GWQOLLQJYRXjjowm2HyqMXNGF0QXWE3yg.jpg",
 			"alt": "Security Checkpoint (Base remake teaser)",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d3eku9ico87a1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"no team",
+				"parking lot",
+				"foundation patterns",
+				"roads",
+				"beams",
+				"railing",
+				"signs",
+				"cables",
+				"belts",
+				"outpost"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/zzz3wd/": [
@@ -236,6 +252,45 @@
 			"src": "https://b.thumbs.redditmedia.com/CM_RfQ5-w5bBgYAgC6nSbAe_auq0EX8pwC8e2LqRcdg.jpg",
 			"alt": "My new factory producing 8 HMF/min using 920 iron ore/min, 620 coal/min, 300 limestone/min, 150 caterium ore/min, 250 m³/min of water.",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wwqxujkkn99a1.png",
+			"alt": "The exterior of the factory.",
+			"highlightsMeta": [
+				"titan forest",
+				"no team",
+				"glass",
+				"cables",
+				"warehouse",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/prktcg8ao99a1.png",
+			"alt": "1st Floor: The other half of the smelters and foundries. The constructors sitting above are making iron plates.",
+			"highlightsMeta": [
+				"titan forest",
+				"interior",
+				"no team",
+				"manifold",
+				"belts",
+				"refinery",
+				"cables",
+				"constructor"
+			]
+		},
+		{
+			"src": "https://i.redd.it/vxzy4sijo99a1.png",
+			"alt": "2nd Floor: Constructors for steel pipes, beams, and steel rod alt recipe. Assemblers using stitched plate alt recipe. Also assemblers for encased beams and modular frames.",
+			"highlightsMeta": [
+				"titan forest",
+				"interior",
+				"no team",
+				"manifold",
+				"belts",
+				"assembler",
+				"repetition"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/zzhclf/": [
@@ -243,6 +298,20 @@
 			"src": "https://b.thumbs.redditmedia.com/GqJi7VjEdxN3ZvQEQvZdHUYZa15D0SkW2Sawo63LNuE.jpg",
 			"alt": "The start of my new Steampunk district. I think it's coming along pretty great so far and I'm having a blast with this style! What do you guys think?",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gmzbl748w49a1.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"team hands",
+				"architecture",
+				"bean",
+				"pipes",
+				"beams",
+				"foundation patterns",
+				"roads",
+				"ficsmas"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/zyn1hk/": [
