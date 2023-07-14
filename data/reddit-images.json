@@ -319,6 +319,35 @@
 			"src": "https://b.thumbs.redditmedia.com/7XR3JcTE4phLTXJbbvzZZEexYNF-eHIo5qWqILcUR0A.jpg",
 			"alt": "Quartz Factory with Train connection",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/e53bo68hux8a1.jpg",
+			"highlightsMeta": [
+				"interior",
+				"titan forest",
+				"no team",
+				"manifold",
+				"catwalk",
+				"lights",
+				"train signals",
+				"outpost",
+				"night time"
+			]
+		},
+		{
+			"src": "https://i.redd.it/b1mf1v8hux8a1.jpg",
+			"highlightsMeta": [
+				"titan forest",
+				"no team",
+				"manifold",
+				"catwalk",
+				"lights",
+				"train station",
+				"train tracks",
+				"outpost",
+				"miner",
+				"glass"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/zydp4p/": [
@@ -353,6 +382,33 @@
 			"src": "https://b.thumbs.redditmedia.com/3NfRTORX13Gss4mlLPQ5C5lR4zTPfLbHNmn8Rv-mPIE.jpg",
 			"alt": "My First Fuel Generator Build",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/tyfb7exkpi8a1.png",
+			"alt": "2 Normal and 2 Pure nodes, 12 refineries and 60 fuel gens. Polymer resin goes into Awesome sinks for now.",
+			"highlightsMeta": [
+				"beach islands",
+				"team hands",
+				"oil extractor",
+				"fuel plant",
+				"pipes",
+				"beams",
+				"frames"
+			]
+		},
+		{
+			"src": "https://i.redd.it/jenqxdxkpi8a1.png",
+			"alt": "Can theorically produce 9000Mw if i overclock the fuel production so all gens are working",
+			"highlightsMeta": [
+				"beach islands",
+				"team hands",
+				"oil extractor",
+				"fuel plant",
+				"pipes",
+				"beams",
+				"frames",
+				"ficsmas"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/zwb2m8/": [
@@ -410,6 +466,19 @@
 			"src": "https://b.thumbs.redditmedia.com/mi16M08CGgmwx5LD5xXrz_9gpHxblLWF49YRcbr8F5Q.jpg",
 			"alt": "1 Crown built to order",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/98ame52u73ba1.png",
+			"alt": "RIP Technoblade",
+			"highlightsMeta": [
+				"dune desert",
+				"references to other franchises",
+				"pixel art",
+				"cables",
+				"chimney",
+				"outpost",
+				"train tracks"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/107ghly/": [
@@ -456,6 +525,89 @@
 			"src": "https://b.thumbs.redditmedia.com/WA0PdCG6T8hYW2_Cx78glT1DiJVzsuiXJD75Fy4MnOU.jpg",
 			"alt": "Imperial Steel and a few bonus images because why not? (again, additional comments in comments)",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d4idb32txpaa1.jpg",
+			"alt": "Still perfecting the font.",
+			"highlightsMeta": [
+				"grass fields",
+				"no team",
+				"sunrise/sunset",
+				"architecture",
+				"lights",
+				"glass",
+				"beams",
+				"refinery",
+				"stairs",
+				"pipes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/8poe4wbuxpaa1.jpg",
+			"alt": "One art please! Display case with what's made there and my first gothic bench experiment.",
+			"highlightsMeta": [
+				"interior",
+				"grass fields",
+				"no team",
+				"architecture",
+				"lights",
+				"glass",
+				"beams"
+			]
+		},
+		{
+			"src": "https://i.redd.it/5ztbwot7ypaa1.jpg",
+			"alt": "Required city progress shot.",
+			"highlightsMeta": [
+				"sunrise/sunset",
+				"cityscape",
+				"roads",
+				"radar tower",
+				"grass fields arch",
+				"manta",
+				"train station",
+				"train signals",
+				"refinery",
+				"grass fields",
+				"no team",
+				"architecture",
+				"lights",
+				"glass",
+				"beams",
+				"refinery",
+				"stairs",
+				"belts"
+			]
+		},
+		{
+			"src": "https://i.redd.it/7h0teghgzpaa1.jpg",
+			"alt": "Corridor in the cathedral i am working on.",
+			"highlightsMeta": [
+				"sunrise/sunset",
+				"statue gallery",
+				"interior",
+				"grass fields",
+				"no team",
+				"architecture",
+				"lights",
+				"glass",
+				"beams"
+			]
+		},
+		{
+			"src": "https://i.redd.it/taq1sc0kzpaa1.jpg",
+			"alt": "Close up of the communications shrine.",
+			"highlightsMeta": [
+				"sunrise/sunset",
+				"grass fields arch",
+				"beams",
+				"radar tower",
+				"architecture",
+				"beams",
+				"stairs",
+				"lights",
+				"statue gallery"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1065h3v/": [
@@ -525,6 +677,36 @@
 			"src": "https://b.thumbs.redditmedia.com/zyR13UywZriE07zRHX2ZudlOPw2y2NPtqc8mSb6OXUA.jpg",
 			"alt": "A Pioneer needs a place to party, I just need a name for the club...",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5d7jimzxvhaa1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"night time",
+				"roads",
+				"foundation patterns",
+				"explorer",
+				"outpost",
+				"space elevator",
+				"architecture",
+				"tower",
+				"signs",
+				"signs as lights",
+				"lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/1rvsj74yvhaa1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"night time",
+				"outpost",
+				"architecture",
+				"tower",
+				"signs",
+				"signs as lights",
+				"lights"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/104u2sn/": [

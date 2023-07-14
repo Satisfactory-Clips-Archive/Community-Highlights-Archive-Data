@@ -121,7 +121,16 @@
 	"https://twitter.com/d3r_jo/status/1610580671524642817": [
 		{
 			"src": "https://pbs.twimg.com/media/FlnuKTsXwAAG2T-.jpg",
-			"skip": true
+			"highlightsMeta": [
+				"dune desert",
+				"outpost",
+				"team golden cup",
+				"belts",
+				"signs",
+				"train station",
+				"miner",
+				"train tracks"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FlnuPr7WQAI-B5S.jpg",
@@ -133,7 +142,13 @@
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FlnuPr8XoAEfQ3X.jpg",
-			"skip": true
+			"highlightsMeta": [
+				"dune desert",
+				"team golden cup",
+				"interior",
+				"outpost",
+				"signs"
+			]
 		}
 	],
 	"https://twitter.com/pyjama__lama/status/1604952107039301633": [
