@@ -199,6 +199,29 @@
 			"src": "https://b.thumbs.redditmedia.com/DD7WZ7DQmHsXjKnPiKD2oZIDxidT-Fbei6zI0WBaQrE.jpg",
 			"alt": "Hidden Conveyor Lift",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8vtmo08k8d7a1.png",
+			"highlightsMeta": [
+				"swamp",
+				"uncertain location",
+				"belts",
+				"tower",
+				"railing",
+				"beams",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/uvf09hrj8d7a1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"belts",
+				"water extractor",
+				"refinery",
+				"beams"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/zri7yf/": [

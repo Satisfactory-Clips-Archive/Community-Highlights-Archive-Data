@@ -29,19 +29,60 @@
 	"https://twitter.com/troldann/status/1609667940517052418": [
 		{
 			"src": "https://pbs.twimg.com/media/FlawStHacAEZGFC.jpg",
-			"skip": true
-		},
-		{
-			"src": "https://pbs.twimg.com/media/FlawUq9acAEA_jG.jpg",
-			"skip": true
-		},
-		{
-			"src": "https://pbs.twimg.com/media/FlawWMzakAAn3Xu.jpg",
-			"skip": true
+			"highlightsMeta": [
+				"ficsmas",
+				"interior",
+				"train",
+				"frames",
+				"belts",
+				"viaduct",
+				"no team",
+				"unknown location"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/FlawXjnacAIR2eF.jpg",
-			"skip": true
+			"highlightsMeta": [
+				"interior",
+				"ficsmas",
+				"train",
+				"train signals",
+				"architecture",
+				"beams",
+				"signs",
+				"no team",
+				"unknown location"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FlawUq9acAEA_jG.jpg",
+			"highlightsMeta": [
+				"ficsmas",
+				"interior",
+				"train",
+				"frames",
+				"belts",
+				"viaduct",
+				"no team",
+				"unknown location",
+				"train signals"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FlawWMzakAAn3Xu.jpg",
+			"highlightsMeta": [
+				"ficsmas",
+				"interior",
+				"train",
+				"frames",
+				"belts",
+				"viaduct",
+				"no team",
+				"unknown location",
+				"train signals",
+				"lights",
+				"truck"
+			]
 		}
 	],
 	"https://twitter.com/SummerChild81/status/1608972620166488066": [
