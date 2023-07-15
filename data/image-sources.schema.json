@@ -16,9 +16,6 @@
 					"src": {
 						"type": "string"
 					},
-					"alt": {
-						"type": "string"
-					},
 					"skip": {
 						"const": true
 					}
