@@ -21,22 +21,22 @@
 					}
 				},
 				{
-			"type": "object",
-			"required": [
-				"src"
-			],
-			"additionalProperties": false,
-			"properties": {
-				"src": {
-					"type": "string"
-				},
-				"alt": {
-					"type": "string"
-				},
-				"highlightsMeta": {
-					"$ref": "highlights-meta.json#/definitions/highlightsMeta"
-				}
-			}
+					"type": "object",
+					"required": [
+						"src"
+					],
+					"additionalProperties": false,
+					"properties": {
+						"src": {
+							"type": "string"
+						},
+						"alt": {
+							"type": "string"
+						},
+						"highlightsMeta": {
+							"$ref": "highlights-meta.json#/definitions/highlightsMeta"
+						}
+					}
 				}
 			]
 		}
