@@ -23,8 +23,7 @@
 				{
 					"type": "object",
 					"required": [
-						"src",
-						"highlightsMeta"
+						"src"
 					],
 					"additionalProperties": false,
 					"properties": {
