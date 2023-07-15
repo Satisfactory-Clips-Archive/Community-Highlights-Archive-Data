@@ -5,6 +5,22 @@
 	"additionalProperties": {
 		"type": "array",
 		"items": {
+			"oneOf": [
+				{
+					"type": "object",
+					"required": [
+						"src",
+						"skip"
+					],
+					"additionalProperties": false,
+					"src": {
+						"type": "string"
+					},
+					"skip": {
+						"const": true
+					}
+				},
+				{
 			"type": "object",
 			"required": [
 				"src"
@@ -19,11 +35,10 @@
 				},
 				"highlightsMeta": {
 					"$ref": "highlights-meta.json#/definitions/highlightsMeta"
-				},
-				"skip": {
-					"type": "boolean"
 				}
 			}
+				}
+			]
 		}
 	}
 }
