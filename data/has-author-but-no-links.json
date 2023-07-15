@@ -6277,10 +6277,158 @@
 	},
 	"2023-01-10": {
 		"yt-9NTrlyg9DGU": {
-			"1:07:27 SignpostMarv - Content Creator Highlight https://archive.satisfactory.video/ https://www.youtube.com/@SatisfactoryClipsArchive https://www.youtube.com/@SatisCommunityHighlights https://communityhighlights.satisfactory.video/ https://github.com/sponsors/SignpostMarv https://www.twitch.tv/signpostmarv": {
+			"59:18 mynamesleon - #AqueductMeta https://www.reddit.com/r/SatisfactoryGame/comments/100hcke/": {
+				"timestamp": 3558,
+				"raw_text": "mynamesleon - #AqueductMeta https://www.reddit.com/r/SatisfactoryGame/comments/100hcke/",
+				"timestamps_for_links": [
+					3655,
+					3662
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3655,
+						"meta": [
+							"reference images",
+							"viaduct",
+							"no team",
+							"unknown location"
+						]
+					},
+					{
+						"timestamp": 3662,
+						"meta": [
+							"reference images",
+							"viaduct",
+							"no team",
+							"unknown location"
+						]
+					}
+				]
+			},
+			"1:07:27 SignpostMarv - Content Creator Highlight https://twitter.com/SignpostMarv/status/1611594818089586688 https://archive.satisfactory.video/ https://www.youtube.com/@SatisfactoryClipsArchive https://www.youtube.com/@SatisCommunityHighlights https://communityhighlights.satisfactory.video/ https://github.com/sponsors/SignpostMarv https://www.twitch.tv/signpostmarv": {
 				"timestamp": 4047,
-				"raw_text": "SignpostMarv - Content Creator Highlight https://archive.satisfactory.video/ https://www.youtube.com/@SatisfactoryClipsArchive https://www.youtube.com/@SatisCommunityHighlights https://communityhighlights.satisfactory.video/ https://github.com/sponsors/SignpostMarv https://www.twitch.tv/signpostmarv",
-				"timestamps_for_links": []
+				"raw_text": "SignpostMarv - Content Creator Highlight https://twitter.com/SignpostMarv/status/1611594818089586688 https://archive.satisfactory.video/ https://www.youtube.com/@SatisfactoryClipsArchive https://www.youtube.com/@SatisCommunityHighlights https://communityhighlights.satisfactory.video/ https://github.com/sponsors/SignpostMarv https://www.twitch.tv/signpostmarv",
+				"timestamps_for_links": [
+					4070,
+					4103,
+					4148,
+					4155,
+					4173,
+					4184,
+					4189,
+					4214,
+					4217,
+					4239,
+					4247,
+					4249,
+					4261
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 4070,
+						"meta": [
+							"reference images",
+							"no team",
+							"unknown location"
+						]
+					},
+					{
+						"timestamp": 4103,
+						"meta": [
+							"reference images",
+							"no team",
+							"unknown location"
+						]
+					},
+					{
+						"timestamp": 4148,
+						"meta": [
+							"reference images",
+							"no team",
+							"unknown location"
+						]
+					},
+					{
+						"timestamp": 4155,
+						"meta": [
+							"reference images",
+							"no team",
+							"unknown location"
+						]
+					},
+					{
+						"timestamp": 4173,
+						"meta": [
+							"reference images",
+							"no team",
+							"unknown location"
+						]
+					},
+					{
+						"timestamp": 4184,
+						"meta": [
+							"reference images",
+							"no team",
+							"unknown location"
+						]
+					},
+					{
+						"timestamp": 4189,
+						"meta": [
+							"reference images",
+							"no team",
+							"unknown location"
+						]
+					},
+					{
+						"timestamp": 4214,
+						"meta": [
+							"reference images",
+							"no team",
+							"unknown location"
+						]
+					},
+					{
+						"timestamp": 4217,
+						"meta": [
+							"reference images",
+							"no team",
+							"unknown location"
+						]
+					},
+					{
+						"timestamp": 4239,
+						"meta": [
+							"reference images",
+							"no team",
+							"unknown location"
+						]
+					},
+					{
+						"timestamp": 4247,
+						"meta": [
+							"reference images",
+							"no team",
+							"unknown location"
+						]
+					},
+					{
+						"timestamp": 4249,
+						"meta": [
+							"reference images",
+							"no team",
+							"unknown location"
+						]
+					},
+					{
+						"timestamp": 4261,
+						"meta": [
+							"reference images",
+							"no team",
+							"unknown location"
+						]
+					}
+				]
 			}
 		}
 	}

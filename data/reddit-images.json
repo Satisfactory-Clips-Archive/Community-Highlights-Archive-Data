@@ -714,6 +714,70 @@
 			"src": "https://a.thumbs.redditmedia.com/ADkI1AzulyOP1-0e0r-_qD0LyiM2IswWZexmVNZwBf8.jpg",
 			"alt": "I proudly present: 'The Line'. Finally finished. See captions for some explanation. (Vanilla EA, No Mods)",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/46ps6txk2faa1.png",
+			"alt": "View from the back. In the left bottom of the picture you see the back maintenance entrance and the drone port. Also: maintenance door for scale ;)",
+			"highlightsMeta": [
+				"no team",
+				"desert canyons",
+				"uncertain location",
+				"night time",
+				"catwalk",
+				"space elevator",
+				"glass",
+				"radar tower",
+				"lights",
+				"signs as lights",
+				"drone"
+			]
+		},
+		{
+			"src": "https://i.redd.it/f9o21m714faa1.png",
+			"alt": "First couple of vertical smelters upon entering.",
+			"highlightsMeta": [
+				"no team",
+				"interior",
+				"uncertain location",
+				"bean",
+				"smelter",
+				"belts",
+				"signs as lights",
+				"tower",
+				"glass",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/w5ficw087faa1.jpg",
+			"highlightsMeta": [
+				"no team",
+				"interior",
+				"uncertain location",
+				"space elevator",
+				"constructor",
+				"manifold",
+				"belts",
+				"signs as lights",
+				"tower",
+				"glass",
+				"foundation patterns"
+			]
+		},
+		{
+			"src": "https://i.redd.it/1j1upldl7faa1.jpg",
+			"highlightsMeta": [
+				"interior",
+				"uncertain location",
+				"smelter",
+				"constructor",
+				"belts",
+				"signs as lights",
+				"tower",
+				"glass",
+				"foundation patterns",
+				"team hover pack"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/104o4fd/": [
@@ -721,6 +785,20 @@
 			"src": "https://b.thumbs.redditmedia.com/NTzDFniNiWoPOoJkwxE_JWjTLmyS8XLj7L28ZivazOo.jpg",
 			"alt": "I made Number Plates for my non-Belt logistics. Need more work on Trains tho. (More info in the comment)",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wat19u4dmdaa1.png",
+			"highlightsMeta": [
+				"truck",
+				"modded",
+				"belts",
+				"lights",
+				"foundation patterns",
+				"roads",
+				"railing",
+				"beams",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/103vjwr/": [
@@ -728,6 +806,47 @@
 			"src": "https://b.thumbs.redditmedia.com/sKPihiA5snqHJHeD3GSDQUKrfOOy5Ev_QpfbfUwpqJU.jpg",
 			"alt": "My first 8 hours in the game! (Tips are appreciated)",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yna8272x87aa1.png",
+			"alt": "This is my rotor assembly p1",
+			"highlightsMeta": [
+				"grass fields",
+				"lookout tower",
+				"no team",
+				"spaghett",
+				"constructor",
+				"assembler",
+				"smelter",
+				"miner",
+				"ficsmas"
+			]
+		},
+		{
+			"src": "https://i.redd.it/5zo0mpdi97aa1.png",
+			"alt": "My solid biofuel assembly, I just put the leaves manually and evenly in those 4 storage containers",
+			"highlightsMeta": [
+				"grass fields",
+				"no team",
+				"manifold",
+				"constructor",
+				"assembler",
+				"belts",
+				"ficsmas"
+			]
+		},
+		{
+			"src": "https://i.redd.it/6rxefdt1a7aa1.png",
+			"alt": "Copper wire and cable assembly",
+			"highlightsMeta": [
+				"grass fields",
+				"cables",
+				"ficsmas",
+				"manifold",
+				"lookout tower",
+				"belts",
+				"constructor"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/103cjge/": [
@@ -735,6 +854,28 @@
 			"src": "https://b.thumbs.redditmedia.com/uZKy_KSkIQITo-L5VsbOQxB36TS94ynYmcXmgiz-sEE.jpg",
 			"alt": "Work in progress for my infrastructure and designing a highway. Which barrier looks more appealing?",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/o2wmn77gv2aa1.jpg",
+			"alt": "Road barrier with industrial handrail",
+			"highlightsMeta": [
+				"railing",
+				"no team",
+				"rocky desert",
+				"miner",
+				"smelter"
+			]
+		},
+		{
+			"src": "https://i.redd.it/mse7hfugv2aa1.jpg",
+			"alt": "Road barrier with modern handrail",
+			"highlightsMeta": [
+				"railing",
+				"no team",
+				"rocky desert",
+				"miner",
+				"smelter"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/102stzk/": [
@@ -761,6 +902,23 @@
 			"src": "https://a.thumbs.redditmedia.com/EwtK7E06Ce17gKTJMwhuQrVo7rkQnqNHmCR03Hh0dQ0.jpg",
 			"alt": "Ouse Valley Viaduct inspired rail bridge across the desert",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hbfcedgzte9a1.png",
+			"highlightsMeta": [
+				"viaduct",
+				"dune desert",
+				"no team",
+				"catwalk"
+			]
+		},
+		{
+			"src": "https://i.redd.it/2ra9y8gzte9a1.png",
+			"highlightsMeta": [
+				"viaduct",
+				"dune desert",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/101x3xn/": [
@@ -768,6 +926,24 @@
 			"src": "https://b.thumbs.redditmedia.com/s9a9Jt5CxwxMYQOT9CWgpocRP3b9loat3l-9T8Mr1qY.jpg",
 			"alt": "Furniture Designs made with Signs!",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fvkbxhyj0r9a1.png",
+			"highlightsMeta": [
+				"signs",
+				"unknown location",
+				"signs as lights",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/b2addeyj0r9a1.png",
+			"highlightsMeta": [
+				"signs",
+				"unknown location",
+				"signs as lights",
+				"no team"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/101rw7d/": [
@@ -775,6 +951,67 @@
 			"src": "https://b.thumbs.redditmedia.com/CQTZB3XoN4zMFmjiPYiwHg0Cn-O3VW0_axZdIjBX_xA.jpg",
 			"alt": "Battery factory producing 240 batteries/min",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wn1r33egtp9a1.jpg",
+			"alt": "Front view",
+			"highlightsMeta": [
+				"uncertain location",
+				"train tracks",
+				"train signals",
+				"utility tower",
+				"ficsmas",
+				"team cup",
+				"team hover pack",
+				"outpost",
+				"signs",
+				"tubes",
+				"cables",
+				"glass",
+				"train station"
+			]
+		},
+		{
+			"src": "https://i.redd.it/6is540hhtp9a1.jpg",
+			"alt": "Top floor. Produces batteries, aluminium ingots and casings. 6 drone ports for battery deliveries.",
+			"highlightsMeta": [
+				"uncertain location",
+				"interior",
+				"glass",
+				"blender",
+				"pipes",
+				"team hover pack",
+				"team cup",
+				"manifold",
+				"catwalk",
+				"lights",
+				"cables",
+				"drone",
+				"belts",
+				"railing",
+				"signs",
+				"beams"
+			]
+		},
+		{
+			"src": "https://i.redd.it/po51pxujtp9a1.jpg",
+			"alt": "Inside control room",
+			"highlightsMeta": [
+				"uncertain location",
+				"interior",
+				"glass",
+				"blender",
+				"pipes",
+				"team hover pack",
+				"team cup",
+				"manifold",
+				"catwalk",
+				"cables",
+				"belts",
+				"railing",
+				"signs",
+				"beams"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/101rix6/": [
@@ -782,6 +1019,36 @@
 			"src": "https://b.thumbs.redditmedia.com/O1CB8MCjbYxskP1sJkShFgEiifwhMhHLDuP9qCeDEAE.jpg",
 			"alt": "Happy New Year from the Hic-sit™ Rooftop - Drink Moderatly",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/l7rhgmlxtp9a1.png",
+			"highlightsMeta": [
+				"night time",
+				"uncertain location",
+				"lights",
+				"glass",
+				"miner",
+				"tubes",
+				"manifold",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/22jd3llxtp9a1.png",
+			"highlightsMeta": [
+				"night time",
+				"uncertain location",
+				"lights",
+				"glass",
+				"miner",
+				"tubes",
+				"manifold",
+				"signs",
+				"signs as lights",
+				"jace would drink there",
+				"assembler",
+				"awesome shop"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/101luy9/": [
@@ -810,6 +1077,106 @@
 			"src": "https://a.thumbs.redditmedia.com/ZxKLBCqfjDyUxefeEElElH-xDWylC1q306Wjx88bKr8.jpg",
 			"alt": "Ficscity; my 2nd Cyberpunky game",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dcvvh9ym2i9a1.png",
+			"alt": "showcase ->->-> info in comments",
+			"highlightsMeta": [
+				"night time",
+				"grass fields",
+				"grass fields arch",
+				"radar tower",
+				"roads",
+				"cityscape",
+				"foundation patterns",
+				"frames",
+				"miner",
+				"beams",
+				"signs",
+				"railing",
+				"lights",
+				"parking lot",
+				"tractor",
+				"manta",
+				"glass",
+				"industrial"
+			]
+		},
+		{
+			"src": "https://i.redd.it/zaq1dx3n2i9a1.png",
+			"highlightsMeta": [
+				"team cup",
+				"industrial",
+				"signs",
+				"roads",
+				"foundation patterns",
+				"truck",
+				"frames",
+				"lights",
+				"pipes",
+				"parking lot",
+				"beams",
+				"coal plant",
+				"beams",
+				"cityscape"
+			]
+		},
+		{
+			"src": "https://i.redd.it/82142kin2i9a1.png",
+			"highlightsMeta": [
+				"team cup",
+				"industrial",
+				"signs",
+				"roads",
+				"foundation patterns",
+				"tractor",
+				"lights",
+				"frames",
+				"lights",
+				"signs as lights",
+				"truck station",
+				"pipes",
+				"parking lot",
+				"beams",
+				"coal plant",
+				"beams",
+				"cityscape"
+			]
+		},
+		{
+			"src": "https://i.redd.it/78a5igvn2i9a1.png",
+			"highlightsMeta": [
+				"night time",
+				"no team",
+				"lights",
+				"beams",
+				"signs",
+				"coal plant",
+				"crane",
+				"railing",
+				"cables",
+				"cityscape",
+				"industrial"
+			]
+		},
+		{
+			"src": "https://i.redd.it/78a5igvn2i9a1.png",
+			"highlightsMeta": [
+				"night time",
+				"no team",
+				"lights",
+				"beams",
+				"signs",
+				"crane",
+				"railing",
+				"cables",
+				"cityscape",
+				"industrial",
+				"roads",
+				"foundation patterns",
+				"signs",
+				"railing"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/zklxy8/pass_it_on_winter_wonderland_satisfactory_event/": [
