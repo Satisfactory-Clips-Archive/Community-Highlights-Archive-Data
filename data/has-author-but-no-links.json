@@ -13,10 +13,10 @@
 						"meta": [
 							"dune desert",
 							"manifold",
+							"no team",
 							"miner",
 							"frames",
-							"train spiral",
-							"no team"
+							"train spiral"
 						]
 					}
 				]
@@ -33,11 +33,11 @@
 						"meta": [
 							"grass fields",
 							"glass",
+							"no team",
 							"tractor",
 							"belts",
 							"lizard doggo",
-							"tower",
-							"no team"
+							"tower"
 						]
 					}
 				]
@@ -53,9 +53,9 @@
 						"timestamp": 1282,
 						"meta": [
 							"uncertain location",
+							"team inhaler",
 							"nobelisk",
-							"arachnophobia mode",
-							"team inhaler"
+							"arachnophobia mode"
 						]
 					}
 				]
@@ -76,11 +76,11 @@
 						"meta": [
 							"uncertain location",
 							"spaghett",
+							"no team",
 							"belts",
 							"pipes",
 							"tubes",
-							"coal plant",
-							"no team"
+							"coal plant"
 						]
 					}
 				]
@@ -103,12 +103,12 @@
 							"rocky desert",
 							"spire coast",
 							"manifold",
+							"team cup",
 							"space elevator",
 							"train station",
 							"train",
 							"oil plant",
-							"viaduct",
-							"team cup"
+							"viaduct"
 						]
 					},
 					{
@@ -118,10 +118,10 @@
 							"rocky desert",
 							"spire coast",
 							"manifold",
+							"team cup",
 							"explorer",
 							"frames",
-							"pipes",
-							"team cup"
+							"pipes"
 						]
 					},
 					{
@@ -130,10 +130,10 @@
 							"uncertain location",
 							"rocky desert",
 							"glass",
+							"team cup",
 							"catwalk",
 							"belts",
-							"warehouse",
-							"team cup"
+							"warehouse"
 						]
 					},
 					{
@@ -141,11 +141,11 @@
 						"meta": [
 							"rocky desert",
 							"manifold",
+							"team cup",
 							"train",
 							"pipes",
 							"oil plant",
-							"viaduct",
-							"team cup"
+							"viaduct"
 						]
 					},
 					{
@@ -154,13 +154,13 @@
 							"uncertain location",
 							"rocky desert",
 							"interior",
+							"team cup",
 							"frames",
 							"belts",
 							"cables",
 							"nuclear plant",
 							"oil plant",
-							"utility tower",
-							"team cup"
+							"utility tower"
 						]
 					},
 					{
@@ -170,13 +170,13 @@
 							"rocky desert",
 							"interior",
 							"memes",
+							"team cup",
 							"frames",
 							"belts",
 							"cables",
 							"nuclear plant",
 							"oil plant",
-							"utility tower",
-							"team cup"
+							"utility tower"
 						]
 					}
 				]
@@ -198,9 +198,9 @@
 							"games",
 							"glass",
 							"modded",
+							"team cup",
 							"foundation patterns",
-							"lights",
-							"team cup"
+							"lights"
 						]
 					},
 					{
@@ -210,9 +210,9 @@
 							"architecture",
 							"games",
 							"modded",
+							"no team",
 							"lights",
-							"statue gallery",
-							"no team"
+							"statue gallery"
 						]
 					},
 					{
@@ -223,9 +223,9 @@
 							"games",
 							"night time",
 							"modded",
+							"no team",
 							"train station",
-							"lights",
-							"no team"
+							"lights"
 						]
 					}
 				]
@@ -242,9 +242,9 @@
 						"meta": [
 							"uncertain location",
 							"glass",
+							"team rifle",
 							"catwalk",
-							"bean",
-							"team rifle"
+							"bean"
 						]
 					}
 				]
@@ -266,23 +266,23 @@
 						"meta": [
 							"uncertain location",
 							"sunrise/sunset",
+							"no team",
 							"train",
 							"frames",
 							"lizard doggo",
-							"viaduct",
-							"no team"
+							"viaduct"
 						]
 					},
 					{
 						"timestamp": 141,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"space elevator",
 							"train",
 							"frames",
 							"lizard doggo",
-							"viaduct",
-							"no team"
+							"viaduct"
 						]
 					}
 				]
@@ -303,10 +303,10 @@
 						"meta": [
 							"dune desert",
 							"architecture",
+							"team cup",
 							"train",
 							"crane",
-							"viaduct",
-							"team cup"
+							"viaduct"
 						]
 					}
 				]
@@ -325,9 +325,9 @@
 							"manifold",
 							"repetition",
 							"modded",
+							"no team",
 							"pipes",
-							"nuclear plant",
-							"no team"
+							"nuclear plant"
 						]
 					}
 				]
@@ -348,8 +348,8 @@
 							"glass",
 							"interior",
 							"weatherwax",
-							"statue gallery",
-							"no team"
+							"no team",
+							"statue gallery"
 						]
 					},
 					{
@@ -388,10 +388,10 @@
 							"uncertain location",
 							"glass",
 							"references to other franchises",
+							"team xenobasher",
 							"space elevator",
 							"signs",
-							"tower",
-							"team xenobasher"
+							"tower"
 						]
 					}
 				]
@@ -412,8 +412,8 @@
 						"meta": [
 							"spire coast",
 							"architecture",
-							"train spiral",
-							"no team"
+							"no team",
+							"train spiral"
 						]
 					}
 				]
@@ -455,10 +455,10 @@
 						"meta": [
 							"grass fields",
 							"sunrise/sunset",
+							"team cup",
 							"frames",
 							"bridge",
-							"viaduct",
-							"team cup"
+							"viaduct"
 						]
 					}
 				]
@@ -475,11 +475,11 @@
 						"meta": [
 							"rocky desert",
 							"glass",
+							"no team",
 							"miner",
 							"space elevator",
 							"belts",
-							"outpost",
-							"no team"
+							"outpost"
 						]
 					}
 				]
@@ -501,8 +501,8 @@
 							"unknown location",
 							"interior",
 							"memes",
-							"hub",
-							"team xenobasher"
+							"team xenobasher",
+							"hub"
 						]
 					}
 				]
@@ -524,9 +524,9 @@
 						"meta": [
 							"uncertain location",
 							"sunrise/sunset",
+							"team cup",
 							"frames",
-							"pipes",
-							"team cup"
+							"pipes"
 						]
 					},
 					{
@@ -534,13 +534,13 @@
 						"meta": [
 							"dune desert",
 							"modded",
+							"team cup",
 							"train",
 							"foundation patterns",
 							"pipes",
 							"tubes",
 							"bridge",
-							"roads",
-							"team cup"
+							"roads"
 						]
 					}
 				]
@@ -577,10 +577,10 @@
 						"timestamp": 1018.6,
 						"meta": [
 							"uncertain location",
+							"team build gun",
 							"space elevator",
 							"ladder",
-							"outpost",
-							"team build gun"
+							"outpost"
 						]
 					}
 				]
@@ -602,9 +602,9 @@
 							"green valley",
 							"the gates of beugernath",
 							"modded",
+							"team hands",
 							"radar tower",
-							"tower",
-							"team hands"
+							"tower"
 						]
 					}
 				]
@@ -621,8 +621,8 @@
 						"meta": [
 							"unknown location",
 							"fan art",
-							"lizard doggo",
-							"no team"
+							"no team",
+							"lizard doggo"
 						]
 					}
 				]
@@ -640,10 +640,10 @@
 							"uncertain location",
 							"games",
 							"multiplayer",
+							"no team",
 							"frames",
 							"pipes",
-							"signs",
-							"no team"
+							"signs"
 						]
 					}
 				]
@@ -662,8 +662,8 @@
 							"games",
 							"weatherwax",
 							"multiplayer",
-							"explorer",
-							"no team"
+							"no team",
+							"explorer"
 						]
 					}
 				]
@@ -684,9 +684,9 @@
 						"meta": [
 							"uncertain location",
 							"cityscape",
+							"no team",
 							"space elevator",
-							"belts",
-							"no team"
+							"belts"
 						]
 					}
 				]
@@ -703,11 +703,11 @@
 						"meta": [
 							"uncertain location",
 							"titan forest",
+							"no team",
 							"space elevator",
 							"frames",
 							"bridge",
-							"viaduct",
-							"no team"
+							"viaduct"
 						]
 					}
 				]
@@ -726,10 +726,10 @@
 							"green valley",
 							"glitch",
 							"manifold",
+							"no team",
 							"factory cart",
 							"belts",
-							"cables",
-							"no team"
+							"cables"
 						]
 					}
 				]
@@ -751,8 +751,8 @@
 							"uncertain location",
 							"weatherwax",
 							"references to other franchises",
-							"tower",
-							"no team"
+							"no team",
+							"tower"
 						]
 					}
 				]
@@ -769,9 +769,9 @@
 						"meta": [
 							"spire coast",
 							"weatherwax",
+							"no team",
 							"pipes",
-							"tubes",
-							"no team"
+							"tubes"
 						]
 					}
 				]
@@ -788,10 +788,10 @@
 						"timestamp": 839,
 						"meta": [
 							"the gates of beugernath",
+							"no team",
 							"frames",
 							"boat",
-							"crane",
-							"no team"
+							"crane"
 						]
 					},
 					{
@@ -800,10 +800,10 @@
 							"green valley",
 							"the gates of beugernath",
 							"manifold",
+							"no team",
 							"frames",
 							"boat",
-							"crane",
-							"no team"
+							"crane"
 						]
 					}
 				]
@@ -826,8 +826,8 @@
 							"spire coast",
 							"manifold",
 							"repetition",
-							"pipes",
-							"team hands"
+							"team hands",
+							"pipes"
 						]
 					},
 					{
@@ -837,8 +837,8 @@
 							"lasagn",
 							"manifold",
 							"repetition",
-							"pipes",
-							"team hands"
+							"team hands",
+							"pipes"
 						]
 					}
 				]
@@ -872,8 +872,8 @@
 						"timestamp": 823,
 						"meta": [
 							"uncertain location",
-							"death crate",
-							"no team"
+							"no team",
+							"death crate"
 						]
 					}
 				]
@@ -894,8 +894,8 @@
 						"meta": [
 							"rocky desert",
 							"architecture",
-							"tower",
-							"team hands"
+							"team hands",
+							"tower"
 						]
 					}
 				]
@@ -913,9 +913,9 @@
 							"grass fields arch",
 							"ficsmas",
 							"night time",
+							"no team",
 							"tubes",
-							"manta",
-							"no team"
+							"manta"
 						]
 					}
 				]
@@ -938,11 +938,11 @@
 							"uncertain location",
 							"ficsmas",
 							"spaghett",
+							"no team",
 							"space elevator",
 							"catwalk",
 							"cables",
-							"coal plant",
-							"no team"
+							"coal plant"
 						]
 					},
 					{
@@ -951,8 +951,8 @@
 							"uncertain location",
 							"ficsmas",
 							"spaghett",
-							"cables",
-							"no team"
+							"no team",
+							"cables"
 						]
 					}
 				]
@@ -974,9 +974,9 @@
 							"grass fields",
 							"ficsmas",
 							"manifold",
+							"no team",
 							"lookout tower",
-							"coal plant",
-							"no team"
+							"coal plant"
 						]
 					}
 				]
@@ -996,13 +996,13 @@
 							"uncertain location",
 							"ficsmas",
 							"glass",
+							"team cup",
 							"space elevator",
 							"factory cart",
 							"train",
 							"belts",
 							"personal crate",
-							"warehouse",
-							"team cup"
+							"warehouse"
 						]
 					},
 					{
@@ -1010,11 +1010,11 @@
 						"meta": [
 							"uncertain location",
 							"glass",
+							"team cup",
 							"lookout tower",
 							"catwalk",
 							"belts",
-							"warehouse",
-							"team cup"
+							"warehouse"
 						]
 					},
 					{
@@ -1023,9 +1023,9 @@
 							"uncertain location",
 							"ficsmas",
 							"glass",
+							"team cup",
 							"lookout tower",
-							"space elevator",
-							"team cup"
+							"space elevator"
 						]
 					}
 				]
@@ -1046,12 +1046,12 @@
 						"meta": [
 							"dune desert",
 							"lasagn",
+							"no team",
 							"train",
 							"frames",
 							"pipes",
 							"nuclear plant",
-							"outpost",
-							"no team"
+							"outpost"
 						]
 					}
 				]
@@ -1069,8 +1069,8 @@
 							"unknown location",
 							"night time",
 							"multiplayer",
-							"death crate",
-							"team xenozapper"
+							"team xenozapper",
+							"death crate"
 						]
 					}
 				]
@@ -1090,8 +1090,8 @@
 							"manifold",
 							"spaghett",
 							"sunrise/sunset",
-							"awesome sink",
-							"no team"
+							"no team",
+							"awesome sink"
 						]
 					}
 				]
@@ -1108,8 +1108,8 @@
 						"meta": [
 							"uncertain location",
 							"repetition",
-							"warehouse",
-							"team hands"
+							"team hands",
+							"warehouse"
 						]
 					}
 				]
@@ -1130,8 +1130,8 @@
 							"memes",
 							"multiplayer",
 							"references to other franchises",
-							"hub",
-							"team xenozapper"
+							"team xenozapper",
+							"hub"
 						]
 					}
 				]
@@ -1151,9 +1151,9 @@
 							"glass",
 							"interior",
 							"weatherwax",
+							"no team",
 							"pipes",
-							"coal plant",
-							"no team"
+							"coal plant"
 						]
 					}
 				]
@@ -1169,10 +1169,10 @@
 						"timestamp": 652,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"catwalk",
 							"ladder",
-							"nuclear plant",
-							"no team"
+							"nuclear plant"
 						]
 					}
 				]
@@ -1188,10 +1188,10 @@
 						"timestamp": 695,
 						"meta": [
 							"rocky desert",
+							"team chainsaw",
 							"belts",
 							"cables",
-							"bean",
-							"team chainsaw"
+							"bean"
 						]
 					}
 				]
@@ -1207,11 +1207,11 @@
 						"timestamp": 789,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"space elevator",
-							"train spiral",
 							"train station",
-							"viaduct",
-							"no team"
+							"train spiral",
+							"viaduct"
 						]
 					}
 				]
@@ -1228,8 +1228,8 @@
 						"meta": [
 							"uncertain location",
 							"art",
-							"space elevator",
-							"no team"
+							"no team",
+							"space elevator"
 						]
 					}
 				]
@@ -1250,10 +1250,10 @@
 						"meta": [
 							"green valley",
 							"glass",
+							"team hands",
 							"awesome sink",
 							"catwalk",
-							"coal plant",
-							"team hands"
+							"coal plant"
 						]
 					}
 				]
@@ -1269,9 +1269,9 @@
 						"timestamp": 488,
 						"meta": [
 							"uncertain location",
+							"team cup",
 							"hub",
-							"outpost",
-							"team cup"
+							"outpost"
 						]
 					}
 				]
@@ -1288,9 +1288,9 @@
 						"meta": [
 							"unknown location",
 							"interior",
+							"no team",
 							"tower",
-							"train spiral",
-							"no team"
+							"train spiral"
 						]
 					}
 				]
@@ -1333,9 +1333,9 @@
 							"lasagn",
 							"manifold",
 							"repetition",
+							"no team",
 							"train station",
-							"pipes",
-							"no team"
+							"pipes"
 						]
 					}
 				]
@@ -1353,9 +1353,9 @@
 							"unknown location",
 							"interior",
 							"memes",
+							"no team",
 							"belts",
-							"user interface",
-							"no team"
+							"user interface"
 						]
 					}
 				]
@@ -1372,11 +1372,11 @@
 						"meta": [
 							"grass fields arch",
 							"industrial",
+							"no team",
 							"space elevator",
 							"train station",
 							"train",
-							"viaduct",
-							"no team"
+							"viaduct"
 						]
 					}
 				]
@@ -1398,10 +1398,10 @@
 							"dune desert",
 							"glitch",
 							"sunrise/sunset",
+							"no team",
 							"factory cart",
 							"death crate",
-							"outpost",
-							"no team"
+							"outpost"
 						]
 					}
 				]
@@ -1419,13 +1419,13 @@
 							"uncertain location",
 							"glass",
 							"nature",
+							"no team",
 							"train",
 							"catwalk",
 							"frames",
 							"belts",
 							"pipes",
-							"viaduct",
-							"no team"
+							"viaduct"
 						]
 					}
 				]
@@ -1447,11 +1447,11 @@
 						"meta": [
 							"northern forest",
 							"glass",
+							"no team",
 							"awesome sink",
 							"catwalk",
 							"belts",
-							"outpost",
-							"no team"
+							"outpost"
 						]
 					},
 					{
@@ -1461,6 +1461,7 @@
 							"glass",
 							"industrial",
 							"sunrise/sunset",
+							"no team",
 							"radar tower",
 							"space elevator",
 							"factory cart",
@@ -1469,8 +1470,7 @@
 							"belts",
 							"cables",
 							"pipes",
-							"viaduct",
-							"no team"
+							"viaduct"
 						]
 					}
 				]
@@ -1487,9 +1487,9 @@
 						"meta": [
 							"grass fields",
 							"pixel art",
+							"team hands",
 							"miner",
-							"belts",
-							"team hands"
+							"belts"
 						]
 					}
 				]
@@ -1506,9 +1506,9 @@
 						"meta": [
 							"uncertain location",
 							"glitch",
+							"team cup",
 							"catwalk",
-							"belts",
-							"team cup"
+							"belts"
 						]
 					}
 				]
@@ -1529,8 +1529,8 @@
 						"meta": [
 							"uncertain location",
 							"glass",
-							"catwalk",
-							"no team"
+							"no team",
+							"catwalk"
 						]
 					}
 				]
@@ -1548,8 +1548,8 @@
 							"uncertain location",
 							"cityscape",
 							"nature",
-							"tower",
-							"no team"
+							"no team",
+							"tower"
 						]
 					}
 				]
@@ -1580,8 +1580,8 @@
 						"meta": [
 							"grass fields",
 							"repetition",
-							"user interface",
-							"no team"
+							"no team",
+							"user interface"
 						]
 					}
 				]
@@ -1602,9 +1602,9 @@
 						"meta": [
 							"grass fields",
 							"snaketree forest",
+							"no team",
 							"train station",
-							"train",
-							"no team"
+							"train"
 						]
 					}
 				]
@@ -1625,10 +1625,10 @@
 							"rocky desert",
 							"green valley",
 							"sunrise/sunset",
-							"tower",
-							"train spiral",
+							"team hands",
 							"train station",
-							"team hands"
+							"tower",
+							"train spiral"
 						]
 					},
 					{
@@ -1636,22 +1636,22 @@
 						"meta": [
 							"uncertain location",
 							"interior",
+							"team hands",
 							"tubes",
 							"tower",
-							"train spiral",
-							"team hands"
+							"train spiral"
 						]
 					},
 					{
 						"timestamp": 427,
 						"meta": [
-							"final fantasy",
 							"rocky desert",
+							"final fantasy",
 							"glass",
+							"team hands",
 							"train",
 							"frames",
-							"tubes",
-							"team hands"
+							"tubes"
 						]
 					},
 					{
@@ -1737,9 +1737,9 @@
 							"rocky desert",
 							"games",
 							"multiplayer",
+							"no team",
 							"personal crate",
-							"tubes",
-							"no team"
+							"tubes"
 						]
 					},
 					{
@@ -1748,9 +1748,9 @@
 							"rocky desert",
 							"games",
 							"multiplayer",
+							"no team",
 							"personal crate",
-							"tubes",
-							"no team"
+							"tubes"
 						]
 					},
 					{
@@ -1759,9 +1759,9 @@
 							"rocky desert",
 							"games",
 							"multiplayer",
+							"no team",
 							"personal crate",
-							"tubes",
-							"no team"
+							"tubes"
 						]
 					},
 					{
@@ -1770,9 +1770,9 @@
 							"rocky desert",
 							"games",
 							"multiplayer",
+							"no team",
 							"personal crate",
-							"tubes",
-							"no team"
+							"tubes"
 						]
 					},
 					{
@@ -1790,9 +1790,9 @@
 							"rocky desert",
 							"games",
 							"multiplayer",
+							"no team",
 							"personal crate",
-							"tubes",
-							"no team"
+							"tubes"
 						]
 					},
 					{
@@ -1801,9 +1801,9 @@
 							"rocky desert",
 							"games",
 							"multiplayer",
+							"no team",
 							"personal crate",
-							"tubes",
-							"no team"
+							"tubes"
 						]
 					},
 					{
@@ -1812,9 +1812,9 @@
 							"rocky desert",
 							"games",
 							"multiplayer",
+							"no team",
 							"personal crate",
-							"tubes",
-							"no team"
+							"tubes"
 						]
 					},
 					{
@@ -1832,8 +1832,8 @@
 							"rocky desert",
 							"games",
 							"multiplayer",
-							"belts",
-							"no team"
+							"no team",
+							"belts"
 						]
 					},
 					{
@@ -1855,8 +1855,8 @@
 							"glass",
 							"weatherwax",
 							"multiplayer",
-							"ladder",
-							"no team"
+							"no team",
+							"ladder"
 						]
 					},
 					{
@@ -1889,8 +1889,8 @@
 							"games",
 							"memes",
 							"multiplayer",
-							"pipes",
-							"no team"
+							"no team",
+							"pipes"
 						]
 					},
 					{
@@ -1899,11 +1899,11 @@
 							"rocky desert",
 							"games",
 							"multiplayer",
+							"no team",
 							"space elevator",
 							"cables",
 							"coal plant",
-							"nuclear plant",
-							"no team"
+							"nuclear plant"
 						]
 					},
 					{
@@ -1914,9 +1914,9 @@
 							"glass",
 							"memes",
 							"multiplayer",
+							"no team",
 							"train",
-							"coal plant",
-							"no team"
+							"coal plant"
 						]
 					},
 					{
@@ -1928,9 +1928,9 @@
 							"glass",
 							"weatherwax",
 							"multiplayer",
+							"no team",
 							"radar tower",
-							"tractor",
-							"no team"
+							"tractor"
 						]
 					},
 					{
@@ -1941,8 +1941,8 @@
 							"glass",
 							"weatherwax",
 							"multiplayer",
-							"tractor",
-							"no team"
+							"no team",
+							"tractor"
 						]
 					},
 					{
@@ -1962,8 +1962,8 @@
 							"games",
 							"glass",
 							"multiplayer",
-							"radar tower",
-							"no team"
+							"no team",
+							"radar tower"
 						]
 					},
 					{
@@ -1973,8 +1973,8 @@
 							"games",
 							"interior",
 							"underwater",
-							"belts",
-							"no team"
+							"no team",
+							"belts"
 						]
 					},
 					{
@@ -1984,8 +1984,8 @@
 							"games",
 							"interior",
 							"multiplayer",
-							"statue gallery",
-							"no team"
+							"no team",
+							"statue gallery"
 						]
 					},
 					{
@@ -1996,8 +1996,8 @@
 							"interior",
 							"weatherwax",
 							"multiplayer",
-							"tubes",
-							"no team"
+							"no team",
+							"tubes"
 						]
 					},
 					{
@@ -2007,8 +2007,8 @@
 							"games",
 							"weatherwax",
 							"multiplayer",
-							"tubes",
-							"no team"
+							"no team",
+							"tubes"
 						]
 					},
 					{
@@ -2050,9 +2050,9 @@
 							"industrial",
 							"interior",
 							"night time",
-							"lights",
 							"team golden cup",
-							"team hover pack"
+							"team hover pack",
+							"lights"
 						]
 					}
 				]
@@ -2069,12 +2069,12 @@
 						"meta": [
 							"uncertain location",
 							"manifold",
+							"team hover pack",
+							"team inhaler",
 							"blender",
 							"drone",
 							"belts",
-							"pipes",
-							"team hover pack",
-							"team inhaler"
+							"pipes"
 						]
 					}
 				]
@@ -2097,10 +2097,10 @@
 							"nature",
 							"sunrise/sunset",
 							"multiplayer",
+							"no team",
 							"lookout tower",
 							"space elevator",
-							"bean",
-							"no team"
+							"bean"
 						]
 					}
 				]
@@ -2116,8 +2116,8 @@
 						"timestamp": 1078,
 						"meta": [
 							"uncertain location",
-							"belts",
-							"team build gun"
+							"team build gun",
+							"belts"
 						]
 					}
 				]
@@ -2138,11 +2138,11 @@
 						"meta": [
 							"uncertain location",
 							"spaghett",
+							"no team",
 							"space elevator",
 							"train",
 							"belts",
-							"tower",
-							"no team"
+							"tower"
 						]
 					}
 				]
@@ -2160,9 +2160,9 @@
 							"unknown location",
 							"interior",
 							"night time",
+							"no team",
 							"lights",
-							"power storage bank",
-							"no team"
+							"power storage bank"
 						]
 					}
 				]
@@ -2178,11 +2178,11 @@
 						"timestamp": 3249,
 						"meta": [
 							"uncertain location",
+							"team nut",
 							"cables",
 							"coal plant",
 							"fuel plant",
-							"tower",
-							"team nut"
+							"tower"
 						]
 					}
 				]
@@ -2199,9 +2199,9 @@
 						"meta": [
 							"rocky desert",
 							"architecture",
-							"train spiral",
+							"no team",
 							"train station",
-							"no team"
+							"train spiral"
 						]
 					}
 				]
@@ -2235,8 +2235,8 @@
 						"timestamp": 1114,
 						"meta": [
 							"grass fields",
-							"belts",
-							"no team"
+							"no team",
+							"belts"
 						]
 					},
 					{
@@ -2245,9 +2245,9 @@
 							"grass fields",
 							"snaketree forest",
 							"manifold",
+							"no team",
 							"miner",
-							"belts",
-							"no team"
+							"belts"
 						]
 					},
 					{
@@ -2256,9 +2256,9 @@
 							"snaketree forest",
 							"western dune forest",
 							"manifold",
+							"no team",
 							"belts",
-							"coal plant",
-							"no team"
+							"coal plant"
 						]
 					},
 					{
@@ -2266,9 +2266,9 @@
 						"meta": [
 							"western dune forest",
 							"manifold",
+							"no team",
 							"belts",
-							"coal plant",
-							"no team"
+							"coal plant"
 						]
 					},
 					{
@@ -2277,9 +2277,9 @@
 							"grass fields",
 							"grass fields arch",
 							"manifold",
+							"no team",
 							"space elevator",
-							"belts",
-							"no team"
+							"belts"
 						]
 					}
 				]
@@ -2301,10 +2301,10 @@
 							"dune desert",
 							"desert mountain plateaus",
 							"references to other franchises",
+							"no team",
 							"train station",
 							"outpost",
-							"tower",
-							"no team"
+							"tower"
 						]
 					}
 				]
@@ -2324,8 +2324,8 @@
 						"timestamp": 1065,
 						"meta": [
 							"unknown location",
-							"user interface",
-							"no team"
+							"no team",
+							"user interface"
 						]
 					}
 				]
@@ -2348,9 +2348,9 @@
 							"glass",
 							"lasagn",
 							"repetition",
+							"no team",
 							"catwalk",
-							"belts",
-							"no team"
+							"belts"
 						]
 					}
 				]
@@ -2372,12 +2372,12 @@
 							"grass fields",
 							"grass fields arch",
 							"spaghett",
+							"no team",
 							"blender",
 							"particle accelerator",
 							"space elevator",
 							"train",
-							"belts",
-							"no team"
+							"belts"
 						]
 					}
 				]
@@ -2409,9 +2409,9 @@
 						"meta": [
 							"green valley",
 							"the gates of beugernath",
-							"hog",
 							"team detonator",
-							"team rifle"
+							"team rifle",
+							"hog"
 						]
 					}
 				]
@@ -2432,8 +2432,8 @@
 						"meta": [
 							"uncertain location",
 							"references to other franchises",
-							"spaceship",
-							"no team"
+							"no team",
+							"spaceship"
 						]
 					}
 				]
@@ -2449,10 +2449,10 @@
 						"timestamp": 465,
 						"meta": [
 							"dune desert",
+							"team inhaler",
 							"belts",
 							"lights",
-							"pipes",
-							"team inhaler"
+							"pipes"
 						]
 					}
 				]
@@ -2489,10 +2489,10 @@
 						"meta": [
 							"dune desert",
 							"night time",
+							"team cup",
 							"radar tower",
 							"space elevator",
-							"lights",
-							"team cup"
+							"lights"
 						]
 					}
 				]
@@ -2510,10 +2510,10 @@
 							"unknown location",
 							"interior",
 							"modded",
+							"no team",
 							"belts",
 							"lights",
-							"warehouse",
-							"no team"
+							"warehouse"
 						]
 					}
 				]
@@ -2531,14 +2531,14 @@
 						"timestamp": 914,
 						"meta": [
 							"western beaches",
+							"no team",
 							"space elevator",
 							"train",
 							"catwalk",
 							"frames",
 							"oil plant",
 							"train spiral",
-							"viaduct",
-							"no team"
+							"viaduct"
 						]
 					},
 					{
@@ -2546,10 +2546,10 @@
 						"meta": [
 							"unknown location",
 							"interior",
+							"team hands",
 							"train station",
 							"train",
-							"catwalk",
-							"team hands"
+							"catwalk"
 						]
 					},
 					{
@@ -2559,10 +2559,10 @@
 							"snaketree forest",
 							"grass fields arch",
 							"glass",
+							"team hands",
 							"belts",
 							"outpost",
-							"viaduct",
-							"team hands"
+							"viaduct"
 						]
 					}
 				]
@@ -2586,10 +2586,10 @@
 							"uncertain location",
 							"night time",
 							"modded",
+							"team golden cup",
 							"foundation patterns",
 							"lights",
 							"signs",
-							"team golden cup",
 							"parking lot"
 						]
 					},
@@ -2599,9 +2599,9 @@
 							"uncertain location",
 							"night time",
 							"modded",
+							"team golden cup",
 							"foundation patterns",
 							"signs",
-							"team golden cup",
 							"parking lot"
 						]
 					},
@@ -2611,10 +2611,10 @@
 							"unknown location",
 							"interior",
 							"modded",
+							"team golden cup",
 							"frames",
 							"belts",
-							"lights",
-							"team golden cup"
+							"lights"
 						]
 					}
 				]
@@ -2635,10 +2635,10 @@
 						"meta": [
 							"uncertain location",
 							"spaghett",
+							"team berry",
 							"cables",
 							"pipes",
-							"tubes",
-							"team berry"
+							"tubes"
 						]
 					}
 				]
@@ -2662,8 +2662,8 @@
 							"glass",
 							"interior",
 							"modded",
-							"beams",
-							"team xenobasher"
+							"team xenobasher",
+							"beams"
 						]
 					},
 					{
@@ -2673,9 +2673,9 @@
 							"glass",
 							"interior",
 							"modded",
+							"team xenobasher",
 							"beams",
-							"lights",
-							"team xenobasher"
+							"lights"
 						]
 					}
 				]
@@ -2698,9 +2698,9 @@
 							"glass",
 							"interior",
 							"manifold",
+							"no team",
 							"belts",
-							"lights",
-							"no team"
+							"lights"
 						]
 					}
 				]
@@ -2720,9 +2720,9 @@
 						"timestamp": 946,
 						"meta": [
 							"uncertain location",
+							"team hover pack",
 							"pipes",
-							"nuclear plant",
-							"team hover pack"
+							"nuclear plant"
 						]
 					}
 				]
@@ -2743,13 +2743,13 @@
 						"meta": [
 							"uncertain location",
 							"glass",
+							"team golden cup",
+							"team hover pack",
 							"belts",
 							"lights",
 							"pipes",
 							"fuel plant",
-							"oil plant",
-							"team golden cup",
-							"team hover pack"
+							"oil plant"
 						]
 					}
 				]
@@ -2772,10 +2772,10 @@
 						"meta": [
 							"uncertain location",
 							"modded",
-							"fuel plant",
-							"tower",
 							"team feet",
-							"team object scanner"
+							"team object scanner",
+							"fuel plant",
+							"tower"
 						]
 					},
 					{
@@ -2791,9 +2791,9 @@
 						"meta": [
 							"uncertain location",
 							"glass",
+							"team build gun",
 							"stairs",
-							"fuel plant",
-							"team build gun"
+							"fuel plant"
 						]
 					}
 				]
@@ -2816,40 +2816,40 @@
 						"timestamp": 1624,
 						"meta": [
 							"rocky desert",
+							"no team",
 							"explorer",
-							"belts",
-							"no team"
+							"belts"
 						]
 					},
 					{
 						"timestamp": 1635,
 						"meta": [
 							"rocky desert",
+							"no team",
 							"explorer",
-							"lights",
-							"no team"
+							"lights"
 						]
 					},
 					{
 						"timestamp": 1651,
 						"meta": [
 							"the gates of beugernath",
+							"no team",
 							"drone",
 							"frames",
-							"user interface",
-							"no team"
+							"user interface"
 						]
 					},
 					{
 						"timestamp": 1675,
 						"meta": [
 							"the gates of beugernath",
+							"no team",
 							"drone",
 							"explorer",
 							"frames",
 							"pipes",
-							"coal plant",
-							"no team"
+							"coal plant"
 						]
 					}
 				]
@@ -2872,8 +2872,8 @@
 						"meta": [
 							"uncertain location",
 							"night time",
-							"signs",
-							"no team"
+							"no team",
+							"signs"
 						]
 					},
 					{
@@ -2881,8 +2881,8 @@
 						"meta": [
 							"uncertain location",
 							"night time",
-							"signs",
-							"no team"
+							"no team",
+							"signs"
 						]
 					},
 					{
@@ -2890,8 +2890,8 @@
 						"meta": [
 							"uncertain location",
 							"night time",
-							"signs",
-							"no team"
+							"no team",
+							"signs"
 						]
 					}
 				]
@@ -2913,11 +2913,11 @@
 						"meta": [
 							"rocky desert",
 							"night time",
+							"no team",
 							"train",
 							"frames",
 							"lights",
-							"viaduct",
-							"no team"
+							"viaduct"
 						]
 					},
 					{
@@ -2926,13 +2926,13 @@
 							"uncertain location",
 							"industrial",
 							"interior",
+							"no team",
 							"catwalk",
 							"foundation patterns",
 							"lights",
 							"pipes",
 							"signs",
-							"roads",
-							"no team"
+							"roads"
 						]
 					}
 				]
@@ -2951,9 +2951,9 @@
 						"meta": [
 							"unknown location",
 							"glass",
+							"no team",
 							"awesome shop",
-							"signs",
-							"no team"
+							"signs"
 						]
 					},
 					{
@@ -2962,8 +2962,8 @@
 							"unknown location",
 							"glass",
 							"interior",
-							"signs",
-							"no team"
+							"no team",
+							"signs"
 						]
 					},
 					{
@@ -2972,8 +2972,8 @@
 							"unknown location",
 							"glass",
 							"modded",
-							"signs",
-							"team cup"
+							"team cup",
+							"signs"
 						]
 					}
 				]
@@ -2990,18 +2990,18 @@
 						"timestamp": 969,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"hub",
-							"signs",
-							"no team"
+							"signs"
 						]
 					},
 					{
 						"timestamp": 991,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"hub",
-							"signs",
-							"no team"
+							"signs"
 						]
 					}
 				]
@@ -3018,10 +3018,10 @@
 						"meta": [
 							"uncertain location",
 							"glass",
+							"no team",
 							"train station",
 							"beams",
-							"viaduct",
-							"no team"
+							"viaduct"
 						]
 					}
 				]
@@ -3043,9 +3043,9 @@
 							"unknown location",
 							"glass",
 							"interior",
+							"team cup",
 							"personal crate",
-							"signs",
-							"team cup"
+							"signs"
 						]
 					},
 					{
@@ -3068,9 +3068,9 @@
 							"unknown location",
 							"glass",
 							"interior",
+							"team cup",
 							"signs",
-							"nuclear plant",
-							"team cup"
+							"nuclear plant"
 						]
 					},
 					{
@@ -3078,10 +3078,10 @@
 						"meta": [
 							"unknown location",
 							"glass",
+							"team cup",
 							"signs",
 							"power slug",
-							"nuclear plant",
-							"team cup"
+							"nuclear plant"
 						]
 					}
 				]
@@ -3102,8 +3102,8 @@
 						"meta": [
 							"uncertain location",
 							"pixel art",
-							"belts",
-							"no team"
+							"no team",
+							"belts"
 						]
 					}
 				]
@@ -3119,10 +3119,10 @@
 						"timestamp": 879,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"lights",
 							"manta",
-							"manta gate",
-							"no team"
+							"manta gate"
 						]
 					}
 				]
@@ -3140,10 +3140,10 @@
 							"rocky desert",
 							"nature",
 							"sunrise/sunset",
+							"no team",
 							"catwalk",
 							"frames",
-							"belts",
-							"no team"
+							"belts"
 						]
 					}
 				]
@@ -3163,11 +3163,11 @@
 						"timestamp": 146,
 						"meta": [
 							"uncertain location",
+							"team rifle",
 							"awesome sink",
 							"catwalk",
 							"frames",
-							"pipes",
-							"team rifle"
+							"pipes"
 						]
 					}
 				]
@@ -3185,8 +3185,8 @@
 							"uncertain location",
 							"lasagn",
 							"memes",
-							"belts",
-							"no team"
+							"no team",
+							"belts"
 						]
 					}
 				]
@@ -3206,8 +3206,8 @@
 						"meta": [
 							"uncertain location",
 							"modded",
-							"user interface",
-							"team cup"
+							"team cup",
+							"user interface"
 						]
 					},
 					{
@@ -3215,8 +3215,8 @@
 						"meta": [
 							"unknown location",
 							"modded",
-							"signs",
-							"team cup"
+							"team cup",
+							"signs"
 						]
 					},
 					{
@@ -3224,8 +3224,8 @@
 						"meta": [
 							"unknown location",
 							"modded",
-							"signs",
-							"team cup"
+							"team cup",
+							"signs"
 						]
 					},
 					{
@@ -3233,8 +3233,8 @@
 						"meta": [
 							"unknown location",
 							"modded",
-							"user interface",
-							"team cup"
+							"team cup",
+							"user interface"
 						]
 					}
 				]
@@ -3256,9 +3256,9 @@
 							"uncertain location",
 							"glass",
 							"interior",
+							"team xenozapper",
 							"catwalk",
-							"pipes",
-							"team xenozapper"
+							"pipes"
 						]
 					}
 				]
@@ -3274,6 +3274,8 @@
 						"timestamp": 3176.391,
 						"meta": [
 							"uncertain location",
+							"team hover pack",
+							"team zipline",
 							"blender",
 							"space elevator",
 							"train station",
@@ -3281,9 +3283,7 @@
 							"belts",
 							"tubes",
 							"tower",
-							"viaduct",
-							"team hover pack",
-							"team zipline"
+							"viaduct"
 						]
 					}
 				]
@@ -3300,9 +3300,9 @@
 						"meta": [
 							"uncertain location",
 							"sunrise/sunset",
+							"no team",
 							"belts",
-							"oil plant",
-							"no team"
+							"oil plant"
 						]
 					}
 				]
@@ -3321,9 +3321,9 @@
 							"glitch",
 							"manifold",
 							"memes",
+							"team hover pack",
 							"explorer",
-							"belts",
-							"team hover pack"
+							"belts"
 						]
 					}
 				]
@@ -3346,10 +3346,10 @@
 						"meta": [
 							"unknown location",
 							"glass",
+							"no team",
 							"awesome shop",
 							"lights",
-							"signs",
-							"no team"
+							"signs"
 						]
 					},
 					{
@@ -3357,9 +3357,9 @@
 						"meta": [
 							"unknown location",
 							"interior",
+							"no team",
 							"lights",
-							"signs",
-							"no team"
+							"signs"
 						]
 					},
 					{
@@ -3369,8 +3369,8 @@
 							"glass",
 							"interior",
 							"modded",
-							"signs",
-							"team cup"
+							"team cup",
+							"signs"
 						]
 					}
 				]
@@ -3388,8 +3388,8 @@
 							"grass fields",
 							"grass fields arch",
 							"memes",
-							"awesome shop",
-							"no team"
+							"no team",
+							"awesome shop"
 						]
 					}
 				]
@@ -3406,18 +3406,18 @@
 						"timestamp": 968.034,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"hub",
-							"signs",
-							"no team"
+							"signs"
 						]
 					},
 					{
 						"timestamp": 991.072,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"hub",
-							"signs",
-							"no team"
+							"signs"
 						]
 					}
 				]
@@ -3434,10 +3434,10 @@
 						"meta": [
 							"uncertain location",
 							"glass",
+							"no team",
 							"train station",
 							"beams",
-							"viaduct",
-							"no team"
+							"viaduct"
 						]
 					}
 				]
@@ -3454,10 +3454,10 @@
 						"meta": [
 							"uncertain location",
 							"reference images",
+							"no team",
 							"frames",
 							"signs",
-							"manta",
-							"no team"
+							"manta"
 						]
 					}
 				]
@@ -3479,9 +3479,9 @@
 							"unknown location",
 							"glass",
 							"interior",
+							"team cup",
 							"personal crate",
-							"signs",
-							"team cup"
+							"signs"
 						]
 					},
 					{
@@ -3504,9 +3504,9 @@
 							"unknown location",
 							"glass",
 							"interior",
+							"team cup",
 							"signs",
-							"nuclear plant",
-							"team cup"
+							"nuclear plant"
 						]
 					},
 					{
@@ -3514,10 +3514,10 @@
 						"meta": [
 							"unknown location",
 							"glass",
+							"team cup",
 							"signs",
 							"power slug",
-							"nuclear plant",
-							"team cup"
+							"nuclear plant"
 						]
 					}
 				]
@@ -3538,9 +3538,9 @@
 						"meta": [
 							"rocky desert",
 							"memes",
+							"no team",
 							"train",
-							"viaduct",
-							"no team"
+							"viaduct"
 						]
 					}
 				]
@@ -3558,9 +3558,9 @@
 							"unknown location",
 							"interior",
 							"modded",
+							"no team",
 							"factory cart",
-							"beams",
-							"no team"
+							"beams"
 						]
 					}
 				]
@@ -3581,9 +3581,9 @@
 						"meta": [
 							"uncertain location",
 							"night time",
+							"team cup",
 							"frames",
-							"coal plant",
-							"team cup"
+							"coal plant"
 						]
 					}
 				]
@@ -3603,12 +3603,12 @@
 						"timestamp": 691,
 						"meta": [
 							"dune desert",
+							"no team",
 							"miner",
 							"radar tower",
 							"signs",
 							"train signals",
-							"viaduct",
-							"no team"
+							"viaduct"
 						]
 					}
 				]
@@ -3627,14 +3627,14 @@
 					{
 						"timestamp": 621,
 						"meta": [
-							"northern forest",
 							"the great canyon",
+							"northern forest",
 							"green valley",
 							"architecture",
+							"team zipline",
 							"space elevator",
 							"beams",
-							"tubes",
-							"team zipline"
+							"tubes"
 						]
 					}
 				]
@@ -3652,9 +3652,9 @@
 							"grass fields",
 							"glass",
 							"industrial",
-							"viaduct",
 							"team golden cup",
-							"team hover pack"
+							"team hover pack",
+							"viaduct"
 						]
 					}
 				]
@@ -3672,8 +3672,8 @@
 							"rocky desert",
 							"ficsmas",
 							"manifold",
-							"belts",
-							"team hover pack"
+							"team hover pack",
+							"belts"
 						]
 					}
 				]
@@ -3695,11 +3695,11 @@
 							"uncertain location",
 							"architecture",
 							"glass",
+							"no team",
 							"space elevator",
 							"frames",
 							"lights",
-							"signs",
-							"no team"
+							"signs"
 						]
 					}
 				]
@@ -3717,11 +3717,11 @@
 						"meta": [
 							"dune desert",
 							"night time",
+							"team hover pack",
 							"frames",
 							"lights",
 							"outpost",
-							"viaduct",
-							"team hover pack"
+							"viaduct"
 						]
 					},
 					{
@@ -3731,10 +3731,10 @@
 							"industrial",
 							"interior",
 							"manifold",
+							"team hover pack",
 							"catwalk",
 							"belts",
-							"lights",
-							"team hover pack"
+							"lights"
 						]
 					}
 				]
@@ -3757,8 +3757,8 @@
 							"dune desert",
 							"night time",
 							"references to other franchises",
-							"lights",
-							"team golden cup"
+							"team golden cup",
+							"lights"
 						]
 					},
 					{
@@ -3785,24 +3785,24 @@
 						"timestamp": 1883,
 						"meta": [
 							"swamp",
+							"team hover pack",
 							"catwalk",
 							"frames",
 							"lights",
 							"train signals",
-							"train spiral",
-							"team hover pack"
+							"train spiral"
 						]
 					},
 					{
 						"timestamp": 1896,
 						"meta": [
 							"swamp",
+							"team hover pack",
 							"train",
 							"lights",
 							"train signals",
 							"train spiral",
-							"viaduct",
-							"team hover pack"
+							"viaduct"
 						]
 					}
 				]
@@ -3841,11 +3841,11 @@
 						"meta": [
 							"rocky desert",
 							"manifold",
+							"no team",
 							"lookout tower",
 							"radar tower",
 							"belts",
-							"pipes",
-							"no team"
+							"pipes"
 						]
 					}
 				]
@@ -3862,8 +3862,8 @@
 						"timestamp": 938,
 						"meta": [
 							"uncertain location",
-							"outpost",
-							"team cup"
+							"team cup",
+							"outpost"
 						]
 					},
 					{
@@ -3871,15 +3871,15 @@
 						"meta": [
 							"uncertain location",
 							"glass",
+							"team cup",
+							"team hover pack",
 							"particle accelerator",
 							"space elevator",
 							"drone",
 							"frames",
 							"foundation patterns",
 							"lights",
-							"pipes",
-							"team cup",
-							"team hover pack"
+							"pipes"
 						]
 					}
 				]
@@ -3896,13 +3896,13 @@
 						"meta": [
 							"uncertain location",
 							"glass",
+							"team cup",
 							"truck",
 							"frames",
 							"ladder",
 							"signs",
 							"coal plant",
-							"crane",
-							"team cup"
+							"crane"
 						]
 					}
 				]
@@ -3919,9 +3919,9 @@
 						"meta": [
 							"rocky desert",
 							"green valley",
+							"no team",
 							"radar tower",
-							"train spiral",
-							"no team"
+							"train spiral"
 						]
 					}
 				]
@@ -3945,12 +3945,12 @@
 							"glass",
 							"industrial",
 							"memes",
+							"no team",
 							"catwalk",
 							"foundation patterns",
 							"lights",
 							"signs",
-							"roads",
-							"no team"
+							"roads"
 						]
 					}
 				]
@@ -3973,29 +3973,29 @@
 						"meta": [
 							"crater lakes",
 							"sunrise/sunset",
+							"no team",
 							"space elevator",
 							"belts",
-							"coal plant",
-							"no team"
+							"coal plant"
 						]
 					},
 					{
 						"timestamp": 914,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"pipes",
-							"fuel plant",
-							"no team"
+							"fuel plant"
 						]
 					},
 					{
 						"timestamp": 950,
 						"meta": [
 							"crater lakes",
+							"no team",
 							"space elevator",
 							"belts",
-							"fuel plant",
-							"no team"
+							"fuel plant"
 						]
 					}
 				]
@@ -4017,12 +4017,12 @@
 							"uncertain location",
 							"robo jace",
 							"industrial",
+							"no team",
 							"space elevator",
 							"catwalk",
 							"frames",
 							"fuel plant",
-							"tower",
-							"no team"
+							"tower"
 						]
 					}
 				]
@@ -4039,11 +4039,11 @@
 						"meta": [
 							"uncertain location",
 							"robo jace",
+							"team candy cane",
+							"team hover pack",
 							"signs",
 							"lizard doggo",
-							"statue gallery",
-							"team candy cane",
-							"team hover pack"
+							"statue gallery"
 						]
 					}
 				]
@@ -4061,10 +4061,10 @@
 							"dune desert",
 							"robo jace",
 							"manifold",
+							"no team",
 							"awesome sink",
 							"belts",
-							"tubes",
-							"no team"
+							"tubes"
 						]
 					}
 				]
@@ -4082,6 +4082,7 @@
 							"rocky desert",
 							"robo jace",
 							"architecture",
+							"no team",
 							"miner",
 							"train",
 							"belts",
@@ -4089,8 +4090,7 @@
 							"signs",
 							"stairs",
 							"outpost",
-							"viaduct",
-							"no team"
+							"viaduct"
 						]
 					}
 				]
@@ -4113,9 +4113,9 @@
 							"glass",
 							"interior",
 							"sunrise/sunset",
+							"team golden cup",
 							"belts",
-							"hog",
-							"team golden cup"
+							"hog"
 						]
 					}
 				]
@@ -4135,10 +4135,10 @@
 							"interior",
 							"weatherwax",
 							"memes",
+							"no team",
 							"catwalk",
 							"lights",
-							"signs",
-							"no team"
+							"signs"
 						]
 					}
 				]
@@ -4156,11 +4156,11 @@
 							"uncertain location",
 							"glass",
 							"interior",
+							"team inhaler",
 							"catwalk",
 							"lights",
 							"tubes",
-							"warehouse",
-							"team inhaler"
+							"warehouse"
 						]
 					}
 				]
@@ -4200,9 +4200,9 @@
 							"cityscape",
 							"glass",
 							"industrial",
+							"team golden cup",
 							"radar tower",
-							"tubes",
-							"team golden cup"
+							"tubes"
 						]
 					}
 				]
@@ -4283,9 +4283,9 @@
 						"meta": [
 							"uncertain location",
 							"glass",
+							"no team",
 							"space elevator",
-							"tower",
-							"no team"
+							"tower"
 						]
 					}
 				]
@@ -4306,15 +4306,15 @@
 						"meta": [
 							"uncertain location",
 							"architecture",
+							"no team",
 							"explorer",
 							"tractor",
 							"truck",
 							"foundation patterns",
 							"lights",
 							"signs",
-							"roads",
-							"no team",
-							"parking lot"
+							"parking lot",
+							"roads"
 						]
 					}
 				]
@@ -4336,10 +4336,10 @@
 							"spire coast",
 							"night time",
 							"references to other franchises",
+							"team hover pack",
 							"catwalk",
 							"frames",
-							"lights",
-							"team hover pack"
+							"lights"
 						]
 					}
 				]
@@ -4361,15 +4361,15 @@
 							"uncertain location",
 							"cityscape",
 							"night time",
+							"team golden cup",
+							"team hover pack",
 							"radar tower",
 							"space elevator",
 							"frames",
 							"belts",
 							"lights",
 							"tubes",
-							"coal plant",
-							"team golden cup",
-							"team hover pack"
+							"coal plant"
 						]
 					}
 				]
@@ -4446,11 +4446,11 @@
 							"games",
 							"glass",
 							"interior",
+							"no team",
 							"factory cart",
 							"lights",
 							"pipes",
-							"signs",
-							"no team"
+							"signs"
 						]
 					}
 				]
@@ -4472,9 +4472,9 @@
 							"northern forest",
 							"nature",
 							"night time",
+							"no team",
 							"space elevator",
-							"hog",
-							"no team"
+							"hog"
 						]
 					}
 				]
@@ -4496,10 +4496,10 @@
 							"green valley",
 							"manifold",
 							"modded",
-							"beams",
-							"bean",
 							"team hover pack",
-							"team xenobasher"
+							"team xenobasher",
+							"beams",
+							"bean"
 						]
 					}
 				]
@@ -4516,9 +4516,9 @@
 						"meta": [
 							"grass fields arch",
 							"architecture",
+							"no team",
 							"manta",
-							"signs as lights",
-							"no team"
+							"signs as lights"
 						]
 					}
 				]
@@ -4541,12 +4541,12 @@
 							"cityscape",
 							"nature",
 							"night time",
+							"no team",
 							"frames",
 							"beams",
 							"cables",
 							"lights",
-							"signs",
-							"no team"
+							"signs"
 						]
 					}
 				]
@@ -4564,9 +4564,9 @@
 							"lake forest",
 							"red bamboo fields",
 							"nature",
+							"team cup",
 							"catwalk",
-							"bridge",
-							"team cup"
+							"bridge"
 						]
 					}
 				]
@@ -4589,9 +4589,9 @@
 							"games",
 							"interior",
 							"multiplayer",
+							"no team",
 							"catwalk",
-							"signs",
-							"no team"
+							"signs"
 						]
 					},
 					{
@@ -4601,8 +4601,8 @@
 							"games",
 							"interior",
 							"multiplayer",
-							"signs",
-							"team hover pack"
+							"team hover pack",
+							"signs"
 						]
 					},
 					{
@@ -4612,9 +4612,9 @@
 							"games",
 							"interior",
 							"multiplayer",
+							"team hover pack",
 							"cables",
-							"signs",
-							"team hover pack"
+							"signs"
 						]
 					},
 					{
@@ -4624,9 +4624,9 @@
 							"games",
 							"interior",
 							"multiplayer",
+							"team hover pack",
 							"lights",
-							"signs",
-							"team hover pack"
+							"signs"
 						]
 					},
 					{
@@ -4636,8 +4636,8 @@
 							"games",
 							"interior",
 							"multiplayer",
-							"signs",
-							"team hover pack"
+							"team hover pack",
+							"signs"
 						]
 					}
 				]
@@ -4660,8 +4660,8 @@
 							"interior",
 							"night time",
 							"multiplayer",
-							"signs",
-							"no team"
+							"no team",
+							"signs"
 						]
 					},
 					{
@@ -4671,18 +4671,18 @@
 							"games",
 							"night time",
 							"multiplayer",
-							"signs",
-							"no team"
+							"no team",
+							"signs"
 						]
 					},
 					{
 						"timestamp": 5526,
 						"meta": [
 							"uncertain location",
+							"team hover pack",
 							"catwalk",
 							"cables",
-							"signs",
-							"team hover pack"
+							"signs"
 						]
 					},
 					{
@@ -4691,9 +4691,9 @@
 							"uncertain location",
 							"games",
 							"multiplayer",
+							"team hover pack",
 							"catwalk",
-							"cables",
-							"team hover pack"
+							"cables"
 						]
 					}
 				]
@@ -4714,13 +4714,13 @@
 						"meta": [
 							"uncertain location",
 							"night time",
+							"no team",
 							"awesome shop",
 							"space elevator",
 							"frames",
 							"lights",
 							"tubes",
-							"outpost",
-							"no team"
+							"outpost"
 						]
 					}
 				]
@@ -4736,11 +4736,11 @@
 						"timestamp": 1848,
 						"meta": [
 							"grass fields",
+							"no team",
 							"space elevator",
 							"frames",
 							"pipes",
-							"signs as lights",
-							"no team"
+							"signs as lights"
 						]
 					}
 				]
@@ -4758,8 +4758,8 @@
 							"uncertain location",
 							"pixel art",
 							"references to other franchises",
-							"signs as lights",
-							"no team"
+							"no team",
+							"signs as lights"
 						]
 					}
 				]
@@ -4777,9 +4777,9 @@
 						"meta": [
 							"uncertain location",
 							"references to other franchises",
+							"no team",
 							"awesome sink",
-							"spaceship",
-							"no team"
+							"spaceship"
 						]
 					},
 					{
@@ -4787,9 +4787,9 @@
 						"meta": [
 							"uncertain location",
 							"references to other franchises",
+							"no team",
 							"signs as lights",
-							"spaceship",
-							"no team"
+							"spaceship"
 						]
 					}
 				]
@@ -4806,9 +4806,9 @@
 						"meta": [
 							"uncertain location",
 							"pixel art",
+							"no team",
 							"signs",
-							"boat",
-							"no team"
+							"boat"
 						]
 					}
 				]
@@ -4826,11 +4826,11 @@
 						"meta": [
 							"uncertain location",
 							"weatherwax",
+							"no team",
 							"beams",
 							"personal crate",
 							"signs",
-							"statue gallery",
-							"no team"
+							"statue gallery"
 						]
 					},
 					{
@@ -4838,11 +4838,11 @@
 						"meta": [
 							"uncertain location",
 							"weatherwax",
+							"no team",
 							"beams",
 							"personal crate",
 							"signs",
-							"statue gallery",
-							"no team"
+							"statue gallery"
 						]
 					}
 				]
@@ -4859,12 +4859,12 @@
 						"meta": [
 							"uncertain location",
 							"glass",
+							"no team",
 							"catwalk",
 							"frames",
 							"beams",
 							"stairs",
-							"boat",
-							"no team"
+							"boat"
 						]
 					}
 				]
@@ -4885,8 +4885,8 @@
 							"uncertain location",
 							"art",
 							"underwater",
-							"beams",
-							"no team"
+							"no team",
+							"beams"
 						]
 					},
 					{
@@ -4895,10 +4895,10 @@
 							"rocky desert",
 							"art",
 							"multiplayer",
+							"no team",
 							"beams",
 							"signs",
-							"boat",
-							"no team"
+							"boat"
 						]
 					},
 					{
@@ -4907,8 +4907,8 @@
 							"rocky desert",
 							"art",
 							"underwater",
-							"beams",
-							"no team"
+							"no team",
+							"beams"
 						]
 					},
 					{
@@ -4917,9 +4917,9 @@
 							"rocky desert",
 							"art",
 							"underwater",
+							"team feet",
 							"beams",
-							"boat",
-							"team feet"
+							"boat"
 						]
 					}
 				]
@@ -4938,9 +4938,9 @@
 						"meta": [
 							"uncertain location",
 							"skatepark",
+							"no team",
 							"tractor",
-							"lights",
-							"no team"
+							"lights"
 						]
 					},
 					{
@@ -4949,18 +4949,18 @@
 							"uncertain location",
 							"pixel art",
 							"skatepark",
+							"team feet",
 							"tractor",
-							"lights",
-							"team feet"
+							"lights"
 						]
 					},
 					{
 						"timestamp": 3663,
 						"meta": [
 							"uncertain location",
+							"glitch",
 							"no team",
-							"tractor",
-							"glitch"
+							"tractor"
 						]
 					},
 					{
@@ -4984,8 +4984,8 @@
 						"meta": [
 							"uncertain location",
 							"pixel art",
-							"signs",
-							"no team"
+							"no team",
+							"signs"
 						]
 					}
 				]
@@ -5004,9 +5004,9 @@
 							"glass",
 							"pixel art",
 							"references to other franchises",
+							"no team",
 							"personal crate",
-							"signs",
-							"no team"
+							"signs"
 						]
 					}
 				]
@@ -5023,8 +5023,8 @@
 						"meta": [
 							"uncertain location",
 							"pixel art",
-							"signs",
-							"no team"
+							"no team",
+							"signs"
 						]
 					}
 				]
@@ -5044,10 +5044,10 @@
 							"uncertain location",
 							"glass",
 							"weatherwax",
-							"pipes",
-							"signs",
 							"no team",
-							"boombox"
+							"boombox",
+							"pipes",
+							"signs"
 						]
 					},
 					{
@@ -5056,10 +5056,10 @@
 							"uncertain location",
 							"glass",
 							"weatherwax",
-							"pipes",
-							"signs",
 							"no team",
-							"boombox"
+							"boombox",
+							"pipes",
+							"signs"
 						]
 					},
 					{
@@ -5068,10 +5068,10 @@
 							"uncertain location",
 							"glass",
 							"weatherwax",
-							"pipes",
-							"signs",
 							"no team",
-							"boombox"
+							"boombox",
+							"pipes",
+							"signs"
 						]
 					}
 				]
@@ -5091,10 +5091,10 @@
 						"meta": [
 							"uncertain location",
 							"pixel art",
+							"no team",
 							"beams",
 							"cables",
-							"boat",
-							"no team"
+							"boat"
 						]
 					},
 					{
@@ -5102,10 +5102,10 @@
 						"meta": [
 							"uncertain location",
 							"pixel art",
+							"no team",
 							"beams",
 							"cables",
-							"boat",
-							"no team"
+							"boat"
 						]
 					},
 					{
@@ -5113,10 +5113,10 @@
 						"meta": [
 							"uncertain location",
 							"pixel art",
+							"no team",
 							"beams",
 							"cables",
-							"boat",
-							"no team"
+							"boat"
 						]
 					},
 					{
@@ -5124,11 +5124,11 @@
 						"meta": [
 							"uncertain location",
 							"pixel art",
+							"no team",
 							"beams",
 							"cables",
 							"boat",
-							"statue gallery",
-							"no team"
+							"statue gallery"
 						]
 					}
 				]
@@ -5147,10 +5147,10 @@
 						"meta": [
 							"uncertain location",
 							"glass",
-							"signs as lights",
-							"tower",
 							"no team",
-							"lighthouse"
+							"lighthouse",
+							"signs as lights",
+							"tower"
 						]
 					},
 					{
@@ -5158,11 +5158,11 @@
 						"meta": [
 							"uncertain location",
 							"glass",
+							"no team",
 							"catwalk",
 							"frames",
 							"beams",
-							"signs",
-							"no team"
+							"signs"
 						]
 					},
 					{
@@ -5170,12 +5170,12 @@
 						"meta": [
 							"uncertain location",
 							"glass",
+							"no team",
 							"catwalk",
 							"frames",
 							"beams",
 							"signs as lights",
-							"tower",
-							"no team"
+							"tower"
 						]
 					}
 				]
@@ -5195,69 +5195,69 @@
 						"meta": [
 							"uncertain location",
 							"architecture",
+							"no team",
 							"lookout tower",
 							"catwalk",
 							"beams",
 							"lights",
 							"signs",
-							"signs as lights",
-							"no team"
+							"signs as lights"
 						]
 					},
 					{
 						"timestamp": 4108,
 						"meta": [
 							"uncertain location",
+							"jace would drink there",
 							"architecture",
+							"no team",
 							"catwalk",
 							"beams",
 							"lights",
 							"signs",
-							"signs as lights",
-							"no team",
-							"jace would drink there"
+							"signs as lights"
 						]
 					},
 					{
 						"timestamp": 4108,
 						"meta": [
 							"uncertain location",
+							"architecture",
+							"interior",
 							"no team",
 							"catwalk",
-							"signs",
-							"architecture",
 							"beams",
-							"interior"
+							"signs"
 						]
 					},
 					{
 						"timestamp": 4108,
 						"meta": [
 							"uncertain location",
+							"architecture",
 							"no team",
 							"catwalk",
-							"signs as lights",
-							"signs",
-							"architecture",
 							"beams",
-							"lights"
+							"lights",
+							"signs",
+							"signs as lights"
 						]
 					},
 					{
 						"timestamp": 4128,
 						"meta": [
 							"uncertain location",
-							"no team",
-							"jace would drink there"
+							"jace would drink there",
+							"no team"
 						]
 					},
 					{
 						"timestamp": 4161,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"lookout tower",
-							"lights",
-							"no team"
+							"lights"
 						]
 					}
 				]
@@ -5274,9 +5274,9 @@
 						"meta": [
 							"uncertain location",
 							"pixel art",
+							"no team",
 							"cyber wagon",
-							"signs",
-							"no team"
+							"signs"
 						]
 					}
 				]
@@ -5294,11 +5294,11 @@
 						"timestamp": 4227,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"personal crate",
 							"pipes",
-							"signs",
-							"no team"
+							"signs"
 						]
 					},
 					{
@@ -5316,10 +5316,10 @@
 						"meta": [
 							"uncertain location",
 							"interior",
+							"no team",
 							"lights",
 							"personal crate",
-							"signs",
-							"no team"
+							"signs"
 						]
 					},
 					{
@@ -5342,9 +5342,9 @@
 						"timestamp": 4436,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"frames",
-							"signs",
-							"no team"
+							"signs"
 						]
 					}
 				]
@@ -5367,52 +5367,52 @@
 						"meta": [
 							"uncertain location",
 							"multiplayer",
+							"no team",
 							"beams",
 							"signs",
-							"boat",
-							"no team"
+							"boat"
 						]
 					},
 					{
 						"timestamp": 4498,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"signs",
 							"boat",
-							"bridge",
-							"no team"
+							"bridge"
 						]
 					},
 					{
 						"timestamp": 4511,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"signs",
 							"boat",
-							"bridge",
-							"no team"
+							"bridge"
 						]
 					},
 					{
 						"timestamp": 4517,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"signs",
-							"boat",
-							"no team"
+							"boat"
 						]
 					},
 					{
 						"timestamp": 4538,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"signs",
-							"bridge",
-							"no team"
+							"bridge"
 						]
 					},
 					{
@@ -5420,9 +5420,9 @@
 						"meta": [
 							"uncertain location",
 							"interior",
+							"no team",
 							"statue gallery",
-							"warehouse",
-							"no team"
+							"warehouse"
 						]
 					},
 					{
@@ -5431,8 +5431,8 @@
 							"uncertain location",
 							"no team",
 							"beams",
-							"boat",
-							"power slug"
+							"power slug",
+							"boat"
 						]
 					},
 					{
@@ -5456,9 +5456,11 @@
 						"timestamp": 4592,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"lookout tower",
 							"particle accelerator",
 							"radar tower",
+							"refinery",
 							"cyber wagon",
 							"drone",
 							"explorer",
@@ -5467,15 +5469,14 @@
 							"beams",
 							"personal crate",
 							"nuclear plant",
-							"power storage bank",
-							"no team",
-							"refinery"
+							"power storage bank"
 						]
 					},
 					{
 						"timestamp": 4597,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"lookout tower",
 							"particle accelerator",
 							"radar tower",
@@ -5487,8 +5488,7 @@
 							"beams",
 							"personal crate",
 							"nuclear plant",
-							"power storage bank",
-							"no team"
+							"power storage bank"
 						]
 					}
 				]
@@ -5505,20 +5505,20 @@
 						"timestamp": 4616,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"cables",
-							"boat",
-							"no team"
+							"boat"
 						]
 					},
 					{
 						"timestamp": 4642,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"cables",
-							"boat",
-							"no team"
+							"boat"
 						]
 					}
 				]
@@ -5535,8 +5535,8 @@
 						"meta": [
 							"uncertain location",
 							"references to other franchises",
-							"beams",
-							"no team"
+							"no team",
+							"beams"
 						]
 					}
 				]
@@ -5553,23 +5553,23 @@
 						"timestamp": 4677,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"cables",
 							"signs",
 							"boat",
-							"signs as lights",
-							"no team"
+							"signs as lights"
 						]
 					},
 					{
 						"timestamp": 4700,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"cables",
 							"boat",
-							"signs as lights",
-							"no team"
+							"signs as lights"
 						]
 					}
 				]
@@ -5586,10 +5586,10 @@
 						"timestamp": 4713,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"lights",
-							"signs as lights",
-							"no team"
+							"signs as lights"
 						]
 					},
 					{
@@ -5627,12 +5627,12 @@
 						"meta": [
 							"uncertain location",
 							"modded",
+							"no team",
 							"catwalk",
 							"cables",
 							"pipes",
 							"signs",
-							"boat",
-							"no team"
+							"boat"
 						]
 					},
 					{
@@ -5640,9 +5640,9 @@
 						"meta": [
 							"uncertain location",
 							"modded",
+							"no team",
 							"catwalk",
-							"signs",
-							"no team"
+							"signs"
 						]
 					},
 					{
@@ -5650,37 +5650,28 @@
 						"meta": [
 							"uncertain location",
 							"modded",
+							"no team",
 							"catwalk",
 							"frames",
-							"signs",
-							"no team"
+							"signs"
 						]
 					},
 					{
 						"timestamp": 4808,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"catwalk",
 							"boat",
-							"statue gallery",
-							"no team"
+							"statue gallery"
 						]
 					},
 					{
 						"timestamp": 4816,
 						"meta": [
 							"uncertain location",
-							"catwalk",
-							"no team"
-						]
-					},
-					{
-						"timestamp": 4824,
-						"meta": [
-							"uncertain location",
-							"signs",
-							"lizard doggo",
-							"no team"
+							"no team",
+							"catwalk"
 						]
 					},
 					{
@@ -5688,10 +5679,19 @@
 						"meta": [
 							"uncertain location",
 							"no team",
-							"statue gallery",
-							"personal crate",
+							"signs",
+							"lizard doggo"
+						]
+					},
+					{
+						"timestamp": 4824,
+						"meta": [
+							"uncertain location",
+							"interior",
+							"no team",
 							"belts",
-							"interior"
+							"personal crate",
+							"statue gallery"
 						]
 					},
 					{
@@ -5715,10 +5715,10 @@
 						"meta": [
 							"uncertain location",
 							"references to other franchises",
+							"no team",
 							"beams",
 							"signs",
-							"signs as lights",
-							"no team"
+							"signs as lights"
 						]
 					}
 				]
@@ -5735,9 +5735,9 @@
 						"meta": [
 							"uncertain location",
 							"architecture",
+							"no team",
 							"catwalk",
-							"beams",
-							"no team"
+							"beams"
 						]
 					}
 				]
@@ -5760,8 +5760,8 @@
 						"meta": [
 							"uncertain location",
 							"games",
-							"signs",
-							"no team"
+							"no team",
+							"signs"
 						]
 					},
 					{
@@ -5770,8 +5770,8 @@
 							"uncertain location",
 							"games",
 							"interior",
-							"signs",
-							"no team"
+							"no team",
+							"signs"
 						]
 					},
 					{
@@ -5780,9 +5780,9 @@
 							"uncertain location",
 							"games",
 							"interior",
+							"no team",
 							"beams",
-							"pipes",
-							"no team"
+							"pipes"
 						]
 					},
 					{
@@ -5791,9 +5791,9 @@
 							"uncertain location",
 							"games",
 							"interior",
+							"no team",
 							"beams",
-							"pipes",
-							"no team"
+							"pipes"
 						]
 					},
 					{
@@ -5802,10 +5802,10 @@
 							"uncertain location",
 							"games",
 							"interior",
+							"no team",
 							"beams",
 							"pipes",
-							"boat",
-							"no team"
+							"boat"
 						]
 					},
 					{
@@ -5814,10 +5814,10 @@
 							"uncertain location",
 							"games",
 							"interior",
+							"no team",
 							"beams",
 							"personal crate",
-							"pipes",
-							"no team"
+							"pipes"
 						]
 					},
 					{
@@ -5826,9 +5826,9 @@
 							"uncertain location",
 							"games",
 							"interior",
+							"no team",
 							"beams",
-							"pipes",
-							"no team"
+							"pipes"
 						]
 					}
 				]
@@ -5844,10 +5844,10 @@
 						"timestamp": 5026,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"stairs",
-							"tower",
-							"no team"
+							"tower"
 						]
 					}
 				]
@@ -5864,10 +5864,10 @@
 						"meta": [
 							"uncertain location",
 							"glass",
+							"no team",
 							"frames",
 							"lights",
-							"crane",
-							"no team"
+							"crane"
 						]
 					}
 				]
@@ -5886,21 +5886,21 @@
 						"timestamp": 5116,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"boat",
 							"signs as lights",
-							"statue gallery",
-							"no team"
+							"statue gallery"
 						]
 					},
 					{
 						"timestamp": 5145,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"signs",
-							"signs as lights",
-							"no team"
+							"signs as lights"
 						]
 					},
 					{
@@ -5908,19 +5908,19 @@
 						"meta": [
 							"uncertain location",
 							"interior",
+							"no team",
 							"beams",
 							"personal crate",
-							"signs as lights",
-							"no team"
+							"signs as lights"
 						]
 					},
 					{
 						"timestamp": 5149,
 						"meta": [
 							"uncertain location",
+							"underwater",
 							"no team",
 							"beams",
-							"underwater",
 							"signs as lights"
 						]
 					},
@@ -5946,28 +5946,28 @@
 						"timestamp": 5182,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"lights",
-							"personal crate",
-							"no team"
+							"personal crate"
 						]
 					},
 					{
 						"timestamp": 5183.5,
 						"meta": [
 							"uncertain location",
-							"beams",
-							"no team"
+							"no team",
+							"beams"
 						]
 					},
 					{
 						"timestamp": 5193,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"lights",
-							"personal crate",
-							"no team"
+							"personal crate"
 						]
 					}
 				]
@@ -5991,10 +5991,10 @@
 							"interior",
 							"lasagn",
 							"manifold",
+							"no team",
 							"frames",
 							"belts",
-							"lights",
-							"no team"
+							"lights"
 						]
 					}
 				]
@@ -6011,8 +6011,8 @@
 						"meta": [
 							"northern forest",
 							"nature",
-							"bridge",
-							"no team"
+							"no team",
+							"bridge"
 						]
 					}
 				]
@@ -6028,10 +6028,10 @@
 						"timestamp": 1808,
 						"meta": [
 							"uncertain location",
+							"no team",
 							"beams",
 							"lights",
-							"signs as lights",
-							"no team"
+							"signs as lights"
 						]
 					}
 				]
@@ -6054,12 +6054,12 @@
 							"industrial",
 							"interior",
 							"manifold",
+							"no team",
+							"constructor",
 							"catwalk",
 							"frames",
 							"beams",
-							"belts",
-							"no team",
-							"constructor"
+							"belts"
 						]
 					}
 				]
@@ -6109,55 +6109,55 @@
 						"timestamp": 1558,
 						"meta": [
 							"rocky desert",
-							"no team",
-							"user interface",
-							"utility tower",
-							"beams",
 							"night time",
-							"blueprint designer"
+							"no team",
+							"blueprint designer",
+							"beams",
+							"user interface",
+							"utility tower"
 						]
 					},
 					{
 						"timestamp": 1585,
 						"meta": [
 							"spire coast",
-							"team hover pack",
-							"beams",
-							"signs",
 							"manifold",
-							"beams",
+							"manifold",
+							"team hover pack",
 							"blueprint designer",
-							"refinery",
 							"constructor",
-							"manifold"
+							"refinery",
+							"beams",
+							"beams",
+							"signs"
 						]
 					},
 					{
 						"timestamp": 1630,
 						"meta": [
 							"unknown location",
+							"manifold",
+							"manifold",
 							"no team",
-							"user interface",
+							"blueprint designer",
+							"constructor",
+							"refinery",
+							"beams",
 							"beams",
 							"signs",
-							"manifold",
-							"beams",
-							"blueprint designer",
-							"refinery",
-							"constructor",
-							"manifold"
+							"user interface"
 						]
 					},
 					{
 						"timestamp": 1638,
 						"meta": [
 							"lake forest",
+							"modded",
 							"no team",
 							"train tracks",
-							"viaduct",
-							"signs as lights",
 							"bridge",
-							"modded"
+							"signs as lights",
+							"viaduct"
 						]
 					}
 				]
@@ -6197,10 +6197,10 @@
 						"meta": [
 							"red bamboo fields",
 							"red jungle",
-							"pipes",
-							"belts",
+							"lasagn",
 							"team hands",
-							"lasagn"
+							"belts",
+							"pipes"
 						]
 					},
 					{
@@ -6208,11 +6208,11 @@
 						"meta": [
 							"red bamboo fields",
 							"red jungle",
-							"pipes",
-							"belts",
-							"team hands",
 							"lasagn",
-							"memes"
+							"memes",
+							"team hands",
+							"belts",
+							"pipes"
 						]
 					}
 				]
@@ -6232,10 +6232,10 @@
 						"timestamp": 2334,
 						"meta": [
 							"northern forest",
-							"refinery",
-							"manifold",
 							"glass",
-							"team cup"
+							"manifold",
+							"team cup",
+							"refinery"
 						]
 					}
 				]
@@ -6255,20 +6255,20 @@
 						"timestamp": 1205,
 						"meta": [
 							"uncertain location",
-							"manta",
-							"no team",
-							"outpost",
-							"refinery",
+							"fog",
 							"manifold",
+							"no team",
+							"lookout tower",
 							"radar tower",
-							"lights",
+							"refinery",
 							"frames",
 							"beams",
-							"tower",
-							"lookout tower",
+							"lights",
 							"train tracks",
+							"manta",
 							"bridge",
-							"fog"
+							"outpost",
+							"tower"
 						]
 					}
 				]
@@ -6288,19 +6288,19 @@
 					{
 						"timestamp": 3655,
 						"meta": [
+							"unknown location",
 							"reference images",
-							"viaduct",
 							"no team",
-							"unknown location"
+							"viaduct"
 						]
 					},
 					{
 						"timestamp": 3662,
 						"meta": [
+							"unknown location",
 							"reference images",
-							"viaduct",
 							"no team",
-							"unknown location"
+							"viaduct"
 						]
 					}
 				]
@@ -6327,105 +6327,105 @@
 					{
 						"timestamp": 4070,
 						"meta": [
+							"unknown location",
 							"reference images",
-							"no team",
-							"unknown location"
+							"no team"
 						]
 					},
 					{
 						"timestamp": 4103,
 						"meta": [
+							"unknown location",
 							"reference images",
-							"no team",
-							"unknown location"
+							"no team"
 						]
 					},
 					{
 						"timestamp": 4148,
 						"meta": [
+							"unknown location",
 							"reference images",
-							"no team",
-							"unknown location"
+							"no team"
 						]
 					},
 					{
 						"timestamp": 4155,
 						"meta": [
+							"unknown location",
 							"reference images",
-							"no team",
-							"unknown location"
+							"no team"
 						]
 					},
 					{
 						"timestamp": 4173,
 						"meta": [
+							"unknown location",
 							"reference images",
-							"no team",
-							"unknown location"
+							"no team"
 						]
 					},
 					{
 						"timestamp": 4184,
 						"meta": [
+							"unknown location",
 							"reference images",
-							"no team",
-							"unknown location"
+							"no team"
 						]
 					},
 					{
 						"timestamp": 4189,
 						"meta": [
+							"unknown location",
 							"reference images",
-							"no team",
-							"unknown location"
+							"no team"
 						]
 					},
 					{
 						"timestamp": 4214,
 						"meta": [
+							"unknown location",
 							"reference images",
-							"no team",
-							"unknown location"
+							"no team"
 						]
 					},
 					{
 						"timestamp": 4217,
 						"meta": [
+							"unknown location",
 							"reference images",
-							"no team",
-							"unknown location"
+							"no team"
 						]
 					},
 					{
 						"timestamp": 4239,
 						"meta": [
+							"unknown location",
 							"reference images",
-							"no team",
-							"unknown location"
+							"no team"
 						]
 					},
 					{
 						"timestamp": 4247,
 						"meta": [
+							"unknown location",
 							"reference images",
-							"no team",
-							"unknown location"
+							"no team"
 						]
 					},
 					{
 						"timestamp": 4249,
 						"meta": [
+							"unknown location",
 							"reference images",
-							"no team",
-							"unknown location"
+							"no team"
 						]
 					},
 					{
 						"timestamp": 4261,
 						"meta": [
+							"unknown location",
 							"reference images",
-							"no team",
-							"unknown location"
+							"no team"
 						]
 					}
 				]
@@ -6445,27 +6445,27 @@
 					{
 						"timestamp": 792,
 						"meta": [
-							"no team",
 							"swamp waterfall",
-							"nuclear plant",
+							"final fantasy",
 							"glass",
-							"bean",
-							"water extractor",
+							"manifold",
+							"no team",
 							"particle accelerator",
+							"water extractor",
+							"belts",
 							"lights",
 							"pipes",
-							"belts",
-							"manifold",
-							"final fantasy"
+							"bean",
+							"nuclear plant"
 						]
 					},
 					{
 						"timestamp": 801,
 						"meta": [
-							"no team",
 							"unknown location",
+							"final fantasy",
 							"reference images",
-							"final fantasy"
+							"no team"
 						]
 					}
 				]
