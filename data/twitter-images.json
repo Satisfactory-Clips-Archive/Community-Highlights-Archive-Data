@@ -87,7 +87,8 @@
 				"lights",
 				"belts",
 				"pipes",
-				"cables"
+				"cables",
+				"foundry"
 			]
 		},
 		{
@@ -195,7 +196,8 @@
 				"belts",
 				"awesome sink",
 				"cables",
-				"ficsmas"
+				"ficsmas",
+				"pillars"
 			]
 		}
 	],

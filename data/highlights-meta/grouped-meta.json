@@ -70,10 +70,13 @@
 	],
 	"jace": [
 		"jace mom would live here",
+		"jace would break there",
+		"jace would chill out with friends there",
 		"jace would commute there",
 		"jace would contemplate things there",
 		"jace would cross this bridge",
 		"jace would drink there",
+		"jace would eat that",
 		"jace would eat there",
 		"jace would holiday there",
 		"jace would live there",
@@ -92,6 +95,7 @@
 			"architecture",
 			"art",
 			"cityscape",
+			"clockpunk",
 			"cyberpunk",
 			"dieselpunk",
 			"ficsmas",
@@ -99,6 +103,7 @@
 			"fog",
 			"games",
 			"glass",
+			"gothic",
 			"industrial",
 			"interior",
 			"lasagn",
@@ -159,6 +164,9 @@
 	],
 	"in-game things": {
 		"buildings": [
+			"equipment workshop",
+			"foundry",
+			"mam",
 			"assembler",
 			"awesome shop",
 			"awesome sink",
@@ -191,6 +199,9 @@
 			"truck"
 		],
 		"other": [
+			"barrier",
+			"pillars",
+			"power switch",
 			"boombox",
 			"catwalk",
 			"railing",

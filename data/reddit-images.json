@@ -151,7 +151,9 @@
 				"catwalk",
 				"railing",
 				"beams",
-				"roads"
+				"roads",
+				"pillars",
+				"gothic"
 			]
 		},
 		{
@@ -170,7 +172,9 @@
 				"cables",
 				"catwalk",
 				"railing",
-				"beams"
+				"beams",
+				"pillars",
+				"gothic"
 			]
 		},
 		{
@@ -470,7 +474,8 @@
 				"foundation patterns",
 				"roads",
 				"train tracks",
-				"lights"
+				"lights",
+				"equipment workshop"
 			]
 		}
 	],
@@ -534,7 +539,8 @@
 				"water extractor",
 				"ficsmas",
 				"pipes",
-				"industrial"
+				"industrial",
+				"pillars"
 			]
 		},
 		{
@@ -555,7 +561,8 @@
 				"beams",
 				"lights",
 				"cables",
-				"industrial"
+				"industrial",
+				"pillars"
 			]
 		},
 		{
@@ -627,7 +634,8 @@
 				"no team",
 				"bean",
 				"glitch",
-				"tubes"
+				"tubes",
+				"pillars"
 			]
 		}
 	],
@@ -646,7 +654,9 @@
 				"signs",
 				"beams",
 				"cables",
-				"glass"
+				"glass",
+				"pillars",
+				"jace would chill out with friends there"
 			]
 		},
 		{
@@ -655,7 +665,8 @@
 				"interior",
 				"unknown location",
 				"no team",
-				"signs"
+				"signs",
+				"pillars"
 			]
 		}
 	],
@@ -727,7 +738,8 @@
 				"catwalk",
 				"space elevator",
 				"frames",
-				"lights"
+				"lights",
+				"pillars"
 			]
 		},
 		{
@@ -746,7 +758,8 @@
 				"frames",
 				"lights",
 				"roads",
-				"foundation patterns"
+				"foundation patterns",
+				"pillars"
 			]
 		}
 	],
@@ -853,7 +866,8 @@
 				"foundation patterns",
 				"lights",
 				"glass",
-				"ficsmas"
+				"ficsmas",
+				"pillars"
 			]
 		},
 		{
@@ -879,7 +893,8 @@
 				"green valley",
 				"interior",
 				"catwalk",
-				"belts"
+				"belts",
+				"foundry"
 			]
 		},
 		{
@@ -1049,7 +1064,8 @@
 				"interior",
 				"smelter",
 				"lights",
-				"belts"
+				"belts",
+				"pillars"
 			]
 		},
 		{
@@ -1065,7 +1081,9 @@
 				"cables",
 				"belts",
 				"beams",
-				"nature"
+				"nature",
+				"pillars",
+				"jace would break there"
 			]
 		}
 	],
@@ -1183,7 +1201,8 @@
 				"frames",
 				"lights",
 				"cables",
-				"train tracks"
+				"train tracks",
+				"pillars"
 			]
 		},
 		{
@@ -1346,7 +1365,8 @@
 				"belts",
 				"refinery",
 				"cables",
-				"constructor"
+				"constructor",
+				"foundry"
 			]
 		},
 		{
@@ -1380,7 +1400,9 @@
 				"beams",
 				"foundation patterns",
 				"roads",
-				"ficsmas"
+				"ficsmas",
+				"clockpunk",
+				"pillars"
 			]
 		}
 	],
@@ -1401,7 +1423,8 @@
 				"lights",
 				"train signals",
 				"outpost",
-				"night time"
+				"night time",
+				"pillars"
 			]
 		},
 		{
@@ -1609,7 +1632,9 @@
 				"beams",
 				"refinery",
 				"stairs",
-				"pipes"
+				"pipes",
+				"pillars",
+				"gothic"
 			]
 		},
 		{
@@ -1622,7 +1647,9 @@
 				"architecture",
 				"lights",
 				"glass",
-				"beams"
+				"beams",
+				"pillars",
+				"gothic"
 			]
 		},
 		{
@@ -1646,7 +1673,8 @@
 				"beams",
 				"refinery",
 				"stairs",
-				"belts"
+				"belts",
+				"gothic"
 			]
 		},
 		{
@@ -1661,7 +1689,8 @@
 				"architecture",
 				"lights",
 				"glass",
-				"beams"
+				"beams",
+				"gothic"
 			]
 		},
 		{
@@ -1676,7 +1705,8 @@
 				"beams",
 				"stairs",
 				"lights",
-				"statue gallery"
+				"statue gallery",
+				"gothic"
 			]
 		}
 	],
@@ -1738,7 +1768,8 @@
 				"glass",
 				"train station",
 				"frames",
-				"lights"
+				"lights",
+				"pillars"
 			]
 		}
 	],
@@ -1944,7 +1975,8 @@
 				"no team",
 				"rocky desert",
 				"miner",
-				"smelter"
+				"smelter",
+				"barrier"
 			]
 		}
 	],
@@ -2117,7 +2149,8 @@
 				"signs as lights",
 				"jace would drink there",
 				"assembler",
-				"awesome shop"
+				"awesome shop",
+				"jace would chill out with friends there"
 			]
 		}
 	],
@@ -2138,7 +2171,8 @@
 				"train station",
 				"lights",
 				"train tracks",
-				"train signals"
+				"train signals",
+				"pillars"
 			]
 		}
 	],
@@ -2451,7 +2485,8 @@
 				"railing",
 				"glass",
 				"awesome shop",
-				"beams"
+				"beams",
+				"mam"
 			]
 		},
 		{
@@ -2525,7 +2560,8 @@
 				"gas station",
 				"lights",
 				"beams",
-				"roads"
+				"roads",
+				"jace would eat that"
 			]
 		}
 	],
@@ -2675,7 +2711,8 @@
 				"sunrise/sunset",
 				"cables",
 				"viaduct",
-				"frames"
+				"frames",
+				"foundry"
 			]
 		}
 	],
@@ -2818,7 +2855,8 @@
 				"beams",
 				"drone",
 				"manifold",
-				"train station"
+				"train station",
+				"pillars"
 			]
 		}
 	],
@@ -3223,7 +3261,8 @@
 				"assembler",
 				"oil plant",
 				"power storage bank",
-				"smelter"
+				"smelter",
+				"foundry"
 			]
 		}
 	],
@@ -3279,7 +3318,8 @@
 				"lights",
 				"foundation patterns",
 				"signs as lights",
-				"interior"
+				"interior",
+				"power switch"
 			]
 		}
 	],
@@ -29033,7 +29073,8 @@
 				"assembler",
 				"lookout tower",
 				"coal plant",
-				"belts"
+				"belts",
+				"pillars"
 			]
 		}
 	],
