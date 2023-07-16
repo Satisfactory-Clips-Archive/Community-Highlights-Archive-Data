@@ -6434,10 +6434,41 @@
 	},
 	"2023-01-17": {
 		"yt-1OoFPuStXWM": {
-			"17:23 alextestsatis - ⚡BZZT ⚡https://www.reddit.com/r/SatisfactoryGame/comments/10dkct4/wip_625000mw_power_storage_backup/": {
-				"timestamp": 1043,
-				"raw_text": "alextestsatis - ⚡BZZT ⚡https://www.reddit.com/r/SatisfactoryGame/comments/10dkct4/wip_625000mw_power_storage_backup/",
-				"timestamps_for_links": []
+			"12:07 outerspacemannn - More Nuclear Power https://www.reddit.com/r/SatisfactoryGame/comments/10d74yx/nuclear_powerplant_is_complete_20_gw_100/": {
+				"timestamp": 727,
+				"raw_text": "outerspacemannn - More Nuclear Power https://www.reddit.com/r/SatisfactoryGame/comments/10d74yx/nuclear_powerplant_is_complete_20_gw_100/",
+				"timestamps_for_links": [
+					792,
+					801
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 792,
+						"meta": [
+							"no team",
+							"swamp waterfall",
+							"nuclear plant",
+							"glass",
+							"bean",
+							"water extractor",
+							"particle accelerator",
+							"lights",
+							"pipes",
+							"belts",
+							"manifold",
+							"final fantasy"
+						]
+					},
+					{
+						"timestamp": 801,
+						"meta": [
+							"no team",
+							"unknown location",
+							"reference images",
+							"final fantasy"
+						]
+					}
+				]
 			}
 		}
 	}

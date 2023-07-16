@@ -14,7 +14,10 @@
 	"https://www.youtube.com/watch?v=Ni9fVryeIR4": [
 		{
 			"src": "https://img.youtube.com/vi/Ni9fVryeIR4/hqdefault.jpg",
-			"skip": false
+			"highlightsMeta": [
+				"unknown location",
+				"no team"
+			]
 		}
 	],
 	"https://youtu.be/1DcnC39hclI?t=242": [

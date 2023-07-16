@@ -4,6 +4,48 @@
 			"src": "https://b.thumbs.redditmedia.com/lLHKJBeAy7yWdKcNucMG59N9VvhHZi8el3TBKDbMzkU.jpg",
 			"alt": "So many good photo opportunities in this game",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/n06d7m5q56ca1.jpg",
+			"highlightsMeta": [
+				"nature",
+				"no team",
+				"crash site",
+				"night time",
+				"northern forest"
+			]
+		},
+		{
+			"src": "https://i.redd.it/zxv5896q56ca1.jpg",
+			"highlightsMeta": [
+				"nature",
+				"no team",
+				"uncertain location",
+				"northern forest",
+				"lake forest"
+			]
+		},
+		{
+			"src": "https://i.redd.it/5jdyia6q56ca1.jpg",
+			"highlightsMeta": [
+				"nature",
+				"no team",
+				"uncertain location",
+				"northern forest",
+				"lake forest",
+				"bean",
+				"fog"
+			]
+		},
+		{
+			"src": "https://i.redd.it/vtlvt96q56ca1.jpg",
+			"highlightsMeta": [
+				"nature",
+				"no team",
+				"northern forest",
+				"space elevator",
+				"sunrise/sunset"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10cewye/we_wanted_a_hub_and_ended_up_with_a_nightclub/": [
@@ -32,11 +74,124 @@
 			]
 		}
 	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10cg9uz/new_skyline_ive_named_the_club/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/6UZD0DWsT4UzEpAqsSkFPhjS7gMI5-Yl7keAIxIuXvA.jpg",
+			"alt": "New Skyline + I've named the club!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/em74yk62m6ca1.png",
+			"highlightsMeta": [
+				"jace would live there",
+				"beach islands",
+				"long beach",
+				"sunrise/sunset",
+				"cityscape",
+				"tower",
+				"signs",
+				"signs as lights",
+				"lights",
+				"glass",
+				"roads",
+				"foundation patterns",
+				"modded",
+				"beams",
+				"railing",
+				"cables"
+			]
+		},
+		{
+			"src": "https://i.redd.it/df3pg5b2m6ca1.png",
+			"highlightsMeta": [
+				"jace would live there",
+				"beach islands",
+				"long beach",
+				"night time",
+				"cityscape",
+				"tower",
+				"signs",
+				"signs as lights",
+				"lights",
+				"glass",
+				"roads",
+				"foundation patterns",
+				"modded",
+				"beams",
+				"railing"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10cjr19/naptha_station_36000mw_turbo_fuel_power_plant/": [
 		{
 			"src": "https://a.thumbs.redditmedia.com/QxSNEuPHh20UFiIYKKInig00pfWJTltCO9qMOUgMRb8.jpg",
 			"alt": "Naptha Station 36000MW turbo fuel power plant, plastics, rubber, fabric and bauxite mining towers",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/975wf1vli7ca1.jpg",
+			"alt": "Enough power, for now. Naptha station distributes petrochemical products and raw bauxite.",
+			"highlightsMeta": [
+				"fuel plant",
+				"oil plant",
+				"beach islands",
+				"sunrise/sunset",
+				"no team",
+				"manifold",
+				"refinery",
+				"pipes",
+				"viaduct",
+				"train station",
+				"train",
+				"train tracks",
+				"lights",
+				"frames",
+				"glass",
+				"cables",
+				"catwalk",
+				"railing",
+				"beams",
+				"roads"
+			]
+		},
+		{
+			"src": "https://i.redd.it/zbcnxcedj7ca1.jpg",
+			"alt": "Shot of the powered catwalk supports.",
+			"highlightsMeta": [
+				"fuel plant",
+				"oil plant",
+				"beach islands",
+				"sunrise/sunset",
+				"no team",
+				"manifold",
+				"refinery",
+				"pipes",
+				"frames",
+				"cables",
+				"catwalk",
+				"railing",
+				"beams"
+			]
+		},
+		{
+			"src": "https://i.redd.it/u1h2gd0ej7ca1.jpg",
+			"alt": "The towers and walkways in the distance conceal belts and lifts and bauxite mining up on those cliffs.",
+			"highlightsMeta": [
+				"beach islands",
+				"sunrise/sunset",
+				"no team",
+				"viaduct",
+				"train station",
+				"train",
+				"train tracks",
+				"lights",
+				"frames",
+				"glass",
+				"cables",
+				"beams",
+				"roads",
+				"foundation patterns"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10coba3/little_idea_i_had/": [
@@ -44,6 +199,17 @@
 			"src": "https://b.thumbs.redditmedia.com/ZUaGEXkmoWCYFdFV4ScD8p_Dk8NJwuxlP0DVG6iIv_o.jpg",
 			"alt": "Little idea I had",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cgkkqky4k8ca1.png",
+			"highlightsMeta": [
+				"interior",
+				"glass",
+				"uncertain location",
+				"glass",
+				"no team",
+				"hub"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10cp5dx/625000_mw_100_nuclear_power_plants_finaly_up_and/": [
@@ -51,6 +217,47 @@
 			"src": "https://a.thumbs.redditmedia.com/UsDgQv8Xh2ZLGPnsPTq5i8jQkUfTt6elCnJu4A-AyF0.jpg",
 			"alt": "625.000 MW - 100 Nuclear Power Plants finaly up and running on 250 % with 50,42 Uranium Fuel Rods",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/t62yehlap8ca1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"nuclear plant",
+				"viaduct",
+				"train tracks",
+				"blender",
+				"particle accelerator"
+			]
+		},
+		{
+			"src": "https://i.redd.it/r1u07h9ep8ca1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"nuclear plant",
+				"viaduct",
+				"train tracks",
+				"radar tower",
+				"blender",
+				"particle accelerator",
+				"pipes",
+				"ficsmas",
+				"manifold",
+				"belts"
+			]
+		},
+		{
+			"src": "https://i.redd.it/in1xdvpfp8ca1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"nuclear plant",
+				"viaduct",
+				"blender",
+				"particle accelerator",
+				"cables"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10cj2gd/a_little_bit_spagetti/": [
@@ -58,6 +265,30 @@
 			"src": "https://b.thumbs.redditmedia.com/c2eSFygkjEx1c_1SWNa-G16ylcGg4zwBnd0MSTyJObw.jpg",
 			"alt": "A little bit Spagetti",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cyl3zt25e7ca1.png",
+			"highlightsMeta": [
+				"jace would eat there",
+				"northern forest",
+				"team inhaler",
+				"spaghett",
+				"belts",
+				"ficsmas",
+				"constructor"
+			]
+		},
+		{
+			"src": "https://i.redd.it/0z39ft25e7ca1.png",
+			"highlightsMeta": [
+				"jace would eat there",
+				"northern forest",
+				"team inhaler",
+				"spaghett",
+				"belts",
+				"ficsmas",
+				"constructor"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10d74yx/nuclear_powerplant_is_complete_20_gw_100/": [
@@ -89,6 +320,18 @@
 			"src": "https://b.thumbs.redditmedia.com/ugCzP98SjLcPZqbTTF3tcOgrcDR2YUVuIjdevqFbDAY.jpg",
 			"alt": "My blueprint studio. Adjoining designer cells for contiguous blueprints, wired for full hoverpack flight",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2ji0iqvgocca1.png",
+			"highlightsMeta": [
+				"team hover pack",
+				"team golden cup",
+				"lights",
+				"blueprint designer",
+				"uncertain location",
+				"cables",
+				"glass"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10dgmxh/a_satisfactree_ficsmas/": [
@@ -96,6 +339,79 @@
 			"src": "https://b.thumbs.redditmedia.com/EdTpBdnPAwG4png9DdvGfpbPFzi-du_FSLe8T-_IA_Q.jpg",
 			"alt": "A Satisfactree™ Fics⁕mas.",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0ciq9dgl3fca1.png",
+			"alt": "The tree atop the tree",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"ficsmas",
+				"tower",
+				"drone",
+				"tubes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/5yj0gih24fca1.png",
+			"alt": "The drone ports that make up the branches.",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"ficsmas",
+				"tower",
+				"drone",
+				"roads",
+				"tubes",
+				"lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/39fdr8b84fca1.png",
+			"alt": "Inside the tree is another tree surrounded by the storage.",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"ficsmas",
+				"no team",
+				"interior",
+				"signs",
+				"warehouse",
+				"foundation patterns",
+				"cables",
+				"lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/v1ptlb194fca1.png",
+			"alt": "All the stuff I had left over went under the tree.",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"ficsmas",
+				"no team",
+				"interior",
+				"signs",
+				"warehouse",
+				"cables",
+				"lights",
+				"factory cart",
+				"glass"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10dkct4/wip_625000mw_power_storage_backup/": [
+		{
+			"src": "https://preview.redd.it/srcraqrvsfca1.png?width=640&crop=smart&auto=webp&s=5cc3c84d6b2e850c4e3d21cedbd714c30feafb01",
+			"alt": "WIP 625.000MW Power Storage Backup",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/srcraqrvsfca1.png",
+			"alt": "WIP 625.000MW Power Storage Backup",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"power storage bank",
+				"space elevator",
+				"train station"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10dtvk3/new_builds/": [
@@ -103,6 +419,59 @@
 			"src": "https://b.thumbs.redditmedia.com/VXv0GACIz3K4tbLjKb28FgqYtIex28EZsX1qCPVslRA.jpg",
 			"alt": "New builds !",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/a5s2a83b9hca1.png",
+			"alt": "Thank you hannah again for providing us with this bit of the map.",
+			"highlightsMeta": [
+				"night time",
+				"fog",
+				"grass fields crater",
+				"outpost",
+				"lights",
+				"radar tower",
+				"train tracks",
+				"train signals",
+				"signs",
+				"glass",
+				"frames",
+				"roads"
+			]
+		},
+		{
+			"src": "https://i.redd.it/u1sgii3b9hca1.png",
+			"alt": "The second, bigger contraption is for a lonely reactor because I miscalculated the number of nuke fuel rods that I produced sor here goes the .5/min bonus.",
+			"highlightsMeta": [
+				"night time",
+				"grass fields crater",
+				"outpost",
+				"lights",
+				"radar tower",
+				"train tracks",
+				"train signals",
+				"signs",
+				"glass",
+				"frames",
+				"tubes",
+				"pipes",
+				"awesome shop",
+				"roads"
+			]
+		},
+		{
+			"src": "https://i.redd.it/x474tj3b9hca1.png",
+			"alt": "Bonus: \"I'd tinker here\" pt1",
+			"highlightsMeta": [
+				"grass fields crater",
+				"personal crate",
+				"interior",
+				"glass",
+				"beams",
+				"foundation patterns",
+				"roads",
+				"train tracks",
+				"lights"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10dx6za/my_friend_idea_of_a_efficient_factory/": [
@@ -110,6 +479,40 @@
 			"src": "https://b.thumbs.redditmedia.com/sDOMuu7rjRuDxAmePzUkijhhebJCEtsqRZbEU85DBRI.jpg",
 			"alt": "My friend idea of a efficient factory",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ragzyyr8xhca1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"team hover pack",
+				"glass",
+				"spaghett",
+				"belts",
+				"warehouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/lcskzxv8xhca1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"spaghett",
+				"team hover pack",
+				"pipes",
+				"cables",
+				"belts"
+			]
+		},
+		{
+			"src": "https://i.redd.it/2jan1hz8xhca1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"team hover pack",
+				"glass",
+				"spaghett",
+				"belts",
+				"warehouse",
+				"coal plant"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10dxgpk/trip_to_turbofuelcity/": [

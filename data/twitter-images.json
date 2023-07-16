@@ -29,29 +29,78 @@
 	"https://twitter.com/BLAndrew575/status/1615104118225534976": [
 		{
 			"src": "https://pbs.twimg.com/media/Fmn-vcKWYAAp56x.jpg",
-			"skip": true
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"ficsmas",
+				"megafactory",
+				"repetition",
+				"awesome sink",
+				"belts"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/Fmn-y6BWIAEpO4R.jpg",
-			"skip": true
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"ficsmas",
+				"megafactory",
+				"repetition",
+				"repetition",
+				"awesome sink",
+				"belts"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/Fmn-1MRXoAUjMeG.jpg",
-			"skip": true
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"ficsmas",
+				"megafactory",
+				"repetition",
+				"repetition",
+				"belts",
+				"manifold"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/Fmn_qN3XoAce9-q.jpg",
-			"skip": true
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"user interface",
+				"modded"
+			]
 		}
 	],
 	"https://twitter.com/blidis_a/status/1614704960683245570": [
 		{
 			"src": "https://pbs.twimg.com/media/Fmh8KTsWAAQPB6P.jpg",
-			"skip": true
+			"highlightsMeta": [
+				"uncertain location",
+				"interior",
+				"glass",
+				"frames",
+				"team hover pack",
+				"lights",
+				"belts",
+				"pipes",
+				"cables"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/Fmh8KTqX0AI2yFf.jpg",
-			"skip": true
+			"highlightsMeta": [
+				"uncertain location",
+				"interior",
+				"team hover pack",
+				"belts",
+				"pipes",
+				"cables",
+				"constructor"
+			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/Fmh8KTtWIAEXFlt.jpg",
