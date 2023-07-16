@@ -520,6 +520,97 @@
 			"src": "https://b.thumbs.redditmedia.com/Fb5XpqlqIaAmiyvRnKWoAfnjEyy4gvHwZgl77VEfWDo.jpg",
 			"alt": "Trip to TurboFuel-City",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/c5mhf9bqthca1.png",
+			"alt": "my power-tower, 10 generators each",
+			"highlightsMeta": [
+				"lake forest",
+				"team hover pack",
+				"fuel plant",
+				"catwalk",
+				"train tracks",
+				"frames",
+				"water extractor",
+				"ficsmas",
+				"pipes",
+				"industrial"
+			]
+		},
+		{
+			"src": "https://i.redd.it/nmebk1itthca1.png",
+			"alt": "16Mixers on 2 floors. buffers on roof -> above generators",
+			"highlightsMeta": [
+				"foundation patterns",
+				"ficsmas",
+				"lake forest",
+				"team hover pack",
+				"fuel plant",
+				"catwalk",
+				"frames",
+				"water extractor",
+				"ficsmas",
+				"pipes",
+				"glass",
+				"beams",
+				"lights",
+				"cables",
+				"industrial"
+			]
+		},
+		{
+			"src": "https://i.redd.it/tzdbe4x6xhca1.png",
+			"alt": "light inside builds",
+			"highlightsMeta": [
+				"lake forest",
+				"night time",
+				"catwalk",
+				"team hover pack",
+				"glass",
+				"refinery",
+				"belts",
+				"beams",
+				"foundation patterns",
+				"lights",
+				"frames",
+				"industrial"
+			]
+		},
+		{
+			"src": "https://i.redd.it/851rwvawuhca1.png",
+			"alt": "integrated a trainstation in one of the buildings",
+			"highlightsMeta": [
+				"lake forest",
+				"interior",
+				"train station",
+				"train tracks",
+				"catwalk",
+				"team hover pack",
+				"glass",
+				"train signals",
+				"train"
+			]
+		},
+		{
+			"src": "https://i.redd.it/vzf9f496uhca1.png",
+			"alt": "production buildings. each recipe has its own building",
+			"highlightsMeta": [
+				"lake forest",
+				"team hover pack",
+				"fuel plant",
+				"catwalk",
+				"frames",
+				"water extractor",
+				"ficsmas",
+				"pipes",
+				"glass",
+				"beams",
+				"lights",
+				"cables",
+				"industrial",
+				"ficsmas",
+				"foundation patterns"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10b8e0r/guess_how_we_did_it/": [
@@ -545,6 +636,27 @@
 			"src": "https://b.thumbs.redditmedia.com/rSaCcvwJbXsliaE8ON1TOzfOLP8MqQQPRL3lIVMR7Lc.jpg",
 			"alt": "Living Room Design!",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1fc728a81xba1.png",
+			"highlightsMeta": [
+				"interior",
+				"unknown location",
+				"no team",
+				"signs",
+				"beams",
+				"cables",
+				"glass"
+			]
+		},
+		{
+			"src": "https://i.redd.it/2uz7vba81xba1.png",
+			"highlightsMeta": [
+				"interior",
+				"unknown location",
+				"no team",
+				"signs"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10bpee6/i_like_snowballs_so_i_made_one_million_snowballs/": [
@@ -552,6 +664,47 @@
 			"src": "https://b.thumbs.redditmedia.com/VsPJ9mWOoOeDZRtIS7MaaMjP7Bq2I5S1bVM9q6TpzJc.jpg",
 			"alt": "I like Snowballs... so I made one million Snowballs! (780/m)",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wed8tkw3l0ca1.png",
+			"alt": "Fancy Ficsmas snowball area",
+			"highlightsMeta": [
+				"uncertain location",
+				"night time",
+				"ficsmas",
+				"warehouse",
+				"belts",
+				"cables",
+				"lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/0kb63w84l0ca1.png",
+			"alt": "The storage for my balls, took just over 21 hours to fully fill up with 1.080.000 snowballs",
+			"highlightsMeta": [
+				"uncertain location",
+				"night time",
+				"ficsmas",
+				"warehouse",
+				"belts",
+				"cables",
+				"lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/vdtbagj8l0ca1.png",
+			"alt": "The Sea of Constructors! 432 Constructors in total producing just over 780 Snowballs/m",
+			"highlightsMeta": [
+				"uncertain location",
+				"ficsmas",
+				"warehouse",
+				"belts",
+				"cables",
+				"lights",
+				"manifold",
+				"constructor",
+				"repetition"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10bqtaw/my_first_playthrough_and_my_first_big_bridge_85_h/": [
@@ -559,6 +712,42 @@
 			"src": "https://b.thumbs.redditmedia.com/n_l00cY4rFQHfQ5XECWPq3AAbyjyG6bilVu-Eu5dAzY.jpg",
 			"alt": "My first playthrough and my first big bridge 85 h . Double arch bridge 432 meters each. This game is too addictive. (85 hours of gameplay for now)",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kzeippnaz0ca1.png",
+			"alt": "After a job well done :)",
+			"highlightsMeta": [
+				"uncertain location",
+				"blue crater",
+				"night time",
+				"bridge",
+				"team cup",
+				"lights",
+				"train tracks",
+				"catwalk",
+				"space elevator",
+				"frames",
+				"lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/8mlgd9bhz0ca1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"blue crater",
+				"night time",
+				"bridge",
+				"team cup",
+				"lights",
+				"train tracks",
+				"tubes",
+				"catwalk",
+				"space elevator",
+				"frames",
+				"lights",
+				"roads",
+				"foundation patterns"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10dxysx/have_you_ever_been_inside_a_container/": [
@@ -566,6 +755,61 @@
 			"src": "https://a.thumbs.redditmedia.com/MtfXJI7ZQ9cD83wB69bNgwf841HLoVBG3qrw5YIsER4.jpg",
 			"alt": "Have you ever been inside a container?",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fa5pxtuc2ica1.jpg",
+			"highlightsMeta": [
+				"weatherwax",
+				"grass fields",
+				"team xenozapper",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/eahfvfid2ica1.jpg",
+			"highlightsMeta": [
+				"weatherwax",
+				"grass fields",
+				"team xenozapper",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/no7bh2yd2ica1.jpg",
+			"highlightsMeta": [
+				"weatherwax",
+				"grass fields",
+				"team xenozapper"
+			]
+		},
+		{
+			"src": "https://i.redd.it/df7gqrfj2ica1.png",
+			"highlightsMeta": [
+				"weatherwax",
+				"grass fields",
+				"interior",
+				"catwalk",
+				"team hands"
+			]
+		},
+		{
+			"src": "https://i.redd.it/df5rrngh2ica1.png",
+			"highlightsMeta": [
+				"weatherwax",
+				"grass fields",
+				"signs as lights",
+				"team hands"
+			]
+		},
+		{
+			"src": "https://i.redd.it/a27yh82l2ica1.jpg",
+			"alt": "Now you can.",
+			"highlightsMeta": [
+				"weatherwax",
+				"grass fields",
+				"grass fields arch",
+				"team hands"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/108nfgz/meet_uberparts_delivery_anywhere_anytime/": [
@@ -598,6 +842,61 @@
 			"src": "https://b.thumbs.redditmedia.com/NgSgjfW7fncdgJdNCyj-8wJ0CvfGu01e-xq45btHNto.jpg",
 			"alt": "Steel Factory making steel ingots at 3000pm",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jztmna5e6fba1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"industrial",
+				"roads",
+				"foundation patterns",
+				"lights",
+				"glass",
+				"ficsmas"
+			]
+		},
+		{
+			"src": "https://i.redd.it/grjpr43e6fba1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"industrial",
+				"roads",
+				"foundation patterns",
+				"lights",
+				"glass",
+				"green valley"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qdpyjn6e6fba1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"industrial",
+				"glass",
+				"green valley",
+				"interior",
+				"catwalk",
+				"belts"
+			]
+		},
+		{
+			"src": "https://i.redd.it/wuiex76e6fba1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"industrial",
+				"roads",
+				"foundation patterns",
+				"glass",
+				"green valley",
+				"interior",
+				"catwalk",
+				"belts",
+				"refinery"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/109i5j3/progress/": [
@@ -605,6 +904,25 @@
 			"src": "https://b.thumbs.redditmedia.com/P3y1zC-goAugCG6iYxR1W-k3BKL__lKWEb-8j_CeXHg.jpg",
 			"alt": "Progress!",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/q99h72xtqhba1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"glass",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/bo1845usqhba1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"glass",
+				"signs as lights",
+				"night time"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10b34pa/finally_finished_my_first_fuel_power_set_up/": [
@@ -612,6 +930,55 @@
 			"src": "https://b.thumbs.redditmedia.com/v7QzviOkH5RfbmrwTb00RkufjwneUAxyxeParOeDoOg.jpg",
 			"alt": "finally finished my first fuel power set up :)",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xayhq0kh1vba1.png",
+			"alt": "i built it modular/expandable too in case i decide to upgrade to Turbofuel",
+			"highlightsMeta": [
+				"beach islands",
+				"no team",
+				"fuel plant",
+				"frames",
+				"pipes",
+				"tower",
+				"catwalk"
+			]
+		},
+		{
+			"src": "https://i.redd.it/3vai34gk1vba1.png",
+			"highlightsMeta": [
+				"beach islands",
+				"no team",
+				"fuel plant",
+				"frames",
+				"pipes",
+				"tower",
+				"interior",
+				"manifold"
+			]
+		},
+		{
+			"src": "https://i.redd.it/kojoc8pl1vba1.png",
+			"highlightsMeta": [
+				"beach islands",
+				"no team",
+				"fuel plant",
+				"frames",
+				"tower",
+				"catwalk"
+			]
+		},
+		{
+			"src": "https://i.redd.it/gcwv7man1vba1.png",
+			"highlightsMeta": [
+				"beach islands",
+				"no team",
+				"fuel plant",
+				"frames",
+				"tower",
+				"pipes",
+				"interior"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10asr8n/is_there_a_limit_to_how_long_you_can_name_your/": [
@@ -635,6 +1002,71 @@
 			"src": "https://b.thumbs.redditmedia.com/_2sl6aDp7WWJ-jS92E3ae2wAAedzkluB_ZUpjklR36M.jpg",
 			"alt": "WIP update, Copper Complex is pretty much finished and sneak peak of the Future Iron and Steel Complex. Give me your thoughts!",
 			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/572dsb4v7jca1.png",
+			"alt": "Copper Complex, both buildings",
+			"highlightsMeta": [
+				"grass fields",
+				"outpost",
+				"catwalk",
+				"glass",
+				"team hover pack",
+				"team cup",
+				"cables",
+				"ficsmas"
+			]
+		},
+		{
+			"src": "https://i.redd.it/06hga44v7jca1.png",
+			"alt": "Smelter Plan",
+			"highlightsMeta": [
+				"grass fields",
+				"outpost",
+				"catwalk",
+				"glass",
+				"team hover pack",
+				"team cup",
+				"cables",
+				"interior",
+				"smelter",
+				"constructor",
+				"lights",
+				"manifold"
+			]
+		},
+		{
+			"src": "https://i.redd.it/jg04dz3v7jca1.png",
+			"alt": "Copper Ingot bus connected to Wire/Cable Assembly Zone",
+			"highlightsMeta": [
+				"grass fields",
+				"outpost",
+				"catwalk",
+				"glass",
+				"team hover pack",
+				"team cup",
+				"cables",
+				"interior",
+				"smelter",
+				"lights",
+				"belts"
+			]
+		},
+		{
+			"src": "https://i.redd.it/xw67uv3v7jca1.png",
+			"alt": "Little Veranda I added in the front",
+			"highlightsMeta": [
+				"grass fields",
+				"outpost",
+				"catwalk",
+				"glass",
+				"team hover pack",
+				"team cup",
+				"cables",
+				"belts",
+				"beams",
+				"nature"
+			]
 		}
 	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/zuk9ww/": [
