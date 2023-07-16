@@ -150,13 +150,107 @@ for (const validation_set of validations_to_make) {
 		const [name, source] = image_source;
 
 		try {
+			// @ts-ignore
 			await validate(source, schema);
 
 			console.log(`${name} is valid`);
 		} catch (err) {
+			if (err instanceof Array) {
+				for (const error of err) {
+					if (
+						'message' in error
+						&& 'must be equal to one of the allowed values' === error.message
+						&& 'params' in error
+						&& 'allowedValues' in error.params
+					) {
+						const {allowedValues} = error.params;
+						delete error.params.allowedValues;
+						if (Object.keys(error.params).length < 1) {
+							delete error.params;
+						}
+
+						console.error(error);
+						console.error(allowedValues);
+					} else {
+						console.error(error);
+					}
+				}
+			} else {
 			console.error(err);
+			}
 
 			throw new Error(`${name} contains errors!`);
 		}
 	}
+}
+
+const image_sources_strict_sets = ([
+	discord,
+	reddit,
+	twitter,
+	youtube,
+] as image_source_type[]).map((e) : image_source_type => {
+	return Object.fromEntries(Object.entries(e).map((e) => {
+		return [e[0], e[1].filter((e) => {
+			return undefined === e.skip || !e.skip;
+		})];
+	}).filter((e) => {
+		return e[1].length > 0;
+	}));
+}).filter(e => Object.values(e).length > 0);
+
+const problems:HighlightsMetaProblem[] = [
+];
+
+class HighlightsMetaProblem {
+	public readonly link:string;
+	public readonly has_highlights:string;
+	public readonly has_team:string;
+	public readonly has_location:string;
+
+	constructor(link:string, has_highlights:string, has_team:string, has_location:string) {
+		this.link = link;
+		this.has_highlights = has_highlights;
+		this.has_team = has_team;
+		this.has_location = has_location;
+	}
+}
+
+for (const image_source of image_sources_strict_sets) {
+	for (const highlights_link_entry of Object.entries(image_source)) {
+		const [highlights_link, highlights_images] = highlights_link_entry;
+
+		for (const image of highlights_images) {
+			if ( ! (image?.highlightsMeta instanceof Array)) {
+				problems.push(new HighlightsMetaProblem(
+					image.src,
+					'N',
+					'n/a',
+					'n/a',
+				));
+
+				continue;
+			}
+
+			const has_team = !!image.highlightsMeta.find(
+				e => highlights_meta_schema.definitions.highlightsMetaTeam.items.enum.includes(e)
+			);
+			const has_location = !!image.highlightsMeta.find(
+				e => highlights_meta_schema.definitions.highlightsMetaTeam.items.enum.includes(e)
+			);
+
+			if ( ! has_team || ! has_location) {
+				problems.push(new HighlightsMetaProblem(
+					image.src,
+					'Y',
+					has_team ? 'Y' : 'N',
+					has_location ? 'Y' : 'N',
+				));
+			}
+		}
+	}
+}
+
+if (problems.length) {
+	console.table(problems);
 }
