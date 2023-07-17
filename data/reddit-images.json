@@ -211,7 +211,6 @@
 			"highlightsMeta": [
 				"uncertain location",
 				"glass",
-				"glass",
 				"interior",
 				"no team",
 				"hub"
@@ -556,7 +555,6 @@
 			"highlightsMeta": [
 				"lake forest",
 				"ficsmas",
-				"ficsmas",
 				"glass",
 				"industrial",
 				"team hover pack",
@@ -610,7 +608,6 @@
 			"alt": "production buildings. each recipe has its own building",
 			"highlightsMeta": [
 				"lake forest",
-				"ficsmas",
 				"ficsmas",
 				"glass",
 				"industrial",
@@ -747,7 +744,6 @@
 				"catwalk",
 				"frames",
 				"lights",
-				"lights",
 				"train tracks",
 				"bridge"
 			]
@@ -764,7 +760,6 @@
 				"catwalk",
 				"frames",
 				"foundation patterns",
-				"lights",
 				"lights",
 				"tubes",
 				"train tracks",
@@ -1475,7 +1470,6 @@
 				"ficsmas",
 				"manifold",
 				"team feet",
-				"team feet",
 				"assembler",
 				"blender",
 				"particle accelerator",
@@ -1690,7 +1684,6 @@
 				"radar tower",
 				"train station",
 				"refinery",
-				"refinery",
 				"beams",
 				"belts",
 				"lights",
@@ -1726,7 +1719,6 @@
 				"sunrise/sunset",
 				"no team",
 				"radar tower",
-				"beams",
 				"beams",
 				"lights",
 				"stairs",
@@ -2253,7 +2245,6 @@
 				"truck",
 				"frames",
 				"beams",
-				"beams",
 				"foundation patterns",
 				"lights",
 				"pipes",
@@ -2276,9 +2267,7 @@
 				"train",
 				"frames",
 				"beams",
-				"beams",
 				"foundation patterns",
-				"lights",
 				"lights",
 				"pipes",
 				"signs",
@@ -2298,7 +2287,6 @@
 				"industrial",
 				"night time",
 				"no team",
-				"no team",
 				"railing",
 				"beams",
 				"cables",
@@ -2316,14 +2304,11 @@
 				"industrial",
 				"night time",
 				"no team",
-				"no team",
-				"railing",
 				"railing",
 				"beams",
 				"foundation patterns",
 				"cables",
 				"lights",
-				"signs",
 				"signs",
 				"crane",
 				"roads"
@@ -2517,7 +2502,6 @@
 				"railing",
 				"beams",
 				"belts",
-				"belts",
 				"foundation patterns",
 				"bean",
 				"outpost",
@@ -2567,7 +2551,6 @@
 				"water extractor",
 				"barrier",
 				"catwalk",
-				"beams",
 				"beams",
 				"lights",
 				"pipes"
@@ -2683,7 +2666,6 @@
 				"refinery",
 				"railing",
 				"outpost",
-				"signs as lights",
 				"signs as lights"
 			]
 		},
@@ -2702,7 +2684,6 @@
 				"belts",
 				"signs",
 				"outpost",
-				"signs as lights",
 				"signs as lights"
 			]
 		},
@@ -2717,7 +2698,6 @@
 				"refinery",
 				"railing",
 				"outpost",
-				"signs as lights",
 				"signs as lights"
 			]
 		}
@@ -2761,7 +2741,6 @@
 				"train",
 				"catwalk",
 				"frames",
-				"belts",
 				"belts",
 				"cables",
 				"signs",
@@ -2869,7 +2848,6 @@
 				"frames",
 				"beams",
 				"belts",
-				"belts",
 				"cables"
 			]
 		},
@@ -2891,7 +2869,6 @@
 				"train signals",
 				"tubes",
 				"train tracks",
-				"train tracks",
 				"bridge",
 				"outpost"
 			]
@@ -2909,7 +2886,6 @@
 				"radar tower",
 				"space elevator",
 				"train station",
-				"drone",
 				"drone",
 				"pillars",
 				"frames",
@@ -2979,7 +2955,6 @@
 				"interior",
 				"team cup",
 				"catwalk",
-				"signs",
 				"signs",
 				"lizard doggo",
 				"signs as lights"
@@ -3051,9 +3026,7 @@
 				"catwalk",
 				"foundation patterns",
 				"lights",
-				"lights",
 				"pipes",
-				"signs",
 				"signs",
 				"roads",
 				"signs as lights"
@@ -3075,9 +3048,7 @@
 				"catwalk",
 				"foundation patterns",
 				"lights",
-				"lights",
 				"pipes",
-				"signs",
 				"signs",
 				"roads",
 				"signs as lights"
@@ -3100,9 +3071,7 @@
 				"belts",
 				"foundation patterns",
 				"lights",
-				"lights",
 				"pipes",
-				"signs",
 				"signs",
 				"roads",
 				"signs as lights"
@@ -3128,9 +3097,7 @@
 				"belts",
 				"foundation patterns",
 				"lights",
-				"lights",
 				"pipes",
-				"signs",
 				"signs",
 				"train tracks",
 				"parking lot",
@@ -3160,7 +3127,6 @@
 				"paradise island",
 				"long beach",
 				"architecture",
-				"glass",
 				"glass",
 				"no team",
 				"train station",
@@ -3958,7 +3924,6 @@
 				"beams",
 				"hub",
 				"lights",
-				"lights",
 				"signs"
 			]
 		}
@@ -4401,7 +4366,6 @@
 				"assembler",
 				"miner",
 				"belts",
-				"belts",
 				"cables",
 				"bean",
 				"manta",
@@ -4440,7 +4404,6 @@
 				"ficsmas",
 				"interior",
 				"no team",
-				"railing",
 				"railing",
 				"cables"
 			]
@@ -4546,7 +4509,6 @@
 				"foundation patterns",
 				"hub",
 				"lights",
-				"lights",
 				"signs"
 			]
 		},
@@ -4568,7 +4530,6 @@
 				"foundation patterns",
 				"hub",
 				"cables",
-				"lights",
 				"lights",
 				"signs",
 				"tubes",
@@ -5018,7 +4979,6 @@
 				"hub",
 				"lights",
 				"signs",
-				"signs",
 				"warehouse"
 			]
 		},
@@ -5192,7 +5152,6 @@
 				"belts",
 				"cables",
 				"lights",
-				"lights",
 				"signs",
 				"signs as lights"
 			]
@@ -5209,9 +5168,7 @@
 				"catwalk",
 				"belts",
 				"cables",
-				"cables",
 				"ladder",
-				"lights",
 				"lights"
 			]
 		},
@@ -5229,7 +5186,6 @@
 				"beams",
 				"belts",
 				"cables",
-				"lights",
 				"lights",
 				"signs",
 				"signs as lights"
@@ -5607,8 +5563,6 @@
 				"rocky desert",
 				"lasagn",
 				"manifold",
-				"manifold",
-				"team hover pack",
 				"team hover pack",
 				"assembler",
 				"belts",
@@ -5766,7 +5720,6 @@
 				"train tracks",
 				"fuel plant",
 				"outpost",
-				"signs as lights",
 				"signs as lights",
 				"utility tower"
 			]
