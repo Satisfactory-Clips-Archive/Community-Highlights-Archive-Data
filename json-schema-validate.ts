@@ -236,7 +236,7 @@ for (const image_source of image_sources_strict_sets) {
 				e => highlights_meta_schema.definitions.highlightsMetaTeam.items.enum.includes(e)
 			);
 			const has_location = !!image.highlightsMeta.find(
-				e => highlights_meta_schema.definitions.highlightsMetaTeam.items.enum.includes(e)
+				e => highlights_meta_schema.definitions.highlightsMetaLocation.items.enum.includes(e)
 			);
 
 			if ( ! has_team || ! has_location) {
