@@ -202,6 +202,8 @@ const image_sources_strict_sets = ([
 const problems:HighlightsMetaProblem[] = [
 ];
 
+const duplicates:string[] = [];
+
 class HighlightsMetaProblem {
 	public readonly link:string;
 	public readonly has_highlights:string;
@@ -220,7 +222,14 @@ for (const image_source of image_sources_strict_sets) {
 	for (const highlights_link_entry of Object.entries(image_source)) {
 		const [highlights_link, highlights_images] = highlights_link_entry;
 
+		const all_sources_for_link:string[] = [];
+
 		for (const image of highlights_images) {
+			if ( ! all_sources_for_link.includes((image.src))) {
+				all_sources_for_link.push(image.src);
+			} else if ( ! duplicates.includes(image.src)) {
+				duplicates.push(image.src);
+			}
 			if ( ! (image?.highlightsMeta instanceof Array)) {
 				problems.push(new HighlightsMetaProblem(
 					image.src,
@@ -253,4 +262,8 @@ for (const image_source of image_sources_strict_sets) {
 
 if (problems.length) {
 	console.table(problems);
+}
+
+if (duplicates.length) {
+	console.error(`duplicates found!\n${duplicates.join('\n')}`);
 }
