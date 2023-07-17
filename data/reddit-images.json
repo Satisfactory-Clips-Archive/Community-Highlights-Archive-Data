@@ -90,6 +90,7 @@
 				"glass",
 				"sunrise/sunset",
 				"modded",
+				"no team",
 				"railing",
 				"beams",
 				"foundation patterns",
@@ -111,6 +112,7 @@
 				"glass",
 				"night time",
 				"modded",
+				"no team",
 				"railing",
 				"beams",
 				"foundation patterns",
@@ -350,6 +352,7 @@
 			"highlightsMeta": [
 				"red bamboo fields",
 				"ficsmas",
+				"no team",
 				"drone",
 				"tubes",
 				"tower"
@@ -361,6 +364,7 @@
 			"highlightsMeta": [
 				"red bamboo fields",
 				"ficsmas",
+				"no team",
 				"drone",
 				"lights",
 				"tubes",
@@ -432,6 +436,7 @@
 				"fog",
 				"glass",
 				"night time",
+				"no team",
 				"radar tower",
 				"frames",
 				"lights",
@@ -449,6 +454,7 @@
 				"grass fields crater",
 				"glass",
 				"night time",
+				"no team",
 				"awesome shop",
 				"radar tower",
 				"frames",
@@ -469,6 +475,7 @@
 				"grass fields crater",
 				"glass",
 				"interior",
+				"no team",
 				"equipment workshop",
 				"beams",
 				"foundation patterns",
@@ -683,6 +690,7 @@
 				"uncertain location",
 				"ficsmas",
 				"night time",
+				"no team",
 				"belts",
 				"cables",
 				"lights",
@@ -696,6 +704,7 @@
 				"uncertain location",
 				"ficsmas",
 				"night time",
+				"no team",
 				"belts",
 				"cables",
 				"lights",
@@ -710,6 +719,7 @@
 				"ficsmas",
 				"manifold",
 				"repetition",
+				"no team",
 				"constructor",
 				"belts",
 				"cables",
@@ -1100,6 +1110,7 @@
 				"fog",
 				"repetition",
 				"sunrise/sunset",
+				"no team",
 				"cables",
 				"fuel plant"
 			]
@@ -1111,6 +1122,7 @@
 				"fog",
 				"repetition",
 				"sunrise/sunset",
+				"no team",
 				"cables",
 				"fuel plant"
 			]
@@ -1121,6 +1133,7 @@
 				"spire coast",
 				"manifold",
 				"repetition",
+				"no team",
 				"cables",
 				"pipes",
 				"fuel plant"
@@ -1137,6 +1150,7 @@
 			"src": "https://i.redd.it/yovbuj0tw98a1.png",
 			"highlightsMeta": [
 				"northern forest",
+				"no team",
 				"water extractor",
 				"crash site"
 			]
@@ -1172,9 +1186,11 @@
 			"src": "https://i.redd.it/6258x5n9so7a1.png",
 			"alt": "My favorite way for spaghetti. Very useful, compact and comfortable (especially if you have a hoover already)",
 			"highlightsMeta": [
+				"grass fields",
 				"glass",
 				"lasagn",
 				"manifold",
+				"no team",
 				"team hover pack",
 				"radar tower",
 				"belts",
@@ -1254,6 +1270,7 @@
 				"crater lakes",
 				"ficsmas",
 				"glass",
+				"no team",
 				"belts",
 				"cables",
 				"tubes"
@@ -1278,6 +1295,7 @@
 			"alt": "Phew. It took 132 hours but i finally made it",
 			"highlightsMeta": [
 				"unknown location",
+				"no team",
 				"space elevator",
 				"user interface"
 			]
@@ -1453,8 +1471,10 @@
 			"src": "https://i.redd.it/vlhq2pp10w8a1.png",
 			"alt": "8 Plutonium Rods p/m, everything except aluminium is produced on site",
 			"highlightsMeta": [
+				"uncertain location",
 				"ficsmas",
 				"manifold",
+				"team feet",
 				"team feet",
 				"assembler",
 				"blender",
@@ -1515,7 +1535,8 @@
 			"alt": "I was playing The Cycle: Frontier and I found this box while wandering around. Had to take a sec to check who made this game lmao.",
 			"highlightsMeta": [
 				"unknown location",
-				"references to other franchises"
+				"references to other franchises",
+				"no team"
 			]
 		}
 	],
@@ -1531,6 +1552,7 @@
 			"highlightsMeta": [
 				"unknown location",
 				"interior",
+				"no team",
 				"boombox",
 				"statue gallery"
 			]
@@ -1567,6 +1589,7 @@
 				"dune desert",
 				"pixel art",
 				"references to other franchises",
+				"no team",
 				"cables",
 				"train tracks",
 				"chimney",
@@ -1701,6 +1724,7 @@
 				"architecture",
 				"gothic",
 				"sunrise/sunset",
+				"no team",
 				"radar tower",
 				"beams",
 				"beams",
@@ -1720,10 +1744,12 @@
 			"src": "https://i.redd.it/b18plcbqgraa1.png",
 			"alt": "We have built IKEA at our server.",
 			"highlightsMeta": [
+				"uncertain location",
 				"ficsmas",
 				"night time",
 				"multiplayer",
 				"references to other franchises",
+				"no team",
 				"railing",
 				"cables",
 				"train signals",
@@ -1761,6 +1787,7 @@
 			"highlightsMeta": [
 				"grass fields crater",
 				"glass",
+				"no team",
 				"train station",
 				"pillars",
 				"frames",
@@ -1785,6 +1812,7 @@
 				"rocky desert",
 				"architecture",
 				"night time",
+				"no team",
 				"space elevator",
 				"explorer",
 				"foundation patterns",
@@ -1802,6 +1830,7 @@
 				"rocky desert",
 				"architecture",
 				"night time",
+				"no team",
 				"lights",
 				"signs",
 				"outpost",
@@ -1890,6 +1919,7 @@
 		{
 			"src": "https://i.redd.it/wat19u4dmdaa1.png",
 			"highlightsMeta": [
+				"unknown location",
 				"modded",
 				"no team",
 				"truck",
@@ -1943,6 +1973,7 @@
 				"grass fields",
 				"ficsmas",
 				"manifold",
+				"no team",
 				"lookout tower",
 				"constructor",
 				"belts",
@@ -1993,6 +2024,7 @@
 				"spire coast",
 				"architecture",
 				"glass",
+				"no team",
 				"refinery",
 				"pipes",
 				"tower"
@@ -2129,6 +2161,7 @@
 				"glass",
 				"manifold",
 				"night time",
+				"no team",
 				"miner",
 				"lights",
 				"signs",
@@ -2144,6 +2177,7 @@
 				"glass",
 				"manifold",
 				"night time",
+				"no team",
 				"assembler",
 				"awesome shop",
 				"miner",
@@ -2166,6 +2200,7 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"weatherwax",
+				"no team",
 				"assembler",
 				"train station",
 				"pillars",
@@ -2192,6 +2227,7 @@
 				"glass",
 				"industrial",
 				"night time",
+				"no team",
 				"miner",
 				"radar tower",
 				"tractor",
@@ -2209,8 +2245,10 @@
 		{
 			"src": "https://i.redd.it/zaq1dx3n2i9a1.png",
 			"highlightsMeta": [
+				"grass fields",
 				"cityscape",
 				"industrial",
+				"no team",
 				"team cup",
 				"truck",
 				"frames",
@@ -2228,11 +2266,14 @@
 		{
 			"src": "https://i.redd.it/82142kin2i9a1.png",
 			"highlightsMeta": [
+				"grass fields",
 				"cityscape",
 				"industrial",
+				"no team",
 				"team cup",
 				"truck station",
 				"tractor",
+				"train",
 				"frames",
 				"beams",
 				"beams",
@@ -2241,18 +2282,22 @@
 				"lights",
 				"pipes",
 				"signs",
+				"train tracks",
 				"coal plant",
 				"parking lot",
 				"roads",
-				"signs as lights"
+				"signs as lights",
+				"viaduct"
 			]
 		},
 		{
 			"src": "https://i.redd.it/78a5igvn2i9a1.png",
 			"highlightsMeta": [
+				"grass fields",
 				"cityscape",
 				"industrial",
 				"night time",
+				"no team",
 				"no team",
 				"railing",
 				"beams",
@@ -2264,11 +2309,13 @@
 			]
 		},
 		{
-			"src": "https://i.redd.it/78a5igvn2i9a1.png",
+			"src": "https://i.redd.it/86pfozyn2i9a1.png",
 			"highlightsMeta": [
+				"grass fields",
 				"cityscape",
 				"industrial",
 				"night time",
+				"no team",
 				"no team",
 				"railing",
 				"railing",
@@ -2372,6 +2419,7 @@
 			"highlightsMeta": [
 				"uncertain location",
 				"interior",
+				"no team",
 				"lights",
 				"signs",
 				"statue gallery"
@@ -2382,6 +2430,7 @@
 			"highlightsMeta": [
 				"uncertain location",
 				"interior",
+				"no team",
 				"signs"
 			]
 		},
@@ -2390,6 +2439,7 @@
 			"highlightsMeta": [
 				"uncertain location",
 				"interior",
+				"no team",
 				"signs"
 			]
 		},
@@ -2398,6 +2448,7 @@
 			"highlightsMeta": [
 				"uncertain location",
 				"interior",
+				"no team",
 				"lights"
 			]
 		},
@@ -2406,6 +2457,7 @@
 			"highlightsMeta": [
 				"uncertain location",
 				"interior",
+				"no team",
 				"lights"
 			]
 		}
@@ -2511,8 +2563,11 @@
 				"rocky desert",
 				"lasagn",
 				"manifold",
+				"no team",
 				"water extractor",
+				"barrier",
 				"catwalk",
+				"beams",
 				"beams",
 				"lights",
 				"pipes"
@@ -2532,6 +2587,7 @@
 				"architecture",
 				"ficsmas",
 				"glass",
+				"no team",
 				"belts",
 				"signs as lights"
 			]
@@ -2556,6 +2612,7 @@
 				"jace would eat that",
 				"architecture",
 				"ficsmas",
+				"no team",
 				"truck",
 				"beams",
 				"lights",
@@ -2677,6 +2734,7 @@
 			"highlightsMeta": [
 				"unknown location",
 				"night time",
+				"no team",
 				"factory cart",
 				"warehouse"
 			]
@@ -2763,6 +2821,7 @@
 				"glass",
 				"manifold",
 				"sunrise/sunset",
+				"no team",
 				"refinery",
 				"catwalk",
 				"frames",
@@ -2986,6 +3045,7 @@
 				"lasagn",
 				"manifold",
 				"sunrise/sunset",
+				"no team",
 				"refinery",
 				"drone",
 				"catwalk",
@@ -3008,6 +3068,7 @@
 				"glass",
 				"lasagn",
 				"manifold",
+				"no team",
 				"lookout tower",
 				"refinery",
 				"drone",
@@ -3032,6 +3093,7 @@
 				"lasagn",
 				"manifold",
 				"sunrise/sunset",
+				"no team",
 				"lookout tower",
 				"refinery",
 				"catwalk",
@@ -3056,6 +3118,7 @@
 				"lasagn",
 				"manifold",
 				"night time",
+				"no team",
 				"lookout tower",
 				"refinery",
 				"drone",
@@ -3085,6 +3148,7 @@
 				"glass",
 				"interior",
 				"sunrise/sunset",
+				"no team",
 				"catwalk",
 				"belts",
 				"roads"
@@ -3098,6 +3162,7 @@
 				"architecture",
 				"glass",
 				"glass",
+				"no team",
 				"train station",
 				"refinery",
 				"truck",
@@ -3165,6 +3230,7 @@
 				"western dune forest",
 				"fog",
 				"nature",
+				"no team",
 				"space elevator",
 				"frames",
 				"train signals",
@@ -3211,6 +3277,7 @@
 			"highlightsMeta": [
 				"uncertain location",
 				"fog",
+				"no team",
 				"refinery",
 				"drone",
 				"belts",
@@ -3225,6 +3292,7 @@
 				"glass",
 				"interior",
 				"night time",
+				"no team",
 				"awesome shop",
 				"frames",
 				"belts",
@@ -3249,6 +3317,7 @@
 				"desert mountain plateaus",
 				"ficsmas",
 				"manifold",
+				"no team",
 				"foundry",
 				"assembler",
 				"awesome sink",
@@ -3313,6 +3382,7 @@
 			"highlightsMeta": [
 				"rocky desert",
 				"interior",
+				"no team",
 				"train station",
 				"power switch",
 				"foundation patterns",
@@ -3335,6 +3405,7 @@
 				"uncertain location",
 				"ficsmas",
 				"spaghett",
+				"no team",
 				"belts"
 			]
 		}
@@ -3468,6 +3539,8 @@
 			"src": "https://i.redd.it/r0lu73l2uh5a1.png",
 			"highlightsMeta": [
 				"grass fields",
+				"gothic",
+				"no team",
 				"train",
 				"truck",
 				"railing",
@@ -3677,6 +3750,7 @@
 				"grass fields crater",
 				"ficsmas",
 				"glass",
+				"no team",
 				"beams"
 			]
 		}
@@ -4123,6 +4197,7 @@
 				"ficsmas",
 				"final fantasy",
 				"night time",
+				"no team",
 				"frames",
 				"belts",
 				"lights",
@@ -4137,6 +4212,7 @@
 				"ficsmas",
 				"final fantasy",
 				"sunrise/sunset",
+				"no team",
 				"drone",
 				"frames",
 				"belts",
@@ -4153,6 +4229,7 @@
 				"swamp",
 				"ficsmas",
 				"final fantasy",
+				"no team",
 				"catwalk",
 				"frames",
 				"belts",
@@ -4174,11 +4251,12 @@
 			"src": "https://i.redd.it/hws860hfeb3a1.jpg",
 			"alt": "Xevexian Station... for trains!",
 			"highlightsMeta": [
-				"uncertain location",
 				"grass fields",
 				"architecture",
 				"glass",
+				"gothic",
 				"night time",
+				"no team",
 				"train station",
 				"lights"
 			]
@@ -4187,10 +4265,11 @@
 			"src": "https://i.redd.it/4rg7i9egeb3a1.jpg",
 			"alt": "Daytime view",
 			"highlightsMeta": [
-				"uncertain location",
 				"grass fields",
 				"architecture",
 				"glass",
+				"gothic",
+				"no team",
 				"train station",
 				"train",
 				"lights",
@@ -4200,14 +4279,15 @@
 			]
 		},
 		{
-			"src": "https://i.redd.it/4rg7i9egeb3a1.jpg",
+			"src": "https://i.redd.it/kx43vw0heb3a1.jpg",
 			"alt": "There is a quatrefoil train exit/entrance on both ends. It's a little tight but it doesn't clip.",
 			"highlightsMeta": [
-				"uncertain location",
 				"grass fields",
 				"architecture",
 				"glass",
+				"gothic",
 				"sunrise/sunset",
+				"no team",
 				"train station",
 				"train",
 				"lights",
@@ -4219,12 +4299,13 @@
 		{
 			"src": "https://i.redd.it/708ntntieb3a1.jpg",
 			"highlightsMeta": [
-				"uncertain location",
 				"grass fields",
 				"architecture",
 				"glass",
+				"gothic",
 				"interior",
 				"night time",
+				"no team",
 				"train station",
 				"train",
 				"lights",
@@ -4355,8 +4436,11 @@
 			"src": "https://i.redd.it/10vcho5ga94a1.jpg",
 			"alt": "Mandatory Ficsit Holiday cheer. haven't done Ficsmas since the first year. Wanted to go bigger this year and make something I won't tear down a few days after it ends.",
 			"highlightsMeta": [
+				"unknown location",
 				"ficsmas",
 				"interior",
+				"no team",
+				"railing",
 				"railing",
 				"cables"
 			]
@@ -4499,6 +4583,7 @@
 				"uncertain location",
 				"ficsmas",
 				"interior",
+				"no team",
 				"catwalk",
 				"beams",
 				"foundation patterns",
@@ -4517,6 +4602,7 @@
 				"ficsmas",
 				"glass",
 				"night time",
+				"no team",
 				"refinery",
 				"frames",
 				"belts",
@@ -4583,6 +4669,7 @@
 				"uncertain location",
 				"western beaches",
 				"western dune forest",
+				"no team",
 				"train station",
 				"train",
 				"train signals",
@@ -4605,6 +4692,7 @@
 				"fog",
 				"sunrise/sunset",
 				"references to other franchises",
+				"no team",
 				"miner",
 				"cables",
 				"bean"
@@ -4721,6 +4809,7 @@
 				"grass fields",
 				"nature",
 				"references to other franchises",
+				"no team",
 				"space elevator"
 			]
 		}
@@ -4736,6 +4825,7 @@
 			"alt": "Built my first ever train bridge, I really like it",
 			"highlightsMeta": [
 				"rocky desert",
+				"no team",
 				"train station",
 				"constructor",
 				"belts",
@@ -4794,6 +4884,7 @@
 				"grass fields",
 				"long beach",
 				"fog",
+				"no team",
 				"miner",
 				"space elevator",
 				"catwalk",
@@ -4809,6 +4900,7 @@
 				"grass fields",
 				"fog",
 				"nature",
+				"no team",
 				"catwalk",
 				"train tracks",
 				"power slug",
@@ -4820,6 +4912,7 @@
 			"highlightsMeta": [
 				"grass fields",
 				"grass fields arch",
+				"no team",
 				"bean",
 				"manta",
 				"power slug"
@@ -4936,6 +5029,7 @@
 				"rocky desert",
 				"glass",
 				"manifold",
+				"no team",
 				"assembler",
 				"space elevator",
 				"belts",
@@ -5599,7 +5693,11 @@
 			"alt": "Planning Board Room/Building",
 			"highlightsMeta": [
 				"uncertain location",
+				"spire coast",
 				"glass",
+				"no team",
+				"barrier",
+				"railing",
 				"foundation patterns",
 				"pipes",
 				"signs",
@@ -5613,6 +5711,7 @@
 				"uncertain location",
 				"glass",
 				"interior",
+				"no team",
 				"signs",
 				"outpost"
 			]
@@ -5656,6 +5755,7 @@
 				"northern forest",
 				"green valley",
 				"night time",
+				"no team",
 				"lookout tower",
 				"miner",
 				"catwalk",
@@ -5676,6 +5776,7 @@
 			"highlightsMeta": [
 				"northern forest",
 				"glass",
+				"no team",
 				"space elevator",
 				"beams",
 				"cables",
@@ -5700,6 +5801,7 @@
 			"highlightsMeta": [
 				"western dune forest",
 				"nature",
+				"no team",
 				"train",
 				"train tracks",
 				"power slug",
@@ -7064,6 +7166,7 @@
 			"highlightsMeta": [
 				"green valley",
 				"manifold",
+				"no team",
 				"catwalk",
 				"pipes",
 				"user interface",
@@ -7108,6 +7211,7 @@
 				"architecture",
 				"glass",
 				"industrial",
+				"no team",
 				"blender",
 				"miner",
 				"catwalk",
@@ -7309,6 +7413,8 @@
 			"alt": "Hello, would you like to talk about our lord and savior jesus christ?",
 			"highlightsMeta": [
 				"uncertain location",
+				"dune desert",
+				"no team",
 				"space elevator",
 				"foundation patterns",
 				"ladder",
@@ -7364,6 +7470,7 @@
 			"alt": "Plutonium Fuel Rods made Here...",
 			"highlightsMeta": [
 				"rocky desert",
+				"no team",
 				"particle accelerator",
 				"belts",
 				"lights",
@@ -29070,6 +29177,7 @@
 				"fog",
 				"manifold",
 				"repetition",
+				"no team",
 				"assembler",
 				"lookout tower",
 				"pillars",
