@@ -6467,5 +6467,28 @@
 				]
 			}
 		}
+	},
+	"2023-01-24": {
+		"yt-wy501RO5qS8": {
+			"10:04 UmlautNibbaWithD - NSFW": {
+				"timestamp": 604,
+				"raw_text": "UmlautNibbaWithD - NSFW",
+				"timestamps_for_links": [
+					629
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 629,
+						"meta": [
+							"uncertain location",
+							"team inhaler",
+							"pillars",
+							"signs",
+							"art"
+						]
+					}
+				]
+			}
+		}
 	}
 }
