@@ -411,8 +411,9 @@
 			"src": "https://i.redd.it/57u2s0jzetda1.jpg",
 			"alt": "Abyssal Bridge over the chasm between Brimstone Station and Azure Scar Station",
 			"highlightsMeta": [
-				"uncertain location",
-				"abyss cliffs",
+				"blue crater",
+				"grass fields",
+				"southern forest",
 				"cityscape",
 				"gothic",
 				"sunrise/sunset",
@@ -449,6 +450,196 @@
 				"lights",
 				"bridge",
 				"roads"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10emmnh/had_this_platform_before_its_meant_to_be/": [
+		{
+			"src": "https://preview.redd.it/wq5msc6hynca1.png?width=640&crop=smart&auto=webp&s=9944ae64f2666822294d08ccb96c543799a5e3a8",
+			"alt": "Had this platform before. It's meant to be ...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wq5msc6hynca1.png",
+			"alt": "Had this platform before. It's meant to be ...",
+			"highlightsMeta": [
+				"uncertain location",
+				"interior",
+				"sunrise/sunset",
+				"no team",
+				"blueprint designer",
+				"factory cart",
+				"railing",
+				"frames",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"parking lot",
+				"roads",
+				"signs as lights",
+				"warehouse"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10emf0r/innocent_little_power_storage_room/": [
+		{
+			"src": "https://preview.redd.it/ctkv8mv2xnca1.png?width=640&crop=smart&auto=webp&s=477abcc917308974b2658d0e4aadea0e74cea1da",
+			"alt": "Innocent little power storage room...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ctkv8mv2xnca1.png",
+			"alt": "Innocent little power storage room...",
+			"highlightsMeta": [
+				"uncertain location",
+				"final fantasy",
+				"interior",
+				"no team",
+				"catwalk",
+				"frames",
+				"beams",
+				"lights",
+				"pipes",
+				"power storage bank"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10dx7y2/15k_iron_and_copper_ingots_primed_and_ready/": [
+		{
+			"src": "https://preview.redd.it/1hmdfebzejca1.jpg?width=640&crop=smart&auto=webp&s=b89c2e31f61a27f28fb77ab506650100d351d95a",
+			"alt": "15k Iron and Copper ingots, primed and ready.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1hmdfebzejca1.jpg",
+			"alt": "15k Iron and Copper ingots, primed and ready.",
+			"highlightsMeta": [
+				"grass fields crater",
+				"lasagn",
+				"manifold",
+				"no team",
+				"miner",
+				"smelter",
+				"belts",
+				"train tracks",
+				"outpost",
+				"viaduct",
+				"warehouse"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10f8j5n/my_first_big_factory_in_the_game_i_have_finished/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/4j32cj_3oFm4RV2wAI_0_2id_wiwShK0XYtR0rHRtsE.jpg",
+			"alt": "My first big factory in the game (I have finished what was going to be my small oil factory... I started in 60 hours and finished in 130 hours :/)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/39x6pk284tca1.png",
+			"alt": "220 m high without counting towers",
+			"highlightsMeta": [
+				"uncertain location",
+				"blue crater",
+				"art",
+				"glass",
+				"oil rig",
+				"modded",
+				"team hands",
+				"radar tower",
+				"railing",
+				"frames",
+				"cables",
+				"signs",
+				"crash site",
+				"crane"
+			]
+		},
+		{
+			"src": "https://i.redd.it/a6rpu7uu4tca1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"blue crater",
+				"fog",
+				"glass",
+				"no team",
+				"space elevator",
+				"railing",
+				"lights",
+				"bridge",
+				"lighthouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/nmwontyv4tca1.png",
+			"alt": "And ready for a future expansion for 2 more auxiliary wells for future turbofuel.",
+			"highlightsMeta": [
+				"uncertain location",
+				"blue crater",
+				"modded",
+				"no team",
+				"barrier",
+				"railing",
+				"beams",
+				"lights",
+				"pipes",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/idww2o085tca1.png",
+			"alt": "A second plant for derived products and access to the train (ignore the signs)",
+			"highlightsMeta": [
+				"uncertain location",
+				"blue crater",
+				"modded",
+				"no team",
+				"awesome shop",
+				"awesome sink",
+				"pillars",
+				"railing",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"tubes",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/lwbnm3gt5tca1.png",
+			"alt": "A small work room",
+			"highlightsMeta": [
+				"uncertain location",
+				"blue crater",
+				"glass",
+				"interior",
+				"modded",
+				"reference images",
+				"no team",
+				"equipment workshop",
+				"frames",
+				"beams",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/z6sh5fv06tca1.png",
+			"alt": "Finally, a small break of 5 min, and to the HMF factory. THE FACTORY MUST GROWN!",
+			"highlightsMeta": [
+				"uncertain location",
+				"blue crater",
+				"fog",
+				"rain",
+				"sunrise/sunset",
+				"team cup",
+				"space elevator",
+				"pillars",
+				"railing",
+				"cables",
+				"lights",
+				"train signals",
+				"tubes",
+				"train tracks",
+				"bridge"
 			]
 		}
 	],
