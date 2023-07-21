@@ -312,6 +312,50 @@
 			]
 		}
 	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10iqwyf/finished_my_hanging_cliffside_base_with_a_full/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/GWxbqleWYyPog8MtHVLv1tOl5h6jptV6R1z01hOYuzc.jpg",
+			"alt": "Finished my hanging cliffside base, with a full resource mall!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7ybl29ov2nda1.png",
+			"alt": "Moved my main base to the cliffs south of the red bamboo fields. It hangs over the giant hole.",
+			"highlightsMeta": [
+				"grass fields crater",
+				"no team",
+				"awesome sink",
+				"drone",
+				"railing",
+				"frames",
+				"belts",
+				"train tracks",
+				"outpost",
+				"warehouse"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10ihto1/a_different_kind_of_stairway/": [
+		{
+			"src": "https://preview.redd.it/oz60avwh0lda1.png?width=640&crop=smart&auto=webp&s=7d3782ee6b3324888d1f0386c993f4697fa6dfd9",
+			"alt": "A different kind of stairway...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/oz60avwh0lda1.png",
+			"alt": "A different kind of stairway...",
+			"highlightsMeta": [
+				"uncertain location",
+				"night time",
+				"no team",
+				"train station",
+				"catwalk",
+				"railing",
+				"stairs",
+				"train tracks"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10cetye/so_many_good_photo_opportunities_in_this_game/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/lLHKJBeAy7yWdKcNucMG59N9VvhHZi8el3TBKDbMzkU.jpg",
