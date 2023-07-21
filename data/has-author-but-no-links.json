@@ -6488,6 +6488,26 @@
 						]
 					}
 				]
+			},
+			"16:04 WizardShep - I'll see you in court!": {
+				"timestamp": 964,
+				"raw_text": "WizardShep - I'll see you in court!",
+				"timestamps_for_links": [
+					965
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 965,
+						"meta": [
+							"uncertain location",
+							"art",
+							"no team",
+							"pillars",
+							"frames",
+							"lights"
+						]
+					}
+				]
 			}
 		}
 	}
