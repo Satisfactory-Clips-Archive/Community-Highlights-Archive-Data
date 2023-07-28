@@ -1679,10 +1679,10 @@
 					2034,
 					2045,
 					2064,
-					2156,
 					2091,
 					2118,
 					2135,
+					2156,
 					2182,
 					3427,
 					3559,
@@ -1776,15 +1776,6 @@
 						]
 					},
 					{
-						"timestamp": 2156,
-						"meta": [
-							"rocky desert",
-							"games",
-							"multiplayer",
-							"team hands"
-						]
-					},
-					{
 						"timestamp": 2091,
 						"meta": [
 							"rocky desert",
@@ -1815,6 +1806,15 @@
 							"no team",
 							"personal crate",
 							"tubes"
+						]
+					},
+					{
+						"timestamp": 2156,
+						"meta": [
+							"rocky desert",
+							"games",
+							"multiplayer",
+							"team hands"
 						]
 					},
 					{
@@ -4944,6 +4944,15 @@
 						]
 					},
 					{
+						"timestamp": 3663,
+						"meta": [
+							"uncertain location",
+							"glitch",
+							"no team",
+							"tractor"
+						]
+					},
+					{
 						"timestamp": 3671,
 						"meta": [
 							"uncertain location",
@@ -4952,15 +4961,6 @@
 							"team feet",
 							"tractor",
 							"lights"
-						]
-					},
-					{
-						"timestamp": 3663,
-						"meta": [
-							"uncertain location",
-							"glitch",
-							"no team",
-							"tractor"
 						]
 					},
 					{
@@ -5312,6 +5312,13 @@
 						]
 					},
 					{
+						"timestamp": 4238,
+						"meta": [
+							"uncertain location",
+							"no team"
+						]
+					},
+					{
 						"timestamp": 4253,
 						"meta": [
 							"uncertain location",
@@ -5320,13 +5327,6 @@
 							"lights",
 							"personal crate",
 							"signs"
-						]
-					},
-					{
-						"timestamp": 4238,
-						"meta": [
-							"uncertain location",
-							"no team"
 						]
 					}
 				]
@@ -6508,6 +6508,544 @@
 						]
 					}
 				]
+			}
+		}
+	},
+	"2023-01-31": {
+		"yt-oomk-UsTbhA": {
+			"03:40 Zerifax - Talkboy Tape Recorder from Home Alone 2": {
+				"timestamp": 220,
+				"raw_text": "Zerifax - Talkboy Tape Recorder from Home Alone 2",
+				"timestamps_for_links": [
+					274
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 274,
+						"meta": [
+							"long beach",
+							"paradise island",
+							"references to other franchises",
+							"pillars",
+							"team hands",
+							"signs"
+						]
+					}
+				]
+			},
+			"05:30 PumpkinHead_LIVE - A Nightmare before Christmas": {
+				"timestamp": 330,
+				"raw_text": "PumpkinHead_LIVE - A Nightmare before Christmas",
+				"timestamps_for_links": [
+					354
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 354,
+						"meta": [
+							"references to other franchises",
+							"architecture",
+							"beams",
+							"pillars",
+							"signs as lights",
+							"stairs"
+						]
+					}
+				]
+			},
+			"06:52 XAVItheFish - Nakatomi Plaza Die Hard": {
+				"timestamp": 412,
+				"raw_text": "XAVItheFish - Nakatomi Plaza Die Hard",
+				"timestamps_for_links": [
+					417.6,
+					424,
+					469
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 417.6,
+						"meta": [
+							"references to other franchises",
+							"tower",
+							"signs",
+							"team hands",
+							"long beach",
+							"paradise island"
+						]
+					},
+					{
+						"timestamp": 424,
+						"meta": [
+							"references to other franchises",
+							"tower",
+							"signs",
+							"team hands",
+							"long beach",
+							"paradise island"
+						]
+					},
+					{
+						"timestamp": 469,
+						"meta": [
+							"references to other franchises",
+							"tower",
+							"signs",
+							"team hands",
+							"long beach",
+							"paradise island"
+						]
+					}
+				]
+			},
+			"08:50 Audrey Plays Nice - But Santa is Bad, Bad, Bad \"Santa doesn't care if you're naughty or nice\"": {
+				"timestamp": 530,
+				"raw_text": "Audrey Plays Nice - But Santa is Bad, Bad, Bad \"Santa doesn't care if you're naughty or nice\"",
+				"timestamps_for_links": [
+					532,
+					564
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 532,
+						"meta": [
+							"long beach",
+							"paradise island",
+							"team hands",
+							"ficsmas"
+						]
+					},
+					{
+						"timestamp": 564,
+						"meta": [
+							"long beach",
+							"paradise island",
+							"team hands",
+							"ficsmas"
+						]
+					}
+				]
+			},
+			"09:56 seePyou - In honor of all Greex Xmas movies...": {
+				"timestamp": 596,
+				"raw_text": "seePyou - In honor of all Greex Xmas movies...",
+				"timestamps_for_links": [
+					597,
+					603,
+					606,
+					622,
+					634.2
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 597,
+						"meta": [
+							"long beach",
+							"paradise island",
+							"team hands",
+							"signs",
+							"boat"
+						]
+					},
+					{
+						"timestamp": 603,
+						"meta": [
+							"long beach",
+							"paradise island",
+							"team hands",
+							"signs"
+						]
+					},
+					{
+						"timestamp": 606,
+						"meta": [
+							"long beach",
+							"paradise island",
+							"no team",
+							"interior",
+							"ficsmas",
+							"pillars"
+						]
+					},
+					{
+						"timestamp": 622,
+						"meta": [
+							"long beach",
+							"paradise island",
+							"no team",
+							"ficsmas",
+							"boat",
+							"beams",
+							"pillars",
+							"cables",
+							"ladder"
+						]
+					},
+					{
+						"timestamp": 634.2,
+						"meta": [
+							"long beach",
+							"paradise island",
+							"no team",
+							"ficsmas",
+							"boat",
+							"beams",
+							"pillars",
+							"cables",
+							"ladder"
+						]
+					}
+				]
+			},
+			"10:51 j1mbers - Every Time a Bell Rings An Angel Gets Its Wings — From Its a Wonderful Life": {
+				"timestamp": 651,
+				"raw_text": "j1mbers - Every Time a Bell Rings An Angel Gets Its Wings - From Its a Wonderful Life",
+				"timestamps_for_links": [
+					672.8
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 672.8,
+						"meta": [
+							"references to other franchises",
+							"signs as lights",
+							"ficsmas",
+							"no team",
+							"long beach",
+							"paradise island"
+						]
+					}
+				]
+			},
+			"11:50 Blitzdadog - Home Alone": {
+				"timestamp": 710,
+				"raw_text": "Blitzdadog - Home Alone",
+				"timestamps_for_links": [
+					717.2
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 717.2,
+						"meta": [
+							"references to other franchises",
+							"paradise island",
+							"long beach",
+							"beams",
+							"pillars",
+							"glass",
+							"architecture",
+							"ficsmas",
+							"no team"
+						]
+					}
+				]
+			},
+			"13:04 FadeBlackout - Snowman (home)": {
+				"timestamp": 784,
+				"raw_text": "FadeBlackout - Snowman (home)",
+				"timestamps_for_links": [
+					787.4
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 787.4,
+						"meta": [
+							"references to other franchises",
+							"architecture",
+							"beams",
+							"signs as lights",
+							"ficsmas",
+							"belts",
+							"paradise island",
+							"long beach",
+							"team hands"
+						]
+					}
+				]
+			},
+			"14:10 Baikenbits - Hard Die": {
+				"timestamp": 850,
+				"raw_text": "Baikenbits - Hard Die",
+				"timestamps_for_links": []
+			},
+			"15:52 Epiphane - Nakatomi Plaza Die Hard": {
+				"timestamp": 952,
+				"raw_text": "Epiphane - Nakatomi Plaza Die Hard",
+				"timestamps_for_links": []
+			},
+			"19:04 DontPokeJosh - Home Alone": {
+				"timestamp": 1144,
+				"raw_text": "DontPokeJosh - Home Alone",
+				"timestamps_for_links": []
+			},
+			"19:43 AnnaRooma - Rudolph The Red Nosed Reindeer Had a very shiny nose...": {
+				"timestamp": 1183,
+				"raw_text": "AnnaRooma - Rudolph The Red Nosed Reindeer Had a very shiny nose...",
+				"timestamps_for_links": []
+			},
+			"21:27 Soen Kigi - Charlie Brown — Christmas Special": {
+				"timestamp": 1287,
+				"raw_text": "Soen Kigi - Charlie Brown — Christmas Special",
+				"timestamps_for_links": []
+			},
+			"22:53 BraindG - jingle all the way": {
+				"timestamp": 1373,
+				"raw_text": "BraindG - jingle all the way",
+				"timestamps_for_links": []
+			},
+			"24:39 Skittish - A Christmas Story": {
+				"timestamp": 1479,
+				"raw_text": "Skittish - A Christmas Story",
+				"timestamps_for_links": []
+			},
+			"26:11 SiwaPyra - How the Grinch Stole Christmas": {
+				"timestamp": 1571,
+				"raw_text": "SiwaPyra - How the Grinch Stole Christmas",
+				"timestamps_for_links": []
+			},
+			"27:21 cazineer - Star Wars Lego Holiday Special": {
+				"timestamp": 1641,
+				"raw_text": "cazineer - Star Wars Lego Holiday Special",
+				"timestamps_for_links": []
+			},
+			"28:33 JessicaFrances - Nightmare before Christmas": {
+				"timestamp": 1713,
+				"raw_text": "JessicaFrances - Nightmare before Christmas",
+				"timestamps_for_links": []
+			},
+			"29:36 Trexoman - Santa Clause": {
+				"timestamp": 1776,
+				"raw_text": "Trexoman - Santa Clause",
+				"timestamps_for_links": []
+			},
+			"30:57 SatisFictionary - Die Hard": {
+				"timestamp": 1857,
+				"raw_text": "SatisFictionary - Die Hard",
+				"timestamps_for_links": []
+			},
+			"31:36 Liveactionpixel - Batman": {
+				"timestamp": 1896,
+				"raw_text": "Liveactionpixel - Batman",
+				"timestamps_for_links": []
+			},
+			"32:44 Krashafa - GIMBEL'S ELF": {
+				"timestamp": 1964,
+				"raw_text": "Krashafa - GIMBEL'S ELF",
+				"timestamps_for_links": []
+			},
+			"35:18 Dani_Shming, Leon - Elf": {
+				"timestamp": 2118,
+				"raw_text": "Dani_Shming, Leon - Elf",
+				"timestamps_for_links": []
+			},
+			"36:12 Daddycr0n - THAT BIGASS XMAS TREE IN THE POLAR EXPRESS": {
+				"timestamp": 2172,
+				"raw_text": "Daddycr0n - THAT BIGASS XMAS TREE IN THE POLAR EXPRESS",
+				"timestamps_for_links": []
+			},
+			"36:50 Joey T Badger - Nightmare before Christmas": {
+				"timestamp": 2210,
+				"raw_text": "Joey T Badger - Nightmare before Christmas",
+				"timestamps_for_links": []
+			},
+			"38:51 Melothrien - Nightmare before Christmas": {
+				"timestamp": 2331,
+				"raw_text": "Melothrien - Nightmare before Christmas",
+				"timestamps_for_links": []
+			},
+			"39:34 supersarahstars - Empire State Building from Elf!": {
+				"timestamp": 2374,
+				"raw_text": "supersarahstars - Empire State Building from Elf!",
+				"timestamps_for_links": []
+			},
+			"40:07 Devoraz Windcatcher - Polar Express": {
+				"timestamp": 2407,
+				"raw_text": "Devoraz Windcatcher - Polar Express",
+				"timestamps_for_links": []
+			},
+			"41:00 Tony T - Die Hard": {
+				"timestamp": 2460,
+				"raw_text": "Tony T - Die Hard",
+				"timestamps_for_links": []
+			},
+			"41:38 OldCannuck - POLAR EXPRESS (interpretive)": {
+				"timestamp": 2498,
+				"raw_text": "OldCannuck - POLAR EXPRESS (interpretive)",
+				"timestamps_for_links": []
+			},
+			"41:38 @oldcannuck774 - POLAR EXPRESS (interpretive)": {
+				"timestamp": 2498,
+				"raw_text": "@oldcannuck774 - POLAR EXPRESS (interpretive)",
+				"timestamps_for_links": []
+			},
+			"42:11 xero - Home alone house": {
+				"timestamp": 2531,
+				"raw_text": "xero - Home alone house",
+				"timestamps_for_links": []
+			},
+			"43:18 Arch_Mii - Nutcracker": {
+				"timestamp": 2598,
+				"raw_text": "Arch_Mii - Nutcracker",
+				"timestamps_for_links": []
+			},
+			"43:35 Eurymachus - Gizmo — Gremlins": {
+				"timestamp": 2615,
+				"raw_text": "Eurymachus - Gizmo — Gremlins",
+				"timestamps_for_links": []
+			},
+			"44:10 @DrawingXaos - Harry Potter xmas Hogwarts great hall": {
+				"timestamp": 2650,
+				"raw_text": "@DrawingXaos - Harry Potter xmas Hogwarts great hall",
+				"timestamps_for_links": []
+			},
+			"44:41 Demieous - Polar Express": {
+				"timestamp": 2681,
+				"raw_text": "Demieous - Polar Express",
+				"timestamps_for_links": []
+			},
+			"45:29 CIRRUSJT - Home Alone 2": {
+				"timestamp": 2729,
+				"raw_text": "CIRRUSJT - Home Alone 2",
+				"timestamps_for_links": []
+			},
+			"45:50 Yudie - Frosty's Revenge": {
+				"timestamp": 2750,
+				"raw_text": "Yudie - Frosty's Revenge",
+				"timestamps_for_links": []
+			},
+			"46:33 Henryhooha - Arthur's Christmas": {
+				"timestamp": 2793,
+				"raw_text": "Henryhooha - Arthur's Christmas",
+				"timestamps_for_links": []
+			},
+			"47:31 Caledorn - the Lord of Tentacles": {
+				"timestamp": 2851,
+				"raw_text": "Caledorn - the Lord of Tentacles",
+				"timestamps_for_links": []
+			},
+			"48:38 locplaysgames - White Christmas": {
+				"timestamp": 2918,
+				"raw_text": "locplaysgames - White Christmas",
+				"timestamps_for_links": []
+			},
+			"50:04 Donksta - CHARLIE BROWNS CHRISTMAS": {
+				"timestamp": 3004,
+				"raw_text": "Donksta - CHARLIE BROWNS CHRISTMAS",
+				"timestamps_for_links": []
+			},
+			"50:35 MidnightPhoBi4 - Silent night": {
+				"timestamp": 3035,
+				"raw_text": "MidnightPhoBi4 - Silent night",
+				"timestamps_for_links": []
+			},
+			"51:34 ThatMindlessGuy - THE GRINCH THAT STOLE CHRISTMAS": {
+				"timestamp": 3094,
+				"raw_text": "ThatMindlessGuy - THE GRINCH THAT STOLE CHRISTMAS",
+				"timestamps_for_links": []
+			},
+			"52:08 Perforated Soldier - Joyeux Noel": {
+				"timestamp": 3128,
+				"raw_text": "Perforated Soldier - Joyeux Noel",
+				"timestamps_for_links": []
+			},
+			"53:22 @Runesun - The Christmas Chronicles": {
+				"timestamp": 3202,
+				"raw_text": "@Runesun - The Christmas Chronicles",
+				"timestamps_for_links": []
+			},
+			"53:22  @Runesun  - The Christmas Chronicles": {
+				"timestamp": 3202,
+				"raw_text": " @Runesun  - The Christmas Chronicles",
+				"timestamps_for_links": []
+			},
+			"54:28 Dragonhart Wyrmkin - Little Drummer Boy": {
+				"timestamp": 3268,
+				"raw_text": "Dragonhart Wyrmkin - Little Drummer Boy",
+				"timestamps_for_links": []
+			},
+			"54:55 Layna_live - miracle on 34th street": {
+				"timestamp": 3295,
+				"raw_text": "Layna_live - miracle on 34th street",
+				"timestamps_for_links": []
+			},
+			"55:32 Fliss_The_Kitty_Commander - The Nutcracker And The Mouse King": {
+				"timestamp": 3332,
+				"raw_text": "Fliss_The_Kitty_Commander - The Nutcracker And The Mouse King",
+				"timestamps_for_links": []
+			},
+			"56:12 ItsJymmi - Polar Express": {
+				"timestamp": 3372,
+				"raw_text": "ItsJymmi - Polar Express",
+				"timestamps_for_links": []
+			},
+			"56:44 Delirya - Gingerbread Grinch themed cake": {
+				"timestamp": 3404,
+				"raw_text": "Delirya - Gingerbread Grinch themed cake",
+				"timestamps_for_links": []
+			},
+			"57:57 Jahuul - Home alone 2 hotel": {
+				"timestamp": 3477,
+				"raw_text": "Jahuul - Home alone 2 hotel",
+				"timestamps_for_links": []
+			},
+			"58:58 Scarfo76 - Polar Express": {
+				"timestamp": 3538,
+				"raw_text": "Scarfo76 - Polar Express",
+				"timestamps_for_links": []
+			},
+			"59:36 @BLAndrew575- - Jim Henson's Muppets Christmas Carol": {
+				"timestamp": 3576,
+				"raw_text": "@BLAndrew575- - Jim Henson's Muppets Christmas Carol",
+				"timestamps_for_links": []
+			},
+			"1:00:47 TheGamerFoxx - Polar Express": {
+				"timestamp": 3647,
+				"raw_text": "TheGamerFoxx - Polar Express",
+				"timestamps_for_links": []
+			},
+			"1:01:58 RavingMage1 - The Santa Clause": {
+				"timestamp": 3718,
+				"raw_text": "RavingMage1 - The Santa Clause",
+				"timestamps_for_links": []
+			},
+			"1:02:55 Raimen - Elf food scene": {
+				"timestamp": 3775,
+				"raw_text": "Raimen - Elf food scene",
+				"timestamps_for_links": []
+			},
+			"1:03:52 @Catafly7 - National Lampoons Shitter is Full": {
+				"timestamp": 3832,
+				"raw_text": "@Catafly7 - National Lampoons Shitter is Full",
+				"timestamps_for_links": []
+			},
+			"1:04:27 Professor Pobstein - Frozen (Let It Go, please god, Let It go)": {
+				"timestamp": 3867,
+				"raw_text": "Professor Pobstein - Frozen (Let It Go, please god, Let It go)",
+				"timestamps_for_links": []
+			},
+			"1:05:45 CovertLego - Yule Log": {
+				"timestamp": 3945,
+				"raw_text": "CovertLego - Yule Log",
+				"timestamps_for_links": []
+			},
+			"1:06:07 THREEKINGDOMS_3K - National Lampoon's Christmas Vacation House": {
+				"timestamp": 3967,
+				"raw_text": "THREEKINGDOMS_3K - National Lampoon's Christmas Vacation House",
+				"timestamps_for_links": []
+			},
+			"1:06:28 ViroosLIVE - The Polar Express Wrapping Facility": {
+				"timestamp": 3988,
+				"raw_text": "ViroosLIVE - The Polar Express Wrapping Facility",
+				"timestamps_for_links": []
+			},
+			"1:07:55 Bus - Hope you find your dad! (Elf)": {
+				"timestamp": 4075,
+				"raw_text": "Bus - Hope you find your dad! (Elf)",
+				"timestamps_for_links": []
+			},
+			"1:11:56 @tdeviant1 - Gizmo — Gremlins": {
+				"timestamp": 4316,
+				"raw_text": "@tdeviant1 - Gizmo — Gremlins",
+				"timestamps_for_links": []
 			}
 		}
 	}
