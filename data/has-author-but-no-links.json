@@ -6523,11 +6523,11 @@
 					{
 						"timestamp": 274,
 						"meta": [
-							"long beach",
 							"paradise island",
+							"long beach",
 							"references to other franchises",
-							"pillars",
 							"team hands",
+							"pillars",
 							"signs"
 						]
 					}
@@ -6543,12 +6543,12 @@
 					{
 						"timestamp": 354,
 						"meta": [
-							"references to other franchises",
 							"architecture",
-							"beams",
+							"references to other franchises",
 							"pillars",
-							"signs as lights",
-							"stairs"
+							"beams",
+							"stairs",
+							"signs as lights"
 						]
 					}
 				]
@@ -6565,34 +6565,34 @@
 					{
 						"timestamp": 417.6,
 						"meta": [
-							"references to other franchises",
-							"tower",
-							"signs",
-							"team hands",
+							"paradise island",
 							"long beach",
-							"paradise island"
+							"references to other franchises",
+							"team hands",
+							"signs",
+							"tower"
 						]
 					},
 					{
 						"timestamp": 424,
 						"meta": [
-							"references to other franchises",
-							"tower",
-							"signs",
-							"team hands",
+							"paradise island",
 							"long beach",
-							"paradise island"
+							"references to other franchises",
+							"team hands",
+							"signs",
+							"tower"
 						]
 					},
 					{
 						"timestamp": 469,
 						"meta": [
-							"references to other franchises",
-							"tower",
-							"signs",
-							"team hands",
+							"paradise island",
 							"long beach",
-							"paradise island"
+							"references to other franchises",
+							"team hands",
+							"signs",
+							"tower"
 						]
 					}
 				]
@@ -6608,19 +6608,19 @@
 					{
 						"timestamp": 532,
 						"meta": [
-							"long beach",
 							"paradise island",
-							"team hands",
-							"ficsmas"
+							"long beach",
+							"ficsmas",
+							"team hands"
 						]
 					},
 					{
 						"timestamp": 564,
 						"meta": [
-							"long beach",
 							"paradise island",
-							"team hands",
-							"ficsmas"
+							"long beach",
+							"ficsmas",
+							"team hands"
 						]
 					}
 				]
@@ -6639,8 +6639,8 @@
 					{
 						"timestamp": 597,
 						"meta": [
-							"long beach",
 							"paradise island",
+							"long beach",
 							"team hands",
 							"signs",
 							"boat"
@@ -6649,8 +6649,8 @@
 					{
 						"timestamp": 603,
 						"meta": [
-							"long beach",
 							"paradise island",
+							"long beach",
 							"team hands",
 							"signs"
 						]
@@ -6658,40 +6658,40 @@
 					{
 						"timestamp": 606,
 						"meta": [
-							"long beach",
 							"paradise island",
-							"no team",
-							"interior",
+							"long beach",
 							"ficsmas",
+							"interior",
+							"no team",
 							"pillars"
 						]
 					},
 					{
 						"timestamp": 622,
 						"meta": [
-							"long beach",
 							"paradise island",
-							"no team",
+							"long beach",
 							"ficsmas",
-							"boat",
-							"beams",
+							"no team",
 							"pillars",
+							"beams",
 							"cables",
-							"ladder"
+							"ladder",
+							"boat"
 						]
 					},
 					{
 						"timestamp": 634.2,
 						"meta": [
-							"long beach",
 							"paradise island",
-							"no team",
+							"long beach",
 							"ficsmas",
-							"boat",
-							"beams",
+							"no team",
 							"pillars",
+							"beams",
 							"cables",
-							"ladder"
+							"ladder",
+							"boat"
 						]
 					}
 				]
@@ -6706,15 +6706,20 @@
 					{
 						"timestamp": 672.8,
 						"meta": [
-							"references to other franchises",
-							"signs as lights",
-							"ficsmas",
-							"no team",
+							"paradise island",
 							"long beach",
-							"paradise island"
+							"ficsmas",
+							"references to other franchises",
+							"no team",
+							"signs as lights"
 						]
 					}
 				]
+			},
+			"10:51 J1mbers - Every Time a Bell Rings An Angel Gets Its Wings — From Its a Wonderful Life": {
+				"timestamp": 651,
+				"raw_text": "J1mbers - Every Time a Bell Rings An Angel Gets Its Wings — From Its a Wonderful Life",
+				"timestamps_for_links": []
 			},
 			"11:50 Blitzdadog - Home Alone": {
 				"timestamp": 710,
@@ -6726,15 +6731,15 @@
 					{
 						"timestamp": 717.2,
 						"meta": [
-							"references to other franchises",
 							"paradise island",
 							"long beach",
-							"beams",
-							"pillars",
-							"glass",
 							"architecture",
 							"ficsmas",
-							"no team"
+							"glass",
+							"references to other franchises",
+							"no team",
+							"pillars",
+							"beams"
 						]
 					}
 				]
@@ -6749,15 +6754,15 @@
 					{
 						"timestamp": 787.4,
 						"meta": [
-							"references to other franchises",
-							"architecture",
-							"beams",
-							"signs as lights",
-							"ficsmas",
-							"belts",
 							"paradise island",
 							"long beach",
-							"team hands"
+							"architecture",
+							"ficsmas",
+							"references to other franchises",
+							"team hands",
+							"beams",
+							"belts",
+							"signs as lights"
 						]
 					}
 				]
@@ -6765,72 +6770,496 @@
 			"14:10 Baikenbits - Hard Die": {
 				"timestamp": 850,
 				"raw_text": "Baikenbits - Hard Die",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					877,
+					882.6,
+					931.2
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 877,
+						"meta": [
+							"paradise island",
+							"long beach",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"beams",
+							"tower"
+						]
+					},
+					{
+						"timestamp": 882.6,
+						"meta": [
+							"paradise island",
+							"long beach",
+							"references to other franchises",
+							"team hands",
+							"truck",
+							"pillars",
+							"pipes"
+						]
+					},
+					{
+						"timestamp": 931.2,
+						"meta": [
+							"paradise island",
+							"long beach",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"beams",
+							"tower"
+						]
+					}
+				]
 			},
 			"15:52 Epiphane - Nakatomi Plaza Die Hard": {
 				"timestamp": 952,
 				"raw_text": "Epiphane - Nakatomi Plaza Die Hard",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					964,
+					965,
+					970.5,
+					974,
+					1053,
+					1064
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 964,
+						"meta": [
+							"paradise island",
+							"long beach",
+							"team hands",
+							"beams",
+							"statue gallery"
+						]
+					},
+					{
+						"timestamp": 965,
+						"meta": [
+							"paradise island",
+							"long beach",
+							"team hands",
+							"references to other franchises",
+							"tower",
+							"glass",
+							"pillars"
+						]
+					},
+					{
+						"timestamp": 970.5,
+						"meta": [
+							"paradise island",
+							"long beach",
+							"team hands",
+							"references to other franchises",
+							"tower",
+							"glass"
+						]
+					},
+					{
+						"timestamp": 974,
+						"meta": [
+							"paradise island",
+							"long beach",
+							"team hands",
+							"references to other franchises",
+							"tower",
+							"glass",
+							"tubes",
+							"beams",
+							"railing",
+							"foundation patterns",
+							"signs"
+						]
+					},
+					{
+						"timestamp": 1053,
+						"meta": [
+							"paradise island",
+							"long beach",
+							"no team",
+							"signs",
+							"interior",
+							"ficsmas",
+							"statue gallery"
+						]
+					},
+					{
+						"timestamp": 1064,
+						"meta": [
+							"paradise island",
+							"long beach",
+							"no team",
+							"signs",
+							"interior",
+							"ficsmas",
+							"statue gallery"
+						]
+					}
+				]
 			},
 			"19:04 DontPokeJosh - Home Alone": {
 				"timestamp": 1144,
 				"raw_text": "DontPokeJosh - Home Alone",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1147
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1147,
+						"meta": [
+							"long beach",
+							"team hands",
+							"pillars",
+							"glass",
+							"architecture",
+							"ficsmas",
+							"references to other franchises"
+						]
+					}
+				]
 			},
 			"19:43 AnnaRooma - Rudolph The Red Nosed Reindeer Had a very shiny nose...": {
 				"timestamp": 1183,
 				"raw_text": "AnnaRooma - Rudolph The Red Nosed Reindeer Had a very shiny nose...",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1195,
+					1268
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1195,
+						"meta": [
+							"beams",
+							"pillars",
+							"signs as lights",
+							"long beach",
+							"team hands"
+						]
+					},
+					{
+						"timestamp": 1268,
+						"meta": [
+							"beams",
+							"pillars",
+							"signs as lights",
+							"long beach",
+							"team hands"
+						]
+					}
+				]
 			},
 			"21:27 Soen Kigi - Charlie Brown — Christmas Special": {
 				"timestamp": 1287,
 				"raw_text": "Soen Kigi - Charlie Brown — Christmas Special",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1294.26666,
+					1341
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1294.26666,
+						"meta": [
+							"long beach",
+							"team hands",
+							"references to other franchises",
+							"beams",
+							"pillars"
+						]
+					},
+					{
+						"timestamp": 1341,
+						"meta": [
+							"long beach",
+							"team hands",
+							"references to other franchises",
+							"beams",
+							"pillars"
+						]
+					}
+				]
 			},
 			"22:53 BraindG - jingle all the way": {
 				"timestamp": 1373,
 				"raw_text": "BraindG - jingle all the way",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1375
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1375,
+						"meta": [
+							"long beach",
+							"team hands",
+							"cityscape",
+							"references to other franchises",
+							"pillars",
+							"beams",
+							"train",
+							"train station",
+							"cyber wagon",
+							"truck",
+							"tractor",
+							"explorer",
+							"glass"
+						]
+					}
+				]
 			},
-			"24:39 Skittish - A Christmas Story": {
+			"24:39 Skittish, Bus - A Christmas Story": {
 				"timestamp": 1479,
-				"raw_text": "Skittish - A Christmas Story",
-				"timestamps_for_links": []
+				"raw_text": "Skittish, Bus - A Christmas Story",
+				"timestamps_for_links": [
+					1509.8
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1509.8,
+						"meta": [
+							"long beach",
+							"team hands",
+							"references to other franchises",
+							"pipes",
+							"nuclear plant"
+						]
+					}
+				]
 			},
 			"26:11 SiwaPyra - How the Grinch Stole Christmas": {
 				"timestamp": 1571,
 				"raw_text": "SiwaPyra - How the Grinch Stole Christmas",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1632.2
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1632.2,
+						"meta": [
+							"long beach",
+							"uncertain location",
+							"team hands",
+							"pillars",
+							"ficsmas",
+							"signs as lights",
+							"cables",
+							"beams",
+							"train",
+							"references to other franchises"
+						]
+					}
+				]
 			},
 			"27:21 cazineer - Star Wars Lego Holiday Special": {
 				"timestamp": 1641,
 				"raw_text": "cazineer - Star Wars Lego Holiday Special",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1673,
+					1682.4,
+					1685,
+					1694
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1673,
+						"meta": [
+							"uncertain location",
+							"team hands",
+							"ficsmas",
+							"beams",
+							"pillars",
+							"glass",
+							"references to other franchises",
+							"ficsmas",
+							"signs",
+							"spaceship"
+						]
+					},
+					{
+						"timestamp": 1682.4,
+						"meta": [
+							"uncertain location",
+							"team hands",
+							"ficsmas",
+							"beams",
+							"pillars",
+							"glass",
+							"references to other franchises",
+							"ficsmas",
+							"signs"
+						]
+					},
+					{
+						"timestamp": 1685,
+						"meta": [
+							"uncertain location",
+							"team hands",
+							"ficsmas",
+							"beams",
+							"pillars",
+							"glass",
+							"references to other franchises",
+							"ficsmas",
+							"signs"
+						]
+					},
+					{
+						"timestamp": 1694,
+						"meta": [
+							"uncertain location",
+							"team hands",
+							"ficsmas",
+							"beams",
+							"pillars",
+							"glass",
+							"references to other franchises",
+							"ficsmas",
+							"signs"
+						]
+					}
+				]
 			},
 			"28:33 JessicaFrances - Nightmare before Christmas": {
 				"timestamp": 1713,
 				"raw_text": "JessicaFrances - Nightmare before Christmas",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1715,
+					1725
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1715,
+						"meta": [
+							"uncertain location",
+							"team hands",
+							"references to other franchises",
+							"ficsmas",
+							"signs"
+						]
+					},
+					{
+						"timestamp": 1725,
+						"meta": [
+							"uncertain location",
+							"team hands",
+							"references to other franchises",
+							"ficsmas",
+							"signs"
+						]
+					}
+				]
 			},
 			"29:36 Trexoman - Santa Clause": {
 				"timestamp": 1776,
 				"raw_text": "Trexoman - Santa Clause",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1816
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1816,
+						"meta": [
+							"rocky desert",
+							"glass",
+							"team hands",
+							"references to other franchises",
+							"beams",
+							"pillars",
+							"glass",
+							"ficsmas"
+						]
+					}
+				]
 			},
 			"30:57 SatisFictionary - Die Hard": {
 				"timestamp": 1857,
 				"raw_text": "SatisFictionary - Die Hard",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1861
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1861,
+						"meta": [
+							"rocky desert",
+							"team hands",
+							"references to other franchises",
+							"tower",
+							"glass"
+						]
+					}
+				]
 			},
 			"31:36 Liveactionpixel - Batman": {
 				"timestamp": 1896,
 				"raw_text": "Liveactionpixel - Batman",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1902
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1902,
+						"meta": [
+							"rocky desert",
+							"team hands",
+							"glass",
+							"pillars",
+							"references to other franchises"
+						]
+					}
+				]
 			},
 			"32:44 Krashafa - GIMBEL'S ELF": {
 				"timestamp": 1964,
 				"raw_text": "Krashafa - GIMBEL'S ELF",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2019
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2019,
+						"meta": [
+							"cityscape",
+							"glass",
+							"no team",
+							"cyber wagon",
+							"truck",
+							"tractor",
+							"ficsmas",
+							"signs",
+							"beams",
+							"glass",
+							"pillars"
+						]
+					}
+				]
+			},
+			"34:14 Pobkac - The Polar Express (Santa's Square)": {
+				"timestamp": 2054,
+				"raw_text": "Pobkac - The Polar Express (Santa's Square)",
+				"timestamps_for_links": [
+					2038
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2038,
+						"meta": [
+							"rocky desert",
+							"team hands",
+							"references to other franchises",
+							"train",
+							"ficsmas",
+							"architecture",
+							"signs as lights",
+							"pillars",
+							"beams"
+						]
+					}
+				]
 			},
 			"35:18 Dani_Shming, Leon - Elf": {
 				"timestamp": 2118,
