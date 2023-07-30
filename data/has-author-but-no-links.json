@@ -6696,9 +6696,9 @@
 					}
 				]
 			},
-			"10:51 j1mbers - Every Time a Bell Rings An Angel Gets Its Wings — From Its a Wonderful Life": {
+			"10:51 J1mbers - Every Time a Bell Rings An Angel Gets Its Wings — From Its a Wonderful Life": {
 				"timestamp": 651,
-				"raw_text": "j1mbers - Every Time a Bell Rings An Angel Gets Its Wings - From Its a Wonderful Life",
+				"raw_text": "J1mbers - Every Time a Bell Rings An Angel Gets Its Wings — From Its a Wonderful Life",
 				"timestamps_for_links": [
 					672.8
 				],
@@ -6715,11 +6715,6 @@
 						]
 					}
 				]
-			},
-			"10:51 J1mbers - Every Time a Bell Rings An Angel Gets Its Wings — From Its a Wonderful Life": {
-				"timestamp": 651,
-				"raw_text": "J1mbers - Every Time a Bell Rings An Angel Gets Its Wings — From Its a Wonderful Life",
-				"timestamps_for_links": []
 			},
 			"11:50 Blitzdadog - Home Alone": {
 				"timestamp": 710,
@@ -6843,11 +6838,11 @@
 						"meta": [
 							"paradise island",
 							"long beach",
-							"team hands",
-							"references to other franchises",
-							"tower",
 							"glass",
-							"pillars"
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"tower"
 						]
 					},
 					{
@@ -6855,10 +6850,10 @@
 						"meta": [
 							"paradise island",
 							"long beach",
-							"team hands",
+							"glass",
 							"references to other franchises",
-							"tower",
-							"glass"
+							"team hands",
+							"tower"
 						]
 					},
 					{
@@ -6866,15 +6861,15 @@
 						"meta": [
 							"paradise island",
 							"long beach",
-							"team hands",
-							"references to other franchises",
-							"tower",
 							"glass",
-							"tubes",
-							"beams",
+							"references to other franchises",
+							"team hands",
 							"railing",
+							"beams",
 							"foundation patterns",
-							"signs"
+							"signs",
+							"tubes",
+							"tower"
 						]
 					},
 					{
@@ -6882,10 +6877,10 @@
 						"meta": [
 							"paradise island",
 							"long beach",
+							"ficsmas",
+							"interior",
 							"no team",
 							"signs",
-							"interior",
-							"ficsmas",
 							"statue gallery"
 						]
 					},
@@ -6894,10 +6889,10 @@
 						"meta": [
 							"paradise island",
 							"long beach",
+							"ficsmas",
+							"interior",
 							"no team",
 							"signs",
-							"interior",
-							"ficsmas",
 							"statue gallery"
 						]
 					}
@@ -6914,12 +6909,12 @@
 						"timestamp": 1147,
 						"meta": [
 							"long beach",
-							"team hands",
-							"pillars",
-							"glass",
 							"architecture",
 							"ficsmas",
-							"references to other franchises"
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"pillars"
 						]
 					}
 				]
@@ -6935,21 +6930,21 @@
 					{
 						"timestamp": 1195,
 						"meta": [
-							"beams",
-							"pillars",
-							"signs as lights",
 							"long beach",
-							"team hands"
+							"team hands",
+							"pillars",
+							"beams",
+							"signs as lights"
 						]
 					},
 					{
 						"timestamp": 1268,
 						"meta": [
-							"beams",
-							"pillars",
-							"signs as lights",
 							"long beach",
-							"team hands"
+							"team hands",
+							"pillars",
+							"beams",
+							"signs as lights"
 						]
 					}
 				]
@@ -6966,20 +6961,20 @@
 						"timestamp": 1294.26666,
 						"meta": [
 							"long beach",
-							"team hands",
 							"references to other franchises",
-							"beams",
-							"pillars"
+							"team hands",
+							"pillars",
+							"beams"
 						]
 					},
 					{
 						"timestamp": 1341,
 						"meta": [
 							"long beach",
-							"team hands",
 							"references to other franchises",
-							"beams",
-							"pillars"
+							"team hands",
+							"pillars",
+							"beams"
 						]
 					}
 				]
@@ -6995,18 +6990,18 @@
 						"timestamp": 1375,
 						"meta": [
 							"long beach",
-							"team hands",
 							"cityscape",
+							"glass",
 							"references to other franchises",
-							"pillars",
-							"beams",
-							"train",
+							"team hands",
 							"train station",
 							"cyber wagon",
-							"truck",
-							"tractor",
 							"explorer",
-							"glass"
+							"tractor",
+							"train",
+							"truck",
+							"pillars",
+							"beams"
 						]
 					}
 				]
@@ -7022,8 +7017,8 @@
 						"timestamp": 1509.8,
 						"meta": [
 							"long beach",
-							"team hands",
 							"references to other franchises",
+							"team hands",
 							"pipes",
 							"nuclear plant"
 						]
@@ -7040,16 +7035,16 @@
 					{
 						"timestamp": 1632.2,
 						"meta": [
-							"long beach",
 							"uncertain location",
-							"team hands",
-							"pillars",
+							"long beach",
 							"ficsmas",
-							"signs as lights",
-							"cables",
-							"beams",
+							"references to other franchises",
+							"team hands",
 							"train",
-							"references to other franchises"
+							"pillars",
+							"beams",
+							"cables",
+							"signs as lights"
 						]
 					}
 				]
@@ -7068,13 +7063,12 @@
 						"timestamp": 1673,
 						"meta": [
 							"uncertain location",
-							"team hands",
 							"ficsmas",
-							"beams",
-							"pillars",
 							"glass",
 							"references to other franchises",
-							"ficsmas",
+							"team hands",
+							"pillars",
+							"beams",
 							"signs",
 							"spaceship"
 						]
@@ -7083,13 +7077,12 @@
 						"timestamp": 1682.4,
 						"meta": [
 							"uncertain location",
-							"team hands",
 							"ficsmas",
-							"beams",
-							"pillars",
 							"glass",
 							"references to other franchises",
-							"ficsmas",
+							"team hands",
+							"pillars",
+							"beams",
 							"signs"
 						]
 					},
@@ -7097,13 +7090,12 @@
 						"timestamp": 1685,
 						"meta": [
 							"uncertain location",
-							"team hands",
 							"ficsmas",
-							"beams",
-							"pillars",
 							"glass",
 							"references to other franchises",
-							"ficsmas",
+							"team hands",
+							"pillars",
+							"beams",
 							"signs"
 						]
 					},
@@ -7111,13 +7103,12 @@
 						"timestamp": 1694,
 						"meta": [
 							"uncertain location",
-							"team hands",
 							"ficsmas",
-							"beams",
-							"pillars",
 							"glass",
 							"references to other franchises",
-							"ficsmas",
+							"team hands",
+							"pillars",
+							"beams",
 							"signs"
 						]
 					}
@@ -7135,9 +7126,9 @@
 						"timestamp": 1715,
 						"meta": [
 							"uncertain location",
-							"team hands",
-							"references to other franchises",
 							"ficsmas",
+							"references to other franchises",
+							"team hands",
 							"signs"
 						]
 					},
@@ -7145,9 +7136,9 @@
 						"timestamp": 1725,
 						"meta": [
 							"uncertain location",
-							"team hands",
-							"references to other franchises",
 							"ficsmas",
+							"references to other franchises",
+							"team hands",
 							"signs"
 						]
 					}
@@ -7164,13 +7155,12 @@
 						"timestamp": 1816,
 						"meta": [
 							"rocky desert",
+							"ficsmas",
 							"glass",
-							"team hands",
 							"references to other franchises",
-							"beams",
+							"team hands",
 							"pillars",
-							"glass",
-							"ficsmas"
+							"beams"
 						]
 					}
 				]
@@ -7186,10 +7176,10 @@
 						"timestamp": 1861,
 						"meta": [
 							"rocky desert",
-							"team hands",
+							"glass",
 							"references to other franchises",
-							"tower",
-							"glass"
+							"team hands",
+							"tower"
 						]
 					}
 				]
@@ -7205,10 +7195,10 @@
 						"timestamp": 1902,
 						"meta": [
 							"rocky desert",
-							"team hands",
 							"glass",
-							"pillars",
-							"references to other franchises"
+							"references to other franchises",
+							"team hands",
+							"pillars"
 						]
 					}
 				]
@@ -7224,16 +7214,15 @@
 						"timestamp": 2019,
 						"meta": [
 							"cityscape",
+							"ficsmas",
 							"glass",
 							"no team",
 							"cyber wagon",
-							"truck",
 							"tractor",
-							"ficsmas",
-							"signs",
+							"truck",
+							"pillars",
 							"beams",
-							"glass",
-							"pillars"
+							"signs"
 						]
 					}
 				]
@@ -7249,14 +7238,14 @@
 						"timestamp": 2038,
 						"meta": [
 							"rocky desert",
-							"team hands",
-							"references to other franchises",
-							"train",
-							"ficsmas",
 							"architecture",
-							"signs as lights",
+							"ficsmas",
+							"references to other franchises",
+							"team hands",
+							"train",
 							"pillars",
-							"beams"
+							"beams",
+							"signs as lights"
 						]
 					}
 				]
@@ -7264,217 +7253,1029 @@
 			"35:18 Dani_Shming, Leon - Elf": {
 				"timestamp": 2118,
 				"raw_text": "Dani_Shming, Leon - Elf",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2149.8
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2149.8,
+						"meta": [
+							"rocky desert",
+							"ficsmas",
+							"references to other franchises",
+							"team hands",
+							"beams",
+							"pipes"
+						]
+					}
+				]
 			},
 			"36:12 Daddycr0n - THAT BIGASS XMAS TREE IN THE POLAR EXPRESS": {
 				"timestamp": 2172,
 				"raw_text": "Daddycr0n - THAT BIGASS XMAS TREE IN THE POLAR EXPRESS",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2173.6,
+					2192.1333333
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2173.6,
+						"meta": [
+							"rocky desert",
+							"ficsmas",
+							"team hands",
+							"train station",
+							"train",
+							"signs",
+							"train tracks"
+						]
+					},
+					{
+						"timestamp": 2192.1333333,
+						"meta": [
+							"rocky desert",
+							"ficsmas",
+							"team feet",
+							"team hands",
+							"signs"
+						]
+					}
+				]
 			},
 			"36:50 Joey T Badger - Nightmare before Christmas": {
 				"timestamp": 2210,
 				"raw_text": "Joey T Badger - Nightmare before Christmas",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2252
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2252,
+						"meta": [
+							"rocky desert",
+							"ficsmas",
+							"references to other franchises",
+							"team hands",
+							"railing",
+							"signs as lights"
+						]
+					}
+				]
 			},
 			"38:51 Melothrien - Nightmare before Christmas": {
 				"timestamp": 2331,
 				"raw_text": "Melothrien - Nightmare before Christmas",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2333
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2333,
+						"meta": [
+							"rocky desert",
+							"architecture",
+							"references to other franchises",
+							"team hands",
+							"signs as lights"
+						]
+					}
+				]
 			},
 			"39:34 supersarahstars - Empire State Building from Elf!": {
 				"timestamp": 2374,
 				"raw_text": "supersarahstars - Empire State Building from Elf!",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2406
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2406,
+						"meta": [
+							"rocky desert",
+							"ficsmas",
+							"glass",
+							"team hands",
+							"tower"
+						]
+					}
+				]
 			},
 			"40:07 Devoraz Windcatcher - Polar Express": {
 				"timestamp": 2407,
 				"raw_text": "Devoraz Windcatcher - Polar Express",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2410.6
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2410.6,
+						"meta": [
+							"rocky desert",
+							"glass",
+							"manifold",
+							"references to other franchises",
+							"team hands",
+							"constructor",
+							"train",
+							"beams",
+							"pipes",
+							"signs"
+						]
+					}
+				]
 			},
 			"41:00 Tony T - Die Hard": {
 				"timestamp": 2460,
 				"raw_text": "Tony T - Die Hard",
-				"timestamps_for_links": []
-			},
-			"41:38 OldCannuck - POLAR EXPRESS (interpretive)": {
-				"timestamp": 2498,
-				"raw_text": "OldCannuck - POLAR EXPRESS (interpretive)",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2461,
+					2482
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2461,
+						"meta": [
+							"rocky desert",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"beams",
+							"tower"
+						]
+					},
+					{
+						"timestamp": 2482,
+						"meta": [
+							"rocky desert",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"catwalk",
+							"railing",
+							"beams",
+							"foundation patterns",
+							"tower"
+						]
+					}
+				]
 			},
 			"41:38 @oldcannuck774 - POLAR EXPRESS (interpretive)": {
 				"timestamp": 2498,
 				"raw_text": "@oldcannuck774 - POLAR EXPRESS (interpretive)",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2527.8
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2527.8,
+						"meta": [
+							"rocky desert",
+							"ficsmas",
+							"team hands",
+							"train",
+							"pillars",
+							"signs",
+							"train tracks"
+						]
+					}
+				]
 			},
 			"42:11 xero - Home alone house": {
 				"timestamp": 2531,
 				"raw_text": "xero - Home alone house",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2535,
+					2539,
+					2556,
+					2563
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2535,
+						"meta": [
+							"rocky desert",
+							"architecture",
+							"references to other franchises",
+							"team hands",
+							"cyber wagon",
+							"truck",
+							"pillars",
+							"foundation patterns",
+							"roads",
+							"signs as lights"
+						]
+					},
+					{
+						"timestamp": 2539,
+						"meta": [
+							"rocky desert",
+							"architecture",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"signs as lights"
+						]
+					},
+					{
+						"timestamp": 2556,
+						"meta": [
+							"rocky desert",
+							"architecture",
+							"interior",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"catwalk",
+							"railing",
+							"cables"
+						]
+					},
+					{
+						"timestamp": 2563,
+						"meta": [
+							"rocky desert",
+							"architecture",
+							"interior",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"catwalk",
+							"railing",
+							"cables"
+						]
+					}
+				]
 			},
 			"43:18 Arch_Mii - Nutcracker": {
 				"timestamp": 2598,
 				"raw_text": "Arch_Mii - Nutcracker",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2604
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2604,
+						"meta": [
+							"rocky desert",
+							"team hands",
+							"pillars",
+							"beams"
+						]
+					}
+				]
 			},
 			"43:35 Eurymachus - Gizmo — Gremlins": {
 				"timestamp": 2615,
 				"raw_text": "Eurymachus - Gizmo — Gremlins",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2619
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2619,
+						"meta": [
+							"rocky desert",
+							"ficsmas",
+							"glass",
+							"pixel art",
+							"references to other franchises",
+							"team hands",
+							"signs",
+							"signs as lights"
+						]
+					}
+				]
 			},
 			"44:10 @DrawingXaos - Harry Potter xmas Hogwarts great hall": {
 				"timestamp": 2650,
 				"raw_text": "@DrawingXaos - Harry Potter xmas Hogwarts great hall",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2650
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2650,
+						"meta": [
+							"rocky desert",
+							"architecture",
+							"ficsmas",
+							"interior",
+							"references to other franchises",
+							"team hands",
+							"tubes",
+							"statue gallery"
+						]
+					}
+				]
 			},
 			"44:41 Demieous - Polar Express": {
 				"timestamp": 2681,
 				"raw_text": "Demieous - Polar Express",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2688
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2688,
+						"meta": [
+							"rocky desert",
+							"ficsmas",
+							"references to other franchises",
+							"team hands",
+							"train",
+							"train tracks"
+						]
+					}
+				]
 			},
 			"45:29 CIRRUSJT - Home Alone 2": {
 				"timestamp": 2729,
 				"raw_text": "CIRRUSJT - Home Alone 2",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2742
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2742,
+						"meta": [
+							"rocky desert",
+							"architecture",
+							"ficsmas",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"cyber wagon",
+							"pillars",
+							"lights",
+							"signs",
+							"roads"
+						]
+					}
+				]
 			},
 			"45:50 Yudie - Frosty's Revenge": {
 				"timestamp": 2750,
 				"raw_text": "Yudie - Frosty's Revenge",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2757.5
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2757.5,
+						"meta": [
+							"rocky desert",
+							"cityscape",
+							"ficsmas",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"beams",
+							"foundation patterns",
+							"pipes",
+							"signs",
+							"roads"
+						]
+					}
+				]
 			},
 			"46:33 Henryhooha - Arthur's Christmas": {
 				"timestamp": 2793,
 				"raw_text": "Henryhooha - Arthur's Christmas",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2829.5
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2829.5,
+						"meta": [
+							"rocky desert",
+							"architecture",
+							"team hands",
+							"pillars",
+							"catwalk",
+							"lights",
+							"signs"
+						]
+					}
+				]
 			},
 			"47:31 Caledorn - the Lord of Tentacles": {
 				"timestamp": 2851,
 				"raw_text": "Caledorn - the Lord of Tentacles",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2857
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2857,
+						"meta": [
+							"rocky desert",
+							"ficsmas",
+							"memes",
+							"no team"
+						]
+					}
+				]
 			},
 			"48:38 locplaysgames - White Christmas": {
 				"timestamp": 2918,
 				"raw_text": "locplaysgames - White Christmas",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2936,
+					2960
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2936,
+						"meta": [
+							"rocky desert",
+							"no team",
+							"signs"
+						]
+					},
+					{
+						"timestamp": 2960,
+						"meta": [
+							"rocky desert",
+							"ficsmas",
+							"interior",
+							"team hands",
+							"pillars",
+							"lights",
+							"stairs"
+						]
+					}
+				]
 			},
 			"50:04 Donksta - CHARLIE BROWNS CHRISTMAS": {
 				"timestamp": 3004,
 				"raw_text": "Donksta - CHARLIE BROWNS CHRISTMAS",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3013
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3013,
+						"meta": [
+							"rocky desert",
+							"ficsmas",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"beams"
+						]
+					}
+				]
 			},
 			"50:35 MidnightPhoBi4 - Silent night": {
 				"timestamp": 3035,
 				"raw_text": "MidnightPhoBi4 - Silent night",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3061
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3061,
+						"meta": [
+							"uncertain location",
+							"rocky desert",
+							"ficsmas",
+							"references to other franchises",
+							"pillars"
+						]
+					}
+				]
 			},
 			"51:34 ThatMindlessGuy - THE GRINCH THAT STOLE CHRISTMAS": {
 				"timestamp": 3094,
 				"raw_text": "ThatMindlessGuy - THE GRINCH THAT STOLE CHRISTMAS",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3102,
+					3105
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3102,
+						"meta": [
+							"uncertain location",
+							"rocky desert",
+							"ficsmas",
+							"references to other franchises",
+							"pillars"
+						]
+					},
+					{
+						"timestamp": 3105,
+						"meta": [
+							"uncertain location",
+							"rocky desert",
+							"ficsmas",
+							"references to other franchises",
+							"truck",
+							"pillars"
+						]
+					}
+				]
 			},
 			"52:08 Perforated Soldier - Joyeux Noel": {
 				"timestamp": 3128,
 				"raw_text": "Perforated Soldier - Joyeux Noel",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3183
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3183,
+						"meta": [
+							"uncertain location",
+							"ficsmas",
+							"team hands",
+							"pillars",
+							"railing"
+						]
+					}
+				]
 			},
 			"53:22 @Runesun - The Christmas Chronicles": {
 				"timestamp": 3202,
 				"raw_text": "@Runesun - The Christmas Chronicles",
-				"timestamps_for_links": []
-			},
-			"53:22  @Runesun  - The Christmas Chronicles": {
-				"timestamp": 3202,
-				"raw_text": " @Runesun  - The Christmas Chronicles",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3201
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3201,
+						"meta": [
+							"uncertain location",
+							"team hands",
+							"pillars",
+							"railing"
+						]
+					}
+				]
 			},
 			"54:28 Dragonhart Wyrmkin - Little Drummer Boy": {
 				"timestamp": 3268,
 				"raw_text": "Dragonhart Wyrmkin - Little Drummer Boy",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3272
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3272,
+						"meta": [
+							"uncertain location",
+							"ficsmas",
+							"team hands",
+							"train station",
+							"train",
+							"signs",
+							"train tracks"
+						]
+					}
+				]
 			},
 			"54:55 Layna_live - miracle on 34th street": {
 				"timestamp": 3295,
 				"raw_text": "Layna_live - miracle on 34th street",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3295,
+					3314.8
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3295,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"cityscape",
+							"ficsmas",
+							"team hands",
+							"train",
+							"railing",
+							"foundation patterns",
+							"cables",
+							"lights",
+							"roads"
+						]
+					},
+					{
+						"timestamp": 3314.8,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"cityscape",
+							"ficsmas",
+							"team hands",
+							"train",
+							"railing",
+							"beams",
+							"foundation patterns",
+							"cables",
+							"lights",
+							"roads"
+						]
+					}
+				]
 			},
 			"55:32 Fliss_The_Kitty_Commander - The Nutcracker And The Mouse King": {
 				"timestamp": 3332,
 				"raw_text": "Fliss_The_Kitty_Commander - The Nutcracker And The Mouse King",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3338
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3338,
+						"meta": [
+							"uncertain location",
+							"ficsmas",
+							"pixel art",
+							"team hands",
+							"beams"
+						]
+					}
+				]
 			},
 			"56:12 ItsJymmi - Polar Express": {
 				"timestamp": 3372,
 				"raw_text": "ItsJymmi - Polar Express",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3372.4,
+					3375
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3372.4,
+						"meta": [
+							"uncertain location",
+							"ficsmas",
+							"references to other franchises",
+							"team hands",
+							"train",
+							"signs as lights",
+							"viaduct"
+						]
+					},
+					{
+						"timestamp": 3375,
+						"meta": [
+							"uncertain location",
+							"ficsmas",
+							"references to other franchises",
+							"team hands",
+							"train",
+							"pillars",
+							"railing",
+							"beams",
+							"signs",
+							"signs as lights"
+						]
+					}
+				]
 			},
 			"56:44 Delirya - Gingerbread Grinch themed cake": {
 				"timestamp": 3404,
 				"raw_text": "Delirya - Gingerbread Grinch themed cake",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3416
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3416,
+						"meta": [
+							"spire coast",
+							"architecture",
+							"ficsmas",
+							"references to other franchises",
+							"explorer",
+							"pillars",
+							"beams"
+						]
+					}
+				]
 			},
 			"57:57 Jahuul - Home alone 2 hotel": {
 				"timestamp": 3477,
 				"raw_text": "Jahuul - Home alone 2 hotel",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3478
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3478,
+						"meta": [
+							"uncertain location",
+							"ficsmas",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"cables"
+						]
+					}
+				]
 			},
 			"58:58 Scarfo76 - Polar Express": {
 				"timestamp": 3538,
 				"raw_text": "Scarfo76 - Polar Express",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3545,
+					3548.3,
+					3555.6
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3545,
+						"meta": [
+							"uncertain location",
+							"ficsmas",
+							"interior",
+							"references to other franchises",
+							"team hands",
+							"train"
+						]
+					},
+					{
+						"timestamp": 3548.3,
+						"meta": [
+							"uncertain location",
+							"ficsmas",
+							"interior",
+							"references to other franchises",
+							"team hands",
+							"train"
+						]
+					},
+					{
+						"timestamp": 3555.6,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"ficsmas",
+							"interior",
+							"references to other franchises",
+							"team hands",
+							"beams",
+							"cables",
+							"signs"
+						]
+					}
+				]
 			},
 			"59:36 @BLAndrew575- - Jim Henson's Muppets Christmas Carol": {
 				"timestamp": 3576,
 				"raw_text": "@BLAndrew575- - Jim Henson's Muppets Christmas Carol",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3589
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3589,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"pipes",
+							"tower"
+						]
+					}
+				]
 			},
 			"1:00:47 TheGamerFoxx - Polar Express": {
 				"timestamp": 3647,
 				"raw_text": "TheGamerFoxx - Polar Express",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3651.7,
+					3697
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3651.7,
+						"meta": [
+							"uncertain location",
+							"ficsmas",
+							"references to other franchises",
+							"team hands",
+							"train station",
+							"train tracks"
+						]
+					},
+					{
+						"timestamp": 3697,
+						"meta": [
+							"uncertain location",
+							"ficsmas",
+							"references to other franchises",
+							"team hands",
+							"train",
+							"train tracks"
+						]
+					}
+				]
 			},
 			"1:01:58 RavingMage1 - The Santa Clause": {
 				"timestamp": 3718,
 				"raw_text": "RavingMage1 - The Santa Clause",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3754.4
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3754.4,
+						"meta": [
+							"uncertain location",
+							"ficsmas",
+							"interior",
+							"team hands",
+							"cyber wagon",
+							"pillars",
+							"railing",
+							"belts",
+							"lights",
+							"pipes"
+						]
+					}
+				]
 			},
 			"1:02:55 Raimen - Elf food scene": {
 				"timestamp": 3775,
 				"raw_text": "Raimen - Elf food scene",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3781.2
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3781.2,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"beams",
+							"belts"
+						]
+					}
+				]
 			},
 			"1:03:52 @Catafly7 - National Lampoons Shitter is Full": {
 				"timestamp": 3832,
 				"raw_text": "@Catafly7 - National Lampoons Shitter is Full",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3845
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3845,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"truck",
+							"cables",
+							"pipes",
+							"nuclear plant",
+							"signs as lights"
+						]
+					}
+				]
 			},
 			"1:04:27 Professor Pobstein - Frozen (Let It Go, please god, Let It go)": {
 				"timestamp": 3867,
 				"raw_text": "Professor Pobstein - Frozen (Let It Go, please god, Let It go)",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3873
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3873,
+						"meta": [
+							"uncertain location",
+							"ficsmas",
+							"repetition",
+							"references to other franchises",
+							"team hands",
+							"beams",
+							"lights",
+							"signs"
+						]
+					}
+				]
 			},
 			"1:05:45 CovertLego - Yule Log": {
 				"timestamp": 3945,
 				"raw_text": "CovertLego - Yule Log",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3954
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3954,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"team hands",
+							"beams",
+							"pipes"
+						]
+					}
+				]
 			},
 			"1:06:07 THREEKINGDOMS_3K - National Lampoon's Christmas Vacation House": {
 				"timestamp": 3967,
 				"raw_text": "THREEKINGDOMS_3K - National Lampoon's Christmas Vacation House",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3967
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3967,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"references to other franchises",
+							"team hands",
+							"beams"
+						]
+					}
+				]
 			},
 			"1:06:28 ViroosLIVE - The Polar Express Wrapping Facility": {
 				"timestamp": 3988,
 				"raw_text": "ViroosLIVE - The Polar Express Wrapping Facility",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					4001,
+					4013
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 4001,
+						"meta": [
+							"uncertain location",
+							"interior",
+							"team hands",
+							"beams",
+							"foundation patterns",
+							"cables"
+						]
+					},
+					{
+						"timestamp": 4013,
+						"meta": [
+							"uncertain location",
+							"ficsmas",
+							"interior",
+							"no team",
+							"catwalk",
+							"belts",
+							"foundation patterns"
+						]
+					}
+				]
 			},
 			"1:07:55 Bus - Hope you find your dad! (Elf)": {
 				"timestamp": 4075,
 				"raw_text": "Bus - Hope you find your dad! (Elf)",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					4076
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 4076,
+						"meta": [
+							"uncertain location",
+							"ficsmas",
+							"references to other franchises",
+							"team hands",
+							"beams",
+							"cables",
+							"lights",
+							"pipes"
+						]
+					}
+				]
 			},
 			"1:11:56 @tdeviant1 - Gizmo — Gremlins": {
 				"timestamp": 4316,
 				"raw_text": "@tdeviant1 - Gizmo — Gremlins",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					4327
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 4327,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"team hands",
+							"beams"
+						]
+					}
+				]
 			}
 		}
 	}
