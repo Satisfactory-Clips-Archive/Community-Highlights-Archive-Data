@@ -19,6 +19,12 @@
 			"additionalProperties": {
 				"type": "string"
 			}
+		},
+		"has_youtube": {
+			"type": "object",
+			"additionalProperties": {
+				"type": "string"
+			}
 		}
 	}
 }
