@@ -59,6 +59,47 @@
 			]
 		}
 	],
+	"https://twitter.com/itsjymmi/status/1620524570565562369": [
+		{
+			"src": "https://pbs.twimg.com/media/Fn1CRJHWIAEMBHL.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"green valley",
+				"glass",
+				"no team",
+				"radar tower",
+				"fuel plant",
+				"tower",
+				"viaduct"
+			]
+		}
+	],
+	"https://twitter.com/blidis_a/status/1620059185147944961": [
+		{
+			"src": "https://pbs.twimg.com/media/FnubPFKWYAU-9DE.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FnubPTBXwAIYjAw.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FnubPhfX0AE0SS9.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"references to other franchises",
+				"team hover pack",
+				"train station",
+				"pillars",
+				"frames",
+				"pipes",
+				"train signals",
+				"train tracks",
+				"tower",
+				"viaduct"
+			]
+		}
+	],
 	"https://twitter.com/SummerChild81/status/1608972620166488066": [
 		{
 			"src": "https://pbs.twimg.com/media/FlQ4DqrXkAQzqyt.jpg",

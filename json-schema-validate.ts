@@ -14,6 +14,7 @@ import twitter from './data/twitter-images.json' assert {type: 'json'};
 import youtube from './data/youtube-images.json' assert {type: 'json'};
 import ytdlp from './data/has-author-but-no-links.json' assert {type: 'json'};
 import twitch_clips from './data/twitch-clip-images.json' assert {type: 'json'};
+import steam_community from './data/steam-community-images.json' assert {type: 'json'};
 import grouped_meta from './data/highlights-meta/grouped-meta.json' assert {type: 'json'};
 import authors from './data/authors.json' assert {type: 'json'};
 import dated from './data/dated.json' assert {type: 'json'};
@@ -109,6 +110,7 @@ const validations_to_make: [
 			reddit,
 			twitter,
 			youtube,
+			steam_community,
 		},
 	],
 	[
@@ -189,6 +191,7 @@ const image_sources_strict_sets = ([
 	reddit,
 	twitter,
 	youtube,
+	steam_community,
 ] as image_source_type[]).map((e) : image_source_type => {
 	return Object.fromEntries(Object.entries(e).map((e) => {
 		return [e[0], e[1].filter((e) => {
