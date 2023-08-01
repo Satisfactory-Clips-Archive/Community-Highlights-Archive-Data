@@ -258,6 +258,230 @@
 			]
 		}
 	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10pllie/comply/": [
+		{
+			"src": "https://preview.redd.it/x6k4w93ehafa1.png?width=640&crop=smart&auto=webp&s=12dc83a92af7d78011001c32f330c84f3f641b68",
+			"alt": "COMPLY",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/x6k4w93ehafa1.png",
+			"alt": "COMPLY",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"no team",
+				"space elevator",
+				"pillars",
+				"frames",
+				"beams",
+				"belts",
+				"lights",
+				"train tracks",
+				"outpost",
+				"signs as lights",
+				"tower",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10o6d7d/another_bridge_i_want_you_to_see/": [
+		{
+			"src": "https://preview.redd.it/uaq2cpgsm0fa1.png?width=640&crop=smart&auto=webp&s=5541b1729ee3568b99d40cc49e591a31088b30f2",
+			"alt": "Another bridge I want you to see",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/uaq2cpgsm0fa1.png",
+			"alt": "Another bridge I want you to see",
+			"highlightsMeta": [
+				"uncertain location",
+				"team cup",
+				"lookout tower",
+				"train",
+				"cables",
+				"bridge"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10ntehz/broke_my_leg/": [
+		{
+			"src": "https://preview.redd.it/sypn9u7ugvea1.png?width=640&crop=smart&auto=webp&s=972fe3ea8f4eb71af47e5ad2bfef2a0d643c4296",
+			"alt": "Broke my leg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/sypn9u7ugvea1.png",
+			"alt": "Broke my leg",
+			"highlightsMeta": [
+				"uncertain location",
+				"glitch",
+				"sunrise/sunset",
+				"team feet",
+				"team xenozapper",
+				"power slug"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10v2tpz/since_were_posting_poles/": [
+		{
+			"src": "https://preview.redd.it/z5riz3sxijga1.jpg?width=320&crop=smart&auto=webp&s=3968f693935591248f4f56453c5e01f17239522b",
+			"alt": "Since we're posting poles.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/z5riz3sxijga1.jpg",
+			"alt": "Since we're posting poles.",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"night time",
+				"no team",
+				"beams",
+				"tubes",
+				"signs as lights",
+				"utility tower"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10nygih/new_to_the_game_and_i_ran_over_one_of_these/": [
+		{
+			"src": "https://preview.redd.it/9kc00c6ypwea1.jpg?width=640&crop=smart&auto=webp&s=ef3d3358d210b8197e595ba7e168664e4ec92bd1",
+			"alt": "New to the game and I ran over one of these fellows... now he won't get off my train XD",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9kc00c6ypwea1.jpg",
+			"alt": "New to the game and I ran over one of these fellows... now he won't get off my train XD",
+			"highlightsMeta": [
+				"rocky desert",
+				"green valley",
+				"night time",
+				"no team",
+				"space elevator",
+				"train",
+				"train tracks",
+				"bean"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10l4mvz/surprised_storage_sorry_snutt_forced_me_to_do_this/": [
+		{
+			"src": "https://preview.redd.it/xt7sl34g88ea1.png?width=640&crop=smart&auto=webp&s=6b6da530107097ecfaa9a1371d389c34758423f9",
+			"alt": "Surprised Storage - Sorry, Snutt forced me to do this",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xt7sl34g88ea1.png",
+			"alt": "Surprised Storage - Sorry, Snutt forced me to do this",
+			"highlightsMeta": [
+				"rocky desert",
+				"jace would commute there",
+				"jace would live there",
+				"architecture",
+				"glass",
+				"industrial",
+				"megafactory",
+				"memes",
+				"team hands",
+				"radar tower",
+				"belts",
+				"signs",
+				"train tracks",
+				"fuel plant",
+				"tower"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10ku0gm/all_hail_the_elevator/": [
+		{
+			"src": "https://preview.redd.it/g72850pzh5ea1.png?width=640&crop=smart&auto=webp&s=f7f9c3e1ce07d909074c47a5e4746abbd7f9be36",
+			"alt": "All hail the elevator!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/g72850pzh5ea1.png",
+			"alt": "All hail the elevator!",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"night time",
+				"team hover pack",
+				"assembler",
+				"space elevator",
+				"pillars",
+				"belts",
+				"lights",
+				"train signals",
+				"tubes",
+				"train tracks",
+				"roads",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10ptubc/colorful_power/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/TVLlgXEZZpqzxIwxsB3ViLH-YrHHCvlkMQb56Xm2wdg.jpg",
+			"alt": "Colorful Power",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wszvr7oufcfa1.png",
+			"alt": "33 Fuelgens, all in a row, no, lets stretch them, and give them a twirl...",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"night time",
+				"no team",
+				"frames",
+				"lights",
+				"pipes",
+				"fuel plant",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/tv89qtpxfcfa1.png",
+			"alt": "A View from the Floor",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"glass",
+				"night time",
+				"sunrise/sunset",
+				"references to other franchises",
+				"no team",
+				"water extractor",
+				"frames",
+				"lights",
+				"pipes",
+				"fuel plant",
+				"tower"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/10q3pq6/storage_system_is_almost_finished_should_i_go_for/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/l0mBzsJD-vlEhBhHauERLW8aOpQJ0Vzx35aR-yx_73A.jpg",
+			"alt": "Storage system is almost finished! Should I go for white or blue lighting?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/it5j8tg5qefa1.png",
+			"highlightsMeta": [
+				"unknown location",
+				"jace would work there",
+				"interior",
+				"no team",
+				"smelter",
+				"frames",
+				"belts",
+				"pipes",
+				"signs",
+				"signs as lights",
+				"tunnel",
+				"warehouse"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10k2aty/small_storage_house_experimenting_making/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/KT1kQpqnZLiwsjei68VTWI-JQBEjhQ3CyranD-URFxE.jpg",
