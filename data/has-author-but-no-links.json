@@ -8259,5 +8259,34 @@
 				]
 			}
 		}
+	},
+	"2023-02-14": {
+		"yt-e3wfd9v_fiI": {
+			"02:25 SheneokNeok - checkers factory": {
+				"timestamp": 145,
+				"raw_text": "SheneokNeok - checkers factory",
+				"timestamps_for_links": [
+					147
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 147,
+						"meta": [
+							"grass fields",
+							"grass fields arch",
+							"architecture",
+							"glass",
+							"frames",
+							"beams",
+							"belts",
+							"pipes",
+							"bridge",
+							"outpost",
+							"viaduct"
+						]
+					}
+				]
+			}
+		}
 	}
 }
