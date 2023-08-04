@@ -1,4 +1,141 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/117jhpq/is_this_bridge_satisfactory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/2NCvepaXB3m8OYLxeoqd2Heuj3AwFoZpbc6wzpAv_Wo.jpg",
+			"alt": "Is this bridge satisfactory?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/igdhqb0wjeja1.jpg",
+			"highlightsMeta": [
+				"grass fields",
+				"grass fields arch",
+				"modded",
+				"team cup",
+				"miner",
+				"train",
+				"catwalk",
+				"frames",
+				"cables",
+				"lights",
+				"train tracks",
+				"bridge",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/117t0e0/my_first_designed_build_where_i_put_work_into_the/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Q4KP0k8u502-LeNMOypBGw6RDrn1zJrYaIwXHZsEeao.jpg",
+			"alt": "My first designed build where I put work into the aesthetic. Thoughts? Suggestions? More stats in comments.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xyxbg0iamgja1.jpg",
+			"highlightsMeta": [
+				"western dune forest",
+				"glass",
+				"no team",
+				"space elevator",
+				"water extractor",
+				"pillars",
+				"railing",
+				"frames",
+				"belts",
+				"cables",
+				"coal plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/jtvscxhamgja1.jpg",
+			"highlightsMeta": [
+				"western dune forest",
+				"glass",
+				"interior",
+				"no team",
+				"catwalk",
+				"cables",
+				"coal plant"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/117s9uk/still_a_lot_of_cleanup_to_do_on_this_build_but/": [
+		{
+			"src": "https://preview.redd.it/jekonfvufgja1.jpg?width=640&crop=smart&auto=webp&s=da5704004771263eeb98fabed21cc540ee34b7aa",
+			"alt": "Still a lot of cleanup to do on this build but we're almost done with this 1560/min aluminum ingot facility.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jekonfvufgja1.jpg",
+			"alt": "Still a lot of cleanup to do on this build but we're almost done with this 1560/min aluminum ingot facility.",
+			"highlightsMeta": [
+				"red jungle",
+				"architecture",
+				"glass",
+				"manifold",
+				"reference images",
+				"team hover pack",
+				"team nut",
+				"smelter",
+				"pillars",
+				"frames",
+				"beams",
+				"belts",
+				"cables",
+				"pipes",
+				"outpost"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/117nx7r/coal_plant_w_out_fish_eye_wip/": [
+		{
+			"src": "https://preview.redd.it/4icoexn1gfja1.png?width=640&crop=smart&auto=webp&s=7227ecc1602b5bffbab817e9983ee0a2e6dc6110",
+			"alt": "Coal Plant w/ out fish eye (WIP)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4icoexn1gfja1.png",
+			"alt": "Coal Plant w/ out fish eye (WIP)",
+			"highlightsMeta": [
+				"dune desert",
+				"no team",
+				"miner",
+				"pillars",
+				"catwalk",
+				"belts",
+				"pipes",
+				"coal plant",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/116ahzr/my_new_aluminium_and_battery_factory_also_called/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/_fNwgSMg7tjKAM5JAVrJtz8juTq5BW1UKNN2IoA3WDs.jpg",
+			"alt": "my new aluminium and battery factory, also called \"60 hours well spent\"",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/y3goxk3tb5ja1.png",
+			"alt": "bauxite belted locally, everything else brought in by trains",
+			"highlightsMeta": [
+				"red jungle",
+				"architecture",
+				"glass",
+				"no team",
+				"radar tower",
+				"smelter",
+				"train",
+				"pillars",
+				"belts",
+				"pipes",
+				"train signals",
+				"train tracks",
+				"outpost",
+				"viaduct"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/10ziira/but_she_became_perfect_in_the_first_12_seconds/": [
 		{
 			"src": "https://preview.redd.it/68lv7pmqejha1.png?width=216&crop=smart&auto=webp&s=5b05239683822073593878cf0ab7d7add7168360",
