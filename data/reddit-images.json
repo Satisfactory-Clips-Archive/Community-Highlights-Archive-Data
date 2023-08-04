@@ -120,6 +120,7 @@
 			"alt": "bauxite belted locally, everything else brought in by trains",
 			"highlightsMeta": [
 				"red jungle",
+				"jace would live there",
 				"architecture",
 				"glass",
 				"no team",
@@ -133,6 +134,333 @@
 				"train tracks",
 				"outpost",
 				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/113r66t/my_new_main_base_with_all_logistic_beneath/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/53Zvs3bpSL10sw3TNTye16uEka8dnFbLrjzfy0WUATw.jpg",
+			"alt": "My new main base with all logistic beneath inculding a truck stop and train station, and a skater park for when you want to have FICSIT approved efictive 'fun'.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vj1ysvg83kia1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"long beach",
+				"glass",
+				"no team",
+				"miner",
+				"pillars",
+				"catwalk",
+				"lights",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/36d9b7h83kia1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"long beach",
+				"glass",
+				"industrial",
+				"no team",
+				"foundation patterns",
+				"lights",
+				"outpost",
+				"roads"
+			]
+		},
+		{
+			"src": "https://i.redd.it/cvp5oth83kia1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"long beach",
+				"glass",
+				"interior",
+				"no team",
+				"truck station",
+				"tractor",
+				"barrier",
+				"pillars",
+				"power switch",
+				"belts",
+				"foundation patterns",
+				"cables",
+				"lights",
+				"outpost",
+				"roads"
+			]
+		},
+		{
+			"src": "https://i.redd.it/mveelth83kia1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"long beach",
+				"glass",
+				"interior",
+				"skatepark",
+				"no team",
+				"factory cart",
+				"railing",
+				"frames",
+				"outpost"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/113mqt5/where_everybody_wants_a_megafactory_i_have_build/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/YfYOFO_Xy3qHS2O6hhlduN-MtSlFPLetMg7yOyVWnZI.jpg",
+			"alt": "Where everybody wants a megafactory, I have build myself a microfactory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8klj85yfsiia1.png",
+			"alt": "All items from the microfactory will be autosorted from a sushi belt in this storage of my outpost, overflow will be sinked.",
+			"highlightsMeta": [
+				"desert canyons",
+				"industrial",
+				"night time",
+				"no team",
+				"oil extractor",
+				"train station",
+				"catwalk",
+				"frames",
+				"belts",
+				"foundation patterns",
+				"lights",
+				"pipes",
+				"signs",
+				"train signals",
+				"tubes",
+				"train tracks",
+				"outpost",
+				"power storage bank",
+				"signs as lights",
+				"warehouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/1oq346yfsiia1.png",
+			"alt": "My microfactory, made with 9 blueprints. Using local ore, water and oil. Caterium, bauxite and quartz comes in by train.",
+			"highlightsMeta": [
+				"desert canyons",
+				"glass",
+				"industrial",
+				"night time",
+				"no team",
+				"assembler",
+				"miner",
+				"manufacturer",
+				"constructor",
+				"refinery",
+				"catwalk",
+				"frames",
+				"belts",
+				"ladder",
+				"lights",
+				"pipes",
+				"signs",
+				"bridge",
+				"outpost",
+				"signs as lights",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/112w1bi/my_endgame_approaches_less_than_650_magnetic/": [
+		{
+			"src": "https://preview.redd.it/qfs2580t9cia1.jpg?width=640&crop=smart&auto=webp&s=2c396a8ec0e972f700f8f58b48e2c31605217786",
+			"alt": "My end-game approaches - less than 650 Magnetic Field Generators remain. Feels good man!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qfs2580t9cia1.jpg",
+			"alt": "My end-game approaches - less than 650 Magnetic Field Generators remain. Feels good man!",
+			"highlightsMeta": [
+				"grass fields",
+				"grass fields arch",
+				"glass",
+				"manifold",
+				"team cup",
+				"foundry",
+				"assembler",
+				"awesome sink",
+				"blender",
+				"blueprint designer",
+				"radar tower",
+				"manufacturer",
+				"constructor",
+				"refinery",
+				"drone",
+				"frames",
+				"belts",
+				"pipes",
+				"manta",
+				"fuel plant",
+				"signs as lights",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/112eftg/desert_nights_solid_steel_engine/": [
+		{
+			"src": "https://preview.redd.it/1dje9l8ck7ia1.jpg?width=640&crop=smart&auto=webp&s=2679f12523a059db472d9ff14ec02c664c9b69be",
+			"alt": "Desert Nights: Solid Steel Engine",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1dje9l8ck7ia1.jpg",
+			"alt": "Desert Nights: Solid Steel Engine",
+			"highlightsMeta": [
+				"rocky desert",
+				"industrial",
+				"repetition",
+				"night time",
+				"no team",
+				"foundry",
+				"constructor",
+				"catwalk",
+				"frames",
+				"belts",
+				"lights",
+				"train signals",
+				"train tracks"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/112g6v3/a_view_from_the_swamp/": [
+		{
+			"src": "https://preview.redd.it/4ih33omqx7ia1.png?width=640&crop=smart&auto=webp&s=845a932eee0d05f57e19cad76bf3e6a4817ec1ee",
+			"alt": "A View From the Swamp",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4ih33omqx7ia1.png",
+			"alt": "A View From the Swamp",
+			"highlightsMeta": [
+				"swamp",
+				"fog",
+				"night time",
+				"no team",
+				"pillars",
+				"frames",
+				"train tracks",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/116takm/i_call_my_ship_bbc_battle_base_cruzer_wip_since_6/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/DSmfXGxUXmOjonALE8BkB7wTD5INsQiLKZEjfF6_Emg.jpg",
+			"alt": "I call my ship BBC (Battle Base Cruzer) - WIP since 6 Months",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2lkdadcvn8ja1.png",
+			"alt": "Micro manage mode used frequently",
+			"highlightsMeta": [
+				"northern forest",
+				"glass",
+				"modded",
+				"no team",
+				"signs as lights",
+				"spaceship",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/7vzbddcvn8ja1.png",
+			"alt": "In general, I'll build a bridge and a train station so it will be functional as item HUB. It is capable of storing and disturbing 46 types of items with drones and trains.",
+			"highlightsMeta": [
+				"northern forest",
+				"glass",
+				"modded",
+				"no team",
+				"drone",
+				"spaceship",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ot1y9pcvn8ja1.png",
+			"alt": "Front, missing decorations",
+			"highlightsMeta": [
+				"northern forest",
+				"glass",
+				"modded",
+				"no team",
+				"radar tower",
+				"drone",
+				"spaceship"
+			]
+		},
+		{
+			"src": "https://i.redd.it/0h9bgpcvn8ja1.png",
+			"alt": "Smart storage, I have another room for consumables.",
+			"highlightsMeta": [
+				"northern forest",
+				"glass",
+				"modded",
+				"no team",
+				"belts",
+				"signs",
+				"spaceship",
+				"warehouse"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/115g18o/so_i_built_a_research_lab_for_aesthetics_thats_my/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/YnHtg9xk7cY2yZN8x1ieR5ux7pR_shWVvC1l0OBRWzY.jpg",
+			"alt": "So I built a research lab... for aesthetics (That's my excuse)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xcg3c953eyia1.jpg",
+			"highlightsMeta": [
+				"western dune forest",
+				"jace would study there",
+				"architecture",
+				"interior",
+				"no team",
+				"mam",
+				"power switch",
+				"belts",
+				"lights",
+				"signs",
+				"tubes",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/y1imaa53eyia1.jpg",
+			"highlightsMeta": [
+				"western dune forest",
+				"jace would study there",
+				"architecture",
+				"interior",
+				"no team",
+				"power switch",
+				"signs",
+				"tubes",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/7srhn853eyia1.jpg",
+			"highlightsMeta": [
+				"western dune forest",
+				"jace would study there",
+				"architecture",
+				"glass",
+				"interior",
+				"no team",
+				"mam",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"signs as lights"
 			]
 		}
 	],

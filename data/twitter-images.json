@@ -26,6 +26,27 @@
 			]
 		}
 	],
+	"https://twitter.com/itsjymmi/status/1627805359598362625": [
+		{
+			"src": "https://pbs.twimg.com/media/FpcgNDrX0AYW25e.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FpcgPNIWYAAIqhN.jpg",
+			"highlightsMeta": [
+				"northern forest",
+				"architecture",
+				"glass",
+				"no team",
+				"miner",
+				"constructor",
+				"manta",
+				"fuel plant",
+				"outpost",
+				"tower"
+			]
+		}
+	],
 	"https://twitter.com/xSgt_Pepperx/status/1620461810469195777": [
 		{
 			"src": "https://pbs.twimg.com/media/Fn0JXa1XoAI3lV_.jpg",
