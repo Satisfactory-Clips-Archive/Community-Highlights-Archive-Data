@@ -26,6 +26,32 @@
 			]
 		}
 	],
+	"https://twitter.com/downenphoto/status/1630278782383951872": [
+		{
+			"src": "https://pbs.twimg.com/media/Fp_p6KIaEAA92ys.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Fp_p6KJaUAAwiJ2.jpg",
+			"highlightsMeta": [
+				"unknown location",
+				"fan art",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Fp_p6KLaUAE6j9e.jpg",
+			"highlightsMeta": [
+				"unknown location",
+				"fan art",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Fp_p6KJaMAEaNqA.jpg",
+			"skip": true
+		}
+	],
 	"https://twitter.com/itsjymmi/status/1627805359598362625": [
 		{
 			"src": "https://pbs.twimg.com/media/FpcgNDrX0AYW25e.jpg",

@@ -8288,5 +8288,26 @@
 				]
 			}
 		}
+	},
+	"2023-02-28": {
+		"yt-zKLZaMgz4S0": {
+			"14:18 @PhyVeri - Danger zone https://www.reddit.com/r/SatisfactoryGame/comments/118ol92/being_creative_in_the_red_forest_with_no/": {
+				"timestamp": 858,
+				"raw_text": "@PhyVeri - Danger zone https://www.reddit.com/r/SatisfactoryGame/comments/118ol92/being_creative_in_the_red_forest_with_no/",
+				"timestamps_for_links": [
+					944
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 944,
+						"meta": [
+							"red jungle",
+							"reference images",
+							"no team"
+						]
+					}
+				]
+			}
+		}
 	}
 }
