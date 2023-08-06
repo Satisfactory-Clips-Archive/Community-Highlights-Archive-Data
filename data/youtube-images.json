@@ -1,4 +1,38 @@
 {
+	"https://www.youtube.com/watch?v=WMAuwF0s_xI": [
+		{
+			"src": "https://img.youtube.com/vi/WMAuwF0s_xI/hqdefault.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"manifold",
+				"no team",
+				"refinery",
+				"belts",
+				"pipes"
+			]
+		}
+	],
+	"https://www.youtube.com/watch?v=BWwKTxfDjD0": [
+		{
+			"src": "https://img.youtube.com/vi/BWwKTxfDjD0/hqdefault.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"belts"
+			]
+		}
+	],
+	"https://www.youtube.com/watch?v=kGr2by4eUZY": [
+		{
+			"src": "https://img.youtube.com/vi/kGr2by4eUZY/hqdefault.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"team build gun",
+				"catwalk",
+				"ladder"
+			]
+		}
+	],
 	"https://www.youtube.com/watch?v=DY390xwewck": [
 		{
 			"src": "https://img.youtube.com/vi/DY390xwewck/hqdefault.jpg",

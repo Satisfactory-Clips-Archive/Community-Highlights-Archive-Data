@@ -1,4 +1,492 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11jj4e7/my_new_home/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/UXmuaAtj_LSAhY5kGa3nbYAq1mq5ub_2qRmQODYQa5g.jpg",
+			"alt": "My New Home",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fl2zefpzk0ma1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"glass",
+				"no team",
+				"pillars",
+				"railing",
+				"beams",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"signs as lights",
+				"warehouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/r3ut8om0l0ma1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"glass",
+				"no team",
+				"pillars",
+				"railing",
+				"beams",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"signs as lights",
+				"warehouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qnu8a6l1l0ma1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"no team",
+				"train station",
+				"truck",
+				"pillars",
+				"railing",
+				"frames",
+				"beams",
+				"foundation patterns",
+				"cables",
+				"lights",
+				"signs",
+				"train signals",
+				"train tracks",
+				"roads",
+				"utility tower",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11kowf1/who_let_the_slugs_out_seriously_ive_got_big/": [
+		{
+			"src": "https://preview.redd.it/itn738wzt8ma1.png?width=640&crop=smart&auto=webp&s=38887ce06e9cd932daba1903ef82f7df9d4048bf",
+			"alt": "Who let the slugs out?! Seriously, I've got BIG problems with Ficsit management, because the production suddenly CRATERED by 0.1357%!! I went to investigate, and found a traffic jam because of this little power shard material creature!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/itn738wzt8ma1.png",
+			"alt": "Who let the slugs out?! Seriously, I've got BIG problems with Ficsit management, because the production suddenly CRATERED by 0.1357%!! I went to investigate, and found a traffic jam because of this little power shard material creature!",
+			"highlightsMeta": [
+				"northern forest",
+				"no team",
+				"explorer",
+				"tractor",
+				"truck",
+				"pillars",
+				"beams",
+				"foundation patterns",
+				"train signals",
+				"train tracks",
+				"bean",
+				"power slug",
+				"roads"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11kgerw/turbofuel_twin_power_tower_with_133333_gw/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/e5mu6efUmBTJGCq_MYXiKP-WR3bI3LKtsZctTABFH1s.jpg",
+			"alt": "Turbofuel Twin Power Tower with 133.333 GW",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/iuok82no37ma1.png",
+			"alt": "Both towers with stations to deliver sulfur and collect plastic",
+			"highlightsMeta": [
+				"uncertain location",
+				"blue crater",
+				"no team",
+				"train station",
+				"train signals",
+				"train tracks",
+				"fuel plant",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/r1itq3no37ma1.png",
+			"alt": "View from bottom upwards",
+			"highlightsMeta": [
+				"uncertain location",
+				"blue crater",
+				"interior",
+				"no team",
+				"catwalk",
+				"railing",
+				"beams",
+				"pipes",
+				"fuel plant",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/7rhdq9no37ma1.png",
+			"alt": "Looking over to second tower",
+			"highlightsMeta": [
+				"uncertain location",
+				"blue crater",
+				"no team",
+				"radar tower",
+				"space elevator",
+				"pipes",
+				"train tracks",
+				"fuel plant",
+				"tower",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11kbvgr/encased_industrial_beam_factory_open_window/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/r1ap6ijFjAh-eL6FoWoMUoHwDuPYrngCMHHd7rPdqfk.jpg",
+			"alt": "Encased Industrial Beam Factory. Open window design to naturally heat the building. State of the art production facility to produce encase industrial beams with a green certified building.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/s9pv9facb6ma1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"glass",
+				"no team",
+				"assembler",
+				"space elevator",
+				"catwalk",
+				"frames",
+				"beams",
+				"belts",
+				"foundation patterns",
+				"outpost",
+				"roads"
+			]
+		},
+		{
+			"src": "https://i.redd.it/g464dd3eb6ma1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"glass",
+				"interior",
+				"no team",
+				"assembler",
+				"catwalk",
+				"beams",
+				"belts",
+				"foundation patterns",
+				"outpost",
+				"roads"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11k58oc/enjoying_my_first_coal_generators_a_screenshot/": [
+		{
+			"src": "https://preview.redd.it/jiwzu9tej5ma1.png?width=640&crop=smart&auto=webp&s=1a28008a9f9475513fab7321b7e5c8ac46eef756",
+			"alt": "Enjoying my first coal generators. A screenshot from previous patches.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jiwzu9tej5ma1.png",
+			"alt": "Enjoying my first coal generators. A screenshot from previous patches.",
+			"highlightsMeta": [
+				"western dune forest",
+				"no team",
+				"water extractor",
+				"belts",
+				"coal plant"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11k3oof/turbo_fuel_factory_producing_6900_mw/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/gCml3X6ebYK4fua65kLVGVZuglyH9G2IAdhM0-i_zsc.jpg",
+			"alt": "Turbo Fuel Factory producing 6900 MW",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/o1qggfkac5ma1.jpg",
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"glass",
+				"team hover pack",
+				"refinery",
+				"pillars",
+				"frames",
+				"pipes",
+				"train tracks",
+				"outpost",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qh3h7rzec5ma1.jpg",
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"glass",
+				"manifold",
+				"repetition",
+				"team hover pack",
+				"pillars",
+				"beams",
+				"pipes",
+				"fuel plant",
+				"outpost"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11jqdpq/satisfactory_city_build/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/rXd4mECVaiew903F3CjGfbc6PpgVQtLjOryV871ey7k.jpg",
+			"alt": "Satisfactory City Build",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rd4l8d0a82ma1.png",
+			"highlightsMeta": [
+				"long beach",
+				"jace would live there",
+				"cityscape",
+				"glass",
+				"team cup",
+				"radar tower",
+				"railing",
+				"frames",
+				"cables",
+				"lights",
+				"signs",
+				"tubes",
+				"bridge",
+				"roads",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11ikamw/took_some_pretty_cool_photos_of_a_little/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/rhc8dXDB-sW0woPGLzY693b0n55dElyFuFk5lbKiLrc.jpg",
+			"alt": "Took some pretty cool photos of a little Cyberpunk themed scene I made",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vb7u7dozutla1.png",
+			"highlightsMeta": [
+				"unknown location",
+				"jace would live there",
+				"cyberpunk",
+				"night time",
+				"modded",
+				"no team",
+				"cyber wagon",
+				"truck",
+				"lights",
+				"pipes",
+				"signs",
+				"power storage bank",
+				"roads",
+				"signs as lights",
+				"utility tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/rrq2ylefutla1.png",
+			"highlightsMeta": [
+				"unknown location",
+				"jace would live there",
+				"cyberpunk",
+				"night time",
+				"modded",
+				"no team",
+				"catwalk",
+				"lights",
+				"pipes",
+				"signs",
+				"roads",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/tl620djfutla1.png",
+			"highlightsMeta": [
+				"unknown location",
+				"jace would live there",
+				"cyberpunk",
+				"night time",
+				"modded",
+				"no team",
+				"truck",
+				"lights",
+				"pipes",
+				"signs",
+				"roads",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11hw8dx/85gw_fuel_power_plant_first_factory_im_proud_of/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/w7TafX_m5RYwlsvF-Pm6L-r6Jv_S1JNec0IVACogH-0.jpg",
+			"alt": "8.5GW FUEL POWER PLANT! First factory I'm proud of",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/pcwmatn4apla1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"glass",
+				"no team",
+				"oil extractor",
+				"railing",
+				"cables",
+				"pipes",
+				"fuel plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/q8g56wn4apla1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"glass",
+				"interior",
+				"no team",
+				"assembler",
+				"awesome sink",
+				"refinery",
+				"belts",
+				"cables"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11h465l/i_accidentally_the_angles/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/U_tc4mtG01uP4bgUjXMdERSD6lU2y8MwtrcGhG02LNo.jpg",
+			"alt": "I accidentally the angles",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/lykpch3ypjla1.jpg",
+			"alt": "ALL THE ANGLES",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"glass",
+				"no team",
+				"train station",
+				"belts",
+				"lights",
+				"signs",
+				"train tracks",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/u4aisf3ypjla1.jpg",
+			"alt": "The inside feels more like a cathedral than a factory",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"glass",
+				"interior",
+				"manifold",
+				"no team",
+				"assembler",
+				"frames",
+				"belts"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11eoh1w/just_finished_my_240_batteriesmin_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/kgtOplBftL0fxSuAgvwFviwEUyLVF1UqXbXl0Xs77Fk.jpg",
+			"alt": "Just finished my 240 Batteries/min Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dv05ogkoq0la1.png",
+			"highlightsMeta": [
+				"swamp",
+				"jace would eat there",
+				"glass",
+				"no team",
+				"outpost",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/b5470ukoq0la1.png",
+			"highlightsMeta": [
+				"swamp",
+				"jace would eat there",
+				"glass",
+				"interior",
+				"repetition",
+				"team hands",
+				"awesome sink",
+				"blender",
+				"constructor",
+				"refinery",
+				"catwalk",
+				"frames",
+				"foundation patterns",
+				"outpost",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11ek6ic/coming_back_after_a_short_break_taking_a_moment/": [
+		{
+			"src": "https://preview.redd.it/qyeabfykwzka1.jpg?width=640&crop=smart&auto=webp&s=a9ba519a2c6f1032bfc33c14c43544e0adf23e54",
+			"alt": "Coming back after a short break, taking a moment to enjoy the beauty of the game, and then seeing this. Awe inspiring.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qyeabfykwzka1.jpg",
+			"alt": "Coming back after a short break, taking a moment to enjoy the beauty of the game, and then seeing this. Awe inspiring.",
+			"highlightsMeta": [
+				"western dune forest",
+				"architecture",
+				"glass",
+				"night time",
+				"no team",
+				"space elevator",
+				"drone",
+				"catwalk",
+				"lights",
+				"coal plant",
+				"roads",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11gx9be/wip_mega_factory/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/BCosEWPDvCBAt6r_igMCJ7xrLBf4j50K5IOsPgM32X8.jpg",
+			"alt": "WIP Mega Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mxwllyiy2ila1.jpg",
+			"highlightsMeta": [
+				"paradise island",
+				"long beach",
+				"architecture",
+				"glass",
+				"megafactory",
+				"night time",
+				"modded",
+				"no team",
+				"space elevator",
+				"frames",
+				"beams",
+				"cables",
+				"bridge",
+				"signs as lights",
+				"tower"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/11cw3xg/water_tower_for_a_production_facility_thats/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/cofZFXM3C2XmDb728h6Ds9sLTpdz43nD4bzUdUMvSvw.jpg",
