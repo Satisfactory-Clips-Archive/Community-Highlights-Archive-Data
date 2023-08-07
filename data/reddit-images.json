@@ -1,4 +1,71 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11qr6fp/factory_progress_23rds_complete/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/WKofsEz7Q6FtLIrupSwu_C4jcYeUu76sPylqF8FCHIk.jpg",
+			"alt": "Factory Progress : 2/3rd's complete.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/whha79nxllna1.png",
+			"highlightsMeta": [
+				"long beach",
+				"no team",
+				"sunrise/sunset",
+				"pillars",
+				"hub",
+				"glass",
+				"train tracks",
+				"train signals",
+				"mam",
+				"awesome shop",
+				"manufacturer",
+				"assembler",
+				"fuel plant",
+				"refinery",
+				"lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/on47y12hmlna1.png",
+			"highlightsMeta": [
+				"long beach",
+				"no team",
+				"night time",
+				"pillars",
+				"hub",
+				"glass",
+				"train tracks",
+				"tubes",
+				"manufacturer",
+				"assembler",
+				"fuel plant",
+				"refinery",
+				"lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11qf30a/we_are_the_borg_resistance_is_turbofuel_wait_wat/": [
+		{
+			"src": "https://preview.redd.it/7t7fprjyejna1.jpg?width=640&crop=smart&auto=webp&s=4dc46ae488f497838c8502ea2473a5e7de176f24",
+			"alt": "We are the Borg! Resistance is Turbofuel... wait wat",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7t7fprjyejna1.jpg",
+			"alt": "We are the Borg! Resistance is Turbofuel... wait wat",
+			"highlightsMeta": [
+				"fuel plant",
+				"uncertain location",
+				"team hover pack",
+				"references to other franchises",
+				"lights",
+				"catwalk",
+				"interior",
+				"lights",
+				"glass"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/11jj4e7/my_new_home/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/UXmuaAtj_LSAhY5kGa3nbYAq1mq5ub_2qRmQODYQa5g.jpg",
