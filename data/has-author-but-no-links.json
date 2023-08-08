@@ -8309,5 +8309,30 @@
 				]
 			}
 		}
+	},
+	"2023-03-14": {
+		"yt-T0GxzdsKVxU": {
+			"09:20 @PhyVeri - Improvise. Adapt. Overcome.": {
+				"timestamp": 560,
+				"raw_text": "@PhyVeri - Improvise. Adapt. Overcome.",
+				"timestamps_for_links": [
+					628
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 628,
+						"meta": [
+							"grass fields",
+							"manifold",
+							"spaghett",
+							"no team",
+							"assembler",
+							"constructor",
+							"belts"
+						]
+					}
+				]
+			}
+		}
 	}
 }

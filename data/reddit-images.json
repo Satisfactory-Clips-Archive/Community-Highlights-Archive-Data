@@ -9,38 +9,38 @@
 			"src": "https://i.redd.it/whha79nxllna1.png",
 			"highlightsMeta": [
 				"long beach",
-				"no team",
-				"sunrise/sunset",
-				"pillars",
-				"hub",
 				"glass",
-				"train tracks",
-				"train signals",
+				"sunrise/sunset",
+				"no team",
 				"mam",
+				"assembler",
 				"awesome shop",
 				"manufacturer",
-				"assembler",
-				"fuel plant",
 				"refinery",
-				"lights"
+				"pillars",
+				"hub",
+				"lights",
+				"train signals",
+				"train tracks",
+				"fuel plant"
 			]
 		},
 		{
 			"src": "https://i.redd.it/on47y12hmlna1.png",
 			"highlightsMeta": [
 				"long beach",
-				"no team",
+				"glass",
 				"night time",
+				"no team",
+				"assembler",
+				"manufacturer",
+				"refinery",
 				"pillars",
 				"hub",
-				"glass",
-				"train tracks",
+				"lights",
 				"tubes",
-				"manufacturer",
-				"assembler",
-				"fuel plant",
-				"refinery",
-				"lights"
+				"train tracks",
+				"fuel plant"
 			]
 		}
 	],
@@ -54,15 +54,14 @@
 			"src": "https://i.redd.it/7t7fprjyejna1.jpg",
 			"alt": "We are the Borg! Resistance is Turbofuel... wait wat",
 			"highlightsMeta": [
-				"fuel plant",
 				"uncertain location",
-				"team hover pack",
-				"references to other franchises",
-				"lights",
-				"catwalk",
+				"glass",
 				"interior",
+				"references to other franchises",
+				"team hover pack",
+				"catwalk",
 				"lights",
-				"glass"
+				"fuel plant"
 			]
 		}
 	],
@@ -78,16 +77,16 @@
 			"highlightsMeta": [
 				"northern forest",
 				"no team",
-				"manta gate",
-				"manta",
-				"warehouse",
-				"belts",
-				"frames",
 				"space elevator",
-				"pillars",
 				"train station",
+				"pillars",
+				"frames",
+				"belts",
+				"train signals",
 				"train tracks",
-				"train signals"
+				"manta",
+				"manta gate",
+				"warehouse"
 			]
 		},
 		{
@@ -96,13 +95,13 @@
 			"highlightsMeta": [
 				"northern forest",
 				"no team",
-				"warehouse",
-				"belts",
-				"frames",
-				"train tracks",
-				"train signals",
+				"awesome sink",
 				"pillars",
-				"awesome sink"
+				"frames",
+				"belts",
+				"train signals",
+				"train tracks",
+				"warehouse"
 			]
 		}
 	],
@@ -117,18 +116,17 @@
 			"alt": "I would work here IRL",
 			"highlightsMeta": [
 				"dune desert",
+				"night time",
 				"no team",
-				"train tracks",
-				"frames",
-				"lights",
-				"power storage bank",
-				"train station",
-				"train signals",
 				"lookout tower",
-				"lights",
-				"fuel plant",
+				"train station",
+				"frames",
 				"beams",
-				"night time"
+				"lights",
+				"train signals",
+				"train tracks",
+				"fuel plant",
+				"power storage bank"
 			]
 		}
 	],
@@ -142,12 +140,12 @@
 			"src": "https://i.redd.it/gnu6fhaebzma1.png",
 			"highlightsMeta": [
 				"northern forest",
-				"no team",
-				"sunrise/sunset",
-				"tractor",
-				"outpost",
 				"glass",
-				"railing"
+				"sunrise/sunset",
+				"no team",
+				"tractor",
+				"railing",
+				"outpost"
 			]
 		}
 	],
@@ -163,10 +161,10 @@
 			"highlightsMeta": [
 				"uncertain location",
 				"spire coast",
-				"nuclear plant",
-				"repetition",
 				"nature",
-				"no team"
+				"repetition",
+				"no team",
+				"nuclear plant"
 			]
 		}
 	],
@@ -180,21 +178,270 @@
 			"src": "https://i.redd.it/2jxp5e1lrbna1.png",
 			"highlightsMeta": [
 				"dune desert",
+				"glass",
+				"modded",
 				"team hover pack",
-				"outpost",
+				"miner",
+				"radar tower",
 				"train station",
 				"drone",
-				"radar tower",
-				"glass",
-				"cables",
-				"coal plant",
-				"pipes",
 				"catwalk",
+				"cables",
+				"pipes",
 				"signs",
-				"miner",
-				"viaduct",
 				"train tracks",
-				"modded"
+				"coal plant",
+				"outpost",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11qrxzn/my_little_bergstation_mountain_station/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/TM1DJVfFIlV5AjW88qxPVZgOnY93TjWkF8bYEflulJw.jpg",
+			"alt": "my little 'Bergstation' (mountain station)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/y2n8yp32plna1.png",
+			"alt": "welcome to my mountain station",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"no team",
+				"drone",
+				"catwalk",
+				"railing",
+				"beams",
+				"foundation patterns",
+				"cables",
+				"lights",
+				"personal crate",
+				"signs",
+				"parking lot"
+			]
+		},
+		{
+			"src": "https://i.redd.it/u8a4zs0jplna1.png",
+			"alt": "there is a restaurant inside",
+			"highlightsMeta": [
+				"dune desert",
+				"glass",
+				"interior",
+				"team hover pack",
+				"smelter",
+				"drone",
+				"railing",
+				"beams",
+				"lights",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/libklrokplna1.png",
+			"alt": "with a nice view",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"glass",
+				"industrial",
+				"interior",
+				"no team",
+				"radar tower",
+				"space elevator",
+				"train station",
+				"refinery",
+				"drone",
+				"railing",
+				"frames",
+				"beams",
+				"cables",
+				"pipes",
+				"train tracks",
+				"utility tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ixibzqlzplna1.png",
+			"alt": "if you prefer a more relaxing way down, you can take the zipline",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"glass",
+				"no team",
+				"pillars",
+				"catwalk",
+				"railing",
+				"beams",
+				"foundation patterns",
+				"cables",
+				"signs",
+				"train tracks"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11qkyyd/shinra_tower_stairs_round_2/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/DqW5Y9Tx5bBKb4EEVbxRXsWPX0XPFYP8eYNRJGPht-U.jpg",
+			"alt": "Shinra tower stairs round 2",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1wcm7c1sgkna1.png",
+			"alt": "Top floor",
+			"highlightsMeta": [
+				"uncertain location",
+				"final fantasy",
+				"interior",
+				"no team",
+				"catwalk",
+				"beams",
+				"cables",
+				"signs",
+				"stairs",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/imy8k51sgkna1.png",
+			"alt": "Ground floor",
+			"highlightsMeta": [
+				"uncertain location",
+				"final fantasy",
+				"interior",
+				"no team",
+				"catwalk",
+				"railing",
+				"beams",
+				"cables",
+				"personal crate",
+				"pipes",
+				"stairs",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11petjs/stay_hydrated/": [
+		{
+			"src": "https://preview.redd.it/3a4wla2labna1.png?width=640&crop=smart&auto=webp&s=88def5c2c824651d4b038b4647d606b1ba69f5e2",
+			"alt": "Stay Hydrated!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3a4wla2labna1.png",
+			"alt": "Stay Hydrated!",
+			"highlightsMeta": [
+				"spire coast",
+				"repetition",
+				"no team",
+				"water extractor",
+				"pipes"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11pcbti/what_have_i_done/": [
+		{
+			"src": "https://external-preview.redd.it/4upRhsjHlO3L5Kp4iPyxXiO4pONECv_qm0Ih6dAnE6A.jpg?width=640&crop=smart&auto=webp&s=7ac5c64c29c8740ddeb42d68bae81e37b1505280",
+			"alt": "What have I done???",
+			"skip": true
+		},
+		{
+			"src": "https://i.imgur.com/oCSgFTP.jpeg",
+			"highlightsMeta": [
+				"grass fields",
+				"grass fields arch",
+				"glass",
+				"spaghett",
+				"no team",
+				"equipment workshop",
+				"mam",
+				"assembler",
+				"awesome sink",
+				"miner",
+				"particle accelerator",
+				"radar tower",
+				"space elevator",
+				"smelter",
+				"constructor",
+				"refinery",
+				"belts",
+				"personal crate",
+				"pipes",
+				"tubes",
+				"nuclear plant",
+				"tower"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11l4yn1/29_250_nuclear_power_plants_100h_of_work_done/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/7gBaRpjMGQrP1rDDFn8i_0DwdcEfPYoamqxA_H7GYs4.jpg",
+			"alt": "29 (250%) Nuclear power plants - 100h of work done!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ziik28qmkcma1.png",
+			"alt": "Took about 100h or about 3 weeks on my livestream",
+			"highlightsMeta": [
+				"rocky desert",
+				"night time",
+				"no team",
+				"space elevator",
+				"pillars",
+				"catwalk",
+				"lights",
+				"pipes",
+				"nuclear plant",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/gbb086qmkcma1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"night time",
+				"team hands",
+				"pillars",
+				"catwalk",
+				"frames",
+				"lights",
+				"pipes",
+				"signs",
+				"nuclear plant",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/0hmagcpmkcma1.png",
+			"alt": "Top floor, at the top a drone port that delivers the fuel rods and then go evenly to each power plant",
+			"highlightsMeta": [
+				"rocky desert",
+				"glass",
+				"interior",
+				"night time",
+				"no team",
+				"catwalk",
+				"frames",
+				"beams",
+				"pipes",
+				"nuclear plant",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/txnsldpmkcma1.png",
+			"alt": "29 (58 total) pipes going all the way up and down to the power plants",
+			"highlightsMeta": [
+				"rocky desert",
+				"interior",
+				"no team",
+				"catwalk",
+				"pipes",
+				"nuclear plant",
+				"signs as lights"
 			]
 		}
 	],

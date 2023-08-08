@@ -26,6 +26,37 @@
 			]
 		}
 	],
+	"https://twitter.com/d3r_jo/status/1634895233895759877": [
+		{
+			"src": "https://pbs.twimg.com/media/FrBQRnOXoAIvwe5?format=png&name=4096x4096",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"team cup",
+				"belts",
+				"train signals",
+				"bean",
+				"coal plant",
+				"outpost",
+				"signs as lights",
+				"train spiral",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FrBQXjVWcAAr1Q6?format=png&name=4096x4096",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FrBQcGfWAAA3sFq?format=png&name=4096x4096",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FrBQe-IWcAEbsYg?format=png&name=4096x4096",
+			"skip": true
+		}
+	],
 	"https://twitter.com/downenphoto/status/1630278782383951872": [
 		{
 			"src": "https://pbs.twimg.com/media/Fp_p6KIaEAA92ys.jpg",
