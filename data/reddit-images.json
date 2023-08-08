@@ -66,6 +66,138 @@
 			]
 		}
 	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11qdinf/i_had_to_make_room_for_an_uninvited_guest/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/wfoYgf5WLHfByuK43u7eBwDjvSw-Rwu_SN_fWIQoFFY.jpg",
+			"alt": "I had to make room for an uninvited guest.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/uxq9mkau3jna1.png",
+			"alt": "Gave this guy plenty of room to fly through.",
+			"highlightsMeta": [
+				"northern forest",
+				"no team",
+				"manta gate",
+				"manta",
+				"warehouse",
+				"belts",
+				"frames",
+				"space elevator",
+				"pillars",
+				"train station",
+				"train tracks",
+				"train signals"
+			]
+		},
+		{
+			"src": "https://i.redd.it/keev13oy3jna1.png",
+			"alt": "An overly complex sorting system.",
+			"highlightsMeta": [
+				"northern forest",
+				"no team",
+				"warehouse",
+				"belts",
+				"frames",
+				"train tracks",
+				"train signals",
+				"pillars",
+				"awesome sink"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11n73dr/i_would_work_here_irl/": [
+		{
+			"src": "https://preview.redd.it/pgug0ud2psma1.png?width=640&crop=smart&auto=webp&s=04d5c8711e2b68b12d95e6e9b4d56e96ecd477a0",
+			"alt": "I would work here IRL",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/pgug0ud2psma1.png",
+			"alt": "I would work here IRL",
+			"highlightsMeta": [
+				"dune desert",
+				"no team",
+				"train tracks",
+				"frames",
+				"lights",
+				"power storage bank",
+				"train station",
+				"train signals",
+				"lookout tower",
+				"lights",
+				"fuel plant",
+				"beams",
+				"night time"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11o1ahu/recently_started_playing_satisfactory_together/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/x2whbsizhYPxG89OdhRJrbnLrGD-1x0dTuJXKr5oe3k.jpg",
+			"alt": "Recently started playing Satisfactory together with u/Cyntronix25 (40h by now). This is our second ever built factory. hope you like it",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gnu6fhaebzma1.png",
+			"highlightsMeta": [
+				"northern forest",
+				"no team",
+				"sunrise/sunset",
+				"tractor",
+				"outpost",
+				"glass",
+				"railing"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11oic3h/so_beautiful_too_bad_that_pesky_bit_of_nature_is/": [
+		{
+			"src": "https://preview.redd.it/nxsrugpim3na1.png?width=640&crop=smart&auto=webp&s=c6af6ced94184baf1ab187e572e7b32c3281106d",
+			"alt": "So beautiful... too bad that pesky bit of nature is in the way (WIP)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nxsrugpim3na1.png",
+			"alt": "So beautiful... too bad that pesky bit of nature is in the way (WIP)",
+			"highlightsMeta": [
+				"uncertain location",
+				"spire coast",
+				"nuclear plant",
+				"repetition",
+				"nature",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11pgz5v/nice_distribution_center_you_have_there_would_be/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/hQWw4rLF7i3oR-NvBI79_QwybbZOQAVH32ztD-jYGqk.jpg",
+			"alt": "Nice distribution center you have there. Would be terrible if something happened to it.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2jxp5e1lrbna1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"team hover pack",
+				"outpost",
+				"train station",
+				"drone",
+				"radar tower",
+				"glass",
+				"cables",
+				"coal plant",
+				"pipes",
+				"catwalk",
+				"signs",
+				"miner",
+				"viaduct",
+				"train tracks",
+				"modded"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/11jj4e7/my_new_home/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/UXmuaAtj_LSAhY5kGa3nbYAq1mq5ub_2qRmQODYQa5g.jpg",
