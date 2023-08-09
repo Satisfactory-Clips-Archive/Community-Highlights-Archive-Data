@@ -1,4 +1,122 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11x7rqd/only_a_sith_deals_in_absolutely_awesome_storage/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/tC95z22XCltsDjHHNWHiJuxZiFJCaBHpUrFBZCw9jbA.jpg",
+			"alt": "Only a Sith deals in absolutely awesome storage facilities. My poor GPU.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/da6ffgow11pa1.png",
+			"highlightsMeta": [
+				"long beach",
+				"architecture",
+				"glass",
+				"night time",
+				"no team",
+				"mam",
+				"beams",
+				"belts",
+				"lights",
+				"signs",
+				"warehouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/quhxvhow11pa1.png",
+			"highlightsMeta": [
+				"long beach",
+				"architecture",
+				"glass",
+				"sunrise/sunset",
+				"no team",
+				"mam",
+				"beams",
+				"belts",
+				"lights",
+				"signs",
+				"warehouse"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11wvxww/well_i_kinda_wanted_to_cry/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/8PEU8XST95nin11JPQnoV3Ud7zm1qjc23dgPXKayjCg.jpg",
+			"alt": "Well... I kinda wanted to cry...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qqews2snlyoa1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"fog",
+				"night time",
+				"team inhaler",
+				"pillars",
+				"frames",
+				"nuclear plant"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11vz1tf/for_the_republic/": [
+		{
+			"src": "https://preview.redd.it/7z41cji1proa1.png?width=640&crop=smart&auto=webp&s=ed48d659f8093e9cd59a101b3a50e79799171b26",
+			"alt": "FOR THE REPUBLIC!!!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7z41cji1proa1.png",
+			"alt": "FOR THE REPUBLIC!!!",
+			"highlightsMeta": [
+				"grass fields",
+				"grass fields arch",
+				"manifold",
+				"no team",
+				"lookout tower",
+				"miner",
+				"particle accelerator",
+				"space elevator",
+				"train station",
+				"manufacturer",
+				"smelter",
+				"constructor",
+				"train",
+				"belts",
+				"foundation patterns",
+				"train tracks",
+				"spaceship"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11volnl/the_first_time_i_played_satisfactry_and_tried_to/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/k_xVjZmRX6sHzlgNHRK_4s2-gPNoTrH0mJcsPRbLMM4.jpg",
+			"alt": "The first time I played Satisfactry and tried to build the Remagen Bridge.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/55uik66jupoa1.jpg",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"team hover pack",
+				"catwalk",
+				"beams",
+				"train tracks",
+				"bridge"
+			]
+		},
+		{
+			"src": "https://i.redd.it/xtdwb76jupoa1.jpg",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"no team",
+				"pillars",
+				"catwalk",
+				"beams",
+				"train tracks",
+				"bridge"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/11qr6fp/factory_progress_23rds_complete/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/WKofsEz7Q6FtLIrupSwu_C4jcYeUu76sPylqF8FCHIk.jpg",
