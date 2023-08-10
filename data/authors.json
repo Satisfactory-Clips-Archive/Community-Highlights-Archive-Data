@@ -18,6 +18,7 @@
 		"-Samathos-": "a76d5b13-8c7a-48ff-b645-93a6be000412",
 		"00STAR0": "da3f987e-e5f1-44f9-8d1d-5c03a45b5468",
 		"0LowLight0": "0a829216-483f-40b1-afdc-cf7cb98d5c92",
+		"1699Chaos": "eb80a6df-8178-4fa6-a6e4-a700667e2f7b",
 		"1TARS1": "3f83e1af-72a6-4634-97bb-406b8976c270",
 		"1Th3Gentl3man": "7d042ef4-d93d-4712-bc21-60bc37dd6ccf",
 		"1TmW1": "b1a28ba8-e958-4319-8a3d-8af61fa8199a",
@@ -344,6 +345,7 @@
 		"Extreme_Blueberry_99": "3fbbb63a-b401-47ff-9847-508462af8bb0",
 		"EZ_TargetUK": "60597bdc-630c-438f-8c3c-baaea08e75d9",
 		"Ezio-Sotken": "290ffe20-474e-4bfd-b052-599a7a4deaa6",
+		"Ezurion21": "ef06f084-6079-4392-97ea-ed4674064c72",
 		"F00r_Eyes": "488ee0f5-650c-455f-9c17-da9cc3c7953f",
 		"f1urps": "ec3129ed-e0cf-4f94-8dd4-f7adf36b9d53",
 		"FAaBbiii": "d84a1bca-e8fc-418c-856e-0f00f61688f0",
@@ -473,6 +475,7 @@
 		"Hyrule_Lunk": "b8ba0cd1-758b-4876-8c02-e45db951cd7a",
 		"I_Am_Grepid": "7e41da0a-eed7-45e8-8205-8fe3a4b497ec",
 		"I_AM_THE_ALPHA_MOOSE": "dbe217e0-db25-49df-b50b-dfc5206ce674",
+		"IcarusButAlive": "1ac2c6a9-b056-4ccc-b551-24c313e05e92",
 		"Illustrious-Ad7601": "2ab70099-04c5-4d48-85ac-6de286ba77c9",
 		"Im_a_chicken29": "b1138aca-0466-4d73-8c58-05333fcc4d3c",
 		"Imaginary-Pipe-1699": "708bc550-0fb5-48e4-8b2e-8383e4529dc8",
@@ -759,6 +762,7 @@
 		"nixpayn": "a63cc9e4-9177-4d86-a04c-d3c561701fc6",
 		"No_Square_3392": "ad5d125f-e9b6-4f8f-a888-2c36f908460d",
 		"No-Competition-5237": "dbe087c4-71b6-4f4b-8e70-51cf957e6bc5",
+		"No-Oil6786": "86e31c71-ec1e-4a2c-85ca-3f95cb5cf191",
 		"NobodysXaos": "3897dce8-5c9a-47ff-b37f-708c286e2a34",
 		"NoisyNeighborx": "6e619b9b-7562-4372-be49-31dc64e710e1",
 		"nootnootmotherfker": "b700a0ab-2e49-46cd-a605-dcf718f0e860",
@@ -1159,6 +1163,7 @@
 		"Wilsonator 2.0": "9fbd47af-b294-4eb6-87cd-7b70975879cc",
 		"witheredspringbonnie": "657106fc-cbb0-4e8e-a0dd-11861a2772ce",
 		"WittrockWittrock": "c5ebedda-0f78-4fec-9410-c8bfbd41afda",
+		"wivaca": "a54631af-e609-4a7f-88dd-b1ac207ab571",
 		"WIZ0U": "6ed1cc5b-0ce7-4d18-b956-0906b85b1a66",
 		"WizardShep": "1b0900a1-05a0-4caa-a6f9-62114a14dbd9",
 		"WLan-Cable": "95555258-5fab-4a77-b03a-dfb2acae2d25",
@@ -1186,6 +1191,7 @@
 		"ZagoTS": "f943ccae-6dd9-43bb-b718-ba47953fbace",
 		"Zaness89": "c726ac04-038e-43c0-bd2d-fce1a8b3a9cf",
 		"Zdvarko": "682cd723-6cd2-41de-870e-f6d561a78534",
+		"ZedtheAussieAlien": "6aebe942-905e-4251-9db3-4bad2cc76ff4",
 		"zehcoutinho": "6ecde954-e9fc-4a07-8b90-5c8c79eb7ee2",
 		"Zen_360": "c6718c8d-d927-4527-81c0-623d7fe5c8dd",
 		"zepherius": "435ac8ba-cd90-48da-b002-a64696dd5d06",
@@ -1199,6 +1205,7 @@
 		"うるふぁん": "89088358-871e-4b79-aeee-72f414862d17"
 	},
 	"aliased": {
+		"1699Chaos": "Chaos1699",
 		"Aemon 144": "Aemon144",
 		"Amelie of the Sea": "AmelieOfTheSea",
 		"amelieofthesea": "AmelieOfTheSea",
@@ -1296,6 +1303,7 @@
 		"ZagoTS": "CrystalZago"
 	},
 	"has_youtube": {
+		"@1699Chaos": "eb80a6df-8178-4fa6-a6e4-a700667e2f7b",
 		"@Amelie of the Sea": "44e87869-213f-4315-a421-cb41935227ca",
 		"@AmelieoftheSea": "862a96c3-5168-4e7d-8227-cfcff2e17500",
 		"@BATT1": "18793f24-7c3e-4d60-8378-2903b005727c",
