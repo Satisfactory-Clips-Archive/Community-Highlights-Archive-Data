@@ -117,6 +117,78 @@
 			]
 		}
 	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11vkpbw/the_great_hall_wip_info_in_captions/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/k448cMTI9igT_fmzZqRE1gfnqrRVR6CD7MP0gZpYvDY.jpg",
+			"alt": "The Great Hall (WIP, info in captions)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/iluh8mtvyooa1.png",
+			"alt": "This is my production hall for my 100 nuclear reactor setup. It has a footprint of 30x90 foundations and reaches 30 foundations into the sky!",
+			"highlightsMeta": [
+				"spire coast",
+				"fog",
+				"glass",
+				"interior",
+				"sunrise/sunset",
+				"no team",
+				"awesome sink",
+				"train station",
+				"belts"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11thppn/the_factory_complex_im_working_on_its_the_best/": [
+		{
+			"src": "https://preview.redd.it/igbitvxye8oa1.jpg?width=640&crop=smart&auto=webp&s=7c131933cee3808936c2b6a4bc5f6d0c97dffe76",
+			"alt": "The factory complex I'm working on! It's the best feeling to work on this after a long day :)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/igbitvxye8oa1.jpg",
+			"alt": "The factory complex I'm working on! It's the best feeling to work on this after a long day :)",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"industrial",
+				"manifold",
+				"no team",
+				"awesome sink",
+				"space elevator",
+				"train station",
+				"train",
+				"catwalk",
+				"frames",
+				"foundation patterns",
+				"hub",
+				"pipes",
+				"signs",
+				"train tracks",
+				"roads",
+				"signs as lights",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/11t1n68/the_best_power_shard_in_the_game/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Q2NdmWsFvtkqxq6cOWC8UV9_D3tu1vu-mcq7yz1QNuE.jpg",
+			"alt": "The Best power shard in the game!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nia0jug255oa1.png",
+			"highlightsMeta": [
+				"western dune forest",
+				"weatherwax",
+				"no team",
+				"frames",
+				"signs as lights",
+				"tower"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/11qr6fp/factory_progress_23rds_complete/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/WKofsEz7Q6FtLIrupSwu_C4jcYeUu76sPylqF8FCHIk.jpg",
