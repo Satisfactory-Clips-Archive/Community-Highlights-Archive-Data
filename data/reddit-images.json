@@ -93,6 +93,103 @@
 			]
 		}
 	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/12asyxo/somewhere_i_saw_the_bridge_support_pillar_do_you/": [
+		{
+			"src": "https://preview.redd.it/lg2evczhopra1.png?width=640&crop=smart&auto=webp&s=6ae7eb6be35fb877a8c420e843143193c107d79b",
+			"alt": "somewhere I saw the bridge support pillar, do you have an idea?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/lg2evczhopra1.png",
+			"alt": "somewhere I saw the bridge support pillar, do you have an idea?",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"no team",
+				"train station",
+				"catwalk",
+				"frames",
+				"belts",
+				"cables",
+				"train tracks",
+				"tower",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/12abda8/i_may_have_quite_youtube_but_i_can_never_quit/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/kdE73uIqbztCIVs1FGSfHY0bAXuCVya_vpGHU3U1PxQ.jpg",
+			"alt": "I may have quite YouTube, but i can never quit Satisfactory. This is my smelting base called Melting Point. all Ingots will be made here",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/za6u9okt1mra1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"glass",
+				"no team",
+				"smelter",
+				"refinery",
+				"signs",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/8gy0woyy1mra1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"glass",
+				"no team",
+				"smelter",
+				"refinery",
+				"signs",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/129ue51/i_think_bean_approves_of_my_new_bridge/": [
+		{
+			"src": "https://preview.redd.it/ji8yzdmwpira1.jpg?width=640&crop=smart&auto=webp&s=09e5297c0cf9331d58921c8da1be875bfd6f2c71",
+			"alt": "I think Bean approves of my new bridge.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ji8yzdmwpira1.jpg",
+			"alt": "I think Bean approves of my new bridge.",
+			"highlightsMeta": [
+				"western dune forest",
+				"no team",
+				"pillars",
+				"catwalk",
+				"frames",
+				"beams",
+				"train tracks",
+				"bean",
+				"bridge"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/129auc6/made_myself_a_fancy_hypertube_cannon/": [
+		{
+			"src": "https://preview.redd.it/ydp6g6womera1.png?width=640&crop=smart&auto=webp&s=0952b48da1e0d06d650a2c8201f7a3367174d4b5",
+			"alt": "Made myself a fancy Hypertube cannon",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ydp6g6womera1.png",
+			"alt": "Made myself a fancy Hypertube cannon",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"catwalk",
+				"tubes",
+				"signs as lights"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/11x7rqd/only_a_sith_deals_in_absolutely_awesome_storage/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/tC95z22XCltsDjHHNWHiJuxZiFJCaBHpUrFBZCw9jbA.jpg",
