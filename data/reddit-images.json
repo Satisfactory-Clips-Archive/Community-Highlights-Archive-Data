@@ -1,4 +1,98 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/12esaya/experimenting_with_triangles/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/X2RoFp9Cl11SOuiGm0v6vpiQecvUIGgy_x1LNg3IHqU.jpg",
+			"alt": "Experimenting with triangles",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zxg4mtz7whsa1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"glass",
+				"no team",
+				"catwalk",
+				"railing",
+				"lights",
+				"signs",
+				"train signals",
+				"train tracks",
+				"crash site"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/12f0cz8/my_first_suspension_bridge/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/7C_HUt4bQwhaaa1OKwhwPysRanmZS9y1v3-nvfQ-hrg.jpg",
+			"alt": "My first suspension bridge.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/efxutxzy6jsa1.png",
+			"highlightsMeta": [
+				"lake forest",
+				"no team",
+				"space elevator",
+				"frames",
+				"pipes",
+				"signs",
+				"train signals",
+				"train tracks",
+				"bean",
+				"manta",
+				"bridge"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/12e0jqs/tranquility/": [
+		{
+			"src": "https://preview.redd.it/c59k1l3sbcsa1.jpg?width=640&crop=smart&auto=webp&s=7b9db3daf8326b0c0accc4ca3ee5eeb572721fe1",
+			"alt": "Tranquility",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/c59k1l3sbcsa1.jpg",
+			"alt": "Tranquility",
+			"highlightsMeta": [
+				"grass fields",
+				"glass",
+				"megafactory",
+				"no team",
+				"blender",
+				"lookout tower",
+				"miner",
+				"space elevator",
+				"frames",
+				"belts",
+				"lights",
+				"signs",
+				"bean"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/12dcop3/wip_first_attempt_at_a_real_bridge_any_tips_on/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/O5dyIr4LEcBUaBZJ6_z_Zi92eMdFQ-8xH6Vd_JUbjJA.jpg",
+			"alt": "[WIP] First attempt at a 'real' bridge! Any tips on how to make it better?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6evuk5a6x7sa1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"long beach",
+				"no team",
+				"train",
+				"cables",
+				"train signals",
+				"train tracks",
+				"crash site",
+				"bridge",
+				"signs as lights"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/11x7rqd/only_a_sith_deals_in_absolutely_awesome_storage/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/tC95z22XCltsDjHHNWHiJuxZiFJCaBHpUrFBZCw9jbA.jpg",

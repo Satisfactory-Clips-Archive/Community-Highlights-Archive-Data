@@ -8334,5 +8334,33 @@
 				]
 			}
 		}
+	},
+	"2023-04-11": {
+		"yt-0mmTRZoghqU": {
+			"05:54 Cyclefreak119 - my new computer": {
+				"timestamp": 354,
+				"raw_text": "Cyclefreak119 - my new computer",
+				"timestamps_for_links": [
+					492
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 492,
+						"meta": [
+							"uncertain location",
+							"lasagn",
+							"manifold",
+							"repetition",
+							"no team",
+							"manufacturer",
+							"constructor",
+							"refinery",
+							"water extractor",
+							"belts"
+						]
+					}
+				]
+			}
+		}
 	}
 }
