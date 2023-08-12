@@ -8443,5 +8443,26 @@
 				]
 			}
 		}
+	},
+	"2023-04-25": {
+		"yt-a9zcC1zyxSk": {
+			"04:40 avionpassion - 🤘🤘🤘 https://satisfactory-calculator.com/en/megaprints/index/details/id/1440/name/Rammstein+Logo": {
+				"timestamp": 280,
+				"raw_text": "avionpassion - 🤘🤘🤘 https://satisfactory-calculator.com/en/megaprints/index/details/id/1440/name/Rammstein+Logo",
+				"timestamps_for_links": [
+					311
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 311,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"team rebar"
+						]
+					}
+				]
+			}
+		}
 	}
 }

@@ -1,4 +1,126 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/12q1pi6/cliffside_concrete_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/GhrV50xhEHeKGUzwHvTWx5_YtbwznBz5eyG38Ik7WIg.jpg",
+			"alt": "Cliffside Concrete Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/tjuof3655jua1.jpg",
+			"alt": "Just a small cliffside concrete factory with two refineries.",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"no team",
+				"barrier",
+				"frames",
+				"beams",
+				"pipes",
+				"train signals",
+				"train tracks",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/9stu93o55jua1.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"no team",
+				"refinery",
+				"barrier",
+				"pillars",
+				"catwalk",
+				"railing",
+				"frames",
+				"beams",
+				"belts",
+				"foundation patterns",
+				"signs",
+				"outpost",
+				"parking lot",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/12nawr0/a_few_more_%E1%B4%A1%C9%AA%E1%B4%98_experiments_with_perspective/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/CwnP5wcDuG5eSRKwWLWqrmCVw36C6fYgBfAik5STsVU.jpg",
+			"alt": "A few more [ᴡɪᴘ] experiments with perspective",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7h10vup3v2ua1.png",
+			"alt": "200x ECR 'sideways tube'",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"manifold",
+				"no team",
+				"assembler",
+				"radar tower",
+				"smelter",
+				"constructor",
+				"catwalk",
+				"belts",
+				"utility tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/czhdksp3v2ua1.png",
+			"alt": "44x nuclear tower 'vertical tube'",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"interior",
+				"manifold",
+				"team feet",
+				"blender",
+				"manufacturer",
+				"belts",
+				"lights",
+				"pipes",
+				"nuclear plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/p7ruoip3v2ua1.png",
+			"alt": "storage facility by the main hub.",
+			"highlightsMeta": [
+				"spire coast",
+				"glass",
+				"no team",
+				"pillars",
+				"railing",
+				"lights",
+				"train signals",
+				"tubes",
+				"train tracks",
+				"outpost",
+				"tower",
+				"viaduct",
+				"warehouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/tz153rp3v2ua1.png",
+			"alt": "trying to emulate the natural shapes over the by southeast oil fields...",
+			"highlightsMeta": [
+				"uncertain location",
+				"fog",
+				"manifold",
+				"sunrise/sunset",
+				"no team",
+				"smelter",
+				"constructor",
+				"pillars",
+				"belts",
+				"train signals",
+				"train tracks",
+				"viaduct"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/12esaya/experimenting_with_triangles/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/X2RoFp9Cl11SOuiGm0v6vpiQecvUIGgy_x1LNg3IHqU.jpg",

@@ -26,6 +26,57 @@
 			]
 		}
 	],
+	"https://twitter.com/d3r_jo/status/1646448006361751553": [
+		{
+			"src": "https://pbs.twimg.com/media/FtlbndJWAAEgDFc?format=png&name=4096x4096",
+			"highlightsMeta": [
+				"dune desert",
+				"spire coast",
+				"games",
+				"glass",
+				"no team",
+				"awesome sink",
+				"radar tower",
+				"pillars",
+				"beams",
+				"pipes",
+				"boat",
+				"chimney"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FtlbovZWwAEPpzv?format=png&name=4096x4096",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FtlbpqVXwAIQ_CM?format=png&name=4096x4096",
+			"highlightsMeta": [
+				"dune desert",
+				"spire coast",
+				"games",
+				"glass",
+				"no team",
+				"pillars",
+				"beams",
+				"pipes",
+				"boat"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FtlbquJWcAAhfmP?format=png&name=4096x4096",
+			"highlightsMeta": [
+				"dune desert",
+				"spire coast",
+				"no team",
+				"awesome sink",
+				"radar tower",
+				"beams",
+				"pipes",
+				"boat",
+				"chimney"
+			]
+		}
+	],
 	"https://twitter.com/d3r_jo/status/1634895233895759877": [
 		{
 			"src": "https://pbs.twimg.com/media/FrBQRnOXoAIvwe5?format=png&name=4096x4096",
