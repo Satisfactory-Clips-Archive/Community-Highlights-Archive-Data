@@ -190,6 +190,175 @@
 			]
 		}
 	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/126ttrr/hi_this_is_my_first_time_making_a_bridge_can_i/": [
+		{
+			"src": "https://preview.redd.it/2bsp1ktuwwqa1.png?width=640&crop=smart&auto=webp&s=b2108c672934ff17986b540feac15a79db35dc80",
+			"alt": "hi this is my first time making a bridge, can I get some feedback?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2bsp1ktuwwqa1.png",
+			"alt": "hi this is my first time making a bridge, can I get some feedback?",
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"no team",
+				"truck",
+				"pillars",
+				"frames",
+				"pipes",
+				"bridge"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/12fdr1a/wake_up_pioneer_you_have_a_city_to_explore/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/sKTKiQaRVlzttDdw3aNz__wHZ3JaUXYrQpKvoI8FYxY.jpg",
+			"alt": "Wake up pioneer, you have a city to explore! (Download link in comments)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6tji551augsa1.png",
+			"highlightsMeta": [
+				"beach islands",
+				"architecture",
+				"cityscape",
+				"modded",
+				"no team",
+				"train",
+				"pillars",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"train tracks",
+				"roads",
+				"signs as lights",
+				"spaceship",
+				"tower",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/3pcs2mm5yhsa1.png",
+			"highlightsMeta": [
+				"beach islands",
+				"architecture",
+				"cityscape",
+				"modded",
+				"no team",
+				"truck",
+				"pillars",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"train tracks",
+				"gas station",
+				"parking lot",
+				"roads",
+				"signs as lights",
+				"tower",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/6p8tcom5yhsa1.png",
+			"highlightsMeta": [
+				"beach islands",
+				"cityscape",
+				"interior",
+				"no team",
+				"train station",
+				"pillars",
+				"signs",
+				"train tracks",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/31avpte9zhsa1.png",
+			"highlightsMeta": [
+				"beach islands",
+				"architecture",
+				"cityscape",
+				"modded",
+				"no team",
+				"pillars",
+				"beams",
+				"foundation patterns",
+				"lights",
+				"pipes",
+				"signs",
+				"train tracks",
+				"roads",
+				"signs as lights",
+				"tower",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/12edd3v/anyone_know_why_im_seeing_this_issue/": [
+		{
+			"src": "https://preview.redd.it/j6y7fqj21fsa1.png?width=640&crop=smart&auto=webp&s=18f728b943cdc934c4e4e34e566d9239e2641e14",
+			"alt": "Anyone know why I'm seeing this issue?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/j6y7fqj21fsa1.png",
+			"alt": "Anyone know why I'm seeing this issue?",
+			"highlightsMeta": [
+				"northern forest",
+				"glitch",
+				"team rifle",
+				"pillars",
+				"belts",
+				"cables"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/126hr7a/truck_station_2_of_3_done/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/8Z9wdcjfdpJK6VvZJXbDOcOnj7d_jMYTDeDSsO8uGbM.jpg",
+			"alt": "Truck station 2 of 3 done",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8inrqopaiuqa1.png",
+			"alt": "2nd truck station to feed my new aluminum build",
+			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"glass",
+				"no team",
+				"miner",
+				"truck station",
+				"pillars",
+				"beams",
+				"foundation patterns",
+				"cables",
+				"signs",
+				"roads",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/124cly6/fun_little_wall_im_making_in_my_fuel_packaging/": [
+		{
+			"src": "https://preview.redd.it/px3a55bypeqa1.png?width=640&crop=smart&auto=webp&s=3402685f850a155a7eb9c5a13558e9336568182e",
+			"alt": "Fun little wall I'm making in my fuel packaging facility. If you have ideas that are funny or related to fuel packaging, please let me know, because I'm trying to fill three more sides like this!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/px3a55bypeqa1.png",
+			"alt": "Fun little wall I'm making in my fuel packaging facility. If you have ideas that are funny or related to fuel packaging, please let me know, because I'm trying to fill three more sides like this!",
+			"highlightsMeta": [
+				"uncertain location",
+				"interior",
+				"team cup",
+				"frames",
+				"signs"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/11x7rqd/only_a_sith_deals_in_absolutely_awesome_storage/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/tC95z22XCltsDjHHNWHiJuxZiFJCaBHpUrFBZCw9jbA.jpg",

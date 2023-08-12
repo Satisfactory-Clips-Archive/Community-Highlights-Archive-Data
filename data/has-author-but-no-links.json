@@ -8377,6 +8377,24 @@
 						]
 					}
 				]
+			},
+			"15:37 Ecaj - I would live there": {
+				"timestamp": 937,
+				"raw_text": "Ecaj - I would live there",
+				"timestamps_for_links": [
+					967
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 967,
+						"meta": [
+							"unknown location",
+							"jace would live there",
+							"reference images",
+							"no team"
+						]
+					}
+				]
 			}
 		}
 	}
