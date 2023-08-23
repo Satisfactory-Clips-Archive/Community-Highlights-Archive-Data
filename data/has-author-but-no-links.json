@@ -8496,6 +8496,7 @@
 						"timestamp": 610.6,
 						"meta": [
 							"references to other franchises",
+							"uncertain location",
 							"pipes",
 							"signs",
 							"foundation patterns",
@@ -8515,6 +8516,7 @@
 						"timestamp": 631.8,
 						"meta": [
 							"references to other franchises",
+							"uncertain location",
 							"beams",
 							"team hands",
 							"signs as lights",
@@ -8534,6 +8536,7 @@
 						"timestamp": 642,
 						"meta": [
 							"references to other franchises",
+							"uncertain location",
 							"beams",
 							"team hands",
 							"glass"
@@ -8579,6 +8582,7 @@
 						"timestamp": 760.2,
 						"meta": [
 							"references to other franchises",
+							"uncertain location",
 							"pixel art",
 							"signs"
 						]
@@ -8596,6 +8600,7 @@
 						"timestamp": 778.2,
 						"meta": [
 							"references to other franchises",
+							"uncertain location",
 							"glass",
 							"pixel art",
 							"signs",
@@ -8617,6 +8622,7 @@
 						"timestamp": 815.8,
 						"meta": [
 							"references to other franchises",
+							"uncertain location",
 							"pixel art",
 							"beams"
 						]
@@ -8664,6 +8670,7 @@
 						"timestamp": 878.8,
 						"meta": [
 							"references to other franchises",
+							"uncertain location",
 							"final fantasy",
 							"signs",
 							"team hands"
@@ -8673,6 +8680,7 @@
 						"timestamp": 880,
 						"meta": [
 							"references to other franchises",
+							"uncertain location",
 							"final fantasy",
 							"signs",
 							"team hands"
@@ -8692,6 +8700,7 @@
 						"timestamp": 894.6,
 						"meta": [
 							"references to other franchises",
+							"uncertain location",
 							"glass",
 							"signs",
 							"team hands"
@@ -8701,6 +8710,7 @@
 						"timestamp": 898,
 						"meta": [
 							"references to other franchises",
+							"uncertain location",
 							"signs",
 							"team hands"
 						]
@@ -8710,37 +8720,132 @@
 			"16:13 xxxXER0xxx - TETRIS": {
 				"timestamp": 973,
 				"raw_text": "xxxXER0xxx - TETRIS",
-				"timestamps_for_links": []
-			},
-			"16:34 ItsJymmi1 - ET The Extra Terrestrial": {
-				"timestamp": 994,
-				"raw_text": "ItsJymmi1 - ET The Extra Terrestrial",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					980,
+					986
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 980,
+						"meta": [
+							"references to other franchises",
+							"uncertain location",
+							"team hands",
+							"glass",
+							"signs",
+							"signs as lights",
+							"pillars",
+							"glass"
+						]
+					},
+					{
+						"timestamp": 986,
+						"meta": [
+							"references to other franchises",
+							"uncertain location",
+							"team hands",
+							"signs"
+						]
+					}
+				]
 			},
 			"16:34 ItsJymmi - ET The Extra Terrestrial": {
 				"timestamp": 994,
 				"raw_text": "ItsJymmi - ET The Extra Terrestrial",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					996
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 996,
+						"meta": [
+							"references to other franchises",
+							"pipes",
+							"beams",
+							"pixel art",
+							"team hands",
+							"uncertain location",
+							"signs"
+						]
+					}
+				]
 			},
 			"17:38 Dani_Shming - The Discovery of the Titanic 1985": {
 				"timestamp": 1058,
 				"raw_text": "Dani_Shming - The Discovery of the Titanic 1985",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1074
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1074,
+						"meta": [
+							"uncertain location",
+							"team hands",
+							"beams",
+							"underwater",
+							"boat"
+						]
+					}
+				]
 			},
 			"18:42 Arch_Mii - It looks like the house from Beetlejuice": {
 				"timestamp": 1122,
 				"raw_text": "Arch_Mii - It looks like the house from Beetlejuice",
-				"timestamps_for_links": []
-			},
-			"19:13  @PhyVeri  - Frogger": {
-				"timestamp": 1153,
-				"raw_text": " @PhyVeri  - Frogger",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1129
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1129,
+						"meta": [
+							"references to other franchises",
+							"team hands",
+							"arachnophobia mode",
+							"catwalk",
+							"glass",
+							"railing",
+							"uncertain location",
+							"beams",
+							"pillars"
+						]
+					}
+				]
 			},
 			"19:13 @PhyVeri - Frogger": {
 				"timestamp": 1153,
 				"raw_text": "@PhyVeri - Frogger",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1154.2,
+					1172
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1154.2,
+						"meta": [
+							"uncertain location",
+							"beams",
+							"truck",
+							"explorer",
+							"roads",
+							"team hands"
+						]
+					},
+					{
+						"timestamp": 1172,
+						"meta": [
+							"uncertain location",
+							"beams",
+							"truck",
+							"explorer",
+							"roads",
+							"train",
+							"factory cart",
+							"foundation patterns",
+							"pillars"
+						]
+					}
+				]
 			},
 			"20:32 m1st3r_t4c0 - Commodore 64": {
 				"timestamp": 1232,
