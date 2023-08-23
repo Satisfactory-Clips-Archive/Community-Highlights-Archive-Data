@@ -8488,57 +8488,224 @@
 			"10:10 Huntress_blue - NES": {
 				"timestamp": 610,
 				"raw_text": "Huntress_blue - NES",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					610.6
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 610.6,
+						"meta": [
+							"references to other franchises",
+							"pipes",
+							"signs",
+							"foundation patterns",
+							"team hands"
+						]
+					}
+				]
 			},
 			"10:32 DoNKsta - Pac-Man": {
 				"timestamp": 632,
 				"raw_text": "DoNKsta - Pac-Man",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					631.8
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 631.8,
+						"meta": [
+							"references to other franchises",
+							"beams",
+							"team hands",
+							"signs as lights",
+							"pixel art"
+						]
+					}
+				]
 			},
 			"10:40 pobkac - Tron": {
 				"timestamp": 640,
 				"raw_text": "pobkac - Tron",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					642
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 642,
+						"meta": [
+							"references to other franchises",
+							"beams",
+							"team hands",
+							"glass"
+						]
+					}
+				]
 			},
-			"11:16 BLAndrew575 - Antenna switch RF/VHF": {
+			"11:16 @BLAndrew575- - Antenna switch RF/VHF": {
 				"timestamp": 676,
-				"raw_text": "BLAndrew575 - Antenna switch RF/VHF",
-				"timestamps_for_links": []
+				"raw_text": "@BLAndrew575- - Antenna switch RF/VHF",
+				"timestamps_for_links": [
+					676,
+					680
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 676,
+						"meta": [
+							"beams",
+							"signs",
+							"team hands"
+						]
+					},
+					{
+						"timestamp": 680,
+						"meta": [
+							"beams",
+							"signs",
+							"team hands",
+							"tubes"
+						]
+					}
+				]
 			},
 			"12:39 AudreyPlaysNice - Who ya gonna call?": {
 				"timestamp": 759,
 				"raw_text": "AudreyPlaysNice - Who ya gonna call?",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					760.2
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 760.2,
+						"meta": [
+							"references to other franchises",
+							"pixel art",
+							"signs"
+						]
+					}
+				]
 			},
 			"12:58 ViroosLIVE - Save Her Minigame from Five Nights at Freddy's 2 (1983)": {
 				"timestamp": 778,
 				"raw_text": "ViroosLIVE - Save Her Minigame from Five Nights at Freddy's 2 (1983)",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					778.2
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 778.2,
+						"meta": [
+							"references to other franchises",
+							"glass",
+							"pixel art",
+							"signs",
+							"signs as lights",
+							"lights",
+							"team hands"
+						]
+					}
+				]
 			},
 			"13:30 Raimen - Galaga": {
 				"timestamp": 810,
 				"raw_text": "Raimen - Galaga",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					815.8
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 815.8,
+						"meta": [
+							"references to other franchises",
+							"pixel art",
+							"beams"
+						]
+					}
+				]
 			},
 			"14:14 henryhooha - Chernobyl": {
 				"timestamp": 854,
 				"raw_text": "henryhooha - Chernobyl",
-				"timestamps_for_links": []
-			},
-			"14:34  @jembawls  - NES with Final Fantasy 1": {
-				"timestamp": 874,
-				"raw_text": " @jembawls  - NES with Final Fantasy 1",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					855.5,
+					863.8
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 855.5,
+						"meta": [
+							"architecture",
+							"team hands",
+							"beams",
+							"signs"
+						]
+					},
+					{
+						"timestamp": 863.8,
+						"meta": [
+							"architecture",
+							"team hands",
+							"beams",
+							"tower",
+							"railing"
+						]
+					}
+				]
 			},
 			"14:34 @jembawls - NES with Final Fantasy 1": {
 				"timestamp": 874,
 				"raw_text": "@jembawls - NES with Final Fantasy 1",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					878.8,
+					880
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 878.8,
+						"meta": [
+							"references to other franchises",
+							"final fantasy",
+							"signs",
+							"team hands"
+						]
+					},
+					{
+						"timestamp": 880,
+						"meta": [
+							"references to other franchises",
+							"final fantasy",
+							"signs",
+							"team hands"
+						]
+					}
+				]
 			},
 			"14:54 AnnaRooma - Sony Walkman Sports": {
 				"timestamp": 894,
 				"raw_text": "AnnaRooma - Sony Walkman Sports",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					894.6,
+					898
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 894.6,
+						"meta": [
+							"references to other franchises",
+							"glass",
+							"signs",
+							"team hands"
+						]
+					},
+					{
+						"timestamp": 898,
+						"meta": [
+							"references to other franchises",
+							"signs",
+							"team hands"
+						]
+					}
+				]
 			},
 			"16:13 xxxXER0xxx - TETRIS": {
 				"timestamp": 973,
