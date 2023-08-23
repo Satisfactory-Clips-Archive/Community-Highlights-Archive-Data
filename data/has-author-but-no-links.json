@@ -8495,12 +8495,12 @@
 					{
 						"timestamp": 610.6,
 						"meta": [
-							"references to other franchises",
 							"uncertain location",
-							"pipes",
-							"signs",
+							"references to other franchises",
+							"team hands",
 							"foundation patterns",
-							"team hands"
+							"pipes",
+							"signs"
 						]
 					}
 				]
@@ -8515,12 +8515,12 @@
 					{
 						"timestamp": 631.8,
 						"meta": [
-							"references to other franchises",
 							"uncertain location",
-							"beams",
+							"pixel art",
+							"references to other franchises",
 							"team hands",
-							"signs as lights",
-							"pixel art"
+							"beams",
+							"signs as lights"
 						]
 					}
 				]
@@ -8535,11 +8535,11 @@
 					{
 						"timestamp": 642,
 						"meta": [
-							"references to other franchises",
 							"uncertain location",
-							"beams",
+							"glass",
+							"references to other franchises",
 							"team hands",
-							"glass"
+							"beams"
 						]
 					}
 				]
@@ -8555,17 +8555,17 @@
 					{
 						"timestamp": 676,
 						"meta": [
+							"team hands",
 							"beams",
-							"signs",
-							"team hands"
+							"signs"
 						]
 					},
 					{
 						"timestamp": 680,
 						"meta": [
+							"team hands",
 							"beams",
 							"signs",
-							"team hands",
 							"tubes"
 						]
 					}
@@ -8581,9 +8581,9 @@
 					{
 						"timestamp": 760.2,
 						"meta": [
-							"references to other franchises",
 							"uncertain location",
 							"pixel art",
+							"references to other franchises",
 							"signs"
 						]
 					}
@@ -8599,14 +8599,14 @@
 					{
 						"timestamp": 778.2,
 						"meta": [
-							"references to other franchises",
 							"uncertain location",
 							"glass",
 							"pixel art",
-							"signs",
-							"signs as lights",
+							"references to other franchises",
+							"team hands",
 							"lights",
-							"team hands"
+							"signs",
+							"signs as lights"
 						]
 					}
 				]
@@ -8621,9 +8621,9 @@
 					{
 						"timestamp": 815.8,
 						"meta": [
-							"references to other franchises",
 							"uncertain location",
 							"pixel art",
+							"references to other franchises",
 							"beams"
 						]
 					}
@@ -8651,9 +8651,9 @@
 						"meta": [
 							"architecture",
 							"team hands",
+							"railing",
 							"beams",
-							"tower",
-							"railing"
+							"tower"
 						]
 					}
 				]
@@ -8669,21 +8669,21 @@
 					{
 						"timestamp": 878.8,
 						"meta": [
-							"references to other franchises",
 							"uncertain location",
 							"final fantasy",
-							"signs",
-							"team hands"
+							"references to other franchises",
+							"team hands",
+							"signs"
 						]
 					},
 					{
 						"timestamp": 880,
 						"meta": [
-							"references to other franchises",
 							"uncertain location",
 							"final fantasy",
-							"signs",
-							"team hands"
+							"references to other franchises",
+							"team hands",
+							"signs"
 						]
 					}
 				]
@@ -8699,20 +8699,20 @@
 					{
 						"timestamp": 894.6,
 						"meta": [
-							"references to other franchises",
 							"uncertain location",
 							"glass",
-							"signs",
-							"team hands"
+							"references to other franchises",
+							"team hands",
+							"signs"
 						]
 					},
 					{
 						"timestamp": 898,
 						"meta": [
-							"references to other franchises",
 							"uncertain location",
-							"signs",
-							"team hands"
+							"references to other franchises",
+							"team hands",
+							"signs"
 						]
 					}
 				]
@@ -8728,21 +8728,20 @@
 					{
 						"timestamp": 980,
 						"meta": [
-							"references to other franchises",
 							"uncertain location",
-							"team hands",
 							"glass",
-							"signs",
-							"signs as lights",
+							"references to other franchises",
+							"team hands",
 							"pillars",
-							"glass"
+							"signs",
+							"signs as lights"
 						]
 					},
 					{
 						"timestamp": 986,
 						"meta": [
-							"references to other franchises",
 							"uncertain location",
+							"references to other franchises",
 							"team hands",
 							"signs"
 						]
@@ -8759,12 +8758,12 @@
 					{
 						"timestamp": 996,
 						"meta": [
-							"references to other franchises",
-							"pipes",
-							"beams",
-							"pixel art",
-							"team hands",
 							"uncertain location",
+							"pixel art",
+							"references to other franchises",
+							"team hands",
+							"beams",
+							"pipes",
 							"signs"
 						]
 					}
@@ -8781,9 +8780,9 @@
 						"timestamp": 1074,
 						"meta": [
 							"uncertain location",
+							"underwater",
 							"team hands",
 							"beams",
-							"underwater",
 							"boat"
 						]
 					}
@@ -8799,15 +8798,15 @@
 					{
 						"timestamp": 1129,
 						"meta": [
+							"uncertain location",
+							"glass",
 							"references to other franchises",
 							"team hands",
-							"arachnophobia mode",
+							"pillars",
 							"catwalk",
-							"glass",
 							"railing",
-							"uncertain location",
 							"beams",
-							"pillars"
+							"arachnophobia mode"
 						]
 					}
 				]
@@ -8824,25 +8823,25 @@
 						"timestamp": 1154.2,
 						"meta": [
 							"uncertain location",
-							"beams",
-							"truck",
+							"team hands",
 							"explorer",
-							"roads",
-							"team hands"
+							"truck",
+							"beams",
+							"roads"
 						]
 					},
 					{
 						"timestamp": 1172,
 						"meta": [
 							"uncertain location",
-							"beams",
-							"truck",
 							"explorer",
-							"roads",
-							"train",
 							"factory cart",
+							"train",
+							"truck",
+							"pillars",
+							"beams",
 							"foundation patterns",
-							"pillars"
+							"roads"
 						]
 					}
 				]
