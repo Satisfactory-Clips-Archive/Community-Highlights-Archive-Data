@@ -8834,6 +8834,7 @@
 						"timestamp": 1172,
 						"meta": [
 							"uncertain location",
+							"team hands",
 							"explorer",
 							"factory cart",
 							"train",
@@ -8849,67 +8850,341 @@
 			"20:32 m1st3r_t4c0 - Commodore 64": {
 				"timestamp": 1232,
 				"raw_text": "m1st3r_t4c0 - Commodore 64",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1242
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1242,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"team hands",
+							"pipes",
+							"signs"
+						]
+					}
+				]
 			},
 			"21:23 Heimer_D - Madonna Pixel Art": {
 				"timestamp": 1283,
 				"raw_text": "Heimer_D - Madonna Pixel Art",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1305
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1305,
+						"meta": [
+							"uncertain location",
+							"pixel art",
+							"team hands",
+							"signs"
+						]
+					}
+				]
 			},
 			"22:28 SkashKitsune - Best of the 80s": {
 				"timestamp": 1348,
 				"raw_text": "SkashKitsune - Best of the 80s",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1356
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1356,
+						"meta": [
+							"uncertain location",
+							"pixel art",
+							"team hands",
+							"pipes",
+							"signs",
+							"tubes"
+						]
+					}
+				]
 			},
-			"23:08 supersarahstars - Beetlejuice (Jace would live there)": {
+			"23:08 supersarahstars - Beetlejuice": {
 				"timestamp": 1388,
-				"raw_text": "supersarahstars - Beetlejuice (Jace would live there)",
-				"timestamps_for_links": []
+				"raw_text": "supersarahstars - Beetlejuice",
+				"timestamps_for_links": [
+					1388
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1388,
+						"meta": [
+							"uncertain location",
+							"jace would live there",
+							"architecture",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"catwalk",
+							"beams"
+						]
+					}
+				]
 			},
 			"23:35 DevorazWindcatcher - Donkey Kong": {
 				"timestamp": 1415,
 				"raw_text": "DevorazWindcatcher - Donkey Kong",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1418.5
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1418.5,
+						"meta": [
+							"uncertain location",
+							"pixel art",
+							"references to other franchises",
+							"team hands"
+						]
+					}
+				]
 			},
 			"24:06 RavingMage1 - ExciteBike": {
 				"timestamp": 1446,
 				"raw_text": "RavingMage1 - ExciteBike",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1446
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1446,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"beams",
+							"foundation patterns",
+							"pipes",
+							"signs",
+							"roads"
+						]
+					}
+				]
 			},
 			"24:40 crowbarzero - Yomega Fireball": {
 				"timestamp": 1480,
 				"raw_text": "crowbarzero - Yomega Fireball",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1492,
+					1504.2
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1492,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"night time",
+							"team hands",
+							"lights",
+							"pipes"
+						]
+					},
+					{
+						"timestamp": 1504.2,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"night time",
+							"team hands",
+							"beams",
+							"lights"
+						]
+					}
+				]
 			},
 			"26:21 MattyCanny - Rubix Cubes": {
 				"timestamp": 1581,
 				"raw_text": "MattyCanny - Rubix Cubes",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1560.9,
+					1607,
+					1609
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1560.9,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"team hands"
+						]
+					},
+					{
+						"timestamp": 1607,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"team hands"
+						]
+					},
+					{
+						"timestamp": 1609,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"team hands"
+						]
+					}
+				]
 			},
 			"26:54 seePyou - Turtle Logo": {
 				"timestamp": 1614,
 				"raw_text": "seePyou - Turtle Logo",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1620
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1620,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"pixel art",
+							"team hands",
+							"beams",
+							"pipes"
+						]
+					}
+				]
 			},
 			"27:29 GremlinQuinn - Video Killed The Radio Star": {
 				"timestamp": 1649,
 				"raw_text": "GremlinQuinn - Video Killed The Radio Star",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1653
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1653,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"beams",
+							"cables"
+						]
+					}
+				]
 			},
 			"28:05 CirrusJT - To Hill Valley": {
 				"timestamp": 1685,
 				"raw_text": "CirrusJT - To Hill Valley",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1687,
+					1699,
+					1706,
+					1731
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1687,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"beams",
+							"foundation patterns",
+							"lights",
+							"roads"
+						]
+					},
+					{
+						"timestamp": 1699,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"cyber wagon",
+							"pillars",
+							"beams",
+							"foundation patterns",
+							"cables",
+							"lights",
+							"roads"
+						]
+					},
+					{
+						"timestamp": 1706,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"cyber wagon",
+							"pillars",
+							"beams",
+							"foundation patterns",
+							"cables",
+							"lights",
+							"roads"
+						]
+					},
+					{
+						"timestamp": 1731,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"beams",
+							"lights",
+							"signs"
+						]
+					}
+				]
 			},
 			"28:59 ThatDudeAW - Hello Moto": {
 				"timestamp": 1739,
 				"raw_text": "ThatDudeAW - Hello Moto",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1763.3
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1763.3,
+						"meta": [
+							"uncertain location",
+							"team hands",
+							"signs"
+						]
+					}
+				]
 			},
 			"30:40 Trexoman - Rock 'Em Sock 'Em Robots": {
 				"timestamp": 1840,
 				"raw_text": "Trexoman - Rock 'Em Sock 'Em Robots",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					1846
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1846,
+						"meta": [
+							"uncertain location",
+							"team hands",
+							"pillars",
+							"beams",
+							"pipes"
+						]
+					}
+				]
 			},
 			"30:54 HS_Gaming_Group - This did not pass quality control": {
 				"timestamp": 1854,
