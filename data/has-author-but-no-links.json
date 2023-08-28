@@ -9688,9 +9688,9 @@
 					}
 				]
 			},
-			"46:13 SummerChild81 - Slovak Radio Building #JaceWouldGoThere": {
+			"46:13 SummerChild81 - Slovak Radio Building": {
 				"timestamp": 2773,
-				"raw_text": "SummerChild81 - Slovak Radio Building #JaceWouldGoThere",
+				"raw_text": "SummerChild81 - Slovak Radio Building",
 				"timestamps_for_links": [
 					2780
 				],
@@ -9711,55 +9711,171 @@
 					}
 				]
 			},
-			"46:13 SummerChild81 - Slovak Radio Building": {
-				"timestamp": 2773,
-				"raw_text": "SummerChild81 - Slovak Radio Building",
-				"timestamps_for_links": []
-			},
 			"46:34 ThatMindlessGuy - NES": {
 				"timestamp": 2794,
 				"raw_text": "ThatMindlessGuy - NES",
-				"timestamps_for_links": []
+				"sortOrder": "manual",
+				"timestamps_for_links": [
+					2814,
+					2799
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2814,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"beams",
+							"signs",
+							"signs as lights"
+						]
+					},
+					{
+						"timestamp": 2799,
+						"meta": [
+							"uncertain location",
+							"pixel art",
+							"references to other franchises",
+							"team feet",
+							"team hands",
+							"beams",
+							"signs",
+							"signs as lights"
+						]
+					}
+				]
 			},
 			"46:59 GetOffMyYarn - Keytar and Axe Guitar": {
 				"timestamp": 2819,
 				"raw_text": "GetOffMyYarn - Keytar and Axe Guitar",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2820.2
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2820.2,
+						"meta": [
+							"uncertain location",
+							"team hands",
+							"pillars",
+							"cables",
+							"pipes"
+						]
+					}
+				]
 			},
 			"47:31 Delirya - Boombox": {
 				"timestamp": 2851,
 				"raw_text": "Delirya - Boombox",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2846
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2846,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"team hands",
+							"particle accelerator",
+							"pillars",
+							"boombox",
+							"signs"
+						]
+					}
+				]
 			},
 			"47:58 PKisGreat - The Terminator": {
 				"timestamp": 2878,
 				"raw_text": "PKisGreat - The Terminator",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2883
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2883,
+						"meta": [
+							"dune desert",
+							"spire coast",
+							"pixel art",
+							"references to other franchises",
+							"team feet",
+							"team hands",
+							"beams"
+						]
+					}
+				]
 			},
 			"48:32 ThaneVim - Pioneer VD-1000 LaserDisc Player": {
 				"timestamp": 2912,
 				"raw_text": "ThaneVim - Pioneer VD-1000 LaserDisc Player",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2949
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2949,
+						"meta": [
+							"dune desert",
+							"spire coast",
+							"glass",
+							"team hands",
+							"beams",
+							"signs"
+						]
+					}
+				]
 			},
 			"50:14 LiveActionPixel - Thundercats Lair": {
 				"timestamp": 3014,
 				"raw_text": "LiveActionPixel - Thundercats Lair",
-				"timestamps_for_links": []
-			},
-			"50:33  @ImKibitz  - Enron HQ": {
-				"timestamp": 3033,
-				"raw_text": " @ImKibitz  - Enron HQ",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					2991
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2991,
+						"meta": [
+							"spire coast",
+							"references to other franchises",
+							"team hands",
+							"signs as lights"
+						]
+					}
+				]
 			},
 			"50:33 @ImKibitz - Enron HQ": {
 				"timestamp": 3033,
 				"raw_text": "@ImKibitz - Enron HQ",
-				"timestamps_for_links": []
-			},
-			"51:28  @tdeviant1  - building an 80s thing": {
-				"timestamp": 3088,
-				"raw_text": " @tdeviant1  - building an 80s thing",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3036,
+					3038
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3036,
+						"meta": [
+							"spire coast",
+							"glass",
+							"team hands",
+							"pillars",
+							"beams",
+							"signs",
+							"tower"
+						]
+					},
+					{
+						"timestamp": 3038,
+						"meta": [
+							"spire coast",
+							"glass",
+							"team hands",
+							"tower"
+						]
+					}
+				]
 			},
 			"51:28 @tdeviant1 - building an 80s thing": {
 				"timestamp": 3088,
