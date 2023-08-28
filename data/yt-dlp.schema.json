@@ -34,6 +34,13 @@
 					"type": "string",
 					"description": "the line text minus the timestamp"
 				},
+				"sortOrder": {
+					"type": "string",
+					"enum": [
+						"manual"
+					],
+					"description": "Controls sorting type for timestamps (absent means auto-sort)"
+				},
 				"timestamps_for_links": {
 					"type": "array",
 					"description": "the timestamps as an integer or float number of seconds from the start of the video from which to generate images",
