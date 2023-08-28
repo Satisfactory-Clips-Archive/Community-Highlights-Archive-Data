@@ -9880,52 +9880,236 @@
 			"51:28 @tdeviant1 - building an 80s thing": {
 				"timestamp": 3088,
 				"raw_text": "@tdeviant1 - building an 80s thing",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3090,
+					3164
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3090,
+						"meta": [
+							"spire coast",
+							"cityscape",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"cyber wagon",
+							"barrier",
+							"pillars",
+							"railing",
+							"foundation patterns",
+							"pipes",
+							"signs",
+							"roads",
+							"signs as lights"
+						]
+					},
+					{
+						"timestamp": 3164,
+						"meta": [
+							"spire coast",
+							"cityscape",
+							"glass",
+							"night time",
+							"references to other franchises",
+							"team hands",
+							"cyber wagon",
+							"barrier",
+							"pillars",
+							"railing",
+							"foundation patterns",
+							"pipes",
+							"signs",
+							"roads",
+							"signs as lights"
+						]
+					}
+				]
 			},
 			"53:08 firefless - AT-AT": {
 				"timestamp": 3188,
 				"raw_text": "firefless - AT-AT",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3197
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3197,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"lights"
+						]
+					}
+				]
 			},
 			"53:27 AnnaRooma - Berlin Wall": {
 				"timestamp": 3207,
 				"raw_text": "AnnaRooma - Berlin Wall",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3213
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3213,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"team hands",
+							"lookout tower",
+							"pillars",
+							"railing",
+							"lights",
+							"signs"
+						]
+					}
+				]
 			},
 			"53:57 zerifax - Ghost Busters": {
 				"timestamp": 3237,
 				"raw_text": "zerifax - Ghost Busters",
-				"timestamps_for_links": []
-			},
-			"54:44  @Catafly7  - Hot Wheels car wash": {
-				"timestamp": 3284,
-				"raw_text": " @Catafly7  - Hot Wheels car wash",
-				"timestamps_for_links": []
+				"sortOrder": "manual",
+				"timestamps_for_links": [
+					3261,
+					3279
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3261,
+						"meta": [
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"railing",
+							"signs",
+							"tower"
+						]
+					},
+					{
+						"timestamp": 3279,
+						"meta": [
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"truck",
+							"pillars",
+							"railing",
+							"foundation patterns",
+							"signs",
+							"roads",
+							"tower"
+						]
+					}
+				]
 			},
 			"54:44 @Catafly7 - Hot Wheels car wash": {
 				"timestamp": 3284,
 				"raw_text": "@Catafly7 - Hot Wheels car wash",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3289,
+					3302
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3289,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"tractor",
+							"pillars",
+							"railing",
+							"beams",
+							"belts",
+							"foundation patterns",
+							"pipes",
+							"signs",
+							"tubes",
+							"parking lot"
+						]
+					},
+					{
+						"timestamp": 3302,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"references to other franchises",
+							"team hands",
+							"tractor",
+							"pillars",
+							"railing",
+							"beams",
+							"belts",
+							"foundation patterns",
+							"pipes",
+							"signs",
+							"tubes",
+							"parking lot"
+						]
+					}
+				]
 			},
 			"55:14 Cazineer - Q Who": {
 				"timestamp": 3314,
 				"raw_text": "Cazineer - Q Who",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3332
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3332,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"team hands",
+							"pillars",
+							"beams",
+							"pipes",
+							"spaceship"
+						]
+					}
+				]
 			},
 			"55:54 TheGamerFoxx - Dig Dug": {
 				"timestamp": 3354,
 				"raw_text": "TheGamerFoxx - Dig Dug",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3360
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3360,
+						"meta": [
+							"uncertain location",
+							"pixel art",
+							"references to other franchises",
+							"team hands"
+						]
+					}
+				]
 			},
 			"56:38 DIEHARDave - Speak & Spell": {
 				"timestamp": 3398,
 				"raw_text": "DIEHARDave - Speak & Spell",
-				"timestamps_for_links": []
-			},
-			"57:20  @j1mbers767  - A day in the life of a 80's Food Court": {
-				"timestamp": 3440,
-				"raw_text": " @j1mbers767  - A day in the life of a 80's Food Court",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3399
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3399,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"team hands",
+							"beams",
+							"signs"
+						]
+					}
+				]
 			},
 			"57:20 @j1mbers767 - A day in the life of a 80's Food Court": {
 				"timestamp": 3440,
