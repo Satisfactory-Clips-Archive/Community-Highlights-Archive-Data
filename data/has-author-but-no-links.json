@@ -9671,7 +9671,7 @@
 						]
 					},
 					{
-						"timestamp": 2672,
+						"timestamp": 2681.8,
 						"meta": [
 							"uncertain location",
 							"glass",
@@ -9681,10 +9681,6 @@
 							"signs",
 							"signs as lights"
 						]
-					},
-					{
-						"timestamp": 2681.8,
-						"meta": []
 					}
 				]
 			},
@@ -10114,47 +10110,282 @@
 			"57:20 @j1mbers767 - A day in the life of a 80's Food Court": {
 				"timestamp": 3440,
 				"raw_text": "@j1mbers767 - A day in the life of a 80's Food Court",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3442,
+					3459,
+					3465,
+					3469.8,
+					3475,
+					3477.2
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3442,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"team hands",
+							"pillars",
+							"foundation patterns",
+							"signs"
+						]
+					},
+					{
+						"timestamp": 3459,
+						"meta": [
+							"uncertain location",
+							"interior",
+							"no team",
+							"team hands",
+							"tractor",
+							"pillars",
+							"parking lot",
+							"statue gallery"
+						]
+					},
+					{
+						"timestamp": 3465,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"interior",
+							"no team",
+							"barrier",
+							"pillars",
+							"belts",
+							"statue gallery"
+						]
+					},
+					{
+						"timestamp": 3469.8,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"interior",
+							"team hands",
+							"pillars",
+							"signs",
+							"statue gallery"
+						]
+					},
+					{
+						"timestamp": 3475,
+						"meta": [
+							"uncertain location",
+							"team hands",
+							"barrier",
+							"pillars",
+							"belts",
+							"statue gallery"
+						]
+					},
+					{
+						"timestamp": 3477.2,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"interior",
+							"no team",
+							"barrier",
+							"pillars",
+							"belts",
+							"signs",
+							"statue gallery"
+						]
+					},
+					{
+						"timestamp": 3479.7,
+						"meta": [
+							"uncertain location",
+							"interior",
+							"no team",
+							"belts",
+							"statue gallery"
+						]
+					}
+				]
 			},
 			"58:49 SkittishAndBus - Konami Code": {
 				"timestamp": 3529,
 				"raw_text": "SkittishAndBus - Konami Code",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3538
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3538,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"no team",
+							"signs"
+						]
+					}
+				]
 			},
 			"59:13 almine2 - Walkman  SONY TPS-L2": {
 				"timestamp": 3553,
 				"raw_text": "almine2 - Walkman  SONY TPS-L2",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3557.2,
+					3564
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3557.2,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"no team",
+							"beams",
+							"tower"
+						]
+					},
+					{
+						"timestamp": 3564,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"no team",
+							"pillars",
+							"beams",
+							"signs",
+							"tower"
+						]
+					}
+				]
 			},
 			"59:20 Lawlzercawpter - STS-1": {
 				"timestamp": 3560,
 				"raw_text": "Lawlzercawpter - STS-1",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3575
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3575,
+						"meta": [
+							"uncertain location",
+							"no team",
+							"radar tower",
+							"frames",
+							"beams",
+							"lights",
+							"spaceship"
+						]
+					}
+				]
 			},
 			"59:49 cheat117 - Outrun": {
 				"timestamp": 3589,
 				"raw_text": "cheat117 - Outrun",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3596
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3596,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"no team",
+							"pillars",
+							"frames",
+							"signs",
+							"roads",
+							"signs as lights"
+						]
+					}
+				]
 			},
 			"1:00:57 travman19 - Welcome to the halls of Doggo": {
 				"timestamp": 3657,
 				"raw_text": "travman19 - Welcome to the halls of Doggo",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3665
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3665,
+						"meta": [
+							"uncertain location",
+							"glass",
+							"no team",
+							"beams",
+							"lights",
+							"signs"
+						]
+					}
+				]
 			},
 			"1:01:44 Kalikus808 - In loving memory of Yankeeace50": {
 				"timestamp": 3704,
 				"raw_text": "Kalikus808 - In loving memory of Yankeeace50",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3713
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3713,
+						"meta": [
+							"uncertain location",
+							"pixel art",
+							"references to other franchises",
+							"no team"
+						]
+					}
+				]
 			},
 			"1:02:41 PumpkinHead_LIVE - Johnny 5": {
 				"timestamp": 3761,
 				"raw_text": "PumpkinHead_LIVE - Johnny 5",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3763.4
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3763.4,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"no team",
+							"pillars",
+							"frames",
+							"pipes"
+						]
+					}
+				]
 			},
 			"1:04:04 HowToBeQuiet - The Xenomorph Queen": {
 				"timestamp": 3844,
 				"raw_text": "HowToBeQuiet - The Xenomorph Queen",
-				"timestamps_for_links": []
+				"timestamps_for_links": [
+					3849,
+					3862
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3849,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"no team",
+							"pillars",
+							"beams",
+							"foundation patterns"
+						]
+					},
+					{
+						"timestamp": 3862,
+						"meta": [
+							"uncertain location",
+							"references to other franchises",
+							"no team",
+							"pillars",
+							"beams"
+						]
+					}
+				]
 			}
 		}
 	}
