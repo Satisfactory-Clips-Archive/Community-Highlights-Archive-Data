@@ -1,4 +1,290 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/133x5cf/jungle_temple/": [
+		{
+			"src": "https://preview.redd.it/s09jatgmy1xa1.png?width=640&crop=smart&auto=webp&s=e1500a3a5c5c94075d57c5023e84a96c0f7324c4",
+			"alt": "Jungle Temple",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/s09jatgmy1xa1.png",
+			"alt": "Jungle Temple",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"bridge",
+				"tower",
+				"drone",
+				"ladder",
+				"frames",
+				"railing",
+				"pipes",
+				"belts",
+				"catwalk",
+				"glass",
+				"architecture",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/133kp5h/twin_towers/": [
+		{
+			"src": "https://preview.redd.it/q4fn2x3tqzwa1.png?width=640&crop=smart&auto=webp&s=51d497e510511ff9795f11f4c8f0f89125b0c75c",
+			"alt": "Twin Towers",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/q4fn2x3tqzwa1.png",
+			"alt": "Twin Towers",
+			"highlightsMeta": [
+				"uncertain location",
+				"night time",
+				"drone",
+				"lights",
+				"frames",
+				"glass",
+				"particle accelerator",
+				"awesome sink",
+				"frames",
+				"glass",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/133m19k/mega_project_done_100h_work_in_this_octa_tower/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/4zfBOzzfNDy1-98BiagLt48gdPLBZwjHPl0Wr4hDYRs.jpg",
+			"alt": "Mega Project done! 100h+ work in this octa tower for my hole power production. 240 Fuelgenerators all overclocked. The Tower is also mirrored from the middel. Video is also coming!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/v8xf5cm740xa1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"no team",
+				"nature",
+				"fog",
+				"sunrise/sunset",
+				"fuel plant",
+				"radar tower",
+				"repetition",
+				"pillars",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/pbbgzbm740xa1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"no team",
+				"nature",
+				"fog",
+				"sunrise/sunset",
+				"fuel plant",
+				"radar tower",
+				"repetition",
+				"space elevator",
+				"pillars",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/f5c2san740xa1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"no team",
+				"nature",
+				"fog",
+				"sunrise/sunset",
+				"fuel plant",
+				"radar tower",
+				"repetition",
+				"pillars",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/133g24g/bank_of_china_tower/": [
+		{
+			"src": "https://preview.redd.it/4i0xmw86bywa1.png?width=640&crop=smart&auto=webp&s=894b777893655f4f736bd6ff21aa4f11f81ceddb",
+			"alt": "Bank of China Tower",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4i0xmw86bywa1.png",
+			"alt": "Bank of China Tower",
+			"highlightsMeta": [
+				"lake forest",
+				"sunrise/sunset",
+				"tower",
+				"lizard doggo",
+				"catwalk",
+				"architecture",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/12uhzj2/working_on_ficsmas_2023_this_is_the_3rd/": [
+		{
+			"src": "https://preview.redd.it/9212fxdevava1.png?width=640&crop=smart&auto=webp&s=c4858d11f2ea59faf876e959ad09986786235f4d",
+			"alt": "Working on Ficsmas 2023. This is the 3rd generation Ficmas factory based on my gen 7 modular factory design. The planet has 400 train stations and 330 bidirectional trains which act as logistics between production lines.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9212fxdevava1.png",
+			"alt": "Working on Ficsmas 2023. This is the 3rd generation Ficmas factory based on my gen 7 modular factory design. The planet has 400 train stations and 330 bidirectional trains which act as logistics between production lines.",
+			"highlightsMeta": [
+				"ficsmas",
+				"team hover pack",
+				"team golden cup",
+				"train tracks",
+				"train signals",
+				"signs",
+				"repetition",
+				"dune desert",
+				"glass"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/13c09er/crs_spiral_elevator_design_idea_need_feedback/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/z943QFm0NPyo4ANUcV_YWVjzhX26C-PD7IHi35m01o4.jpg",
+			"alt": "CRS Spiral Elevator Design Idea - Need Feedback",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mgvu5nwygnya1.png",
+			"highlightsMeta": [
+				"train spiral",
+				"unknown location",
+				"no team",
+				"beams",
+				"pillars"
+			]
+		},
+		{
+			"src": "https://i.redd.it/d6btm53zgnya1.png",
+			"highlightsMeta": [
+				"train spiral",
+				"unknown location",
+				"no team",
+				"beams",
+				"pillars",
+				"cables",
+				"tubes"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/13bvyec/subnautica_inspired_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/UuMcPFL2CZFDphwWAmGG10SX-Gm7BxfRHp3ruHB6zOI.jpg",
+			"alt": "Subnautica inspired factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5bsscr0unmya1.jpg",
+			"alt": "Entrance",
+			"highlightsMeta": [
+				"beams",
+				"references to other franchises",
+				"pillars",
+				"signs as lights",
+				"signs",
+				"desert canyons",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/d3onum1ynmya1.jpg",
+			"highlightsMeta": [
+				"beams",
+				"references to other franchises",
+				"pillars",
+				"signs as lights",
+				"desert canyons",
+				"no team",
+				"glass",
+				"manifold",
+				"manufacturer"
+			]
+		},
+		{
+			"src": "https://i.redd.it/la37crq8omya1.jpg",
+			"alt": "Glass research cage",
+			"highlightsMeta": [
+				"beams",
+				"references to other franchises",
+				"pillars",
+				"signs as lights",
+				"desert canyons",
+				"no team",
+				"glass",
+				"interior",
+				"nature"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qyfk51bcomya1.jpg",
+			"highlightsMeta": [
+				"beams",
+				"references to other franchises",
+				"pillars",
+				"signs as lights",
+				"desert canyons",
+				"no team",
+				"assembler",
+				"interior",
+				"belts"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/13c44g4/wip_shot_of_the_phase_4_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/UAIW6Oiorkb0cWSDPk0anYSEn-6jlMzNduIthtBPqQA.jpg",
+			"alt": "WIP shot of the Phase 4 factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/swld56h41oya1.jpg",
+			"alt": "https://www.reddit.com/r/SatisfactoryGame/comments/13c44g4/wip_shot_of_the_phase_4_factory/",
+			"highlightsMeta": [
+				"manta gate",
+				"grass fields",
+				"manifold",
+				"industrial",
+				"assembler",
+				"refinery",
+				"belts",
+				"awesome sink",
+				"signs",
+				"signs as lights",
+				"space elevator",
+				"manta",
+				"sunrise/sunset",
+				"roads",
+				"foundation patterns",
+				"train tracks",
+				"train signals",
+				"pipes",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/13bpl2n/ficsit_overlords_dont_lose_your_head_over_it_me/": [
+		{
+			"src": "https://preview.redd.it/so2izwi0lnya1.png?width=640&crop=smart&auto=webp&s=65ca9c49b7253d66cf5b7fca9a0f746a5378c104",
+			"alt": "Ficsit Overlords \"Don't lose your head over it!\" Me lol.....",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/so2izwi0lnya1.png",
+			"alt": "Ficsit Overlords \"Don't lose your head over it!\" Me lol.....",
+			"highlightsMeta": [
+				"grass fields",
+				"glitch",
+				"truck",
+				"no team"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/12q1pi6/cliffside_concrete_factory/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/GhrV50xhEHeKGUzwHvTWx5_YtbwznBz5eyG38Ik7WIg.jpg",
