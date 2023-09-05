@@ -285,6 +285,50 @@
 			]
 		}
 	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/13a9pev/i_made_some_hot_rods_504_rods_a_min/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Y2v_hxzL93PzJHrA8M4GfI2I7voes29TFlsuRaSw10s.jpg",
+			"alt": "i made some Hot Rods... 50.4 rods a min...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/w93bmde4jbya1.png",
+			"highlightsMeta": [
+				"swamp",
+				"no team",
+				"blender",
+				"manifold",
+				"belts",
+				"signs as lights",
+				"radar tower",
+				"manufacturer",
+				"glass",
+				"train tracks",
+				"train signals"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1377qu2/collider_construction_complete/": [
+		{
+			"src": "https://preview.redd.it/x7h9sg7kaqxa1.png?width=640&crop=smart&auto=webp&s=77709d44c149dd537eb2d1963bedfbe71a5e11d5",
+			"alt": "Collider construction complete",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/x7h9sg7kaqxa1.png",
+			"alt": "Collider construction complete",
+			"highlightsMeta": [
+				"spire coast",
+				"team hover pack",
+				"particle accelerator",
+				"beams",
+				"signs as lights",
+				"belts",
+				"glass",
+				"pillars"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/12q1pi6/cliffside_concrete_factory/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/GhrV50xhEHeKGUzwHvTWx5_YtbwznBz5eyG38Ik7WIg.jpg",
