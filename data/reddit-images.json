@@ -10,18 +10,18 @@
 			"alt": "Jungle Temple",
 			"highlightsMeta": [
 				"red bamboo fields",
-				"bridge",
-				"tower",
-				"drone",
-				"ladder",
-				"frames",
-				"railing",
-				"pipes",
-				"belts",
-				"catwalk",
-				"glass",
 				"architecture",
-				"no team"
+				"glass",
+				"no team",
+				"drone",
+				"catwalk",
+				"railing",
+				"frames",
+				"belts",
+				"ladder",
+				"pipes",
+				"bridge",
+				"tower"
 			]
 		}
 	],
@@ -36,16 +36,14 @@
 			"alt": "Twin Towers",
 			"highlightsMeta": [
 				"uncertain location",
+				"glass",
 				"night time",
-				"drone",
-				"lights",
-				"frames",
-				"glass",
-				"particle accelerator",
+				"no team",
 				"awesome sink",
+				"particle accelerator",
+				"drone",
 				"frames",
-				"glass",
-				"no team"
+				"lights"
 			]
 		}
 	],
@@ -59,14 +57,14 @@
 			"src": "https://i.redd.it/v8xf5cm740xa1.png",
 			"highlightsMeta": [
 				"spire coast",
-				"no team",
-				"nature",
 				"fog",
-				"sunrise/sunset",
-				"fuel plant",
-				"radar tower",
+				"nature",
 				"repetition",
+				"sunrise/sunset",
+				"no team",
+				"radar tower",
 				"pillars",
+				"fuel plant",
 				"signs as lights"
 			]
 		},
@@ -74,15 +72,15 @@
 			"src": "https://i.redd.it/pbbgzbm740xa1.png",
 			"highlightsMeta": [
 				"spire coast",
-				"no team",
-				"nature",
 				"fog",
-				"sunrise/sunset",
-				"fuel plant",
-				"radar tower",
+				"nature",
 				"repetition",
+				"sunrise/sunset",
+				"no team",
+				"radar tower",
 				"space elevator",
 				"pillars",
+				"fuel plant",
 				"signs as lights"
 			]
 		},
@@ -90,14 +88,14 @@
 			"src": "https://i.redd.it/f5c2san740xa1.png",
 			"highlightsMeta": [
 				"spire coast",
-				"no team",
-				"nature",
 				"fog",
-				"sunrise/sunset",
-				"fuel plant",
-				"radar tower",
+				"nature",
 				"repetition",
+				"sunrise/sunset",
+				"no team",
+				"radar tower",
 				"pillars",
+				"fuel plant",
 				"signs as lights"
 			]
 		}
@@ -113,12 +111,12 @@
 			"alt": "Bank of China Tower",
 			"highlightsMeta": [
 				"lake forest",
-				"sunrise/sunset",
-				"tower",
-				"lizard doggo",
-				"catwalk",
 				"architecture",
-				"no team"
+				"sunrise/sunset",
+				"no team",
+				"catwalk",
+				"lizard doggo",
+				"tower"
 			]
 		}
 	],
@@ -132,15 +130,15 @@
 			"src": "https://i.redd.it/9212fxdevava1.png",
 			"alt": "Working on Ficsmas 2023. This is the 3rd generation Ficmas factory based on my gen 7 modular factory design. The planet has 400 train stations and 330 bidirectional trains which act as logistics between production lines.",
 			"highlightsMeta": [
-				"ficsmas",
-				"team hover pack",
-				"team golden cup",
-				"train tracks",
-				"train signals",
-				"signs",
-				"repetition",
 				"dune desert",
-				"glass"
+				"ficsmas",
+				"glass",
+				"repetition",
+				"team golden cup",
+				"team hover pack",
+				"signs",
+				"train signals",
+				"train tracks"
 			]
 		}
 	],
@@ -153,23 +151,23 @@
 		{
 			"src": "https://i.redd.it/mgvu5nwygnya1.png",
 			"highlightsMeta": [
-				"train spiral",
 				"unknown location",
 				"no team",
+				"pillars",
 				"beams",
-				"pillars"
+				"train spiral"
 			]
 		},
 		{
 			"src": "https://i.redd.it/d6btm53zgnya1.png",
 			"highlightsMeta": [
-				"train spiral",
 				"unknown location",
 				"no team",
-				"beams",
 				"pillars",
+				"beams",
 				"cables",
-				"tubes"
+				"tubes",
+				"train spiral"
 			]
 		}
 	],
@@ -183,56 +181,56 @@
 			"src": "https://i.redd.it/5bsscr0unmya1.jpg",
 			"alt": "Entrance",
 			"highlightsMeta": [
-				"beams",
-				"references to other franchises",
-				"pillars",
-				"signs as lights",
-				"signs",
 				"desert canyons",
-				"no team"
+				"references to other franchises",
+				"no team",
+				"pillars",
+				"beams",
+				"signs",
+				"signs as lights"
 			]
 		},
 		{
 			"src": "https://i.redd.it/d3onum1ynmya1.jpg",
 			"highlightsMeta": [
-				"beams",
-				"references to other franchises",
-				"pillars",
-				"signs as lights",
 				"desert canyons",
-				"no team",
 				"glass",
 				"manifold",
-				"manufacturer"
+				"references to other franchises",
+				"no team",
+				"manufacturer",
+				"pillars",
+				"beams",
+				"signs as lights"
 			]
 		},
 		{
 			"src": "https://i.redd.it/la37crq8omya1.jpg",
 			"alt": "Glass research cage",
 			"highlightsMeta": [
-				"beams",
-				"references to other franchises",
-				"pillars",
-				"signs as lights",
 				"desert canyons",
-				"no team",
 				"glass",
 				"interior",
-				"nature"
+				"nature",
+				"references to other franchises",
+				"no team",
+				"pillars",
+				"beams",
+				"signs as lights"
 			]
 		},
 		{
 			"src": "https://i.redd.it/qyfk51bcomya1.jpg",
 			"highlightsMeta": [
-				"beams",
-				"references to other franchises",
-				"pillars",
-				"signs as lights",
 				"desert canyons",
+				"interior",
+				"references to other franchises",
 				"no team",
 				"assembler",
-				"interior",
-				"belts"
+				"pillars",
+				"beams",
+				"belts",
+				"signs as lights"
 			]
 		}
 	],
@@ -246,25 +244,25 @@
 			"src": "https://i.redd.it/swld56h41oya1.jpg",
 			"alt": "https://www.reddit.com/r/SatisfactoryGame/comments/13c44g4/wip_shot_of_the_phase_4_factory/",
 			"highlightsMeta": [
-				"manta gate",
 				"grass fields",
-				"manifold",
 				"industrial",
+				"manifold",
+				"sunrise/sunset",
+				"no team",
 				"assembler",
+				"awesome sink",
+				"space elevator",
 				"refinery",
 				"belts",
-				"awesome sink",
-				"signs",
-				"signs as lights",
-				"space elevator",
-				"manta",
-				"sunrise/sunset",
-				"roads",
 				"foundation patterns",
-				"train tracks",
-				"train signals",
 				"pipes",
-				"no team"
+				"signs",
+				"train signals",
+				"train tracks",
+				"manta",
+				"manta gate",
+				"roads",
+				"signs as lights"
 			]
 		}
 	],
@@ -280,8 +278,8 @@
 			"highlightsMeta": [
 				"grass fields",
 				"glitch",
-				"truck",
-				"no team"
+				"no team",
+				"truck"
 			]
 		}
 	],
@@ -295,16 +293,16 @@
 			"src": "https://i.redd.it/w93bmde4jbya1.png",
 			"highlightsMeta": [
 				"swamp",
+				"glass",
+				"manifold",
 				"no team",
 				"blender",
-				"manifold",
-				"belts",
-				"signs as lights",
 				"radar tower",
 				"manufacturer",
-				"glass",
+				"belts",
+				"train signals",
 				"train tracks",
-				"train signals"
+				"signs as lights"
 			]
 		}
 	],
@@ -319,13 +317,199 @@
 			"alt": "Collider construction complete",
 			"highlightsMeta": [
 				"spire coast",
+				"glass",
 				"team hover pack",
 				"particle accelerator",
+				"pillars",
 				"beams",
-				"signs as lights",
 				"belts",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/13cip1k/another_one_bites_the_dust_the_april_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/5UvAVRJfAF3Rxvcx7zKNooUyXS07mgVu5TUTJF4u3vg.jpg",
+			"alt": "Another one bites the Dust... the April Factory photodump. :) (I couldn't pick, so enjoy them all )",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fcizccg69rya1.png",
+			"alt": "Main Factory Complex.",
+			"highlightsMeta": [
+				"rocky desert",
+				"jace would live there",
 				"glass",
-				"pillars"
+				"sunrise/sunset",
+				"no team",
+				"assembler",
+				"radar tower",
+				"space elevator",
+				"train station",
+				"truck station",
+				"train",
+				"pillars",
+				"lights",
+				"train signals",
+				"train tracks",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/poixb1hi9rya1.png",
+			"alt": "Hub and Workshop area",
+			"highlightsMeta": [
+				"rocky desert",
+				"glass",
+				"sunrise/sunset",
+				"no team",
+				"radar tower",
+				"space elevator",
+				"manufacturer",
+				"pillars",
+				"catwalk",
+				"frames",
+				"lights",
+				"signs",
+				"signs as lights",
+				"warehouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/x2ioxrf8drya1.png",
+			"alt": ".8 x 8 Assembly Director Systems in production , Sir!",
+			"highlightsMeta": [
+				"rocky desert",
+				"glass",
+				"night time",
+				"no team",
+				"assembler",
+				"manufacturer",
+				"pillars",
+				"frames",
+				"belts",
+				"lights",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ta0rt7t8brya1.png",
+			"alt": "Alumin(i)um... (Ingots @ 900/m - variable up to 1500/m)",
+			"highlightsMeta": [
+				"rocky desert",
+				"glass",
+				"night time",
+				"no team",
+				"awesome sink",
+				"smelter",
+				"lights",
+				"train signals",
+				"train tracks",
+				"bean",
+				"outpost"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/135dogu/aluminum_works/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/HlvUmaBjfSrNygZrZBWi5YRB08VZKJ-ZhGKS0WN4vpk.jpg",
+			"alt": "Aluminum Works...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/oh0hku0m8dxa1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"glass",
+				"night time",
+				"no team",
+				"train station",
+				"refinery",
+				"lights",
+				"signs",
+				"train signals",
+				"train tracks",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/njj1pssn8dxa1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"glass",
+				"interior",
+				"no team",
+				"refinery",
+				"lights",
+				"pipes",
+				"signs",
+				"outpost"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/12ybb98/its_archetypical_storage_and_manufacturing/": [
+		{
+			"src": "https://preview.redd.it/mn9dld1cbzva1.png?width=640&crop=smart&auto=webp&s=ce5ef697a2a184041713a9e2094542d9ce572301",
+			"alt": "It's Arch-e-typical storage and manufacturing ... :)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mn9dld1cbzva1.png",
+			"alt": "It's Arch-e-typical storage and manufacturing ... :)",
+			"highlightsMeta": [
+				"rocky desert",
+				"glass",
+				"night time",
+				"no team",
+				"space elevator",
+				"manufacturer",
+				"pillars",
+				"frames",
+				"lights",
+				"signs",
+				"signs as lights",
+				"warehouse"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/134dnud/ceiling_spaghetti_with_meatballs/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/0qf4KJgv0hfC7I_gisdNW2hr20bIYQBYLyYntP2Uh34.jpg",
+			"alt": "CEILING SPAGHETTI! With Meatballs!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/o17ujqdio5xa1.jpg",
+			"alt": "You look hungry, want some CEILING SPAGHETTI?",
+			"highlightsMeta": [
+				"uncertain location",
+				"fog",
+				"spaghett",
+				"modded",
+				"team rifle",
+				"belts",
+				"pipes"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/134a3zl/abstract_wet_concrete_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/bt1rOC5Z7KNjGs2l__jXrQJ-U8j5rqPaYXXiAgSuL7k.jpg",
+			"alt": "Abstract Wet Concrete Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/s2rn6kv0r4xa1.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"miner",
+				"train station",
+				"refinery",
+				"drone",
+				"belts",
+				"train tracks"
 			]
 		}
 	],

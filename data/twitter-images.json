@@ -26,6 +26,56 @@
 			]
 		}
 	],
+	"https://twitter.com/AxialC44/status/1653693948412452870": [
+		{
+			"src": "https://pbs.twimg.com/media/FvMZI3nWYAAhlzH.jpg",
+			"highlightsMeta": [
+				"red jungle",
+				"architecture",
+				"no team",
+				"radar tower",
+				"signs",
+				"train signals",
+				"train tracks",
+				"outpost",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FvMZI3vXgAE0qxw.jpg",
+			"highlightsMeta": [
+				"red jungle",
+				"architecture",
+				"no team",
+				"radar tower",
+				"drone",
+				"catwalk",
+				"frames",
+				"belts",
+				"signs",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FvMZI3oWYAAQByB.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FvMZI3uXoAAeujs.jpg",
+			"highlightsMeta": [
+				"red jungle",
+				"architecture",
+				"no team",
+				"radar tower",
+				"refinery",
+				"lights",
+				"pipes",
+				"train signals",
+				"train tracks"
+			]
+		}
+	],
 	"https://twitter.com/d3r_jo/status/1646448006361751553": [
 		{
 			"src": "https://pbs.twimg.com/media/FtlbndJWAAEgDFc?format=png&name=4096x4096",

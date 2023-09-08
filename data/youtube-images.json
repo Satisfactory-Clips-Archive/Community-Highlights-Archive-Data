@@ -1,4 +1,30 @@
 {
+	"https://www.youtube.com/watch?v=OOEFH1U3S3Y": [
+		{
+			"src": "https://img.youtube.com/vi/OOEFH1U3S3Y/hqdefault.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"belts",
+				"pipes",
+				"coal plant"
+			]
+		}
+	],
+	"https://www.youtube.com/watch?v=U3fUrtglS6c": [
+		{
+			"src": "https://img.youtube.com/vi/U3fUrtglS6c/hqdefault.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"interior",
+				"manifold",
+				"no team",
+				"refinery",
+				"pipes",
+				"oil plant"
+			]
+		}
+	],
 	"https://www.youtube.com/watch?v=tG7-OvAl1HE": [
 		{
 			"src": "https://img.youtube.com/vi/tG7-OvAl1HE/hqdefault.jpg",
