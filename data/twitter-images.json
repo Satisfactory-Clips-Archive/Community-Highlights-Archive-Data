@@ -26,6 +26,29 @@
 			]
 		}
 	],
+	"https://twitter.com/TheHomeFrog/status/1658048531775594496": [
+		{
+			"src": "https://pbs.twimg.com/media/FwKSV4yX0AEi50n?format=png&name=4096x4096",
+			"highlightsMeta": [
+				"long beach",
+				"no team",
+				"bridge",
+				"beams",
+				"train tracks",
+				"space elevator",
+				"signs as lights",
+				"frames"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FwKSWO6XsAAMKqG?format=png&name=4096x4096",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FwKSWfoXoAkQFpb?format=png&name=4096x4096",
+			"skip": true
+		}
+	],
 	"https://twitter.com/AxialC44/status/1653693948412452870": [
 		{
 			"src": "https://pbs.twimg.com/media/FvMZI3nWYAAhlzH.jpg",
