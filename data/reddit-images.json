@@ -10,12 +10,12 @@
 			"alt": "Little bit of a thought experiment went into a neat bridge to the grasslands",
 			"highlightsMeta": [
 				"grass fields",
-				"radar tower",
-				"signs",
-				"roads",
-				"lights",
 				"glass",
-				"no team"
+				"no team",
+				"radar tower",
+				"lights",
+				"signs",
+				"roads"
 			]
 		}
 	],
@@ -31,8 +31,8 @@
 				"rocky desert",
 				"glass",
 				"team hands",
-				"beams",
-				"blueprint designer"
+				"blueprint designer",
+				"beams"
 			]
 		}
 	],
@@ -46,14 +46,14 @@
 			"src": "https://i.redd.it/gz6k03dnjnza1.png",
 			"highlightsMeta": [
 				"unknown location",
-				"no team",
+				"glass",
 				"industrial",
-				"catwalk",
-				"pipes",
+				"no team",
 				"resource extractor",
+				"catwalk",
 				"railing",
 				"frames",
-				"glass",
+				"pipes",
 				"signs as lights"
 			]
 		},
@@ -72,10 +72,10 @@
 			"src": "https://i.redd.it/6q4oyxeew2za1.png",
 			"alt": "My (wip) control room (more info in comments)",
 			"highlightsMeta": [
-				"interior",
 				"unknown location",
-				"signs as lights",
-				"no team"
+				"interior",
+				"no team",
+				"signs as lights"
 			]
 		}
 	],
@@ -88,44 +88,44 @@
 		{
 			"src": "https://i.redd.it/0tny5eqevzza1.jpg",
 			"highlightsMeta": [
-				"no team",
 				"unknown location",
-				"night time",
-				"lights",
-				"signs as lights",
-				"pillars",
 				"architecture",
 				"interior",
-				"signs"
+				"night time",
+				"no team",
+				"pillars",
+				"lights",
+				"signs",
+				"signs as lights"
 			]
 		},
 		{
 			"src": "https://i.redd.it/xixmj2lfvzza1.jpg",
 			"highlightsMeta": [
-				"no team",
 				"unknown location",
-				"night time",
-				"lights",
-				"signs as lights",
-				"pillars",
 				"architecture",
 				"interior",
-				"signs"
+				"night time",
+				"no team",
+				"pillars",
+				"lights",
+				"signs",
+				"signs as lights"
 			]
 		},
 		{
 			"src": "https://i.redd.it/gbt6yw9hvzza1.jpg",
 			"highlightsMeta": [
-				"no team",
 				"unknown location",
-				"night time",
-				"lights",
-				"signs as lights",
-				"pillars",
 				"architecture",
+				"glass",
 				"interior",
+				"night time",
+				"no team",
+				"pillars",
+				"lights",
 				"signs",
-				"glass"
+				"signs as lights"
 			]
 		},
 		{
@@ -143,8 +143,8 @@
 			"src": "https://i.redd.it/ox39njzfe9za1.png",
 			"alt": "Peak efficiency achieved in vanilla game",
 			"highlightsMeta": [
-				"no team",
 				"dune desert",
+				"no team",
 				"beams"
 			]
 		}
@@ -161,9 +161,9 @@
 			"highlightsMeta": [
 				"dune desert",
 				"architecture",
-				"signs as lights",
 				"team golden cup",
-				"frames"
+				"frames",
+				"signs as lights"
 			]
 		},
 		{
@@ -172,16 +172,16 @@
 			"highlightsMeta": [
 				"grass fields",
 				"grass fields arch",
-				"frames",
-				"tower",
 				"industrial",
-				"train tracks",
 				"team golden cup",
-				"lights",
-				"signs as lights",
+				"train station",
 				"railing",
+				"frames",
+				"lights",
 				"train signals",
-				"train station"
+				"train tracks",
+				"signs as lights",
+				"tower"
 			]
 		},
 		{
@@ -189,9 +189,9 @@
 			"alt": "My 100 (250MW) reactor power setup north of the Spire Coast",
 			"highlightsMeta": [
 				"spire coast",
+				"repetition",
 				"team golden cup",
 				"nuclear plant",
-				"repetition",
 				"signs as lights"
 			]
 		},
@@ -209,12 +209,12 @@
 			"src": "https://i.redd.it/rh0fvra9hsya1.png",
 			"alt": "My Ficsmas setup in the top left ocean",
 			"highlightsMeta": [
-				"ficsmas",
 				"uncertain location",
-				"repetition",
+				"ficsmas",
 				"manifold",
-				"constructor",
-				"team golden cup"
+				"repetition",
+				"team golden cup",
+				"constructor"
 			]
 		},
 		{
@@ -233,16 +233,16 @@
 			"src": "https://i.redd.it/kdcvsmgdluza1.jpg",
 			"highlightsMeta": [
 				"uncertain location",
-				"no team",
-				"refinery",
-				"train tracks",
-				"train",
-				"train station",
-				"beams",
 				"architecture",
+				"no team",
+				"train station",
+				"refinery",
+				"train",
 				"pillars",
+				"beams",
 				"belts",
 				"pipes",
+				"train tracks",
 				"signs as lights"
 			]
 		},
@@ -250,13 +250,13 @@
 			"src": "https://i.redd.it/3vst1sgdluza1.jpg",
 			"highlightsMeta": [
 				"uncertain location",
-				"no team",
 				"interior",
-				"pipes",
-				"signs",
+				"no team",
+				"explorer",
 				"tractor",
 				"truck",
-				"explorer"
+				"pipes",
+				"signs"
 			]
 		},
 		{
@@ -295,12 +295,12 @@
 			"alt": "I finally started using blueprints",
 			"highlightsMeta": [
 				"spire coast",
-				"no team",
-				"tower",
-				"beams",
 				"glass",
+				"no team",
+				"pillars",
 				"railing",
-				"pillars"
+				"beams",
+				"tower"
 			]
 		}
 	],
@@ -316,15 +316,15 @@
 			"highlightsMeta": [
 				"crater lakes",
 				"no team",
+				"awesome sink",
 				"train station",
+				"frames",
+				"pipes",
+				"train tracks",
 				"nuclear plant",
 				"power storage bank",
-				"utility tower",
-				"pipes",
-				"frames",
 				"signs as lights",
-				"train tracks",
-				"awesome sink"
+				"utility tower"
 			]
 		},
 		{
@@ -378,26 +378,26 @@
 			"src": "https://i.redd.it/0ufelz3ii40b1.png",
 			"highlightsMeta": [
 				"dune desert",
-				"train tracks",
-				"beams",
-				"lights",
+				"no team",
 				"pillars",
+				"beams",
 				"cables",
-				"no team"
+				"lights",
+				"train tracks"
 			]
 		},
 		{
 			"src": "https://i.redd.it/jyu8i74ii40b1.png",
 			"highlightsMeta": [
 				"dune desert",
-				"train tracks",
-				"beams",
-				"lights",
-				"pillars",
-				"cables",
 				"no team",
+				"pillars",
 				"railing",
-				"pipes"
+				"beams",
+				"cables",
+				"lights",
+				"pipes",
+				"train tracks"
 			]
 		},
 		{
@@ -432,63 +432,63 @@
 			"src": "https://i.redd.it/4polpbrbdsza1.png",
 			"highlightsMeta": [
 				"swamp",
-				"no team",
-				"outpost",
-				"signs as lights",
-				"tower",
 				"architecture",
 				"fog",
+				"night time",
+				"no team",
 				"drone",
-				"night time"
+				"outpost",
+				"signs as lights",
+				"tower"
 			]
 		},
 		{
 			"src": "https://i.redd.it/6b32ekrbdsza1.png",
 			"highlightsMeta": [
 				"swamp",
-				"no team",
-				"outpost",
-				"signs as lights",
-				"tower",
 				"architecture",
 				"fog",
-				"drone",
-				"night time",
 				"glass",
-				"lights",
-				"refinery",
+				"manifold",
+				"night time",
+				"no team",
 				"assembler",
-				"manifold"
+				"refinery",
+				"drone",
+				"lights",
+				"outpost",
+				"signs as lights",
+				"tower"
 			]
 		},
 		{
 			"src": "https://i.redd.it/n67us5raesza1.png",
 			"highlightsMeta": [
 				"swamp",
+				"glass",
+				"interior",
 				"night time",
 				"no team",
-				"outpost",
-				"interior",
-				"catwalk",
 				"manufacturer",
-				"lights",
 				"pillars",
-				"glass"
+				"catwalk",
+				"lights",
+				"outpost"
 			]
 		},
 		{
 			"src": "https://i.redd.it/lk7lkr8kesza1.png",
 			"highlightsMeta": [
 				"swamp",
+				"glass",
+				"interior",
+				"manifold",
 				"night time",
 				"no team",
-				"outpost",
-				"interior",
 				"smelter",
-				"lights",
 				"pillars",
-				"glass",
-				"manifold"
+				"lights",
+				"outpost"
 			]
 		},
 		{
