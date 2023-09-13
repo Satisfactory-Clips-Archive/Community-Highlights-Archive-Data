@@ -26,6 +26,77 @@
 			]
 		}
 	],
+	"https://twitter.com/ClassicLewis_/status/1659392447057674240": [
+		{
+			"src": "https://pbs.twimg.com/media/FwdYB-jWYAI6tQk?format=png&name=4096x4096",
+			"highlightsMeta": [
+				"blue crater",
+				"team nut",
+				"hub",
+				"tubes"
+			]
+		}
+	],
+	"https://twitter.com/grzott/status/1660950672517349378": [
+		{
+			"src": "https://pbs.twimg.com/media/Fwzh09wX0AIkYjq?format=png&name=4096x4096",
+			"highlightsMeta": [
+				"blue crater",
+				"glass",
+				"no team",
+				"pillars",
+				"belts",
+				"foundation patterns",
+				"train signals",
+				"train tracks",
+				"fuel plant",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Fwzh0-OXwAEix84?format=png&name=4096x4096",
+			"highlightsMeta": [
+				"blue crater",
+				"glass",
+				"no team",
+				"refinery",
+				"belts",
+				"pipes",
+				"train tracks",
+				"fuel plant"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/Fwzh0-AXsAMTp5y?format=png&name=4096x4096",
+			"skip": true
+		}
+	],
+	"https://twitter.com/Nephanor/status/1660537855612194816": [
+		{
+			"src": "https://pbs.twimg.com/media/FwtqTpcaUAA0v3I?format=png&name=4096x4096",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FwtqTpkacAApGRv?format=png&name=4096x4096",
+			"highlightsMeta": [
+				"spire coast",
+				"jace would live there",
+				"glass",
+				"night time",
+				"no team",
+				"space elevator",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FwtqTpdaEAAzncZ?format=png&name=4096x4096",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FwtqTpbaMAEI6ht?format=png&name=4096x4096",
+			"skip": true
+		}
+	],
 	"https://twitter.com/TheHomeFrog/status/1658048531775594496": [
 		{
 			"src": "https://pbs.twimg.com/media/FwKSV4yX0AEi50n?format=png&name=4096x4096",
