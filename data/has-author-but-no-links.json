@@ -10388,5 +10388,48 @@
 				]
 			}
 		}
+	},
+	"2023-05-30": {
+		"yt-Bf_2cUK6NT8": {
+			"10:10 WizardShep - Cult meeting in progress": {
+				"timestamp": 610,
+				"raw_text": "WizardShep - Cult meeting in progress",
+				"timestamps_for_links": [
+					614,
+					668
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 614,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"night time",
+							"no team",
+							"fuel plant",
+							"oil plant"
+						]
+					},
+					{
+						"timestamp": 668,
+						"meta": [
+							"uncertain location",
+							"architecture",
+							"industrial",
+							"interior",
+							"no team",
+							"awesome sink",
+							"blender",
+							"refinery",
+							"catwalk",
+							"frames",
+							"lights",
+							"pipes",
+							"oil plant"
+						]
+					}
+				]
+			}
+		}
 	}
 }

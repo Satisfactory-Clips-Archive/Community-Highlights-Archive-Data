@@ -26,6 +26,51 @@
 			]
 		}
 	],
+	"https://twitter.com/d3r_jo/status/1662532238167121921": [
+		{
+			"src": "https://pbs.twimg.com/media/FxJ_inBWwAMUcOg?format=png&name=4096x4096",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"train",
+				"pillars",
+				"frames",
+				"train tracks",
+				"bridge",
+				"signs as lights",
+				"train spiral",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FxJ_kHnXgAEPdm9?format=png&name=4096x4096",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FxJ_lZiX0AAvlpc?format=png&name=4096x4096",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FxJ_mzDXoAAJPAX?format=png&name=4096x4096",
+			"skip": true
+		}
+	],
+	"https://twitter.com/grzott/status/1661308057232588801": [
+		{
+			"src": "https://pbs.twimg.com/media/Fw4m3VnXoAEtWua?format=png&name=4096x4096",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"interior",
+				"pixel art",
+				"night time",
+				"no team",
+				"railing",
+				"beams",
+				"signs"
+			]
+		}
+	],
 	"https://twitter.com/ClassicLewis_/status/1659392447057674240": [
 		{
 			"src": "https://pbs.twimg.com/media/FwdYB-jWYAI6tQk?format=png&name=4096x4096",
