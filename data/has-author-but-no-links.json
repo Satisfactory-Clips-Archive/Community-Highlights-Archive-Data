@@ -10431,5 +10431,25 @@
 				]
 			}
 		}
+	},
+	"2023-06-13": {
+		"yt-GeKE40L2cSw": {
+			"48:08 Satisfactory Wiki - Content Creator Highlight": {
+				"timestamp": 2888,
+				"raw_text": "Satisfactory Wiki - Content Creator Highlight",
+				"timestamps_for_links": [
+					2943
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 2943,
+						"meta": [
+							"unknown location",
+							"no team"
+						]
+					}
+				]
+			}
+		}
 	}
 }
