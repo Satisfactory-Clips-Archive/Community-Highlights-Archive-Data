@@ -26,6 +26,64 @@
 			]
 		}
 	],
+	"https://twitter.com/CayoTZA/status/1671127940501848064": [
+		{
+			"src": "https://pbs.twimg.com/media/FzEKAHlWwAAGhtd?format=png&name=4096x4096",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"manifold",
+				"team hands",
+				"smelter",
+				"pillars",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FzEKAXCXgAE0aP2?format=png&name=4096x4096",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"manifold",
+				"team hands",
+				"smelter",
+				"pillars",
+				"viaduct"
+			]
+		}
+	],
+	"https://twitter.com/IanTheWonderdog/status/1673185406131503104": [
+		{
+			"src": "https://pbs.twimg.com/media/FzhZB4jWwAAca3d?format=png&name=4096x4096",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"sunrise/sunset",
+				"no team",
+				"pillars",
+				"lights",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FzhZB4kXwAET6GP?format=png&name=4096x4096",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/FzhZKVGXsAUWx_K?format=png&name=4096x4096",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"night time",
+				"no team",
+				"pillars",
+				"lights",
+				"signs as lights"
+			]
+		}
+	],
 	"https://twitter.com/d3r_jo/status/1662532238167121921": [
 		{
 			"src": "https://pbs.twimg.com/media/FxJ_inBWwAMUcOg?format=png&name=4096x4096",
