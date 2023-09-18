@@ -10451,5 +10451,74 @@
 				]
 			}
 		}
+	},
+	"2023-06-20": {
+		"yt-e3q1wIYOaWM": {
+			"20:27 Hammygames07 - Imperial lighting": {
+				"timestamp": 1227,
+				"raw_text": "Hammygames07 - Imperial lighting",
+				"timestamps_for_links": [
+					1228,
+					1243,
+					1250,
+					1258
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1228,
+						"meta": [
+							"unknown location",
+							"interior",
+							"no team",
+							"cyber wagon",
+							"catwalk",
+							"frames",
+							"foundation patterns",
+							"lights"
+						]
+					},
+					{
+						"timestamp": 1243,
+						"meta": [
+							"unknown location",
+							"glass",
+							"interior",
+							"no team",
+							"pillars",
+							"frames",
+							"lights",
+							"signs",
+							"tunnel"
+						]
+					},
+					{
+						"timestamp": 1250,
+						"meta": [
+							"unknown location",
+							"interior",
+							"no team",
+							"frames",
+							"lights",
+							"tubes",
+							"power storage bank",
+							"signs as lights"
+						]
+					},
+					{
+						"timestamp": 1258,
+						"meta": [
+							"unknown location",
+							"glass",
+							"interior",
+							"no team",
+							"pillars",
+							"belts",
+							"lights",
+							"tubes"
+						]
+					}
+				]
+			}
+		}
 	}
 }
