@@ -60,6 +60,9 @@
 		"jace": {
 			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
 		},
+		"snutt": {
+			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+		},
 		"team": {
 			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
 		},
