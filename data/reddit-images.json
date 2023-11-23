@@ -21,6 +21,7 @@
 				"foundation patterns",
 				"lights",
 				"signs",
+				"furniture",
 				"roads"
 			]
 		},
@@ -44,6 +45,7 @@
 				"railing",
 				"foundation patterns",
 				"lights",
+				"furniture",
 				"roads"
 			]
 		},
@@ -685,6 +687,7 @@
 				"northern forest",
 				"architecture",
 				"team hands",
+				"geothermal",
 				"miner",
 				"radar tower",
 				"pillars",
@@ -1840,6 +1843,7 @@
 			"alt": "How do you guys like this design?",
 			"highlightsMeta": [
 				"rocky desert",
+				"jace would get abducted there",
 				"night time",
 				"no team",
 				"awesome sink",
@@ -2221,6 +2225,7 @@
 				"interior",
 				"night time",
 				"no team",
+				"crafting bench",
 				"equipment workshop",
 				"mam",
 				"awesome shop",
@@ -3387,6 +3392,7 @@
 				"beams",
 				"belts",
 				"signs",
+				"furniture",
 				"signs as lights"
 			]
 		},
@@ -4379,7 +4385,8 @@
 				"uncertain location",
 				"multiplayer",
 				"no team",
-				"signs"
+				"signs",
+				"furniture"
 			]
 		}
 	],
@@ -4591,7 +4598,8 @@
 				"no team",
 				"pillars",
 				"lights",
-				"stairs"
+				"stairs",
+				"furniture"
 			]
 		},
 		{
@@ -4604,7 +4612,8 @@
 				"awesome shop",
 				"pillars",
 				"lights",
-				"signs"
+				"signs",
+				"furniture"
 			]
 		},
 		{
@@ -4639,6 +4648,7 @@
 				"no team",
 				"pillars",
 				"frames",
+				"furniture",
 				"signs as lights"
 			]
 		},
@@ -4878,6 +4888,7 @@
 				"pillars",
 				"lights",
 				"signs",
+				"furniture",
 				"signs as lights"
 			]
 		},
@@ -4892,6 +4903,7 @@
 				"pillars",
 				"lights",
 				"signs",
+				"furniture",
 				"signs as lights"
 			]
 		},
@@ -4907,6 +4919,7 @@
 				"pillars",
 				"lights",
 				"signs",
+				"furniture",
 				"signs as lights"
 			]
 		},
@@ -5228,6 +5241,7 @@
 			"src": "https://i.redd.it/6b32ekrbdsza1.png",
 			"highlightsMeta": [
 				"swamp",
+				"snutt would live there",
 				"architecture",
 				"fog",
 				"glass",
@@ -5775,6 +5789,7 @@
 			"alt": "It's Arch-e-typical storage and manufacturing ... :)",
 			"highlightsMeta": [
 				"rocky desert",
+				"jace would skateboard there",
 				"glass",
 				"night time",
 				"no team",
@@ -6007,6 +6022,7 @@
 				"spire coast",
 				"spaghett",
 				"no team",
+				"geothermal",
 				"space elevator",
 				"belts",
 				"pipes",
@@ -6950,6 +6966,7 @@
 				"lake forest",
 				"interior",
 				"no team",
+				"crafting bench",
 				"catwalk",
 				"lights",
 				"signs",
@@ -7433,6 +7450,7 @@
 				"pillars",
 				"railing",
 				"ladder",
+				"furniture",
 				"outpost"
 			]
 		}
@@ -7798,6 +7816,7 @@
 				"lights",
 				"personal crate",
 				"signs",
+				"furniture",
 				"parking lot"
 			]
 		},
@@ -7814,7 +7833,8 @@
 				"railing",
 				"beams",
 				"lights",
-				"signs"
+				"signs",
+				"furniture"
 			]
 		},
 		{
@@ -8216,6 +8236,7 @@
 			"alt": "Enjoying my first coal generators. A screenshot from previous patches.",
 			"highlightsMeta": [
 				"western dune forest",
+				"jace would chill there",
 				"no team",
 				"water extractor",
 				"belts",
@@ -8815,6 +8836,7 @@
 			"highlightsMeta": [
 				"red jungle",
 				"no team",
+				"packager",
 				"awesome sink",
 				"belts",
 				"pipes",
@@ -8946,6 +8968,7 @@
 				"interior",
 				"manifold",
 				"no team",
+				"packager",
 				"railing",
 				"beams",
 				"foundation patterns",
@@ -9571,6 +9594,7 @@
 			"highlightsMeta": [
 				"paradise island",
 				"long beach",
+				"jace would play dota2 there",
 				"no team",
 				"power switch",
 				"railing",
@@ -9824,6 +9848,7 @@
 				"spaghett",
 				"multiplayer",
 				"no team",
+				"crafting bench",
 				"equipment workshop",
 				"mam",
 				"assembler",
@@ -10855,6 +10880,7 @@
 				"glass",
 				"interior",
 				"no team",
+				"crafting bench",
 				"awesome shop",
 				"explorer",
 				"barrier",
@@ -10864,6 +10890,7 @@
 				"lights",
 				"personal crate",
 				"signs",
+				"garage",
 				"warehouse"
 			]
 		},
@@ -10925,6 +10952,7 @@
 				"industrial",
 				"nature",
 				"team hover pack",
+				"packager",
 				"awesome sink",
 				"refinery",
 				"water extractor",
