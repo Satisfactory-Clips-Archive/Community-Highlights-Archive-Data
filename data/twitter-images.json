@@ -26,6 +26,182 @@
 			]
 		}
 	],
+	"https://twitter.com/dupomat/status/1705960975126425960": [
+		{
+			"src": "https://pbs.twimg.com/media/F6zJP4gWQAAWSta.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"megafactory",
+				"cityscape",
+				"signs as lights",
+				"belts",
+				"space elevator",
+				"architecture",
+				"viaduct",
+				"train tracks",
+				"train signals",
+				"miner",
+				"glass",
+				"pillars",
+				"no team"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/F6zJWjKXYAAxp7Y.jpg",
+			"highlightsMeta": [
+				"cityscape",
+				"train tracks",
+				"foundation patterns",
+				"no team",
+				"signs as lights",
+				"tubes",
+				"pillars",
+				"train",
+				"train signals",
+				"no team",
+				"lights",
+				"frames",
+				"dune desert"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/F6zJeKIWcAAlEBF.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/F6zJlsoXgAAA1Xk.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/d3r_jo/status/1697178758287962400": [
+		{
+			"src": "https://pbs.twimg.com/media/F42W5uPXgAAcjb5.jpg",
+			"highlightsMeta": [
+				"spire coast",
+				"no team",
+				"viaduct",
+				"bridge",
+				"pillars",
+				"train tracks",
+				"train signals",
+				"frames",
+				"tubes",
+				"space elevator",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/F42W92RXAAEUpuZ.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/F42XAQVXIAAawiL.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/F42XEOWXoAEZeaW.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/lukepro2315/status/1695696615347032195": [
+		{
+			"src": "https://pbs.twimg.com/media/F4hTEb1WsAAnHD7.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"crane",
+				"beams",
+				"frames",
+				"train tracks",
+				"train",
+				"frames",
+				"roads",
+				"foundation patterns",
+				"glass",
+				"miner",
+				"lights",
+				"no team"
+			]
+		}
+	],
+	"https://twitter.com/lukepro2315/status/1719805482058084382": [
+		{
+			"src": "https://pbs.twimg.com/media/F9358ZmWIAAtT0F.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/F9358ZlXYAArjE9.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"pipes",
+				"refinery",
+				"catwalk",
+				"belts",
+				"train station"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/F9358ZlXgAAAf9G.jpg",
+			"skip": true
+		}
+	],
+	"https://twitter.com/grzott/status/1692399673971995010": [
+		{
+			"src": "https://pbs.twimg.com/media/F3ychlPXkAAJQxm.jpg",
+			"highlightsMeta": [
+				"industrial",
+				"roads",
+				"spire coast",
+				"foundation patterns",
+				"train",
+				"train tracks",
+				"train signals",
+				"tower",
+				"radar tower",
+				"glass",
+				"frames",
+				"fuel plant",
+				"no team"
+			]
+		}
+	],
+	"https://twitter.com/s_twentynine/status/1685180575320010752": [
+		{
+			"src": "https://pbs.twimg.com/media/F2L2upRXIAACMrZ.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"industrial",
+				"frames",
+				"frames",
+				"belts",
+				"manifold",
+				"constructor",
+				"assembler",
+				"awesome sink",
+				"tubes",
+				"glass",
+				"no team",
+				"miner"
+			]
+		}
+	],
+	"https://twitter.com/s_twentynine/status/1685181073922113537": [
+		{
+			"src": "https://pbs.twimg.com/media/F2L3MTUXEAA8RgB.jpg",
+			"highlightsMeta": [
+				"night time",
+				"dune desert",
+				"industrial",
+				"lights",
+				"frames",
+				"glass",
+				"signs as lights",
+				"pillars",
+				"tubes",
+				"no team"
+			]
+		}
+	],
 	"https://twitter.com/CayoTZA/status/1671127940501848064": [
 		{
 			"src": "https://pbs.twimg.com/media/FzEKAHlWwAAGhtd?format=png&name=4096x4096",

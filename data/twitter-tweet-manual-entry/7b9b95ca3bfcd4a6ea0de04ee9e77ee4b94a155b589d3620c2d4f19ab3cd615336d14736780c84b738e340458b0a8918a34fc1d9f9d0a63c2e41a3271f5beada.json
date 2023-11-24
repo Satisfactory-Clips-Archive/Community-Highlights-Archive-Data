@@ -1,0 +1,22 @@
+{
+	"includes": {
+		"media": [
+			{
+				"type": "photo",
+				"url": "https://pbs.twimg.com/media/F6zJP4gWQAAWSta.jpg"
+			},
+			{
+				"type": "photo",
+				"url": "https://pbs.twimg.com/media/F6zJWjKXYAAxp7Y.jpg"
+			},
+			{
+				"type": "photo",
+				"url": "https://pbs.twimg.com/media/F6zJeKIWcAAlEBF.jpg"
+			},
+			{
+				"type": "photo",
+				"url": "https://pbs.twimg.com/media/F6zJlsoXgAAA1Xk.jpg"
+			}
+		]
+	}
+}

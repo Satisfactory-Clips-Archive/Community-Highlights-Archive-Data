@@ -95,6 +95,9 @@
 		"jace would work there",
 		"robo jace"
 	],
+	"snutt": [
+		"snutt would live there"
+	],
 	"aesthetics": {
 		"themes": [
 			"architecture",
@@ -195,7 +198,8 @@
 			"constructor",
 			"refinery",
 			"water extractor",
-			"biomass burner"
+			"biomass burner",
+			"power tower"
 		],
 		"vehicles": [
 			"cyber wagon",
@@ -235,7 +239,9 @@
 			"tubes",
 			"user interface",
 			"train tracks",
-			"crash site"
+			"crash site",
+			"jetpack",
+			"blade runners"
 		]
 	},
 	"creatures": [

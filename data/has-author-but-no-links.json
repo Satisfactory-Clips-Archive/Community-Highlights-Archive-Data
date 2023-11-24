@@ -12078,5 +12078,63 @@
 				]
 			}
 		}
+	},
+	"2023-11-21": {
+		"yt-6Op9oPs2naY": {
+			"17:31 grzott - Factory resort https://twitter.com/grzott/status/1692399673971995010": {
+				"timestamp": 1051,
+				"raw_text": "grzott - Factory resort https://twitter.com/grzott/status/1692399673971995010",
+				"timestamps_for_links": [
+					1238
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1238,
+						"meta": [
+							"industrial",
+							"roads",
+							"spire coast",
+							"foundation patterns",
+							"train",
+							"train tracks",
+							"train signals",
+							"tower",
+							"radar tower",
+							"glass",
+							"frames",
+							"fuel plant",
+							"no team"
+						]
+					}
+				]
+			},
+			"20:58 s_twentynine - industrial vibes https://twitter.com/s_twentynine/status/1685180575320010752": {
+				"timestamp": 1258,
+				"raw_text": "s_twentynine - industrial vibes https://twitter.com/s_twentynine/status/1685180575320010752",
+				"timestamps_for_links": [
+					1341.19
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1341.19,
+						"meta": [
+							"dune desert",
+							"industrial",
+							"frames",
+							"frames",
+							"belts",
+							"manifold",
+							"constructor",
+							"assembler",
+							"awesome sink",
+							"tubes",
+							"glass",
+							"no team",
+							"miner"
+						]
+					}
+				]
+			}
+		}
 	}
 }
