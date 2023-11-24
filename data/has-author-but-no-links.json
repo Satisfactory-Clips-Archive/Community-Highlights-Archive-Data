@@ -12091,19 +12091,19 @@
 					{
 						"timestamp": 1238,
 						"meta": [
-							"industrial",
-							"roads",
 							"spire coast",
-							"foundation patterns",
-							"train",
-							"train tracks",
-							"train signals",
-							"tower",
-							"radar tower",
 							"glass",
+							"industrial",
+							"no team",
+							"radar tower",
+							"train",
 							"frames",
+							"foundation patterns",
+							"train signals",
+							"train tracks",
 							"fuel plant",
-							"no team"
+							"roads",
+							"tower"
 						]
 					}
 				]
@@ -12119,18 +12119,17 @@
 						"timestamp": 1341.19,
 						"meta": [
 							"dune desert",
+							"glass",
 							"industrial",
-							"frames",
-							"frames",
-							"belts",
 							"manifold",
-							"constructor",
+							"no team",
 							"assembler",
 							"awesome sink",
-							"tubes",
-							"glass",
-							"no team",
-							"miner"
+							"miner",
+							"constructor",
+							"frames",
+							"belts",
+							"tubes"
 						]
 					}
 				]

@@ -266,17 +266,17 @@
 		{
 			"src": "https://i.redd.it/t98z3t9iqc1c1.png",
 			"highlightsMeta": [
-				"spire coast",
 				"uncertain location",
-				"no team",
-				"lights",
-				"signs as lights",
-				"nuclear plant",
+				"spire coast",
 				"glass",
-				"water extractor",
-				"night time",
 				"repetition",
-				"beams"
+				"night time",
+				"no team",
+				"water extractor",
+				"beams",
+				"lights",
+				"nuclear plant",
+				"signs as lights"
 			]
 		},
 		{
@@ -290,15 +290,15 @@
 		{
 			"src": "https://i.redd.it/liwy8r9iqc1c1.png",
 			"highlightsMeta": [
-				"team hands",
 				"uncertain location",
 				"spire coast",
-				"nuclear plant",
-				"railing",
-				"lights",
 				"glass",
+				"team hands",
+				"railing",
 				"beams",
+				"lights",
 				"signs",
+				"nuclear plant",
 				"signs as lights"
 			]
 		}
@@ -314,11 +314,11 @@
 			"alt": "These OSHA inspectors are getting quite thorough.",
 			"highlightsMeta": [
 				"grass fields",
-				"bean",
+				"no team",
 				"water extractor",
-				"coal plant",
 				"pipes",
-				"no team"
+				"bean",
+				"coal plant"
 			]
 		}
 	],
@@ -332,15 +332,15 @@
 			"src": "https://i.redd.it/fs9004bhg61c1.png",
 			"highlightsMeta": [
 				"dune desert",
-				"miner",
-				"outpost",
-				"catwalk",
 				"glass",
 				"manifold",
-				"belts",
+				"temporary is never temporary",
 				"no team",
+				"miner",
+				"catwalk",
+				"belts",
 				"signs",
-				"temporary is never temporary"
+				"outpost"
 			]
 		},
 		{
@@ -354,15 +354,15 @@
 		{
 			"src": "https://i.redd.it/cxtb6fbhg61c1.png",
 			"highlightsMeta": [
-				"temporary is never temporary",
 				"dune desert",
-				"catwalk",
-				"coal plant",
-				"belts",
-				"no team",
 				"glass",
+				"temporary is never temporary",
+				"no team",
+				"miner",
+				"catwalk",
 				"beams",
-				"miner"
+				"belts",
+				"coal plant"
 			]
 		},
 		{

@@ -31,37 +31,36 @@
 			"src": "https://pbs.twimg.com/media/F6zJP4gWQAAWSta.jpg",
 			"highlightsMeta": [
 				"dune desert",
-				"megafactory",
-				"cityscape",
-				"signs as lights",
-				"belts",
-				"space elevator",
 				"architecture",
-				"viaduct",
-				"train tracks",
-				"train signals",
-				"miner",
+				"cityscape",
 				"glass",
+				"megafactory",
+				"no team",
+				"miner",
+				"space elevator",
 				"pillars",
-				"no team"
+				"belts",
+				"train signals",
+				"train tracks",
+				"signs as lights",
+				"viaduct"
 			]
 		},
 		{
 			"src": "https://pbs.twimg.com/media/F6zJWjKXYAAxp7Y.jpg",
 			"highlightsMeta": [
+				"dune desert",
 				"cityscape",
-				"train tracks",
-				"foundation patterns",
 				"no team",
-				"signs as lights",
-				"tubes",
-				"pillars",
 				"train",
-				"train signals",
-				"no team",
-				"lights",
+				"pillars",
 				"frames",
-				"dune desert"
+				"foundation patterns",
+				"lights",
+				"train signals",
+				"tubes",
+				"train tracks",
+				"signs as lights"
 			]
 		},
 		{
@@ -79,15 +78,15 @@
 			"highlightsMeta": [
 				"spire coast",
 				"no team",
-				"viaduct",
-				"bridge",
-				"pillars",
-				"train tracks",
-				"train signals",
-				"frames",
-				"tubes",
 				"space elevator",
-				"signs as lights"
+				"pillars",
+				"frames",
+				"train signals",
+				"tubes",
+				"train tracks",
+				"bridge",
+				"signs as lights",
+				"viaduct"
 			]
 		},
 		{
@@ -108,18 +107,17 @@
 			"src": "https://pbs.twimg.com/media/F4hTEb1WsAAnHD7.jpg",
 			"highlightsMeta": [
 				"dune desert",
-				"crane",
-				"beams",
-				"frames",
-				"train tracks",
+				"glass",
+				"no team",
+				"miner",
 				"train",
 				"frames",
-				"roads",
+				"beams",
 				"foundation patterns",
-				"glass",
-				"miner",
 				"lights",
-				"no team"
+				"train tracks",
+				"crane",
+				"roads"
 			]
 		}
 	],
@@ -133,11 +131,11 @@
 			"highlightsMeta": [
 				"uncertain location",
 				"no team",
-				"pipes",
+				"train station",
 				"refinery",
 				"catwalk",
 				"belts",
-				"train station"
+				"pipes"
 			]
 		},
 		{
@@ -149,19 +147,19 @@
 		{
 			"src": "https://pbs.twimg.com/media/F3ychlPXkAAJQxm.jpg",
 			"highlightsMeta": [
-				"industrial",
-				"roads",
 				"spire coast",
-				"foundation patterns",
-				"train",
-				"train tracks",
-				"train signals",
-				"tower",
-				"radar tower",
 				"glass",
+				"industrial",
+				"no team",
+				"radar tower",
+				"train",
 				"frames",
+				"foundation patterns",
+				"train signals",
+				"train tracks",
 				"fuel plant",
-				"no team"
+				"roads",
+				"tower"
 			]
 		}
 	],
@@ -170,18 +168,17 @@
 			"src": "https://pbs.twimg.com/media/F2L2upRXIAACMrZ.jpg",
 			"highlightsMeta": [
 				"dune desert",
+				"glass",
 				"industrial",
-				"frames",
-				"frames",
-				"belts",
 				"manifold",
-				"constructor",
+				"no team",
 				"assembler",
 				"awesome sink",
-				"tubes",
-				"glass",
-				"no team",
-				"miner"
+				"miner",
+				"constructor",
+				"frames",
+				"belts",
+				"tubes"
 			]
 		}
 	],
@@ -189,16 +186,16 @@
 		{
 			"src": "https://pbs.twimg.com/media/F2L3MTUXEAA8RgB.jpg",
 			"highlightsMeta": [
-				"night time",
 				"dune desert",
-				"industrial",
-				"lights",
-				"frames",
 				"glass",
-				"signs as lights",
+				"industrial",
+				"night time",
+				"no team",
 				"pillars",
+				"frames",
+				"lights",
 				"tubes",
-				"no team"
+				"signs as lights"
 			]
 		}
 	],
