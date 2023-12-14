@@ -26,6 +26,41 @@
 			]
 		}
 	],
+	"https://twitter.com/lukepro2315/status/1732528488563749086": [
+		{
+			"src": "https://pbs.twimg.com/media/GAstcSKWEAAys4c?format=jpg&name=4096x4096",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/GAstcSMWsAA-D72?format=jpg&name=4096x4096",
+			"highlightsMeta": [
+				"the great canyon",
+				"ficsmas",
+				"no team",
+				"geothermal",
+				"pillars",
+				"railing",
+				"belts"
+			]
+		},
+		{
+			"src": "https://pbs.twimg.com/media/GAstcSFXgAAcq_V?format=jpg&name=4096x4096",
+			"skip": true
+		},
+		{
+			"src": "https://pbs.twimg.com/media/GAstcSHWgAA02t5?format=jpg&name=4096x4096",
+			"highlightsMeta": [
+				"the great canyon",
+				"beach islands",
+				"ficsmas",
+				"glass",
+				"no team",
+				"constructor",
+				"pillars",
+				"belts"
+			]
+		}
+	],
 	"https://twitter.com/dupomat/status/1705960975126425960": [
 		{
 			"src": "https://pbs.twimg.com/media/F6zJP4gWQAAWSta.jpg",
