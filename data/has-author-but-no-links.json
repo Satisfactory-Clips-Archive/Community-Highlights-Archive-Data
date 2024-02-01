@@ -12135,5 +12135,51 @@
 				]
 			}
 		}
+	},
+	"2024-01-30": {
+		"yt-Sa6gZuTXuF0": {
+			"00:41 ThickestRooster - 5.625 HMF/min (and more)! https://www.reddit.com/r/SatisfactoryGame/comments/19bsjjh/phoenix_industries_rebirth_of_a_starter_factory/ https://www.reddit.com/r/satisfactory/comments/19bk4nt/5625_hmfmin/": {
+				"timestamp": 41,
+				"raw_text": "ThickestRooster - 5.625 HMF/min (and more)! https://www.reddit.com/r/SatisfactoryGame/comments/19bsjjh/phoenix_industries_rebirth_of_a_starter_factory/ https://www.reddit.com/r/satisfactory/comments/19bk4nt/5625_hmfmin/",
+				"timestamps_for_links": [
+					98,
+					135
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 98,
+						"meta": [
+							"northern forest",
+							"architecture",
+							"glass",
+							"no team",
+							"space elevator",
+							"train station",
+							"truck station",
+							"pillars",
+							"foundation patterns",
+							"lights",
+							"roads",
+							"signs as lights"
+						]
+					},
+					{
+						"timestamp": 135,
+						"meta": [
+							"northern forest",
+							"architecture",
+							"glass",
+							"no team",
+							"constructor",
+							"pillars",
+							"railing",
+							"lights",
+							"signs",
+							"signs as lights"
+						]
+					}
+				]
+			}
+		}
 	}
 }
