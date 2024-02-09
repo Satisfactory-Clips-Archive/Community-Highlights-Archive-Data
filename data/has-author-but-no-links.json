@@ -12181,5 +12181,30 @@
 				]
 			}
 		}
+	},
+	"2024-02-06": {
+		"yt-hqxkzAvbbbs": {
+			"05:24 Functional_Tech - Walk, drive, or tube? https://www.reddit.com/r/SatisfactoryGame/comments/1af1oos/having_a_bit_of_fun_with_the_architecture/": {
+				"timestamp": 324,
+				"raw_text": "Functional_Tech - Walk, drive, or tube? https://www.reddit.com/r/SatisfactoryGame/comments/1af1oos/having_a_bit_of_fun_with_the_architecture/",
+				"timestamps_for_links": [
+					424
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 424,
+						"meta": [
+							"rocky desert",
+							"glass",
+							"no team",
+							"catwalk",
+							"railing",
+							"frames",
+							"lighthouse"
+						]
+					}
+				]
+			}
+		}
 	}
 }
