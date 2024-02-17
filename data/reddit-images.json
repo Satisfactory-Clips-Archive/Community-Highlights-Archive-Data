@@ -1,4 +1,632 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1akfc0v/mothership_09/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/hQ0fjJEhzzhEvX4UoDhlueSBoPVrrgC4PqbcQfDNN2Q.jpg",
+			"alt": "Mothership - 0.9",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zajqnboetzgc1.jpg",
+			"alt": "not-a-mall",
+			"highlightsMeta": [
+				"team golden cup",
+				"signs as lights",
+				"belts",
+				"space elevator",
+				"train station",
+				"catwalk",
+				"northern forest",
+				"train tracks",
+				"tubes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qn3qthi600hc1.png",
+			"alt": "everything starts here",
+			"highlightsMeta": [
+				"team hands",
+				"northern forest",
+				"belts",
+				"signs",
+				"glass",
+				"catwalk"
+			]
+		},
+		{
+			"src": "https://i.redd.it/vcgqvw7c10hc1.png",
+			"alt": "belts galore",
+			"highlightsMeta": [
+				"no team",
+				"northern forest",
+				"night time",
+				"belts",
+				"signs as lights",
+				"catwalk",
+				"glass"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1alfbxa/tony_stark_malibu_beach_house/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/3-1MwOeqX0EmOMhbLKKE65HCNVHvLrI6jDCD3QTVaUM.jpg",
+			"alt": "Tony Stark Malibu Beach House",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gtfdzgp6m8hc1.png",
+			"alt": "Finally got around to building my house.  Diagnosed with ALS and Satisfactory keeps me sane.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/umm50gp6m8hc1.png",
+			"highlightsMeta": [
+				"no team",
+				"references to other franchises",
+				"architecture",
+				"paradise island",
+				"space elevator",
+				"glass",
+				"power tower",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/jozt61q6m8hc1.png",
+			"highlightsMeta": [
+				"no team",
+				"references to other franchises",
+				"architecture",
+				"paradise island",
+				"space elevator",
+				"power storage bank",
+				"power tower",
+				"glass",
+				"blueprint designer",
+				"drone",
+				"foundation patterns",
+				"railing",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/5l1xpjp6m8hc1.png",
+			"highlightsMeta": [
+				"no team",
+				"references to other franchises",
+				"paradise island",
+				"interior",
+				"glass",
+				"foundation patterns",
+				"hub"
+			]
+		},
+		{
+			"src": "https://i.redd.it/f445gjp6m8hc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jftra1q6m8hc1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1aoy13e/new_boss_ill_make_more_boss/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/BUChOpbpk76yb2u1pV6qJ4P2iPq5jT-yggJ0Cx01SdI.jpg",
+			"alt": "New boss ? ! ( I'll make more boss ! )",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dvws09cv45ic1.png",
+			"alt": "Don't go into water !",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ro9heams45ic1.png",
+			"alt": ".. and close to water !",
+			"highlightsMeta": [
+				"pillars",
+				"no team",
+				"western beaches",
+				"art"
+			]
+		},
+		{
+			"src": "https://i.redd.it/zifpdccv45ic1.png",
+			"alt": "!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zu40pecv45ic1.png",
+			"alt": "I escaped..",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1ape3ny/train_input_tower_for_my_phase_4_hybrid_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/WlME57dY7AcifUH_oCsURVHkdIWdDGc19XTb-Nmgg4U.jpg",
+			"alt": "Train Input tower for my Phase 4 Hybrid Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0v4srgrvj8ic1.png",
+			"alt": "15 stories of train stations and logistics.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/471c3irvj8ic1.png",
+			"alt": "Pipes pumping resources into the will-be logistics and transport floors under the tower.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5sq7zkrvj8ic1.png",
+			"alt": "Probably a little impractically tall, but 15 trains makes things funky.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6lie8mrvj8ic1.png",
+			"alt": "Looks even better at night. ",
+			"highlightsMeta": [
+				"team hands",
+				"tower",
+				"night time",
+				"dune desert",
+				"space elevator",
+				"glass",
+				"signs as lights",
+				"railing"
+			]
+		},
+		{
+			"src": "https://i.redd.it/8tuk6nrvj8ic1.png",
+			"alt": "This took longer than I'd like to admit to design.",
+			"highlightsMeta": [
+				"no team",
+				"tower",
+				"interior",
+				"dune desert",
+				"signs as lights",
+				"lights",
+				"railing",
+				"catwalk",
+				"train station"
+			]
+		},
+		{
+			"src": "https://i.redd.it/9ckrgjrvj8ic1.png",
+			"alt": "I'm proud of the glass penthouse.",
+			"highlightsMeta": [
+				"no team",
+				"tower",
+				"interior",
+				"dune desert",
+				"glass",
+				"railing",
+				"catwalk"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1al7t0l/spiders_grew_up_feeding_on_uranium/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/-NtiRhmU1zZ4rVSctC7EMpUf3AMUuA11Uokz80sNnPc.jpg",
+			"alt": "spiders grew up feeding on uranium",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9wfqkxv737hc1.png",
+			"highlightsMeta": [
+				"no team",
+				"western dune forest",
+				"tower",
+				"architecture",
+				"pillars",
+				"night time",
+				"beams",
+				"bridge",
+				"train",
+				"glass",
+				"beams",
+				"signs",
+				"manifold",
+				"foundation patterns"
+			]
+		},
+		{
+			"src": "https://i.redd.it/zgx25t1837hc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ps45sp6837hc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/syvefrb837hc1.png",
+			"highlightsMeta": [
+				"western dune forest",
+				"roads",
+				"beams",
+				"frames",
+				"lights",
+				"foundation patterns",
+				"viaduct",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/r98syfg837hc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/uzwicll837hc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2izxjpq837hc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0tcu6gv837hc1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1ao0b7s/my_2_most_proud_builds_in_the_first_100hrs/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/M6jNZahHDKB6BTxRqk0d8wnrFu0F39NpqY7WQcn4yDQ.jpg",
+			"alt": "My 2 most proud builds in the first 100hrs",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yg58q66n4whc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8669kfhn4whc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3qzfer0o4whc1.jpg",
+			"highlightsMeta": [
+				"no team",
+				"grass fields arch",
+				"night time",
+				"frames",
+				"space elevator",
+				"signs as lights",
+				"glass",
+				"belts",
+				"viaduct",
+				"industrial"
+			]
+		},
+		{
+			"src": "https://i.redd.it/aa31ando4whc1.jpg",
+			"highlightsMeta": [
+				"no team",
+				"grass fields",
+				"night time",
+				"industrial",
+				"belts",
+				"glass",
+				"signs as lights",
+				"frames",
+				"miner"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1ap8owq/wip_my_new_starter_base_this_building_will_build/": [
+		{
+			"src": "https://preview.redd.it/posohykji7ic1.png?width=640&crop=smart&auto=webp&s=b82b33188085dc0eab58e6483da5076a73d807c2",
+			"alt": "WIP - My new starter base, this building will build everything for me.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/posohykji7ic1.png",
+			"alt": "WIP - My new starter base, this building will build everything for me.",
+			"highlightsMeta": [
+				"no team",
+				"dune desert",
+				"viaduct",
+				"bean",
+				"signs as lights",
+				"manufacturer",
+				"refinery",
+				"beams",
+				"pipes",
+				"belts"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1aoxvbh/this_shape_of_building_looks_like_a_temple/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/yW8jU3T6ynfaobrWkDTLM1o1_f_38Qncp_iOKGpvvdI.jpg",
+			"alt": "This shape of building looks like a temple entrance or not ?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/552cjjj535ic1.png",
+			"alt": "Front view",
+			"highlightsMeta": [
+				"no team",
+				"uncertain location",
+				"architecture",
+				"glass",
+				"space elevator",
+				"warehouse",
+				"signs",
+				"modded"
+			]
+		},
+		{
+			"src": "https://i.redd.it/0veh0sj535ic1.png",
+			"alt": "Duck !",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/97bt6oj535ic1.png",
+			"alt": "Side view",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nny3toj535ic1.png",
+			"alt": "From ground",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rz4yslj535ic1.png",
+			"alt": "What's that far way ?",
+			"highlightsMeta": [
+				"no team",
+				"uncertain location",
+				"architecture",
+				"glass",
+				"space elevator",
+				"warehouse",
+				"signs",
+				"modded"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1aov1al/18_gw_turbo_fuel_dam/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/3vIv5r5WXbq4IidrHgQ4cE_1Ia8OO3Pvaqx72q1mtqk.jpg",
+			"alt": "18 GW Turbo Fuel Dam",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/s3822is624ic1.png",
+			"alt": "120 Fuel Generators cramed into this building.",
+			"highlightsMeta": [
+				"no team",
+				"night time",
+				"glass",
+				"dam",
+				"paradise island",
+				"power tower",
+				"fuel plant",
+				"refinery"
+			]
+		},
+		{
+			"src": "https://i.redd.it/bib6gux724ic1.png",
+			"alt": "Dam left, Turbo Fuel factory right.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/e78g8xe924ic1.png",
+			"alt": "Depth reaches nearly the kill zone at the bottom of the waterfall.",
+			"highlightsMeta": [
+				"no team",
+				"paradise island",
+				"fuel plant",
+				"dam",
+				"railing"
+			]
+		},
+		{
+			"src": "https://i.redd.it/msgnkd7a24ic1.png",
+			"alt": "Fuel Generators utilize compact design that takes advantage of soft-clipping of Fuel Generators, along with integrated power storage.",
+			"highlightsMeta": [
+				"no team",
+				"interior",
+				"dam",
+				"paradise island",
+				"fuel plant",
+				"catwalk",
+				"glass",
+				"power storage bank"
+			]
+		},
+		{
+			"src": "https://i.redd.it/q7g174sa24ic1.png",
+			"alt": "8 Floors deep",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5xvflvgb24ic1.png",
+			"alt": "Fuel storage at road level",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mgd21yqd24ic1.png",
+			"alt": "Turbo fuel factory. 14 Turbo Blend Fuel, and 2 Diluted Fuel blenders provide more fuel than is needed by the fuel generators.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hbgk8pzd24ic1.png",
+			"alt": "16 heavy oil residue refineries, and 3 petroleum coke refineries.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d7woas9e24ic1.png",
+			"alt": "Maintenance tunnels",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2an7djie24ic1.png",
+			"alt": "Maintenance tunnels",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/e3rjpute24ic1.png",
+			"alt": "Maintenance tunnels",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1am002o/cove_coal_a_radial_2400_mw_coal_plant_in_the/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/u5O9s7OdHRqGKGPp9dV28Yx1AvuoMglrVW7u-rNU8_c.jpg",
+			"alt": "Cove Coal — a radial 2400 MW coal plant in the western dune forest",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/pur949x80ehc1.png",
+			"alt": "Overview. Coal input and power tower output, with central access bridge. My brother and I built this over the course of a few sessions in our multiplayer game.",
+			"highlightsMeta": [
+				"no team",
+				"eastern dune forest",
+				"frames",
+				"viaduct",
+				"belts",
+				"signs as lights",
+				"pillars",
+				"coal plant",
+				"power storage bank",
+				"fog"
+			]
+		},
+		{
+			"src": "https://i.redd.it/pszhv4x80ehc1.png",
+			"alt": "Bridge approach. ",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yv7jf0x80ehc1.png",
+			"alt": "Entry vestibule, looking back at the access bridge. Focused on framing and using bounce lighting to take advantage of Lumen.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6x3wb7x80ehc1.png",
+			"alt": "Central dais, as you exit the vestibule. 32 coal generators are built in 4 quadrants, each with 3 water extractors nestled below them.",
+			"highlightsMeta": [
+				"western dune forest",
+				"no team",
+				"interior",
+				"coal plant",
+				"glass",
+				"frames",
+				"beams",
+				"catwalk",
+				"signs as lights",
+				"foundation patterns",
+				"pillars"
+			]
+		},
+		{
+			"src": "https://i.redd.it/l7auhbx80ehc1.png",
+			"alt": "Central dais, looking west. Used a muted color palette on this build to give it a more natural feel.",
+			"highlightsMeta": [
+				"western dune forest",
+				"no team",
+				"interior",
+				"coal plant",
+				"glass",
+				"beams",
+				"catwalk",
+				"signs as lights",
+				"pillars",
+				"fog",
+				"frames",
+				"foundation patterns",
+				"railing"
+			]
+		},
+		{
+			"src": "https://i.redd.it/cu7jghx80ehc1.png",
+			"alt": "Looking down at the dais at night. I thought about adding powered lighting here, but I liked the natural contrast between moonlight and sunlight.",
+			"highlightsMeta": [
+				"no team",
+				"night time",
+				"pillars",
+				"beach islands",
+				"coal plant",
+				"catwalk",
+				"foundation patterns",
+				"catwalk",
+				"railing"
+			]
+		},
+		{
+			"src": "https://i.redd.it/taz575x80ehc1.png",
+			"alt": "Extractors are roughly centered in each quadrant. The Mk2 pump is overkill for the headlift needed, but I prefer the symmetry of the pump over the Mk1.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/u6bap8y80ehc1.png",
+			"alt": "Maintenance bridge for the water extractors. You can just barely see hints of spaghetti hanging from the ceiling above.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4vvabbx80ehc1.png",
+			"alt": "At first I disliked how busy the overlapping edges of the roof panels looked, but layering them with the coal stacks and support columns created some really dynamic shadows.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9cmhkpy80ehc1.png",
+			"alt": "Two miners with a maintenance office overlooking supply the 480 coal needed for the plant.",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1anjs6y/for_the_love_of_all_things_italian/": [
+		{
+			"src": "https://preview.redd.it/bb36fy3p8shc1.png?width=640&crop=smart&auto=webp&s=b877c175faaf5d24bb78940a044a7f4040124c8e",
+			"alt": "For the love of all things Italian...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bb36fy3p8shc1.png",
+			"alt": "For the love of all things Italian...",
+			"highlightsMeta": [
+				"team cup",
+				"spaghett",
+				"dune desert",
+				"refinery",
+				"awesome sink",
+				"viaduct",
+				"miner",
+				"assembler",
+				"manufacturer",
+				"particle accelerator",
+				"pillars",
+				"oil extractor",
+				"belts",
+				"lasagn"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1ap21ai/for_those_of_you_who_seemed_to_like_my_spaghetti/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Pk6otmbRM4j4i70T7NBC2jTt44xZkNV5BvZZnvCd1QU.jpg",
+			"alt": "For those of you who seemed to \"like\" my spaghetti greenhouse",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nlhzmv0566ic1.png",
+			"highlightsMeta": [
+				"no team",
+				"dune desert",
+				"desert canyons",
+				"lasagn",
+				"belts",
+				"hub",
+				"space elevator",
+				"viaduct",
+				"oil extractor"
+			]
+		},
+		{
+			"src": "https://i.redd.it/kyaqlfia66ic1.png",
+			"skip": true
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1ai5bh4/nuclear_hole_twin_waterfall_timelapse/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/AIyNWAAXgv-BZ7N5GPGDcUp7LnSyuJefmqyRpyDiTow.jpg",
