@@ -12418,5 +12418,35 @@
 				]
 			}
 		}
+	},
+	"2024-02-20": {
+		"yt-BNIBww00IIg": {
+			"24:00 stefmixo, Snutt - Race??": {
+				"timestamp": 1440,
+				"raw_text": "stefmixo, Snutt - Race??",
+				"timestamps_for_links": [
+					1440
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1440,
+						"meta": [
+							"dune desert",
+							"ficsmas",
+							"games",
+							"pixel art",
+							"references to other franchises",
+							"no team",
+							"lookout tower",
+							"pillars",
+							"catwalk",
+							"frames",
+							"foundation patterns",
+							"lights"
+						]
+					}
+				]
+			}
+		}
 	}
 }

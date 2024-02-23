@@ -1,4 +1,623 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1aqirye/factory_16/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/3IBw_RAfC_maweFjjT0hTooZZS6j7gDWh-O3utsfJng.jpg",
+			"alt": "Factory #16",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/m5zexilwoiic1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9cwq5jlwoiic1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/14ma9jlwoiic1.png",
+			"highlightsMeta": [
+				"green valley",
+				"ficsmas",
+				"glass",
+				"sunrise/sunset",
+				"no team",
+				"blueprint designer",
+				"particle accelerator",
+				"space elevator",
+				"water extractor",
+				"drone",
+				"belts",
+				"lights",
+				"coal plant",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/c794ejlwoiic1.png",
+			"highlightsMeta": [
+				"green valley",
+				"ficsmas",
+				"glass",
+				"night time",
+				"no team",
+				"blueprint designer",
+				"particle accelerator",
+				"space elevator",
+				"water extractor",
+				"drone",
+				"train",
+				"pillars",
+				"frames",
+				"lights",
+				"train signals",
+				"train tracks",
+				"coal plant",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ng52zklwoiic1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"space elevator",
+				"train",
+				"frames",
+				"train signals",
+				"train tracks",
+				"fuel plant",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/i8vi3brlpiic1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"night time",
+				"no team",
+				"blender",
+				"belts",
+				"lights",
+				"pipes",
+				"fuel plant",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/reklyilwoiic1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3ph5dhlwoiic1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/f936nklwoiic1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1arm4xv/200000mw_modular_diluted_fuel_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/oBIKHDbRR92GfA7CQBX1_LZ-AYr-I02gU43cLgRKbZQ.jpg",
+			"alt": "200,000mW Modular Diluted Fuel Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qbvn6vmnjsic1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/30ycetmnjsic1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"glass",
+				"repetition",
+				"no team",
+				"train",
+				"pillars",
+				"catwalk",
+				"frames",
+				"belts",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/1jqk8umnjsic1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"glass",
+				"no team",
+				"radar tower",
+				"pipes",
+				"train tracks",
+				"fuel plant",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/p74jftmnjsic1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/82ffjumnjsic1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xrkkqdnnjsic1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/orflfdnnjsic1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/lj18fdnnjsic1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"glass",
+				"interior",
+				"manifold",
+				"team build gun",
+				"refinery",
+				"water extractor",
+				"catwalk",
+				"frames",
+				"belts",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/3br2wennjsic1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2g2wftmnjsic1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1ate0v2/the_coal_powered_teepee/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/QS5GbHlKMOGvUcpjyX3H2Dqq5x7yui6iqPpmb04CU3w.jpg",
+			"alt": "The coal powered teepee",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/spsdgh56z7jc1.png",
+			"alt": "The teepee is 9-sided.",
+			"highlightsMeta": [
+				"northern forest",
+				"architecture",
+				"no team",
+				"pillars",
+				"crash site",
+				"power slug",
+				"coal plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/q8ameh56z7jc1.png",
+			"alt": "Using a nonagon meant I could distribute the pipes symmetrically (3:8 ratio).",
+			"highlightsMeta": [
+				"northern forest",
+				"interior",
+				"no team",
+				"catwalk",
+				"pipes",
+				"coal plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/11hxqi56z7jc1.png",
+			"alt": "I like seeing it from above as I move around the treetops.",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1au0znp/pathetic_meme_material_d/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/qxstJvk9DRe6zNga5PiAwifOBRutN4jtl6VLXVax3Zs.jpg",
+			"alt": "\"Pathetic\" - Meme material :D",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/h33jpck60ejc1.png",
+			"alt": "I do it live :) (Come say hi & Follow to support)",
+			"highlightsMeta": [
+				"uncertain location",
+				"art",
+				"glass",
+				"no team",
+				"pillars",
+				"beams",
+				"signs",
+				"warehouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ckvitp5e0ejc1.png",
+			"alt": "Link to blueprint: ",
+			"highlightsMeta": [
+				"uncertain location",
+				"blue crater",
+				"art",
+				"no team",
+				"miner",
+				"beams",
+				"belts",
+				"power slug"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1aur13s/the_cairn_nuclear_waste_depository/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/BWErPdhtPlhp1OgZhmdV3lmaudjTN8QmCvhBd5p6XYk.jpg",
+			"alt": "\"The Cairn\" Nuclear Waste Depository",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/inkxdo6sfkjc1.png",
+			"alt": "Nestled in a valley, the Cairn is built over a deep pit in the ground",
+			"highlightsMeta": [
+				"grass fields crater",
+				"fog",
+				"manifold",
+				"no team",
+				"miner",
+				"train station",
+				"smelter",
+				"power tower",
+				"train",
+				"signs",
+				"train signals",
+				"train tracks",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/muuk8p6sfkjc1.png",
+			"alt": "A monolith of concrete. the Cairn is served by a dedicated rail-line",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yiclxp6sfkjc1.png",
+			"alt": "Signage makes it entirely clear what the purpose of this facility is.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/oe8sns6sfkjc1.png",
+			"alt": "The Cairn is built to emphasise its sturdiness",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/exchos6sfkjc1.png",
+			"alt": "The sign is welcoming, the architecture is not.",
+			"highlightsMeta": [
+				"grass fields crater",
+				"interior",
+				"no team",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qgpiwv6sfkjc1.png",
+			"alt": "Forbiddingly monolithic corridors and lighting make it clear this is a not a homely space.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5p7spt6sfkjc1.png",
+			"alt": "Two hypertubes drop the visitor over 200 meters straight down, and a viewing window shows the nuclear waste's arrival.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/39m3vt6sfkjc1.png",
+			"alt": "Mind your step. There are no guard-rails.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/k00uuw6sfkjc1.png",
+			"alt": "To prevent accidentally visiting the depths, the Down-tube is powered down by its own switch. Up-Tube is always powered just in case someone fell down",
+			"highlightsMeta": [
+				"grass fields crater",
+				"interior",
+				"no team",
+				"lights",
+				"signs",
+				"tubes",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/djabxz6sfkjc1.png",
+			"alt": "Throughput is fast and infrequent, so there's no real danger here.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/h48c417sfkjc1.png",
+			"alt": "The bottom of the pit comes out straight into the radiation zone.",
+			"highlightsMeta": [
+				"grass fields crater",
+				"interior",
+				"no team",
+				"pillars",
+				"foundation patterns",
+				"lights",
+				"tubes",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/wnvowm6sfkjc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yesgvo6sfkjc1.png",
+			"alt": "This is not a place of honor, no great deeds are recorded here.",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1aujnb7/just_a_nice_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/k5rrzEQeC4UXVxLT_VV3DnrZ4wfF1OC90--FcIzqYxQ.jpg",
+			"alt": "just a nice factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/txfw1y4ckijc1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"fog",
+				"glass",
+				"no team",
+				"lookout tower",
+				"radar tower",
+				"train station",
+				"power tower",
+				"catwalk",
+				"lights",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/uzx01hsjkijc1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"fog",
+				"glass",
+				"no team",
+				"team hands",
+				"lookout tower",
+				"radar tower",
+				"power tower",
+				"catwalk",
+				"lights",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/jdtgphsjkijc1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1auiubi/modded_project_icarus_rail_gun_detailed_view/": [
+		{
+			"src": "https://preview.redd.it/cf3gw1umaijc1.png?width=640&crop=smart&auto=webp&s=31367a76d300c78499cbb4ef3cb546ba58d7345b",
+			"alt": "Modded - Project Icarus Rail Gun- detailed view",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cf3gw1umaijc1.png",
+			"alt": "Modded - Project Icarus Rail Gun- detailed view",
+			"highlightsMeta": [
+				"rocky desert",
+				"manifold",
+				"modded",
+				"no team",
+				"assembler",
+				"constructor",
+				"belts",
+				"pipes"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1aukxma/i_like_the_colors_of_biome/": [
+		{
+			"src": "https://preview.redd.it/5i9nnp7iyijc1.png?width=640&crop=smart&auto=webp&s=53f38833e6ffec05603b6178ae510c574787235a",
+			"alt": "I like the colors of biome :)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5i9nnp7iyijc1.png",
+			"alt": "I like the colors of biome :)",
+			"highlightsMeta": [
+				"spire coast",
+				"cityscape",
+				"glass",
+				"no team",
+				"radar tower",
+				"manta",
+				"tower"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1at1m4z/i_do_like_a_nice_bit_of_tidy_pipework/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/3j2ozFeWSjrmUKK8rckiIvQYXzcDSOn5fUEWE3QDZbY.jpg",
+			"alt": "I do like a nice bit of tidy pipework",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/f8yb2qjba5jc1.png",
+			"highlightsMeta": [
+				"unknown location",
+				"interior",
+				"team golden cup",
+				"team hover pack",
+				"pipes",
+				"tubes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/hddadojba5jc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/eboftojba5jc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jgvs7pjba5jc1.png",
+			"highlightsMeta": [
+				"unknown location",
+				"interior",
+				"team golden cup",
+				"team hover pack",
+				"pipes",
+				"tubes"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1au6a63/mario_kartisfactory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/l0sd_OaU6xGS2oenN156HQIP43lweyx5S_JhQ8x5-xI.jpg",
+			"alt": "Mario Kart-isfactory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gnodlorw1fjc1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"ficsmas",
+				"games",
+				"pixel art",
+				"references to other franchises",
+				"team hands",
+				"lookout tower",
+				"frames",
+				"foundation patterns"
+			]
+		},
+		{
+			"src": "https://i.redd.it/bwfwflrw1fjc1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"ficsmas",
+				"games",
+				"pixel art",
+				"references to other franchises",
+				"no team",
+				"lookout tower",
+				"pillars",
+				"catwalk",
+				"frames",
+				"foundation patterns",
+				"lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/lhsnd7qt1fjc1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"ficsmas",
+				"interior",
+				"no team",
+				"tractor",
+				"truck",
+				"railing",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"garage"
+			]
+		},
+		{
+			"src": "https://i.redd.it/k62cf9qt1fjc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/u99yabqt1fjc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/typ0ddqt1fjc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/iol4b6qt1fjc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5jr09fqt1fjc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4nt6p2rt1fjc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ha7en4rt1fjc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/e2dafchp1fjc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5bpd82hp1fjc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/p344h4hp1fjc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ymncv7hp1fjc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kc4u48hp1fjc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/c1acc9hp1fjc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/t3u50ahp1fjc1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1au3y9h/huh_my_factory_looks_different_then_your_guys/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/p25YXuJvcmFyL6_1UsDDaGb0Z8JPg4CfgXsvxHx7Vgk.jpg",
+			"alt": "Huh my factory looks different then your guys",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5148efmilejc1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"manifold",
+				"spaghett",
+				"team build gun",
+				"assembler",
+				"blender",
+				"particle accelerator",
+				"smelter",
+				"constructor",
+				"refinery",
+				"belts",
+				"pipes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/sq5erhbulejc1.png",
+			"skip": true
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1akfc0v/mothership_09/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/hQ0fjJEhzzhEvX4UoDhlueSBoPVrrgC4PqbcQfDNN2Q.jpg",
