@@ -9,40 +9,40 @@
 			"src": "https://i.redd.it/zajqnboetzgc1.jpg",
 			"alt": "not-a-mall",
 			"highlightsMeta": [
+				"northern forest",
 				"team golden cup",
-				"signs as lights",
-				"belts",
 				"space elevator",
 				"train station",
 				"catwalk",
-				"northern forest",
+				"belts",
+				"tubes",
 				"train tracks",
-				"tubes"
+				"signs as lights"
 			]
 		},
 		{
 			"src": "https://i.redd.it/qn3qthi600hc1.png",
 			"alt": "everything starts here",
 			"highlightsMeta": [
-				"team hands",
 				"northern forest",
-				"belts",
-				"signs",
 				"glass",
-				"catwalk"
+				"team hands",
+				"catwalk",
+				"belts",
+				"signs"
 			]
 		},
 		{
 			"src": "https://i.redd.it/vcgqvw7c10hc1.png",
 			"alt": "belts galore",
 			"highlightsMeta": [
-				"no team",
 				"northern forest",
+				"glass",
 				"night time",
-				"belts",
-				"signs as lights",
+				"no team",
 				"catwalk",
-				"glass"
+				"belts",
+				"signs as lights"
 			]
 		}
 	],
@@ -60,42 +60,41 @@
 		{
 			"src": "https://i.redd.it/umm50gp6m8hc1.png",
 			"highlightsMeta": [
-				"no team",
-				"references to other franchises",
-				"architecture",
 				"paradise island",
-				"space elevator",
+				"architecture",
 				"glass",
-				"power tower",
-				"no team"
+				"references to other franchises",
+				"no team",
+				"space elevator",
+				"power tower"
 			]
 		},
 		{
 			"src": "https://i.redd.it/jozt61q6m8hc1.png",
 			"highlightsMeta": [
-				"no team",
-				"references to other franchises",
-				"architecture",
 				"paradise island",
-				"space elevator",
-				"power storage bank",
-				"power tower",
+				"architecture",
 				"glass",
+				"references to other franchises",
+				"no team",
 				"blueprint designer",
+				"space elevator",
+				"power tower",
 				"drone",
-				"foundation patterns",
 				"railing",
+				"foundation patterns",
+				"power storage bank",
 				"viaduct"
 			]
 		},
 		{
 			"src": "https://i.redd.it/5l1xpjp6m8hc1.png",
 			"highlightsMeta": [
-				"no team",
-				"references to other franchises",
 				"paradise island",
-				"interior",
 				"glass",
+				"interior",
+				"references to other franchises",
+				"no team",
 				"foundation patterns",
 				"hub"
 			]
@@ -124,10 +123,10 @@
 			"src": "https://i.redd.it/ro9heams45ic1.png",
 			"alt": ".. and close to water !",
 			"highlightsMeta": [
-				"pillars",
-				"no team",
 				"western beaches",
-				"art"
+				"art",
+				"no team",
+				"pillars"
 			]
 		},
 		{
@@ -166,42 +165,42 @@
 			"src": "https://i.redd.it/6lie8mrvj8ic1.png",
 			"alt": "Looks even better at night. ",
 			"highlightsMeta": [
-				"team hands",
-				"tower",
-				"night time",
 				"dune desert",
-				"space elevator",
 				"glass",
+				"night time",
+				"team hands",
+				"space elevator",
+				"railing",
 				"signs as lights",
-				"railing"
+				"tower"
 			]
 		},
 		{
 			"src": "https://i.redd.it/8tuk6nrvj8ic1.png",
 			"alt": "This took longer than I'd like to admit to design.",
 			"highlightsMeta": [
-				"no team",
-				"tower",
-				"interior",
 				"dune desert",
-				"signs as lights",
-				"lights",
-				"railing",
+				"interior",
+				"no team",
+				"train station",
 				"catwalk",
-				"train station"
+				"railing",
+				"lights",
+				"signs as lights",
+				"tower"
 			]
 		},
 		{
 			"src": "https://i.redd.it/9ckrgjrvj8ic1.png",
 			"alt": "I'm proud of the glass penthouse.",
 			"highlightsMeta": [
-				"no team",
-				"tower",
-				"interior",
 				"dune desert",
 				"glass",
+				"interior",
+				"no team",
+				"catwalk",
 				"railing",
-				"catwalk"
+				"tower"
 			]
 		}
 	],
@@ -214,20 +213,19 @@
 		{
 			"src": "https://i.redd.it/9wfqkxv737hc1.png",
 			"highlightsMeta": [
-				"no team",
 				"western dune forest",
-				"tower",
 				"architecture",
-				"pillars",
-				"night time",
-				"beams",
-				"bridge",
-				"train",
 				"glass",
-				"beams",
-				"signs",
 				"manifold",
-				"foundation patterns"
+				"night time",
+				"no team",
+				"train",
+				"pillars",
+				"beams",
+				"foundation patterns",
+				"signs",
+				"bridge",
+				"tower"
 			]
 		},
 		{
@@ -242,13 +240,13 @@
 			"src": "https://i.redd.it/syvefrb837hc1.png",
 			"highlightsMeta": [
 				"western dune forest",
-				"roads",
-				"beams",
+				"no team",
 				"frames",
-				"lights",
+				"beams",
 				"foundation patterns",
-				"viaduct",
-				"no team"
+				"lights",
+				"roads",
+				"viaduct"
 			]
 		},
 		{
@@ -285,30 +283,30 @@
 		{
 			"src": "https://i.redd.it/3qzfer0o4whc1.jpg",
 			"highlightsMeta": [
-				"no team",
 				"grass fields arch",
-				"night time",
-				"frames",
-				"space elevator",
-				"signs as lights",
 				"glass",
+				"industrial",
+				"night time",
+				"no team",
+				"space elevator",
+				"frames",
 				"belts",
-				"viaduct",
-				"industrial"
+				"signs as lights",
+				"viaduct"
 			]
 		},
 		{
 			"src": "https://i.redd.it/aa31ando4whc1.jpg",
 			"highlightsMeta": [
-				"no team",
 				"grass fields",
-				"night time",
-				"industrial",
-				"belts",
 				"glass",
-				"signs as lights",
+				"industrial",
+				"night time",
+				"no team",
+				"miner",
 				"frames",
-				"miner"
+				"belts",
+				"signs as lights"
 			]
 		}
 	],
@@ -322,16 +320,16 @@
 			"src": "https://i.redd.it/posohykji7ic1.png",
 			"alt": "WIP - My new starter base, this building will build everything for me.",
 			"highlightsMeta": [
-				"no team",
 				"dune desert",
-				"viaduct",
-				"bean",
-				"signs as lights",
+				"no team",
 				"manufacturer",
 				"refinery",
 				"beams",
+				"belts",
 				"pipes",
-				"belts"
+				"bean",
+				"signs as lights",
+				"viaduct"
 			]
 		}
 	],
@@ -345,14 +343,14 @@
 			"src": "https://i.redd.it/552cjjj535ic1.png",
 			"alt": "Front view",
 			"highlightsMeta": [
-				"no team",
 				"uncertain location",
 				"architecture",
 				"glass",
+				"modded",
+				"no team",
 				"space elevator",
-				"warehouse",
 				"signs",
-				"modded"
+				"warehouse"
 			]
 		},
 		{
@@ -374,14 +372,14 @@
 			"src": "https://i.redd.it/rz4yslj535ic1.png",
 			"alt": "What's that far way ?",
 			"highlightsMeta": [
-				"no team",
 				"uncertain location",
 				"architecture",
 				"glass",
+				"modded",
+				"no team",
 				"space elevator",
-				"warehouse",
 				"signs",
-				"modded"
+				"warehouse"
 			]
 		}
 	],
@@ -395,14 +393,14 @@
 			"src": "https://i.redd.it/s3822is624ic1.png",
 			"alt": "120 Fuel Generators cramed into this building.",
 			"highlightsMeta": [
-				"no team",
-				"night time",
-				"glass",
-				"dam",
 				"paradise island",
+				"glass",
+				"night time",
+				"no team",
+				"refinery",
 				"power tower",
-				"fuel plant",
-				"refinery"
+				"dam",
+				"fuel plant"
 			]
 		},
 		{
@@ -414,24 +412,24 @@
 			"src": "https://i.redd.it/e78g8xe924ic1.png",
 			"alt": "Depth reaches nearly the kill zone at the bottom of the waterfall.",
 			"highlightsMeta": [
-				"no team",
 				"paradise island",
-				"fuel plant",
+				"no team",
+				"railing",
 				"dam",
-				"railing"
+				"fuel plant"
 			]
 		},
 		{
 			"src": "https://i.redd.it/msgnkd7a24ic1.png",
 			"alt": "Fuel Generators utilize compact design that takes advantage of soft-clipping of Fuel Generators, along with integrated power storage.",
 			"highlightsMeta": [
-				"no team",
-				"interior",
-				"dam",
 				"paradise island",
-				"fuel plant",
-				"catwalk",
 				"glass",
+				"interior",
+				"no team",
+				"catwalk",
+				"dam",
+				"fuel plant",
 				"power storage bank"
 			]
 		},
@@ -481,16 +479,16 @@
 			"src": "https://i.redd.it/pur949x80ehc1.png",
 			"alt": "Overview. Coal input and power tower output, with central access bridge. My brother and I built this over the course of a few sessions in our multiplayer game.",
 			"highlightsMeta": [
-				"no team",
 				"eastern dune forest",
-				"frames",
-				"viaduct",
-				"belts",
-				"signs as lights",
+				"fog",
+				"no team",
 				"pillars",
+				"frames",
+				"belts",
 				"coal plant",
 				"power storage bank",
-				"fog"
+				"signs as lights",
+				"viaduct"
 			]
 		},
 		{
@@ -508,16 +506,16 @@
 			"alt": "Central dais, as you exit the vestibule. 32 coal generators are built in 4 quadrants, each with 3 water extractors nestled below them.",
 			"highlightsMeta": [
 				"western dune forest",
-				"no team",
-				"interior",
-				"coal plant",
 				"glass",
+				"interior",
+				"no team",
+				"pillars",
+				"catwalk",
 				"frames",
 				"beams",
-				"catwalk",
-				"signs as lights",
 				"foundation patterns",
-				"pillars"
+				"coal plant",
+				"signs as lights"
 			]
 		},
 		{
@@ -525,33 +523,32 @@
 			"alt": "Central dais, looking west. Used a muted color palette on this build to give it a more natural feel.",
 			"highlightsMeta": [
 				"western dune forest",
-				"no team",
-				"interior",
-				"coal plant",
-				"glass",
-				"beams",
-				"catwalk",
-				"signs as lights",
-				"pillars",
 				"fog",
+				"glass",
+				"interior",
+				"no team",
+				"pillars",
+				"catwalk",
+				"railing",
 				"frames",
+				"beams",
 				"foundation patterns",
-				"railing"
+				"coal plant",
+				"signs as lights"
 			]
 		},
 		{
 			"src": "https://i.redd.it/cu7jghx80ehc1.png",
 			"alt": "Looking down at the dais at night. I thought about adding powered lighting here, but I liked the natural contrast between moonlight and sunlight.",
 			"highlightsMeta": [
-				"no team",
-				"night time",
-				"pillars",
 				"beach islands",
-				"coal plant",
+				"night time",
+				"no team",
+				"pillars",
 				"catwalk",
+				"railing",
 				"foundation patterns",
-				"catwalk",
-				"railing"
+				"coal plant"
 			]
 		},
 		{
@@ -585,20 +582,20 @@
 			"src": "https://i.redd.it/bb36fy3p8shc1.png",
 			"alt": "For the love of all things Italian...",
 			"highlightsMeta": [
-				"team cup",
-				"spaghett",
 				"dune desert",
-				"refinery",
-				"awesome sink",
-				"viaduct",
-				"miner",
+				"lasagn",
+				"spaghett",
+				"team cup",
 				"assembler",
-				"manufacturer",
-				"particle accelerator",
-				"pillars",
+				"awesome sink",
+				"miner",
 				"oil extractor",
+				"particle accelerator",
+				"manufacturer",
+				"refinery",
+				"pillars",
 				"belts",
-				"lasagn"
+				"viaduct"
 			]
 		}
 	],
@@ -611,15 +608,15 @@
 		{
 			"src": "https://i.redd.it/nlhzmv0566ic1.png",
 			"highlightsMeta": [
-				"no team",
-				"dune desert",
 				"desert canyons",
+				"dune desert",
 				"lasagn",
+				"no team",
+				"oil extractor",
+				"space elevator",
 				"belts",
 				"hub",
-				"space elevator",
-				"viaduct",
-				"oil extractor"
+				"viaduct"
 			]
 		},
 		{
