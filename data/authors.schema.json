@@ -25,6 +25,12 @@
 			"additionalProperties": {
 				"type": "string"
 			}
+		},
+		"youtube_aliases": {
+			"type": "object",
+			"additionalProperties": {
+				"type": "string"
+			}
 		}
 	}
 }
