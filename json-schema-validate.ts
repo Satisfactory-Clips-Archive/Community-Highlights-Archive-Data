@@ -7,6 +7,7 @@ import highlights_meta_schema from './data/highlights-meta.json' assert {type: '
 import grouped_meta_schema from './data/highlights-meta/grouped-meta.schema.json' assert {type: 'json'};
 import authors_schema from './data/authors.schema.json' assert {type: 'json'};
 import dated_schema from './data/dated.schema.json' assert {type: 'json'};
+import manual_schema from './data/manual-images.schema.json' assert {type: 'json'};
 
 import discord from './data/discord-images.json' assert {type: 'json'};
 import reddit from './data/reddit-images.json' assert {type: 'json'};
@@ -15,9 +16,11 @@ import youtube from './data/youtube-images.json' assert {type: 'json'};
 import ytdlp from './data/has-author-but-no-links.json' assert {type: 'json'};
 import twitch_clips from './data/twitch-clip-images.json' assert {type: 'json'};
 import steam_community from './data/steam-community-images.json' assert {type: 'json'};
+import manual_images from './data/manual-images.json' assert {type: 'json'};
 import grouped_meta from './data/highlights-meta/grouped-meta.json' assert {type: 'json'};
 import authors from './data/authors.json' assert {type: 'json'};
 import dated from './data/dated.json' assert {type: 'json'};
+import manual_data from './data/manual-images.json' assert {type: 'json'};
 
 declare type validations_type = {[key: string]: object};
 
@@ -67,6 +70,18 @@ declare type dated_type = {
 	},
 };
 
+declare type manual_images_timestamp_data_type ={
+	filename: string,
+	alt: string,
+	highlightsMeta: string[],
+};
+
+declare type manual_images_data_type = {
+	[key: string]: {
+		[key: string]: {[key: string]: manual_images_timestamp_data_type[]}
+	}
+};
+
 const fudge_highlights_meta_schema = Object.assign(
 	{},
 	highlights_meta_schema,
@@ -102,6 +117,7 @@ const validations_to_make: [
 	[JSONSchemaType<grouped_meta_type>, validations_type],
 	[JSONSchemaType<authors_type>, validations_type],
 	[JSONSchemaType<dated_type>, validations_type],
+	[JSONSchemaType<manual_images_data_type>, validations_type],
 ] = [
 	[
 		(image_sources_schema as unknown) as JSONSchemaType<image_source_type>,
@@ -143,7 +159,81 @@ const validations_to_make: [
 			dated,
 		},
 	],
+	[
+		(manual_schema as unknown) as JSONSchemaType<manual_images_data_type>,
+		{
+			manual_data,
+		},
+	],
 ];
+
+let total_file_entries = 0;
+let manual_missing_file_entries = 0;
+let manual_missing_alt = 0;
+let manual_missing_highlights = 0;
+let manual_probably_correct = 0;
+
+for (const entry of Object.values(manual_data)) {
+	for (const inner_entry of Object.values(entry)) {
+		for (const file_entries of Object.values(inner_entry)) {
+			total_file_entries += file_entries.length;
+
+			let probably_correct = (!!file_entries.length);
+
+			if (file_entries.length < 1) {
+				++manual_missing_file_entries;
+			} else {
+				const missing_alt = file_entries.filter((e) => {
+					return e.alt.length <= 1;
+				}).length;
+				const missing_highlights = file_entries.filter((e) => {
+					return e.highlightsMeta.length <= 1;
+				}).length;
+
+				manual_missing_alt += missing_alt;
+				manual_missing_highlights += missing_highlights;
+
+				if (missing_alt > 0 || missing_highlights > 0) {
+					probably_correct = false;
+				}
+			}
+
+			if (probably_correct) {
+				manual_probably_correct += file_entries.length;
+			}
+		}
+	}
+}
+
+if (manual_missing_file_entries > 0 || manual_missing_alt > 0 || manual_missing_highlights > 0) {
+	const manual_problems_summary:{[key: string]: string} = {
+		'Total Entries': total_file_entries.toString(),
+		'Probably Correct': `${manual_probably_correct} (${
+			((manual_probably_correct / total_file_entries) * 100).toFixed(2)
+		}%)`
+	};
+
+	if (manual_missing_file_entries > 0) {
+		manual_problems_summary['Missing'] = `${manual_missing_file_entries} (${
+			((manual_missing_file_entries / total_file_entries) * 100).toFixed(2)
+		}%)`;
+	}
+
+	if (manual_missing_alt > 0) {
+		manual_problems_summary['Missing Alt'] = `${manual_missing_alt} (${
+			((manual_missing_alt / total_file_entries) * 100).toFixed(2)
+		}%)`;
+	}
+
+	if (manual_missing_highlights > 0) {
+		manual_problems_summary['Missing Highlights'] = `${manual_missing_highlights} (${
+			((manual_missing_highlights / total_file_entries) * 100).toFixed(2)
+		}%)`;
+	}
+
+	console.error('Manual File Issues');
+	console.table(manual_problems_summary);
+}
 
 for (const validation_set of validations_to_make) {
 	const [schema, image_sources] = validation_set;
