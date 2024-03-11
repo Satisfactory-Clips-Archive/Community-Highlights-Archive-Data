@@ -4,7 +4,7 @@
 			"10_16": [
 				{
 					"filename": "HighResScreenshot20240309-072248.webp",
-					"alt": "Image from the game Satisfactory featuring a display depicting an alien creature (commonly referred to as the Bean) being abducted by a saucer UFO from a farmer's field. The field features a giant jack-o-lantern & a red barn.",
+					"alt": "Image from the game Satisfactory featuring a display depicting an alien creature (commonly referred to as the Bean) being abducted by a saucer spaceship from a farmer's field. The field features a giant jack-o-lantern & a red barn.",
 					"highlightsMeta": [
 						"night time",
 						"no team",
@@ -23,7 +23,7 @@
 				},
 				{
 					"filename": "HighResScreenshot20240309-072630.webp",
-					"alt": "Image from the game Satisfactory featuring a display depicting an alien creature (commonly referred to as the Bean) being abducted by a saucer UFO from a farmer's field, viewed from the underside of the UFO.",
+					"alt": "Image from the game Satisfactory featuring a display depicting an alien creature (commonly referred to as the Bean) being abducted by a saucer spaceship from a farmer's field, viewed from the underside of the spaceship.",
 					"highlightsMeta": [
 						"night time",
 						"no team",
@@ -35,7 +35,7 @@
 				},
 				{
 					"filename": "HighResScreenshot20240309-072641.webp",
-					"alt": "Image from the game Satisfactory featuring a display depicting an alien creature (commonly referred to as the Bean) being abducted by a saucer UFO from a farmer's field, viewed from the ground with the UFO out-of-shot and several other beans running away.",
+					"alt": "Image from the game Satisfactory featuring a display depicting an alien creature (commonly referred to as the Bean) being abducted by a saucer spaceship from a farmer's field, viewed from the ground with the spaceship out-of-shot and several other beans running away.",
 					"highlightsMeta": [
 						"night time",
 						"no team",
@@ -52,7 +52,7 @@
 				},
 				{
 					"filename": "HighResScreenshot20240309-072657.webp",
-					"alt": "Image from the game Satisfactory featuring a display depicting an alien creature (commonly referred to as the Bean) being abducted by a saucer UFO from a farmer's field, viewed from above the UFO.",
+					"alt": "Image from the game Satisfactory featuring a display depicting an alien creature (commonly referred to as the Bean) being abducted by a saucer spaceship from a farmer's field, viewed from above the spaceship.",
 					"highlightsMeta": [
 						"night time",
 						"team hands",
@@ -85,7 +85,7 @@
 				},
 				{
 					"filename": "HighResScreenshot20240309-072734.webp",
-					"alt": "Image from the game Satisfactory featuring a close-up view of a sculpture depicting a farmer's barn with a giant pumpkin growing out of the ground beside it to the right, with an alien creature (commonly referred to as the Bean) being abducted by a saucer UFO off to the left.",
+					"alt": "Image from the game Satisfactory featuring a close-up view of a sculpture depicting a farmer's barn with a giant pumpkin growing out of the ground beside it to the right, with an alien creature (commonly referred to as the Bean) being abducted by a saucer spaceship off to the left.",
 					"highlightsMeta": [
 						"night time",
 						"no team",
@@ -1121,783 +1121,1202 @@
 			"33_03": [
 				{
 					"filename": "HighResScreenshot20240309-153544.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a pixel art illustration of a green-hued skull",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"rocky desert",
+						"pixel art",
+						"pillars"
+					]
 				}
 			],
 			"33_33": [
 				{
 					"filename": "HighResScreenshot20240309-154027.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-154125.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a display of several demonstrations of the repetitive structures one can make with the game's build tools",
+					"highlightsMeta": [
+						"night time",
+						"no team",
+						"uncertain location",
+						"tower",
+						"belts",
+						"constructor",
+						"belts",
+						"signs",
+						"repetition"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-154147.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-154208.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-154233.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring an artificially-created Blueprint Designer housing a fountain-like structure created from looping belt lifts, conveyor belts, and power slugs.",
+					"highlightsMeta": [
+						"night time",
+						"no team",
+						"uncertain location",
+						"blueprint designer",
+						"beams",
+						"power slug",
+						"constructor",
+						"crafting bench"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-154529.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a top-down view of a fountain-like structure created from looping belt lifts, conveyor belts, and power slugs.",
+					"highlightsMeta": [
+						"night time",
+						"no team",
+						"uncertain location",
+						"blueprint designer",
+						"beams",
+						"power slug",
+						"constructor",
+						"crafting bench"
+					]
+				},
+				{
+					"filename": "HighResScreenshot20240309-154208.webp",
+					"alt": "Image from the game Satisfactory featuring an arrow pointing at the seam of two roof pieces from the game where the parts are perfectly aligned but issues with the texture mapping create a lack of symmetry.",
+					"highlightsMeta": [
+						"night time",
+						"no team",
+						"uncertain location",
+						"signs",
+						"pillars"
+					]
+				},
+				{
+					"filename": "HighResScreenshot20240309-154233.webp",
+					"alt": "Image from the game Satisfactory featuring an intersecting series of steel beams on belts creating an interesting interference pattern not visible in a static image.",
+					"highlightsMeta": [
+						"night time",
+						"no team",
+						"uncertain location",
+						"belts",
+						"repetition"
+					]
 				}
 			],
 			"34_40": [
 				{
 					"filename": "HighResScreenshot20240309-154730.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-154819.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting a graveyard",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"repetition",
+						"signs",
+						"pillars",
+						"railing"
+					]
 				}
 			],
 			"35_18": [
 				{
 					"filename": "HighResScreenshot20240309-154948.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-155030.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-155039.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-155041.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of \"The Black Gate\" from several adaptations of \"Lord of the Rings\", with the eye of Sauron & Mount Doom visible behind the gate.",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"pillars",
+						"signs as lights"
+					]
 				}
 			],
 			"36_00": [
 				{
 					"filename": "HighResScreenshot20240309-155238.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-155350.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-155357.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-155407.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depicion of a two storey building with an three-storyy off-center tower above the entrance. The building is surrounded by a fence and has two headstones & a dead tree in the front yard.",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"architecture",
+						"pillars",
+						"frames",
+						"signs as lights"
+					]
 				}
 			],
 			"36_42": [
 				{
 					"filename": "HighResScreenshot20240309-155626.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a line-art depiction of a devil with pitchfork & soul contract.",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"beams",
+						"art"
+					]
 				}
 			],
 			"37_13": [
 				{
-					"filename": "HighResScreenshot20240309-161236.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-161252.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-161324.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-161338.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
 					"filename": "HighResScreenshot20240309-161448.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depiction several people standing outside a cobweb-covered red farm building. To the left of a building is a lean-to roof with a giant spider atop the roof. To the right of the building is a small cornfield. In front of the building is a crowd of people standing in front of and under the entrance to the scene. Over the entrance to the scene is a sign reading \"Earl's Spider Farm\"",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"architecture",
+						"pillars",
+						"cables",
+						"signs",
+						"railing",
+						"beams"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-161518.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting several people outside a cobweb-covered red farm building. In front of the building are two people engaged in conversation of some kind while another person appears to either be crawling out of or getting dragged into the farm building.",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"architecture",
+						"cables",
+						"beams",
+						"pillars",
+						"railing"
+					]
 				},
 				{
-					"filename": "HighResScreenshot20240309-161541.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"filename": "HighResScreenshot20240309-161236.webp",
+					"alt": "Image from the game Satisfactory featuring a scene depicting a giant spider inside a cobweb-covered red farm building, shot positioned to appear that the viewer is being dragged into the building by the giant spider.",
+					"highlightsMeta": [
+						"team hands",
+						"night time",
+						"uncertain location",
+						"interior",
+						"beams",
+						"cables"
+					]
+				},
+				{
+					"filename": "HighResScreenshot20240309-161324.webp",
+					"alt": "Image from the game Satisfactory featuring a scene depicting a giant spider atop the lean-to roof against a red farm building, one person stuck in a cobweb and another standing in front of them. Portions of a cave are visible in the background of the shot.",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"architecture",
+						"beams",
+						"pillars",
+						"cables"
+					]
+				},
+				{
+					"filename": "HighResScreenshot20240309-161338.webp",
+					"alt": "Image from the game Satisfactory featuring a scene depiction several people standing outside a cobweb-covered red farm building. To the right of the building in front-of-frame is a small cornfield. In front of the building is a crowd of people standing in front of and under the entrance to the scene. A person appears to either be crawling out of or getting dragged into the farm building. To the rear of the building a cave is visible with a green glow eminating from within.",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"architecture",
+						"cables",
+						"beams",
+						"pillars",
+						"railing"
+					]
+				},
+				{
+					"filename": "HighResScreenshot20240309-161252.webp",
+					"alt": "Image from the game Satisfactory featuring a scene depicting a cave that appears to be a dumping ground for radioactive waste.",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"signs as lights"
+					]
 				}
 			],
 			"37_57": [
 				{
 					"filename": "HighResScreenshot20240309-161657.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a relatively comical depiction of a giant shark",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"beams",
+						"pillars"
+					]
 				}
 			],
 			"38_42": [
 				{
 					"filename": "HighResScreenshot20240309-162245.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of a voxel-art style sign hung by chains from a frame. The sign reads \"Welcome to Camp Crystal Lake. Est. 1935\".",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"lights",
+						"pillars",
+						"pixel art",
+						"art"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-162345.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of a voxel-art style sign hung by chains from a frame. The rear of tghe sign is shown in-shot, with a pixel-art style hockey mask shown.",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"lights",
+						"pillars",
+						"pixel art",
+						"art"
+					]
 				}
 			],
 			"39_03": [
 				{
-					"filename": "HighResScreenshot20240309-162708.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
 					"filename": "HighResScreenshot20240309-162804.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-162823.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting a gingerbread house adorned with candy, using various items from the game's build tools. A tall pole sticks out of the roof of the building disappearing off-frame.",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"architecture",
+						"beams",
+						"pillars",
+						"railing",
+						"stairs"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-162833.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting the interior of a gingerbread house adorned with candy, using various items from the game's build tools. Several Pioneers and signs depicting the game's Lizard Doggo are sitting in the fireplace in center-frame. One of the game's production buildings is used to make smoke come from the fireplace.",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"architecture",
+						"beams",
+						"pillars",
+						"interior",
+						"chimney",
+						"signs",
+						"lizard doggo"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-163017.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring the view from the top of a pole sticking out of a gingerbread house (not visible in the shot). A sign atop the pole reads \"Hi Blastroid, I can see your build from here :)\". Off in the distance are many other contest entries in the Halloween 2023 Pass-It-On event.",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"tower",
+						"signs"
+					]
 				}
 			],
 			"39_54": [
 				{
 					"filename": "HighResScreenshot20240309-163702.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a monstrously distorted house, with the porch roof & beams forming an open mouth, and glowing crooked windows for eyes.",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"architecture",
+						"beams",
+						"pillars",
+						"stairs",
+						"art"
+					]
 				}
 			],
 			"40_11": [
 				{
-					"filename": "HighResScreenshot20240309-163829.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
 					"filename": "HighResScreenshot20240309-163848.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				}
-			],
-			"40_48": [
-				{
-					"filename": "HighResScreenshot20240309-164315.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a spider built from the game's pipes & fluid buffers, lit from the front with an off-screen pinkish-purple light, and glowing signs either the eyes.",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"lights",
+						"signs as lights",
+						"pipes"
+					]
 				}
 			],
 			"41_00": [
 				{
 					"filename": "HighResScreenshot20240309-164438.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of a giant bag of candy, using pipes and a variety of the game's vehicles as scale props of candy bars. The giant bag of candy has the appearance of a jack o' lantern with glowing eyes and mouth.",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"tractor",
+						"pipes",
+						"cyber wagon",
+						"signs as lights"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-164536.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-164554.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring the rear view of a depiction of a giant bag of candy, using pipes and a variety of the game's vehicles as scale props of candy bars. The giant bag of candy has the appearance of a jack o' lantern with glowing eyes and mouth. A sign is visible listing the \"ingredients\" as an asterisk-separated list of items: \"Containing * Marshmallow Cars in 4 different flavours! * Candy Rope * Chocolate Caramel Bar\".",
+					"highlightsMeta": [
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"tractor",
+						"pipes",
+						"cyber wagon",
+						"signs as lights"
+					]
 				}
 			],
 			"41_34": [
 				{
-					"filename": "HighResScreenshot20240309-164942.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
 					"filename": "HighResScreenshot20240309-164959.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting two invisible ghosts wearing bibs eating a meal at a dinner table. The scale of the scene is such that the game's Pioneer is about the size of the tines on the fork one of the ghosts is using. To the left-of-frame one ghost is eating a Pioneer with a knife and fork, with a bowl of soup in front of them. To the rear right-of-frame the other ghost is eating noodles with chopsticks from a bowl of soup. In the rear-off-center-right-of-frame is a box frame resembling a pumpkin with a glowing base. In the front-off-center-right-of-frame is a glowing candle.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"pillars",
+						"beams",
+						"signs as lights"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-165058.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting two invisible ghosts wearing bibs eating a meal at a dinner table. The scale of the scene is such that the game's Pioneer is about the size of the tines on the fork one of the ghosts is using. The shot focuses on the plate one of the ghosts is eating from, (both invisible ghosts are not in shot) with one of the game's Pioneers sitting in the center of a white plate. A sign on the front of the plate reads \"Main Dish / Fresh Pioneer\". In the rear of frame is a relatively large glowing candle.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"signs",
+						"signs as lights"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-165111.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting two invisible ghosts wearing bibs eating a meal at a dinner table. The scale of the scene is such that the game's Pioneer is about the size of the tines on the fork one of the ghosts is using. To the left-of-frame one of the invisible ghosts is eating noodles with chopsticks from a bowl of soup. To the front-right-of-frame is a box frame resembling a pumpkin with a glowing base. In the rear-right-of-frame is a glowing candle.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"beams",
+						"pillars",
+						"signs as lights"
+					]
 				}
 			],
 			"42_23": [
 				{
-					"filename": "HighResScreenshot20240309-165321.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
 					"filename": "HighResScreenshot20240309-165340.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a giant conical witch's hat with large brim, red band around the base, and an orange bow on the red band.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"pillars"
+					]
 				}
 			],
 			"43_02": [
 				{
 					"filename": "HighResScreenshot20240309-220147.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-220156.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting several relatively giant sculptures of creatures from the game Minecraft.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"pillars",
+						"beams"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-220205.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting several relatively giant sculptures of creatures from the game Minecraft. This shot features a spider made from Satisfactory's foundation blocks and pipes.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"pillars",
+						"beams"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-220222.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting several relatively giant sculptures of creatures from the game Minecraft. This shot features a Creeper with a pumpkin mask on.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"pillars",
+						"beams"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-220308.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting several relatively giant sculptures of creatures from the game Minecraft. This shot features a bow-wielding skeleton.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"pillars",
+						"beams"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-220444.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting several relatively giant sculptures of creatures from the game Minecraft.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"pillars",
+						"beams"
+					]
 				}
 			],
 			"44_07": [
 				{
 					"filename": "HighResScreenshot20240309-220651.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting a variety of different movie references in one cityscape.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"cityscape",
+						"spaceship",
+						"foundation patterns",
+						"roads",
+						"lights",
+						"pillars",
+						"glass",
+						"signs",
+						"signs as lights"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-220733.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting a variety of different movie references in one cityscape. This shot focuses on a depiction of the ECTO-1 car from the Ghostbusters franchise outside of the iconic fire house.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"cityscape",
+						"references to other franchises",
+						"glass",
+						"roads",
+						"foundation patterns",
+						"ladder",
+						"glass"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-220754.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting a variety of different movie references in one cityscape. This shot features a building with what appears to have a swimming pool inside. In the rear right of frame is a saucer spaceship abducting a Pioneer from a car.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"cityscape",
+						"references to other franchises",
+						"glass",
+						"lights",
+						"roads",
+						"spaceship",
+						"foundation patterns"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-220809.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting a variety of different movie references in one cityscape. This shot focuses on one of the game's Pioneers being abducted from their car by a saucer-shaped spaceship with green glowing light pulling them into a circular opening in the bottom of the spaceship. In the rear of frame a depiction of the court house from Back to the Future is visible.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"cityscape",
+						"references to other franchises",
+						"glass",
+						"lights",
+						"roads",
+						"spaceship",
+						"foundation patterns",
+						"architecture"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-220835.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting a variety of different movie references in one cityscape. This shot features a depiction of the court house from Back to the Future.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"cityscape",
+						"references to other franchises",
+						"architecture",
+						"pillars",
+						"glass",
+						"stairs"
+					]
 				}
 			],
 			"45_18": [
 				{
 					"filename": "HighResScreenshot20240309-221209.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-221243.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring an large open-walled structure constructed largely out of frames using street lighting to highlight various spots within the space. ",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"architecture",
+						"frames",
+						"glass",
+						"lights",
+						"barrier",
+						"railing"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-221258.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring an large open-walled structure constructed largely out of frames using street lighting to highlight various spots within the space. ",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"architecture",
+						"frames",
+						"glass",
+						"lights",
+						"barrier",
+						"railing"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-221330.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring an large open-walled structure constructed largely out of frames using street lighting to highlight various spots within the space. ",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"architecture",
+						"frames",
+						"glass",
+						"lights",
+						"barrier",
+						"railing",
+						"signs as lights"
+					]
 				}
 			],
 			"45_50": [
 				{
 					"filename": "HighResScreenshot20240309-221620.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-221630.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a large hollow square building, the outer consisting of a series of chambers built from the game's pillars & glass walls. The series of chambers form a flappy bird-esque game designed to be played with Satisfactory's Jetpack.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"games",
+						"pillars",
+						"glass"
+					]
 				}
 			],
 			"46_33": [
 				{
-					"filename": "HighResScreenshot20240309-222225.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
 					"filename": "HighResScreenshot20240309-222824.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-222849.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of a scene from the game \"PlateUp!\" built using Satisfactory's build tools.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"beams",
+						"pillars",
+						"signs",
+						"furniture"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-222858.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240309-222918.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of a scene from the game \"PlateUp!\" built using Satisfactory's build tools. This shot features an overhead view similar to the point of view when playing the game \"PlateUp!\"",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"beams",
+						"pillars",
+						"foundation patterns",
+						"furniture"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-223011.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of a scene from the game \"PlateUp!\" built using Satisfactory's build tools.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"beams",
+						"pillars",
+						"foundation patterns",
+						"signs"
+					]
 				}
 			],
 			"47_49": [
 				{
 					"filename": "HighResScreenshot20240309-223200.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring an industrial building surrounded by a tall security fence made from conveyor belts filled with resources from the game.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"industrial",
+						"belts"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-223343.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring an industrial building surrounded by a tall security fence made from conveyor belts filled with resources from the game. This shot features a close-up highlighting each layer of the fence.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"industrial",
+						"belts",
+						"glass"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240309-223356.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring an industrial building surrounded by a tall security fence made from conveyor belts filled with resources from the game. This shot features a series of signs making a joke on the topic of \"assembly\" being both the name of a low-level programming language and a reference to one of the central gameplay mechanics of factory automation games such as Satisfactory.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"industrial",
+						"glass",
+						"interior",
+						"signs",
+						"lights",
+						"signs as lights"
+					]
 				}
 			],
 			"48_58": [
 				{
-					"filename": "HighResScreenshot20240310-095618.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
 					"filename": "HighResScreenshot20240310-095645.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting a group of people holding lanterns in a circle either summoning or sacrificing to a giant red hand & arm coming from a circular pit.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"signs as lights",
+						"lights",
+						"signs",
+						"beams",
+						"pillars"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240310-095944.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting a group of people holding lanterns in a circle either summoning or sacrificing to a giant red hand & arm coming from a circular pit. This shot has the arm out-of-frame and instead focuses on the person in front of an alter preparing to sacrifice a Lizard Doggo (with a sign as a stand-in for the Lizard Doggo & a chainsaw as a stand-in for a ritual knife).",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"signs as lights",
+						"lights",
+						"signs",
+						"beams",
+						"pillars"
+					]
 				}
 			],
 			"49_58": [
 				{
 					"filename": "HighResScreenshot20240310-102334.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-102350.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting a person in bed reading a fictional book written by DixeeChris entitled \"Pluto is not a Planet And other Made up Horror Stories\", with a menacing multi-armed ginger-bearded bespectacled creature crawling out from under the bed.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"furniture",
+						"beams",
+						"pillars",
+						"lights"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240310-102416.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting a person in bed reading a fictional book written by DixeeChris entitled \"Pluto is not a Planet And other Made up Horror Stories\", with a menacing multi-armed ginger-bearded bespectacled creature crawling out from under the bed.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"furniture",
+						"beams",
+						"pillars",
+						"lights"
+					]
 				}
 			],
 			"50_52": [
 				{
 					"filename": "HighResScreenshot20240310-102545.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of giant smiling candy corn.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"pixel art"
+					]
 				}
 			],
 			"51_54": [
 				{
 					"filename": "HighResScreenshot20240310-102933.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of Ernesto de la Cruz's guitar from the film Coco.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"art",
+						"cables",
+						"pillars",
+						"beams"
+					]
 				}
 			],
 			"52_26": [
 				{
 					"filename": "HighResScreenshot20240310-104041.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-104104.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a large building-sized ouija board built using the game's build tools.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"signs",
+						"glass"
+					]
 				}
 			],
 			"53_04": [
 				{
-					"filename": "HighResScreenshot20240310-104306.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
 					"filename": "HighResScreenshot20240310-104331.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-104400.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a mess of a tower of an apparently-functional belts & production machines.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"tower",
+						"spaghett",
+						"belts",
+						"assembler",
+						"constructor",
+						"warehouse",
+						"lights"
+					]
 				}
 			],
 			"53_36": [
 				{
 					"filename": "HighResScreenshot20240310-104804.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of a pixel-art style painting resting on a giant easel. The pixel art painting depicts the character of Sally from the film \"A Nightmare Before Christmas\"",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"pixel art",
+						"references to other franchises"
+					]
 				}
 			],
 			"53_47": [
 				{
 					"filename": "HighResScreenshot20240310-104941.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of a duck floating in a small pond with small lily pads also floating in the pond.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art"
+					]
 				}
 			],
 			"54_10": [
 				{
 					"filename": "HighResScreenshot20240310-105057.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting a fenced-in cemetery featuring 3 rows of graves on either side of a walkway/road, with cross-shaped headstones on each grave. IN the rear of shot are 5 crypts with in the center at the opposite end of the gated entrance leading onto the walkway/road, with one lit grave in each corner. Some of the graves in the front 3 rows have an eerie green glow coming frm them.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"architecture",
+						"lights",
+						"signs",
+						"railing",
+						"pillars"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240310-105143.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a scene depicting the interior of a crypt at the rear of a cemetery. A sarcophagus is in the center of the crypt, lit either side by green floodlights, with a Pioneer sat drinking coffee atop the sarcophagus.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"architecture",
+						"lights",
+						"signs",
+						"interior",
+						"pillars"
+					]
 				}
 			],
 			"54_37": [
 				{
 					"filename": "HighResScreenshot20240310-105433.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a giant orange candy bucket styled after a jack o' lantern, with the game's jelly landing pads being used as a stand-in for candy in the bucket.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"pipes"
+					]
 				}
 			],
 			"54_52": [
 				{
 					"filename": "HighResScreenshot20240310-105648.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of the Racoon City Police Station from the game \"Resident Evil 2\".",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"architecture",
+						"glass",
+						"signs"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240310-105706.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of the interior of Racoon City Police Station from the game \"Resident Evil 2\".",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"architecture",
+						"glass",
+						"interior",
+						"pillars",
+						"railing",
+						"statue gallery"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240310-105739.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of the rear interior of Racoon City Police Station from the game \"Resident Evil 2\".",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"architecture",
+						"glass",
+						"interior",
+						"pillars",
+						"railing",
+						"statue gallery"
+					]
 				}
 			],
 			"55_25": [
 				{
 					"filename": "HighResScreenshot20240310-105936.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of two characters from the film \"A Nightmare Before Christmas\", Jack Skellington, and Zero.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"beams",
+						"pillars",
+						"signs as lights"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240310-105953.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of two characters from the film \"A Nightmare Before Christmas\", Jack Skellington, and Zero.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"beams",
+						"pillars",
+						"signs as lights"
+					]
 				}
 			],
 			"55_57": [
 				{
 					"filename": "HighResScreenshot20240310-110554.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-110646.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-110659.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a figure stuck on a rope bridge, walking over a room covered with vines & white-toothed purple piranha plants.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"pipes",
+						"beams",
+						"pillars"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240310-110713.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-110845.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-110858.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-110930.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a figure stuck on a rope bridge, walking over a room covered with vines & white-toothed purple piranha plants.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"pipes",
+						"beams",
+						"pillars"
+					]
 				}
 			],
 			"57_02": [
 				{
 					"filename": "HighResScreenshot20240310-111055.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a large-scale herringbone-patterned floor with two bricks out-of-place in reference to the title of the piece \"You had one job.\"",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"pillars",
+						"art"
+					]
 				}
 			],
 			"58_01": [
 				{
 					"filename": "HighResScreenshot20240310-111249.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-111309.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-111330.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a cartoonish depiction of Dr. Martin Luther smashing pumpkins on a church door.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"pillars"
+					]
 				}
 			],
 			"59_10": [
 				{
-					"filename": "HighResScreenshot20240310-111445.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
 					"filename": "HighResScreenshot20240310-111459.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a small installation inspired by the work of creator Pobkac, featuring a much smaller/in-progress power slug fountain.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"belts",
+						"power slug",
+						"repetition"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240310-111517.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a small installation inspired by the work of creator Pobkac.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"beams",
+						"frames",
+						"signs",
+						"foundation patterns"
+					]
 				}
 			],
 			"59_56": [
 				{
 					"filename": "HighResScreenshot20240310-111640.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of several pieces referencing several horror movies.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"references to other franchises",
+						"art",
+						"pixel art",
+						"glass"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240310-111740.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-111811.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of the basement hallway of the glass house in the horror film \"13 Ghosts\".",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"interior",
+						"signs",
+						"lights",
+						"glass",
+						"references to other franchises"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240310-111845.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of a pixel art hand saw with pixel art blood dripping from the leading edge.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"pixel art",
+						"references to other franchises"
+					]
 				},
 				{
 					"filename": "HighResScreenshot20240310-111916.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring pixel art depictions of both the outline of the state of Texas, and a bloodied chainsaw, in reference to the horror movie \"The Texas Chain Saw Massacre\". At the bottom-of-frame is a collection of murder victims depicted using the game's build tools.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"pixel art",
+						"references to other franchises"
+					]
 				}
 			],
 			"1_02_05": [
 				{
 					"filename": "HighResScreenshot20240310-112220.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112241.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112453.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112506.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112509.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112513.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112519.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112533.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112538.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112543.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112548.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112551.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112556.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112616.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112627.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112631.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112641.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112644.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112648.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112837.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112841.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112845.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-112925.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
-					"filename": "HighResScreenshot20240310-113016.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of a cemetery with headstones representing the lifespan of a particular feature or meme within the Satisfactory community.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art",
+						"pillars",
+						"belts",
+						"lights",
+						"pipes",
+						"train",
+						"smelter",
+						"signs"
+					]
 				}
 			],
 			"1_03_53": [
 				{
-					"filename": "HighResScreenshot20240310-113137.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
-				},
-				{
 					"filename": "HighResScreenshot20240310-113254.webp",
-					"alt": "Image from the game Satisfactory featuring ",
-					"highlightsMeta": []
+					"alt": "Image from the game Satisfactory featuring a depiction of a giant pregnancy test.",
+					"highlightsMeta": [
+						"art",
+						"no team",
+						"night time",
+						"uncertain location",
+						"art"
+					]
 				}
 			]
 		}
