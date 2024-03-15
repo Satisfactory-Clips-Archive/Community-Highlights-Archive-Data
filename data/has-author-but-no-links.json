@@ -12448,5 +12448,109 @@
 				]
 			}
 		}
+	},
+	"2024-03-12": {
+		"yt-EgPodLjYU9s": {
+			"18:15 CodiceIBBBAN, Snutt - chargin mah laser": {
+				"timestamp": 1095,
+				"raw_text": "CodiceIBBBAN, Snutt - chargin mah laser",
+				"timestamps_for_links": [
+					1104.5,
+					1108,
+					1125,
+					1136,
+					1154
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1104.5,
+						"meta": [
+							"green valley",
+							"the gates of beugernath",
+							"art",
+							"glass",
+							"interior",
+							"night time",
+							"pillars",
+							"catwalk",
+							"coal plant"
+						]
+					},
+					{
+						"timestamp": 1108,
+						"meta": [
+							"green valley",
+							"the gates of beugernath",
+							"art",
+							"glass",
+							"interior",
+							"night time",
+							"pillars",
+							"catwalk",
+							"coal plant"
+						]
+					},
+					{
+						"timestamp": 1125,
+						"meta": [
+							"green valley",
+							"the gates of beugernath",
+							"art",
+							"glass",
+							"interior",
+							"night time",
+							"pillars",
+							"catwalk",
+							"coal plant"
+						]
+					},
+					{
+						"timestamp": 1136,
+						"meta": [
+							"green valley",
+							"the gates of beugernath",
+							"art",
+							"glass",
+							"interior",
+							"night time",
+							"pillars",
+							"catwalk",
+							"coal plant"
+						]
+					},
+					{
+						"timestamp": 1154,
+						"meta": [
+							"green valley",
+							"the gates of beugernath",
+							"art",
+							"glass",
+							"interior",
+							"night time",
+							"pillars",
+							"catwalk",
+							"coal plant"
+						]
+					}
+				]
+			},
+			"23:34 Satisfactory Events - Content Creator Highlight https://twitch.tv/satisfactoryevents": {
+				"timestamp": 1414,
+				"raw_text": "Satisfactory Events - Content Creator Highlight https://twitch.tv/satisfactoryevents",
+				"timestamps_for_links": [
+					1524
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 1524,
+						"meta": [
+							"unknown location",
+							"multiplayer",
+							"no team"
+						]
+					}
+				]
+			}
+		}
 	}
 }
