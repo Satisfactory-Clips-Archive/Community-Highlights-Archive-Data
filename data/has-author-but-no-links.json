@@ -12552,5 +12552,28 @@
 				]
 			}
 		}
+	},
+	"2024-03-19": {
+		"yt-MGWRjbjxMtQ": {
+			"01:54 LouiDev0815, Snutt - say hi to barney": {
+				"timestamp": 114,
+				"raw_text": "LouiDev0815, Snutt - say hi to barney",
+				"timestamps_for_links": [
+					148
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 148,
+						"meta": [
+							"no team",
+							"green valley",
+							"foundation patterns",
+							"lights",
+							"railing"
+						]
+					}
+				]
+			}
+		}
 	}
 }
