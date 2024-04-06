@@ -8,25 +8,25 @@
 		{
 			"src": "https://i.redd.it/8r9nfglai4oc1.png",
 			"highlightsMeta": [
-				"no team",
 				"green valley",
+				"no team",
+				"railing",
 				"foundation patterns",
-				"lights",
-				"railing"
+				"lights"
 			]
 		},
 		{
 			"src": "https://i.redd.it/asr59hlai4oc1.png",
 			"highlightsMeta": [
-				"no team",
 				"green valley",
-				"outpost",
-				"railing",
 				"interior",
-				"power storage bank",
+				"no team",
 				"catwalk",
+				"railing",
+				"foundation patterns",
 				"signs",
-				"foundation patterns"
+				"outpost",
+				"power storage bank"
 			]
 		},
 		{
@@ -44,18 +44,18 @@
 			"src": "https://i.redd.it/0fwq8xt9tync1.png",
 			"alt": "The interior, took me all in all about 100 hours to build...",
 			"highlightsMeta": [
-				"no team",
 				"dune desert",
 				"interior",
 				"night time",
-				"space elevator",
-				"refinery",
+				"no team",
 				"particle accelerator",
-				"signs as lights",
+				"space elevator",
+				"manufacturer",
+				"constructor",
+				"refinery",
 				"railing",
 				"frames",
-				"constructor",
-				"manufacturer"
+				"signs as lights"
 			]
 		},
 		{
@@ -73,16 +73,16 @@
 		{
 			"src": "https://i.redd.it/uvy3j1bktync1.png",
 			"highlightsMeta": [
-				"no team",
 				"dune desert",
-				"night time",
-				"space elevator",
-				"lights",
-				"signs as lights",
-				"railing",
-				"miner",
+				"architecture",
 				"fog",
-				"architecture"
+				"night time",
+				"no team",
+				"miner",
+				"space elevator",
+				"railing",
+				"lights",
+				"signs as lights"
 			]
 		},
 		{
@@ -96,12 +96,12 @@
 		{
 			"src": "https://i.redd.it/ns2e9ryltync1.png",
 			"highlightsMeta": [
-				"no team",
-				"interior",
-				"signs as lights",
-				"railing",
+				"dune desert",
 				"glass",
-				"dune desert"
+				"interior",
+				"no team",
+				"railing",
+				"signs as lights"
 			]
 		}
 	],
@@ -116,12 +116,12 @@
 			"alt": "Glass, Beams n Belts",
 			"highlightsMeta": [
 				"grass fields",
-				"pillars",
-				"refinery",
+				"fog",
 				"glass",
-				"awesome sink",
 				"no team",
-				"fog"
+				"awesome sink",
+				"refinery",
+				"pillars"
 			]
 		}
 	],
@@ -134,10 +134,10 @@
 		{
 			"src": "https://i.redd.it/87o4divh9unc1.png",
 			"highlightsMeta": [
-				"team cup",
 				"grass fields",
 				"architecture",
 				"glass",
+				"team cup",
 				"pillars"
 			]
 		},
@@ -149,11 +149,11 @@
 			"src": "https://i.redd.it/hev3e01j9unc1.png",
 			"alt": "Going to be split into 2 floors, after I download more VRAM",
 			"highlightsMeta": [
-				"team cup",
-				"interior",
 				"grass fields",
 				"architecture",
 				"glass",
+				"interior",
+				"team cup",
 				"pillars"
 			]
 		},
@@ -161,11 +161,11 @@
 			"src": "https://i.redd.it/hl6fmwsj9unc1.png",
 			"alt": "Had to push it further with a 2nd building",
 			"highlightsMeta": [
-				"grass fields arch",
-				"team cup",
 				"grass fields",
+				"grass fields arch",
 				"architecture",
 				"glass",
+				"team cup",
 				"pillars"
 			]
 		},
@@ -189,13 +189,12 @@
 			"src": "https://i.redd.it/cgukyzoyaqnc1.png",
 			"highlightsMeta": [
 				"uncertain location",
-				"no team",
 				"architecture",
-				"signs",
-				"belts",
+				"no team",
+				"catwalk",
 				"frames",
-				"signs",
-				"catwalk"
+				"belts",
+				"signs"
 			]
 		},
 		{
@@ -206,26 +205,24 @@
 			"src": "https://i.redd.it/yi8ft8pyaqnc1.png",
 			"highlightsMeta": [
 				"uncertain location",
-				"no team",
 				"architecture",
-				"signs",
-				"belts",
+				"no team",
+				"catwalk",
 				"frames",
-				"signs",
-				"catwalk"
+				"belts",
+				"signs"
 			]
 		},
 		{
 			"src": "https://i.redd.it/6eladqoyaqnc1.png",
 			"highlightsMeta": [
 				"uncertain location",
-				"no team",
 				"architecture",
-				"signs",
-				"belts",
+				"no team",
+				"catwalk",
 				"frames",
-				"signs",
-				"catwalk"
+				"belts",
+				"signs"
 			]
 		}
 	],
@@ -239,21 +236,21 @@
 			"src": "https://i.redd.it/xez2x21pzqnc1.jpg",
 			"alt": "These are the first 40 base-pairs of cytochrome c. Scale is 4*10°12 : 1",
 			"highlightsMeta": [
-				"no team",
 				"beach islands",
+				"art",
+				"no team",
 				"beams",
-				"fuel plant",
-				"art"
+				"fuel plant"
 			]
 		},
 		{
 			"src": "https://i.redd.it/w4wfie7pzqnc1.jpg",
 			"highlightsMeta": [
-				"no team",
 				"beach islands",
+				"art",
+				"no team",
 				"beams",
-				"fuel plant",
-				"art"
+				"fuel plant"
 			]
 		}
 	],
@@ -268,45 +265,43 @@
 			"alt": "Wanted it to look integrated with the existing terrain",
 			"highlightsMeta": [
 				"northern forest",
-				"no team",
-				"train tracks",
-				"train",
-				"space elevator",
 				"glass",
-				"signs",
-				"train signals",
-				"train station",
+				"no team",
 				"awesome sink",
 				"particle accelerator",
-				"glass",
-				"drone",
+				"radar tower",
+				"space elevator",
+				"train station",
 				"power tower",
+				"drone",
+				"train",
 				"frames",
-				"radar tower"
+				"signs",
+				"train signals",
+				"train tracks"
 			]
 		},
 		{
 			"src": "https://i.redd.it/yf3o2afeqcoc1.jpg",
 			"alt": "West side yo",
 			"highlightsMeta": [
-				"no team",
 				"northern forest",
-				"space elevator",
-				"power tower",
-				"particle accelerator",
-				"drone",
-				"hub",
-				"miner",
-				"frames",
-				"train tracks",
-				"signs",
-				"train station",
-				"lights",
-				"blender",
 				"glass",
-				"lights",
+				"no team",
+				"awesome sink",
+				"blender",
+				"miner",
+				"particle accelerator",
 				"radar tower",
-				"awesome sink"
+				"space elevator",
+				"train station",
+				"power tower",
+				"drone",
+				"frames",
+				"hub",
+				"lights",
+				"signs",
+				"train tracks"
 			]
 		},
 		{
@@ -324,11 +319,11 @@
 			"alt": "I see only pain",
 			"highlightsMeta": [
 				"northern forest",
+				"glass",
 				"interior",
-				"signs",
 				"team cup",
 				"drone",
-				"glass"
+				"signs"
 			]
 		},
 		{
@@ -336,10 +331,10 @@
 			"alt": "Aah, that's better",
 			"highlightsMeta": [
 				"northern forest",
+				"glass",
 				"nature",
 				"team cup",
 				"awesome shop",
-				"glass",
 				"railing"
 			]
 		},
@@ -374,21 +369,21 @@
 			"src": "https://i.redd.it/5dty86dn0foc1.jpg",
 			"highlightsMeta": [
 				"red bamboo fields",
-				"pipes",
+				"no team",
 				"train station",
-				"train signals",
 				"refinery",
-				"no team"
+				"pipes",
+				"train signals"
 			]
 		},
 		{
 			"src": "https://i.redd.it/itjx46dn0foc1.jpg",
 			"highlightsMeta": [
 				"red bamboo fields",
-				"pipes",
-				"blender",
 				"no team",
-				"frames"
+				"blender",
+				"frames",
+				"pipes"
 			]
 		},
 		{
@@ -399,12 +394,12 @@
 			"src": "https://i.redd.it/6mvvw5dn0foc1.jpg",
 			"highlightsMeta": [
 				"red bamboo fields",
-				"pipes",
 				"interior",
 				"no team",
-				"lights",
+				"blender",
 				"frames",
-				"blender"
+				"lights",
+				"pipes"
 			]
 		}
 	],
@@ -431,9 +426,9 @@
 				"dune desert",
 				"architecture",
 				"glass",
-				"tower",
+				"no team",
 				"pillars",
-				"no team"
+				"tower"
 			]
 		},
 		{
@@ -442,8 +437,8 @@
 			"highlightsMeta": [
 				"dune desert",
 				"architecture",
-				"pillars",
-				"no team"
+				"no team",
+				"pillars"
 			]
 		},
 		{
@@ -453,11 +448,10 @@
 				"dune desert",
 				"architecture",
 				"glass",
-				"tower",
-				"pillars",
 				"team hands",
+				"pillars",
 				"frames",
-				"glass"
+				"tower"
 			]
 		}
 	],
@@ -470,32 +464,32 @@
 		{
 			"src": "https://i.redd.it/4lf8uvb5klnc1.png",
 			"highlightsMeta": [
-				"team xenobasher",
-				"team hover pack",
-				"night time",
 				"western dune forest",
-				"tower",
-				"references to other franchises",
-				"signs as lights",
 				"glass",
+				"night time",
+				"references to other franchises",
+				"team hover pack",
+				"team xenobasher",
+				"radar tower",
 				"train station",
 				"train tracks",
-				"radar tower"
+				"signs as lights",
+				"tower"
 			]
 		},
 		{
 			"src": "https://i.redd.it/o4li0fh5klnc1.png",
 			"highlightsMeta": [
-				"team hover pack",
-				"night time",
 				"western dune forest",
-				"tower",
-				"references to other franchises",
 				"glass",
-				"signs as lights",
-				"lights",
+				"night time",
+				"references to other franchises",
+				"team hover pack",
 				"train station",
-				"railing"
+				"railing",
+				"lights",
+				"signs as lights",
+				"tower"
 			]
 		},
 		{
@@ -506,14 +500,14 @@
 			"src": "https://i.redd.it/tmrw5545klnc1.png",
 			"highlightsMeta": [
 				"western dune forest",
+				"glass",
+				"night time",
+				"references to other franchises",
 				"team hover pack",
 				"team xenobasher",
-				"tower",
-				"references to other franchises",
-				"night time",
 				"radar tower",
-				"glass",
-				"signs as lights"
+				"signs as lights",
+				"tower"
 			]
 		}
 	],
@@ -527,13 +521,13 @@
 			"src": "https://i.redd.it/im7nnx19kloc1.jpeg",
 			"alt": "Empty train station in summer mood",
 			"highlightsMeta": [
-				"no team",
 				"uncertain location",
+				"interior",
+				"no team",
 				"lookout tower",
 				"miner",
-				"pillars",
-				"interior",
-				"barrier"
+				"barrier",
+				"pillars"
 			]
 		}
 	],
@@ -547,16 +541,16 @@
 			"src": "https://i.redd.it/5avscc8cbjoc1.png",
 			"alt": "𝓗𝓪𝓹𝓹𝔂 𝓑𝓲𝓻𝓽𝓱𝓭𝓪𝔂 !",
 			"highlightsMeta": [
-				"no team",
-				"northern forest",
 				"uncertain location",
-				"night time",
+				"northern forest",
 				"art",
+				"night time",
+				"no team",
 				"belts",
-				"signs",
-				"signs as lights",
 				"pipes",
-				"lizard doggo"
+				"signs",
+				"lizard doggo",
+				"signs as lights"
 			]
 		},
 		{
@@ -571,29 +565,29 @@
 		{
 			"src": "https://i.redd.it/9fld30fcbjoc1.png",
 			"highlightsMeta": [
-				"no team",
-				"northern forest",
 				"uncertain location",
-				"night time",
+				"northern forest",
 				"art",
+				"night time",
+				"no team",
 				"belts",
+				"pipes",
 				"signs",
-				"signs as lights",
-				"pipes"
+				"signs as lights"
 			]
 		},
 		{
 			"src": "https://i.redd.it/mf957wjcbjoc1.png",
 			"highlightsMeta": [
-				"no team",
-				"northern forest",
 				"uncertain location",
-				"night time",
+				"northern forest",
 				"art",
+				"night time",
+				"no team",
 				"belts",
+				"pipes",
 				"signs",
-				"signs as lights",
-				"pipes"
+				"signs as lights"
 			]
 		}
 	],
