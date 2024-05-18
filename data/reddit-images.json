@@ -1,4 +1,609 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1cjj5l0/amazing_testing_orientation_skills_of_ficsit/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/cKbGzEg1e6ppL5veGRwJsAgaxkn2bsjVNgVxhD91d04.jpg",
+			"alt": "Amazing - Testing Orientation Skills of Ficsit Employees",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/r4hv6mh0x9yc1.jpg",
+			"alt": "Start of the Maze",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"games",
+				"glass",
+				"modded",
+				"no team",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/oxcz6uxax9yc1.jpg",
+			"alt": "Insightfully tips for your life so you won't give up.",
+			"highlightsMeta": [
+				"dune desert",
+				"games",
+				"glass",
+				"interior",
+				"no team",
+				"lights",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/14pzpwibx9yc1.jpg",
+			"alt": "Where shall we go next?",
+			"highlightsMeta": [
+				"dune desert",
+				"games",
+				"glass",
+				"interior",
+				"modded",
+				"no team",
+				"railing",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/7to7njqcx9yc1.jpg",
+			"alt": "Let's go under the forest and hope for the exit",
+			"highlightsMeta": [
+				"dune desert",
+				"games",
+				"glass",
+				"interior",
+				"nature",
+				"modded",
+				"no team",
+				"pillars",
+				"lights",
+				"stairs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/3q6d9aq5x9yc1.jpg",
+			"alt": "A nice rock garden in the maze",
+			"highlightsMeta": [
+				"dune desert",
+				"games",
+				"glass",
+				"interior",
+				"no team",
+				"railing",
+				"lights",
+				"stairs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/5wfv2ukex9yc1.jpg",
+			"alt": "The finish. Now quickly back to the Factory.",
+			"highlightsMeta": [
+				"dune desert",
+				"games",
+				"glass",
+				"interior",
+				"modded",
+				"no team",
+				"power switch",
+				"lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/hoq7d472x9yc1.jpg",
+			"alt": "Basic split in the maze. We can have over- and underpasses.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ol5fudo3x9yc1.jpg",
+			"alt": "Indoor Greenery... Since you might not be outside again any time soon.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ay5k8hj4x9yc1.jpg",
+			"alt": "Termination Signs to keep the spirit high.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bzy6j975x9yc1.jpg",
+			"alt": "Small cave in. Not all roads are clear.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/j7vs1l86x9yc1.jpg",
+			"alt": "Please keep all arms on board when crossing",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2h1qyg47x9yc1.jpg",
+			"alt": "What direction should you choose?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8n3ryxt7x9yc1.jpg",
+			"alt": "The purple underpass",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bfuew4l8x9yc1.jpg",
+			"alt": "Double overpass. Didn't you cross overthere before?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gwno80j9x9yc1.jpg",
+			"alt": "Colorfull crossroads",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2a3w6gmdx9yc1.jpg",
+			"alt": "This surely leads to that office building.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jq4ckm0ex9yc1.jpg",
+			"alt": "Guess there is a tanning salon around the corner.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5cmmlj1fx9yc1.jpg",
+			"alt": "The original doodle that started it all.",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1cfjcpt/stopped_to_admire_the_beauty_while_routing_power/": [
+		{
+			"src": "https://preview.redd.it/qiltjs7ssaxc1.jpeg?width=640&crop=smart&auto=webp&s=9eb464a4f63c86b696f322b72f825f985d8c4ec8",
+			"alt": "Stopped to admire the beauty while routing power lines to the Geysers",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qiltjs7ssaxc1.jpeg",
+			"alt": "Stopped to admire the beauty while routing power lines to the Geysers",
+			"highlightsMeta": [
+				"titan forest",
+				"fog",
+				"nature",
+				"sunrise/sunset",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1cdqf8j/the_stack_a_copper_factory_producing_15_automated/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/vyo3d5O80z_mBuum7F66BFwoTdloYrNdR88IdDh2jaQ.jpg",
+			"alt": "The Stack: A copper factory producing 15 Automated Wiring per minute",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7wmwxs8nsuwc1.png",
+			"highlightsMeta": [
+				"titan forest",
+				"architecture",
+				"glass",
+				"no team",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/p9sixeinsuwc1.png",
+			"highlightsMeta": [
+				"titan forest",
+				"glass",
+				"interior",
+				"no team",
+				"constructor",
+				"signs",
+				"stairs",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/r9zi6ornsuwc1.png",
+			"highlightsMeta": [
+				"titan forest",
+				"glass",
+				"interior",
+				"no team",
+				"frames",
+				"belts",
+				"signs",
+				"stairs",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1cfn0iw/rate_my_modular_refineries/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/HO47gOMscrBZTwwPGfQ3Q3iIWkrwXaI8KWrQsIyiTFE.jpg",
+			"alt": "Rate my modular refineries",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xf4sds04obxc1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"glass",
+				"team hover pack",
+				"refinery",
+				"beams",
+				"signs",
+				"outpost",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/h8v7uq04obxc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hvs42q04obxc1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"glass",
+				"team hover pack",
+				"awesome sink",
+				"refinery",
+				"beams",
+				"signs",
+				"outpost",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/7rvyor04obxc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wkpjwb04obxc1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"glass",
+				"interior",
+				"team hover pack",
+				"refinery",
+				"railing",
+				"beams",
+				"lights",
+				"outpost",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1cew9sd/cavern_city/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/lwsqbpEwy_gyt61HiROrrjCgHaLdRNjFDawlo0oJ9WY.jpg",
+			"alt": "Cavern City",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mtzxsssxw4xc1.png",
+			"alt": "Main entrance",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nq78axb3x4xc1.png",
+			"alt": "Roadway to factories",
+			"highlightsMeta": [
+				"cave",
+				"western beaches",
+				"fog",
+				"no team",
+				"catwalk",
+				"railing",
+				"frames",
+				"belts",
+				"lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/dgd1bttex4xc1.png",
+			"alt": "Looking back towards main entrance",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/49ou6plmx4xc1.png",
+			"alt": "Small factory and overlook",
+			"highlightsMeta": [
+				"cave",
+				"western beaches",
+				"fog",
+				"glass",
+				"no team",
+				"catwalk",
+				"frames",
+				"belts",
+				"lights",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/n3ec4ea0y4xc1.png",
+			"alt": "Looking up to the top of the cavern",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/v6obzp27y4xc1.png",
+			"alt": "View from the top",
+			"highlightsMeta": [
+				"cave",
+				"western beaches",
+				"glass",
+				"no team",
+				"catwalk",
+				"lights",
+				"outpost"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1cj4bf2/full_t3_bakteriophage_with_t7_helicase_190000/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/w5LPgxBX26EJLV8cBR7mc-0ne8slIMUG9XWFjlchtgI.jpg",
+			"alt": "Full T3 Bakteriophage with T7 Helicase (190000 steel beams)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/o5ko9cbbi6yc1.jpg",
+			"highlightsMeta": [
+				"spire coast",
+				"art",
+				"team hands",
+				"beams",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/8t2g8c0rh6yc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/p7z9yhrth6yc1.jpg",
+			"highlightsMeta": [
+				"spire coast",
+				"art",
+				"team hands",
+				"beams",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/fcxy547vh6yc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/f1cpjtnwh6yc1.jpg",
+			"highlightsMeta": [
+				"spire coast",
+				"art",
+				"interior",
+				"team hands",
+				"beams",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ack3m84yh6yc1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4wqplb70i6yc1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1cdvmpe/outline_of_my_new_factory_im_not_allowed_to_build/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/13PJ6dxjaiNhfIjUr82SmyQYFr1R9Nm59DWXXJdqF1Y.jpg",
+			"alt": "Outline of my new Factory. Im not allowed to build anything but Logistics (yes mainly trains) outside of it as a challenge for myself. Hope it is going to be big enough for late game. Open for feedback and advice :3",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fs7dqyb9uvwc1.png",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"night time",
+				"no team",
+				"lookout tower",
+				"space elevator",
+				"train station",
+				"frames",
+				"lights",
+				"train signals",
+				"train tracks",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/b5orizb9uvwc1.png",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"night time",
+				"no team",
+				"space elevator",
+				"train station",
+				"frames",
+				"lights",
+				"train signals",
+				"train tracks",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/aad2nxb9uvwc1.png",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"no team",
+				"lookout tower",
+				"space elevator",
+				"train station",
+				"frames",
+				"lights",
+				"train signals",
+				"train tracks",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/vs4vk0c9uvwc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/51bm20c9uvwc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/tqa9e3c9uvwc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/p4x9hst3uvwc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/a91paut3uvwc1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1chxdbx/hydronuclear_power_ficsit_green_energy/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/TTwJPs5v2hkYCFU-pgobsqeBae_kk7G4DZh-3fTSQ8M.jpg",
+			"alt": "Hydronuclear Power - FICSIT Green Energy",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hni23sj5rvxc1.png",
+			"highlightsMeta": [
+				"western beaches",
+				"no team",
+				"railing",
+				"crash site",
+				"dam",
+				"nuclear plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/sm9396o6rvxc1.png",
+			"highlightsMeta": [
+				"western beaches",
+				"architecture",
+				"glass",
+				"industrial",
+				"team hands",
+				"space elevator",
+				"drone",
+				"pillars",
+				"railing",
+				"frames",
+				"crash site",
+				"dam",
+				"nuclear plant",
+				"tower"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1cl3fb5/my_personnal_space_hub/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/c4SzBxIaDpX9Koh-u7oUziNWi92YpxkUxqmQLcbNl7Y.jpg",
+			"alt": "My personnal \"Space HUB\"",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/l4fjmu7xooyc1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"fog",
+				"team hands",
+				"space elevator",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/hdtp42zxooyc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0zrj1qkyooyc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/401zjg7zooyc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ewpfm3lzooyc1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"fog",
+				"team hands",
+				"space elevator",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ex8czpvzooyc1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"glass",
+				"interior",
+				"team hover pack",
+				"space elevator",
+				"pillars",
+				"catwalk",
+				"railing",
+				"signs",
+				"stairs",
+				"tubes",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/zc2eml50poyc1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"glass",
+				"interior",
+				"team hover pack",
+				"space elevator",
+				"pillars",
+				"catwalk",
+				"railing",
+				"signs",
+				"stairs",
+				"tubes",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/s22jr1n0poyc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rpb4ezy0poyc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hhghhw71poyc1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/sgywz5w1poyc1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"interior",
+				"no team",
+				"catwalk",
+				"signs",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/rj5hnfc2poyc1.png",
+			"skip": true
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1c4dnmb/when_ficsit_vips_need_to_be_on_site_they_bring/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/fNLV3gtfW1kffVojgjR_SrPPAhe2RUITARd_LilfA4M.jpg",
