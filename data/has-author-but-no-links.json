@@ -12575,5 +12575,105 @@
 				]
 			}
 		}
+	},
+	"2024-09-10": {
+		"yt-1GH5SZkrv2M": {
+			"2:07:30 Jace - look mom im on tv": {
+				"timestamp": 7650,
+				"raw_text": "Jace - look mom im on tv",
+				"timestamps_for_links": [
+					7653,
+					7705,
+					7723,
+					7750,
+					7772,
+					7780,
+					7794
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 7653,
+						"meta": [
+							"spire coast",
+							"night time",
+							"no team",
+							"frames",
+							"pipes",
+							"fuel plant",
+							"signs as lights"
+						]
+					},
+					{
+						"timestamp": 7705,
+						"meta": [
+							"spire coast",
+							"no team",
+							"oil extractor",
+							"frames",
+							"fuel plant",
+							"signs as lights"
+						]
+					},
+					{
+						"timestamp": 7723,
+						"meta": [
+							"spire coast",
+							"manifold",
+							"no team",
+							"refinery",
+							"frames",
+							"pipes",
+							"fuel plant",
+							"signs as lights"
+						]
+					},
+					{
+						"timestamp": 7750,
+						"meta": [
+							"dune desert",
+							"glass",
+							"no team",
+							"miner",
+							"frames",
+							"bean",
+							"outpost"
+						]
+					},
+					{
+						"timestamp": 7772,
+						"meta": [
+							"spire coast",
+							"interior",
+							"manifold",
+							"no team",
+							"pipes",
+							"fuel plant",
+							"signs as lights"
+						]
+					},
+					{
+						"timestamp": 7780,
+						"meta": [
+							"spire coast",
+							"manifold",
+							"sunrise/sunset",
+							"no team",
+							"frames",
+							"pipes",
+							"fuel plant",
+							"signs as lights"
+						]
+					},
+					{
+						"timestamp": 7794,
+						"meta": [
+							"spire coast",
+							"team hover pack",
+							"pillars"
+						]
+					}
+				]
+			}
+		}
 	}
 }
