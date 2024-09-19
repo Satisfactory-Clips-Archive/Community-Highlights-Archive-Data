@@ -1,4 +1,12 @@
 {
+	"1.0": {
+		"buildings": [
+			"alien power augmenter",
+			"converter",
+			"portal",
+			"project assembly"
+		]
+	},
 	"biomes": {
 		"ambiguity": [
 			"uncertain location",
@@ -127,6 +135,7 @@
 			"repetition",
 			"skatepark",
 			"spaghett",
+			"steampunk",
 			"temporary is never temporary",
 			"underwater",
 			"weatherwax"
@@ -231,12 +240,14 @@
 			"cables",
 			"ladder",
 			"lights",
+			"mercer sphere",
 			"nobelisk",
 			"parachute",
 			"personal crate",
 			"pipes",
 			"portable miner",
 			"signs",
+			"somersloop",
 			"stairs",
 			"train signals",
 			"tubes",

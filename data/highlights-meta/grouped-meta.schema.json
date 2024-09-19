@@ -3,6 +3,7 @@
 	"$id": "grouped-meta.schema.json",
 	"type": "object",
 	"required": [
+		"1.0",
 		"biomes",
 		"bugs",
 		"aesthetics",
@@ -13,6 +14,17 @@
 		"things players build"
 	],
 	"properties": {
+		"1.0": {
+			"type": "object",
+			"required": [
+				"buildings"
+			],
+			"properties": {
+				"buildings": {
+					"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+				}
+			}
+		},
 		"biomes": {
 			"type": "object",
 			"required": [
