@@ -4,7 +4,8 @@
 			"alien power augmenter",
 			"converter",
 			"portal",
-			"project assembly"
+			"project assembly",
+			"quantum encoder"
 		]
 	},
 	"biomes": {
@@ -281,6 +282,7 @@
 		"cooling tower",
 		"crane",
 		"dam",
+		"drills",
 		"fuel plant",
 		"furniture",
 		"garage",
