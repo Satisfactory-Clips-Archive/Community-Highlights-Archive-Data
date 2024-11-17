@@ -1,4 +1,599 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gognkc/my_first_creation_that_is_not_a_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/WM9AfyW74I14MhlqWEFvTjcJsOYQxkYxZBtPic85Drk.jpg",
+			"alt": "My first creation that is not a factory.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bu8rxmxod60e1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"manifold",
+				"team hover pack",
+				"awesome sink",
+				"blueprint designer",
+				"smelter",
+				"pillars",
+				"beams",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/oyyyiodpd60e1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"manifold",
+				"team hover pack",
+				"awesome sink",
+				"blueprint designer",
+				"pillars",
+				"beams",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1goo9n7/12_terawatt_flying_nuclear_power_plant/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/vkLUn3dcEV67qkgSZd6uECt0dpU0KxMDlKwMsZI2a-w.jpg",
+			"alt": "1.2 Terawatt Flying Nuclear Power Plant",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/m1domlhto80e1.jpg",
+			"alt": "Plant overview",
+			"highlightsMeta": [
+				"uncertain location",
+				"repetition",
+				"team hands",
+				"drone",
+				"nuclear plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/1r6f0imuo80e1.jpg",
+			"alt": "Logistics Floor",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/74w4d09gp80e1.jpg",
+			"alt": "View from west coast",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/asosqayvo80e1.jpg",
+			"alt": "Packaged Water Supply",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/k8qee79wo80e1.jpg",
+			"alt": "Straight view of ports",
+			"highlightsMeta": [
+				"uncertain location",
+				"repetition",
+				"team hands",
+				"drone"
+			]
+		},
+		{
+			"src": "https://i.redd.it/oszwybywo80e1.jpg",
+			"alt": "89.6 Plutonium Rod/s Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/m6shxlrxo80e1.jpg",
+			"alt": "In-game Map",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rhvrlt1yo80e1.jpg",
+			"alt": "Power readout",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5xpbg5tyo80e1.jpg",
+			"alt": "Airspace under plant",
+			"highlightsMeta": [
+				"uncertain location",
+				"team hands",
+				"space elevator",
+				"drone"
+			]
+		},
+		{
+			"src": "https://i.redd.it/veyzs52zo80e1.jpg",
+			"alt": "Grasslands area",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1go7zbz/i_made_this_to_transform_all_of_the_uranium_on/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/MQMws8EFBGi8teARK3WEmufYlYQ_EvbK0d3NEIMq_nY.jpg",
+			"alt": "I made this to transform all of the uranium on the map into fuel rods.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/etxiswufe40e1.png",
+			"highlightsMeta": [
+				"long beach",
+				"architecture",
+				"no team",
+				"train signals",
+				"train tracks",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/a9zyu4a3g40e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qspjde52f40e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3vu7ew9ke40e1.png",
+			"highlightsMeta": [
+				"long beach",
+				"interior",
+				"night time",
+				"team hover pack",
+				"belts"
+			]
+		},
+		{
+			"src": "https://i.redd.it/xha771e8f40e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ev3pp70af40e1.png",
+			"highlightsMeta": [
+				"long beach",
+				"architecture",
+				"glass",
+				"night time",
+				"team hands",
+				"frames",
+				"signs",
+				"train tracks",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/8bun9ewte40e1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1god1wz/except_for_all_the_spiders_i_really_like_the_look/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/wEXhoPhk7cmhGDqKy0PDxk-Ygo6tFdQvO_LbyOeMh5s.jpg",
+			"alt": "Except for all the spiders I really like the look and feel of the swamp",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/e25v64t0j50e1.png",
+			"highlightsMeta": [
+				"swamp",
+				"night time",
+				"no team",
+				"space elevator",
+				"frames",
+				"lights",
+				"train signals",
+				"train tracks",
+				"outpost",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/7lxax7t0j50e1.png",
+			"highlightsMeta": [
+				"swamp",
+				"night time",
+				"no team",
+				"miner",
+				"power tower",
+				"frames",
+				"lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/m95098t0j50e1.png",
+			"highlightsMeta": [
+				"swamp",
+				"night time",
+				"no team",
+				"miner",
+				"lights",
+				"outpost",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gp5wom/a_wip_long_modular_frame_mostly_building_slowly/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/cOrjcqOSO04QRGkhpRutV5PVlg1NlkLLPGDD1U5Mu-8.jpg",
+			"alt": "A WIP long modular frame (mostly) building. SLOWLY inching my way toward steel...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/27gkmoz3rc0e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8ge06nh5rc0e1.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"no team",
+				"miner",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/gr1jf80crc0e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4arcuj2erc0e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/f6xpehwjrc0e1.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"no team",
+				"miner",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/nhz5yfilrc0e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5s8f7n2nrc0e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/s4yhcrfqrc0e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/f40lnyltrc0e1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"no team",
+				"lights",
+				"outpost"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gk2hdz/rexie_just_wanted_to_say_hi_again_wave/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Tzm5QhbkbG0ePTBJHv9-PXJaKsnzO3V4guaAqZWkVKY.jpg",
+			"alt": "Rexie just wanted to say Hi again.. .. /wave :)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/o57qlkc3s1zd1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"art",
+				"glass",
+				"no team",
+				"blueprint designer",
+				"lookout tower",
+				"miner",
+				"space elevator",
+				"train station",
+				"beams",
+				"train tracks"
+			]
+		},
+		{
+			"src": "https://i.redd.it/b8q96id0s1zd1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"art",
+				"night time",
+				"no team",
+				"blueprint designer",
+				"lookout tower",
+				"miner",
+				"space elevator",
+				"train station",
+				"beams",
+				"train tracks",
+				"tower"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gmqfxd/update_of_the_oscillator_factory_theres_not_much/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/WTER7Qus6iXCoKEdCQjYUhTu4iiddbDPyzVZhjYvG_k.jpg",
+			"alt": "Update of the Oscillator Factory :) There's not much time, but already 20/m Oscillators are being built, the warehouse is almost ready, the factory needs to beautified :)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mhxolx5f8qzd1.jpg",
+			"highlightsMeta": [
+				"northern forest",
+				"fog",
+				"sunrise/sunset",
+				"no team",
+				"awesome sink",
+				"railing",
+				"frames",
+				"coal plant",
+				"outpost",
+				"power storage bank",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/09ulmy5f8qzd1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fkmw4z5f8qzd1.jpg",
+			"highlightsMeta": [
+				"northern forest",
+				"fog",
+				"sunrise/sunset",
+				"no team",
+				"awesome sink",
+				"blueprint designer",
+				"radar tower",
+				"power tower",
+				"railing",
+				"beams",
+				"pipes",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/2h63my5f8qzd1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/t7tbyy5f8qzd1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6m44n47f8qzd1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ep23q16f8qzd1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/l54in16f8qzd1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fas5n16f8qzd1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xtwgd26f8qzd1.jpg",
+			"highlightsMeta": [
+				"northern forest",
+				"industrial",
+				"no team",
+				"power tower",
+				"railing",
+				"frames",
+				"foundation patterns",
+				"pipes",
+				"coal plant",
+				"outpost",
+				"power storage bank",
+				"roads"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gpcaq5/my_first_real_build_inspired_by_totalxclipse/": [
+		{
+			"src": "https://preview.redd.it/yums6iyfbe0e1.jpeg?width=640&crop=smart&auto=webp&s=99682fc8e48f470026c7482712ff84f7edb9deb8",
+			"alt": "My first real build! Inspired by TotalXclipse",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yums6iyfbe0e1.jpeg",
+			"alt": "My first real build! Inspired by TotalXclipse",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"team hover pack",
+				"train station",
+				"stairs",
+				"train signals",
+				"train tracks",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gnlw98/my_buddy_made_the_vegas_sphere/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/68jj-XKPoEWqJbKzAZkaF0SM9IiZOQErdY68X0hJJDw.jpg",
+			"alt": "My buddy made the Vegas Sphere",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/q8f6n7sidyzd1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"art",
+				"no team",
+				"blueprint designer",
+				"train station",
+				"train tracks",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/axlo7m5kdyzd1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"night time",
+				"no team",
+				"train station",
+				"train tracks",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gnlc4x/first_project_of_10_done/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/LORa5SnbEVVyAoow0LSzzNdgO_HpRJxBKAU_J0uqP5c.jpg",
+			"alt": "First project of 1.0 ! Done !",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2fganof39yzd1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"art",
+				"references to other franchises",
+				"no team",
+				"radar tower",
+				"beams",
+				"pipes",
+				"bean"
+			]
+		},
+		{
+			"src": "https://i.redd.it/zo5aypf39yzd1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jcm7zpf39yzd1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"art",
+				"references to other franchises",
+				"no team",
+				"miner",
+				"radar tower",
+				"beams",
+				"bean"
+			]
+		},
+		{
+			"src": "https://i.redd.it/klis7uf39yzd1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"art",
+				"references to other franchises",
+				"no team",
+				"radar tower",
+				"beams",
+				"bean"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ws0q0tf39yzd1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/tsbuvsf39yzd1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/q9foxsg39yzd1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/p9whmuf39yzd1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yjl6mwf39yzd1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3njxu7h39yzd1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"art",
+				"references to other franchises",
+				"no team",
+				"beams",
+				"belts",
+				"ladder",
+				"pipes",
+				"signs",
+				"coal plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/4qo7yxf39yzd1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"art",
+				"references to other franchises",
+				"no team",
+				"refinery",
+				"pillars",
+				"catwalk",
+				"beams",
+				"belts",
+				"pipes",
+				"signs",
+				"coal plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/54olh2g39yzd1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"art",
+				"references to other franchises",
+				"no team",
+				"pillars",
+				"railing",
+				"frames",
+				"beams",
+				"pipes",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/xbudv0g39yzd1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"art",
+				"references to other franchises",
+				"radar tower",
+				"power tower",
+				"pillars",
+				"catwalk",
+				"beams",
+				"pipes",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/701fg4g39yzd1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"art",
+				"references to other franchises",
+				"radar tower",
+				"power tower",
+				"pillars",
+				"catwalk",
+				"beams",
+				"pipes",
+				"signs"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1ggn31r/took_about_80h_23k_signs_1_uranium_fuel_rod_025/": [
 		{
 			"src": "https://a.thumbs.redditmedia.com/_BxShxQhn2UZrd7KN9v3W7X3hH-Zelh001m1lKD21K8.jpg",
