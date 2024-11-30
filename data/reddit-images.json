@@ -1,4 +1,745 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gx6t4c/congratulations/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/MJ6dVWlG0_K_y0pvdyVZUC-1r1z3fZ1YuoyLcsbRis0.jpg",
+			"alt": "Congratulations !",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/lq9cq5bk6g2e1.png",
+			"highlightsMeta": [
+				"green valley",
+				"art",
+				"no team",
+				"beams"
+			]
+		},
+		{
+			"src": "https://i.redd.it/egspz6ak6g2e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/m2mvvtak6g2e1.png",
+			"highlightsMeta": [
+				"green valley",
+				"art",
+				"no team",
+				"beams"
+			]
+		},
+		{
+			"src": "https://i.redd.it/6cbs75bk6g2e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/72yz97bk6g2e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1tn504bk6g2e1.png",
+			"highlightsMeta": [
+				"green valley",
+				"art",
+				"no team",
+				"beams"
+			]
+		},
+		{
+			"src": "https://i.redd.it/f3rbq6ak6g2e1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gvc135/the_beginning_and_the_end/": [
+		{
+			"src": "https://preview.redd.it/bdddv0gb6y1e1.png?width=640&crop=smart&auto=webp&s=50dac3f11271c0104e6addb034f0d7dac8059d05",
+			"alt": "The beginning and the end.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bdddv0gb6y1e1.png",
+			"alt": "The beginning and the end.",
+			"highlightsMeta": [
+				"northern forest",
+				"green valley",
+				"references to other franchises",
+				"no team",
+				"space elevator",
+				"fuel plant",
+				"nuclear plant",
+				"spaceship",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gt0klc/orb_around_the_elevator/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/5kulxDAGBYyyl6lrcPsEE38Kw69BPzKpjPkXXHIMi70.jpg",
+			"alt": "Orb around the elevator.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gf5vpnbspc1e1.png",
+			"highlightsMeta": [
+				"northern forest",
+				"green valley",
+				"interior",
+				"manifold",
+				"repetition",
+				"references to other franchises",
+				"no team",
+				"blueprint designer",
+				"drone",
+				"fuel plant",
+				"nuclear plant",
+				"signs as lights",
+				"spaceship"
+			]
+		},
+		{
+			"src": "https://i.redd.it/61km97dypc1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/drq0rwibqc1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mmn2hqm0qc1e1.png",
+			"highlightsMeta": [
+				"northern forest",
+				"green valley",
+				"references to other franchises",
+				"no team",
+				"space elevator",
+				"fuel plant",
+				"nuclear plant",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/hws3ed23qc1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/w2cwd1f4qc1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/e9gyuwnjpc1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nerhnm6npc1e1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gv2nkl/some_60_hours_later_the_diluted_fuel_plant_is/": [
+		{
+			"src": "https://preview.redd.it/znx3ay8r7w1e1.jpeg?width=640&crop=smart&auto=webp&s=dee86a394393a0ddb4db0f06573809b75cb22205",
+			"alt": "Some 60 hours later, the diluted fuel plant is finally completed...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/znx3ay8r7w1e1.jpeg",
+			"alt": "Some 60 hours later, the diluted fuel plant is finally completed...",
+			"highlightsMeta": [
+				"spire coast",
+				"glass",
+				"repetition",
+				"night time",
+				"modded",
+				"team hover pack",
+				"lights",
+				"signs",
+				"fuel plant",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gv7s43/im_nearing_completion_of_my_aluminium_factory_a/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/nPTrhNRFZjHkVQMm-KFhL5_SAypiv5FK9l461qG_KPo.jpg",
+			"alt": "I'm nearing completion of my Aluminium factory - A little bit burnt out by now so sharing it in case it's going to be a while until i continue. Spent probably over 100 hours on this facility alone.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jczocyez6x1e1.png",
+			"alt": "Aluminum factory\n22,5 Radio Control Units\n50 Cooling Systems\n3,33 Super Computers\n12 Fused Modular Frames\n5,62 Turbo Motors\n2 Pressure Conversion Cubes",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"no team",
+				"frames",
+				"lights",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/lyi2b3uf6x1e1.png",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"no team",
+				"frames",
+				"lights",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/4irqodhi6x1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/39v7lvdz6x1e1.png",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"glass",
+				"night time",
+				"no team",
+				"lights",
+				"train signals",
+				"train tracks",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/lzldhzdz6x1e1.png",
+			"alt": "Iron Ingot production Around 2600/pm",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/b6fyj1ez6x1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/19ppo3ez6x1e1.png",
+			"alt": "Building to the right produces 60 motors /pm",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/t639g6ez6x1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3sj878ez6x1e1.png",
+			"alt": "Top floor, not very interesting atm",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/v0fsnaez6x1e1.png",
+			"alt": "Copper Ingot production, around 950/pm",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/22jsxdfz6x1e1.png",
+			"alt": "Train Station",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zcvkplfz6x1e1.png",
+			"alt": "Copper Ingot Factory",
+			"highlightsMeta": [
+				"swamp",
+				"industrial",
+				"night time",
+				"no team",
+				"miner",
+				"radar tower",
+				"power tower",
+				"frames",
+				"belts",
+				"lights",
+				"pipes",
+				"train signals",
+				"train tracks"
+			]
+		},
+		{
+			"src": "https://i.redd.it/hm724eez6x1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ob8hrfez6x1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/g47c4lfz6x1e1.png",
+			"alt": "Rubber and Caterium Ingot factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ah2ymjez6x1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9394ulez6x1e1.png",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"fog",
+				"night time",
+				"no team",
+				"space elevator",
+				"train",
+				"lights",
+				"train signals",
+				"train tracks"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gv29ka/my_entry_to_the_flying_manta_factory_pathway/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/uT8QzDOXsa-bJhK2QnPce8f1LTDTq2ctVXWBpljYIsY.jpg",
+			"alt": "My entry to the Flying Manta Factory Pathway",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jdazlvsr3w1e1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"glass",
+				"night time",
+				"no team",
+				"miner",
+				"power tower",
+				"lights",
+				"train signals",
+				"train tracks",
+				"bean",
+				"manta gate"
+			]
+		},
+		{
+			"src": "https://i.redd.it/mgkrzxsr3w1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/190a2wsr3w1e1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"night time",
+				"team hands",
+				"miner",
+				"space elevator",
+				"power tower",
+				"lights",
+				"train signals",
+				"train tracks"
+			]
+		},
+		{
+			"src": "https://i.redd.it/oo8js3j24w1e1.gif",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gu3quu/little_dam/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/zWl677yjdBGV7PTaYzNZjQ0tRIEGS0qOj0Bhm3dNvwQ.jpg",
+			"alt": "\"Little\" Dam",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0n4fmikenn1e1.jpg",
+			"highlightsMeta": [
+				"long beach",
+				"no team",
+				"space elevator",
+				"dam",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/f2tm5znenn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d1v3qrqenn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/f3jnbotenn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zfgu8ovenn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jqaeqpzenn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nxv0ou1fnn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8k34tb9fnn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yact0bcfnn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ad9uvqffnn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xrull4ifnn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/lbkn9vlfnn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/oixwc6qfnn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/24wzp7tfnn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3axpgywfnn1e1.jpg",
+			"highlightsMeta": [
+				"long beach",
+				"interior",
+				"no team",
+				"railing",
+				"lights",
+				"tubes",
+				"dam",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/c29jyzzfnn1e1.jpg",
+			"highlightsMeta": [
+				"long beach",
+				"interior",
+				"no team",
+				"train station",
+				"railing",
+				"stairs",
+				"train tracks",
+				"dam",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ad38bw1gnn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ay740z4gnn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xanwm08gnn1e1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/w12lvbagnn1e1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gsttwg/a_small_natureembracing_biofuel_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/UlrjAxD5Zh_EX2eWIG8OpQcqKWCTmXiMrU2XODPBVeI.jpg",
+			"alt": "A small, nature-embracing biofuel factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/w3tzb4925b1e1.png",
+			"alt": "This week I made a small outpost in the Titan Forest: A Semi-Automatic Biofuel Factory, wrapping around a Titan tree",
+			"highlightsMeta": [
+				"titan forest",
+				"fog",
+				"glass",
+				"nature",
+				"no team",
+				"railing",
+				"frames",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/t4o57fqh4b1e1.png",
+			"alt": "Semi-automatic, as in you throw in different nature based items, and out comes either biofuel, or alien DNA capsules, depending on the amount of biofuel already in the system!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/we2a1thj4b1e1.png",
+			"alt": "The whole factory is circular and wraps around a tree, with it's canopy acting as the roof.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/q7vuxrhj4b1e1.png",
+			"alt": "Some more mood shots",
+			"highlightsMeta": [
+				"titan forest",
+				"swamp waterfall",
+				"fog",
+				"glass",
+				"nature",
+				"no team",
+				"railing",
+				"frames",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/vbf6yuhj4b1e1.png",
+			"alt": "Some more mood shots",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4oawll4d4b1e1.png",
+			"alt": "Some more mood shots",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xviprphj4b1e1.png",
+			"alt": "Some more mood shots",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gswytv/scorpion_sentinel_focus/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/fO2UD9XTtPbvjo8gls9VS5fIes-Sgsr-NavMCOQxNmk.jpg",
+			"alt": "Scorpion Sentinel Focus",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/789zoeilvb1e1.png",
+			"highlightsMeta": [
+				"unknown location",
+				"final fantasy",
+				"fog",
+				"interior",
+				"no team",
+				"pillars",
+				"railing",
+				"pipes",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/dsy1jswlvb1e1.png",
+			"highlightsMeta": [
+				"unknown location",
+				"final fantasy",
+				"fog",
+				"interior",
+				"no team",
+				"pillars",
+				"railing",
+				"pipes",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/x6udbg9mvb1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fjzqn7jmvb1e1.png",
+			"highlightsMeta": [
+				"unknown location",
+				"final fantasy",
+				"interior",
+				"no team",
+				"pillars",
+				"railing",
+				"pipes",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/z8qddnpovb1e1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gw92iu/a_simple_but_pretty_bridge/": [
+		{
+			"src": "https://preview.redd.it/ybtyo01qy62e1.png?width=640&crop=smart&auto=webp&s=ecfc79b57700f5daf18b11705a62af416e53729b",
+			"alt": "A simple but pretty bridge.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ybtyo01qy62e1.png",
+			"alt": "A simple but pretty bridge.",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"fog",
+				"no team",
+				"lights",
+				"train tracks",
+				"bridge"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gxk3gz/i_built_a_bridge_how_did_i_do/": [
+		{
+			"src": "https://preview.redd.it/2jbzs0l73j2e1.png?width=640&crop=smart&auto=webp&s=4a120ba3719d301a2e40fd6d6ca4bb125923550a",
+			"alt": "I built a bridge, how did I do?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2jbzs0l73j2e1.png",
+			"alt": "I built a bridge, how did I do?",
+			"highlightsMeta": [
+				"dune desert",
+				"no team",
+				"miner",
+				"space elevator",
+				"power tower",
+				"train",
+				"pillars",
+				"railing",
+				"beams",
+				"train signals",
+				"train tracks",
+				"bridge"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gx4nf6/i_didnt_wanna_spend_2_hours_rebuilding_my_rail/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/DXsaRlIruX3jc-wKTnCfvtxytIjP-2qXgkgLlgZ0FE4.jpg",
+			"alt": "I didn't wanna spend 2 hours rebuilding my rail tracks, so I spent 20 Hours for building this bridge instead.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/z6ngexuwff2e1.png",
+			"highlightsMeta": [
+				"lake forest",
+				"team hands",
+				"train signals",
+				"train tracks",
+				"bridge"
+			]
+		},
+		{
+			"src": "https://i.redd.it/m45mtfdyff2e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/eayvgty0gf2e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8mdqmih3gf2e1.png",
+			"alt": "not completely finished from below and the other side, here still without the signs.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/l67ebae4gf2e1.png",
+			"alt": "Alternative colour design",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/lzgvqu56gf2e1.png",
+			"alt": "Still unsure what to do with that middle part between the two bridges, maybe I will just put a sphere with a face there, so it looks like a person flinging up their arms :D",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gyld58/making_underground_conduit/": [
+		{
+			"src": "https://preview.redd.it/tp6ht10yvs2e1.png?width=640&crop=smart&auto=webp&s=3a30cac4e34f9b885e27f839007ce322ae5fa962",
+			"alt": "Making Underground \"Conduit\" ",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/tp6ht10yvs2e1.png",
+			"alt": "Making Underground \"Conduit\" ",
+			"highlightsMeta": [
+				"unknown location",
+				"no team",
+				"frames",
+				"cables"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gv12lh/rate_my_factory/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/HMm7l9P7sqeh60vu0dnfUYK6x41gYBQQENIQ7UYC7A8.jpg",
+			"alt": "rate my factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9ynlr1pvvv1e1.png",
+			"highlightsMeta": [
+				"converter",
+				"quantum encoder",
+				"grass fields",
+				"spaghett",
+				"no team",
+				"awesome sink",
+				"miner",
+				"particle accelerator",
+				"resource extractor",
+				"space elevator",
+				"manufacturer",
+				"refinery",
+				"pipes",
+				"tubes",
+				"nuclear plant",
+				"power storage bank"
+			]
+		},
+		{
+			"src": "https://i.redd.it/g6c9drbwvv1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/00y9spgzvv1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/eua5cqgzvv1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/j3x5drgzvv1e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8v5pqwx0wv1e1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"spaghett",
+				"no team",
+				"space elevator",
+				"pipes"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1gz9v5z/my_latest_spaghetti_screenshot/": [
+		{
+			"src": "https://preview.redd.it/k0zy2fxkyy2e1.png?width=640&crop=smart&auto=webp&s=9d16bdc666e9f61ab1f08c27cf10fe4f1ac90ae0",
+			"alt": "My latest spaghetti screenshot",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/k0zy2fxkyy2e1.png",
+			"alt": "My latest spaghetti screenshot",
+			"highlightsMeta": [
+				"grass fields",
+				"spaghett",
+				"team berry",
+				"miner",
+				"particle accelerator",
+				"manufacturer",
+				"constructor",
+				"refinery",
+				"belts",
+				"manta"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1gognkc/my_first_creation_that_is_not_a_factory/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/WM9AfyW74I14MhlqWEFvTjcJsOYQxkYxZBtPic85Drk.jpg",
@@ -569,6 +1310,7 @@
 				"crater lakes",
 				"art",
 				"references to other franchises",
+				"no team",
 				"radar tower",
 				"power tower",
 				"pillars",
@@ -584,6 +1326,7 @@
 				"crater lakes",
 				"art",
 				"references to other franchises",
+				"no team",
 				"radar tower",
 				"power tower",
 				"pillars",
