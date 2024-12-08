@@ -132,7 +132,6 @@
 			"nature",
 			"oil rig",
 			"pixel art",
-			"rain",
 			"repetition",
 			"skatepark",
 			"spaghett",
@@ -309,5 +308,10 @@
 		"utility tower",
 		"viaduct",
 		"warehouse"
+	],
+	"weather": [
+		"aurora",
+		"rain",
+		"snow"
 	]
 }

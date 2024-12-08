@@ -11,7 +11,8 @@
 		"team",
 		"in-game things",
 		"creatures",
-		"things players build"
+		"things players build",
+		"weather"
 	],
 	"properties": {
 		"1.0": {
@@ -104,6 +105,8 @@
 			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
 		},
 		"things players build": {
+		},
+		"weather": {
 			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
 		}
 	},
