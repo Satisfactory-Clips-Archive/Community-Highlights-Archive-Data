@@ -1,4 +1,509 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1h8u1d7/the_future_is_now_old_man/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/iGY9ftNbmQlRc85o9BQd_2_ErftPjQrcqH0k2q7mK6Q.jpg",
+			"alt": "The future is now old man",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/a4xcyoeawf5e1.png",
+			"highlightsMeta": [
+				"eastern dune forest",
+				"team hover pack",
+				"miner",
+				"train",
+				"lights",
+				"train tracks",
+				"bridge",
+				"outpost",
+				"roads",
+				"signs as lights",
+				"tunnel"
+			]
+		},
+		{
+			"src": "https://i.redd.it/tzus0i4bwf5e1.png",
+			"highlightsMeta": [
+				"eastern dune forest",
+				"team hover pack",
+				"miner",
+				"power tower",
+				"lights",
+				"train tracks",
+				"bridge",
+				"outpost",
+				"roads",
+				"signs as lights",
+				"tunnel"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1h9r8t3/geisel_library/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/1HSNX1tyNJzTk8T7POF0HAsGMjg66FwJ0cM6mT12EqQ.jpg",
+			"alt": "Geisel Library",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/j7e8wloujo5e1.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/wsnkvftujo5e1.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/skoheqyujo5e1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1h7mrn0/7200_mw_coal_power_plant_at_the_crater_lakes/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/iCmqsXGG3Nnd9h665weXSQJsxBSBU-SZLEMpIbxTpZ8.jpg",
+			"alt": "7200 MW Coal Power Plant at the Crater Lakes. Wanted to spice up the Design with some Irregularity.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/x80j4v95q35e1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"team hands",
+				"miner",
+				"power tower",
+				"pipes",
+				"coal plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/rrpmwg2jt35e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mus5lzefq35e1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"team hands",
+				"pillars",
+				"pipes",
+				"coal plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/01es9z5eq35e1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"spaghett",
+				"no team",
+				"equipment workshop",
+				"miner",
+				"water extractor",
+				"pipes",
+				"coal plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ltkyc83aq35e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/32wmq9iqq35e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bd8ftyemy35e1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1h8aj7h/fine_hannah_ill_do_it_myself_my_icesnow_biome_for/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/aWnWzjjn2Ao9zk1fhi16BIVqJdz0torhtDFbKHbOQhw.jpg",
+			"alt": "Fine Hannah, I'll do it myself... My Ice/Snow Biome for this year's Ficsmas Build",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wu5efit7ba5e1.png",
+			"highlightsMeta": [
+				"eastern dune forest",
+				"nature",
+				"night time",
+				"no team",
+				"pillars",
+				"aurora",
+				"snow"
+			]
+		},
+		{
+			"src": "https://i.redd.it/3blcolucba5e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ocy4stucba5e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kircrmucba5e1.png",
+			"highlightsMeta": [
+				"eastern dune forest",
+				"nature",
+				"night time",
+				"no team",
+				"pillars",
+				"aurora",
+				"snow"
+			]
+		},
+		{
+			"src": "https://i.redd.it/bn9q3rucba5e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/duvo8bvcba5e1.png",
+			"highlightsMeta": [
+				"eastern dune forest",
+				"nature",
+				"night time",
+				"no team",
+				"pillars",
+				"aurora",
+				"snow"
+			]
+		},
+		{
+			"src": "https://i.redd.it/l3py8qucba5e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cviveejaca5e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kq8qcivcba5e1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1h8qq5q/magritte_plays_satisfactory/": [
+		{
+			"src": "https://preview.redd.it/fe88wj9jye5e1.png?width=640&crop=smart&auto=webp&s=c7d9bb9ae794563549ff0872ce453c2060e208aa",
+			"alt": "Magritte Plays Satisfactory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fe88wj9jye5e1.png",
+			"alt": "Magritte Plays Satisfactory",
+			"highlightsMeta": [
+				"unknown location",
+				"art",
+				"interior",
+				"no team",
+				"pipes",
+				"signs"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1h8o1xb/youve_got_soft_hands_brother_you_aint_worked_a/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/XfFXdO17jgVIaTFmUfw7YmSqe2Rxo5rDh6nLNIQqzu0.jpg",
+			"alt": "\"You've got soft hands, brother. You ain't worked a day in your god damn life.\" ",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hvaj1rs1yd5e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7sl1qmy1yd5e1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"art",
+				"ficsmas",
+				"multiplayer",
+				"no team",
+				"smelter",
+				"beams"
+			]
+		},
+		{
+			"src": "https://i.redd.it/bmmsnv64yd5e1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"art",
+				"multiplayer",
+				"team hover pack",
+				"smelter",
+				"beams"
+			]
+		},
+		{
+			"src": "https://i.redd.it/v8jx7845yd5e1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1h9gd9m/building_on_water_allows_you_to_build_canals/": [
+		{
+			"src": "https://preview.redd.it/kqacnxcptl5e1.png?width=640&crop=smart&auto=webp&s=8007114f127db9e7931af232c89fd70355422450",
+			"alt": "building on water allows you to build canals :)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kqacnxcptl5e1.png",
+			"alt": "building on water allows you to build canals :)",
+			"highlightsMeta": [
+				"portal",
+				"uncertain location",
+				"industrial",
+				"no team",
+				"miner",
+				"water extractor",
+				"canals",
+				"fuel plant"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1h7clrw/a_railway_tunnel_inspired_by_kabaneri_of_the_iron/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/gVsc68fhe0e1dYfKxxiTNsr2ElevJnB89LG2XRBAenk.jpg",
+			"alt": "A railway tunnel - inspired by Kabaneri of the Iron Fortress",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ulg0jlv1x15e1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"interior",
+				"no team",
+				"beams",
+				"pipes",
+				"train tracks",
+				"tunnel"
+			]
+		},
+		{
+			"src": "https://i.redd.it/hff2oa2ry15e1.png",
+			"alt": "railway tunnel from Kabaneri of the Iron Fortress",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/sf9ldbjow15e1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"interior",
+				"no team",
+				"train",
+				"pillars",
+				"beams",
+				"pipes",
+				"train tracks",
+				"tunnel"
+			]
+		},
+		{
+			"src": "https://i.redd.it/z96eolsuw15e1.png",
+			"alt": "Down below: additional 2 pipes, 6 powerlines, 4 belts and 1 hypertube",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bcxqt8qyw15e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/p2ykjfs9z15e1.png",
+			"alt": "The Blueprint:",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"blueprint designer",
+				"pillars",
+				"beams",
+				"pipes",
+				"tunnel"
+			]
+		},
+		{
+			"src": "https://i.redd.it/jagtjes9z15e1.png",
+			"alt": "How I've done the bronze rings (beam supports)",
+			"highlightsMeta": [
+				"uncertain location",
+				"pixel art",
+				"no team",
+				"blueprint designer",
+				"pillars",
+				"beams",
+				"pipes",
+				"train signals",
+				"train tracks",
+				"tunnel"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1h76x68/in_case_advanced_aliens_come_to_harm_the_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/ndKjhDNsYQ_cKVpgaLNINWLr6ghi8jhsX3_26rPsY_c.jpg",
+			"alt": "In case advanced aliens come to harm the factory ",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/sc8f1cdik05e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/q98aeyhik05e1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"night time",
+				"team hover pack",
+				"pillars",
+				"railing",
+				"frames",
+				"beams",
+				"ladder",
+				"pipes",
+				"train tracks",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/wq2zpdmik05e1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"team hover pack",
+				"railing",
+				"beams",
+				"signs",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ls0t2u1ik05e1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"night time",
+				"team hover pack",
+				"railing",
+				"beams",
+				"signs",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/7rt9h88ik05e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9jycctqik05e1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1h5wssu/this_factory_is_definitely_not_adaapproved/": [
+		{
+			"src": "https://preview.redd.it/umdgr0eqxo4e1.png?width=640&crop=smart&auto=webp&s=5bc83d1eee4e244029342dbdeb93abfe5b58aecf",
+			"alt": "This factory is definitely not ADA-approved",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/umdgr0eqxo4e1.png",
+			"alt": "This factory is definitely not ADA-approved",
+			"highlightsMeta": [
+				"uncertain location",
+				"snaketree forest",
+				"ficsmas",
+				"weatherwax",
+				"team hover pack",
+				"train station",
+				"pillars",
+				"beams",
+				"lights",
+				"train signals",
+				"train tracks",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1h6y26n/my_ficsmas_gift_box/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/CgAVUWFJAMBxu2TcnJX5JkdWAlaB0lbUNgWsVQ0AdLg.jpg",
+			"alt": "My Ficsmas Gift Box ",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cxnj0r90ux4e1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"titan forest",
+				"ficsmas",
+				"glass",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/8uy7s5k8ux4e1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"titan forest",
+				"ficsmas",
+				"glass",
+				"interior",
+				"no team",
+				"railing",
+				"lights",
+				"signs",
+				"tubes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/9f9nuim8ux4e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ko9r18leux4e1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1han2ei/do_you_even_lift_bro/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/syQzRBXob1DQ5tekDI3ycgb4L9g0G3cqj8-jVEzAwWk.jpg",
+			"alt": "Do you even lift bro?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d6o6335ilw5e1.png",
+			"highlightsMeta": [
+				"long beach",
+				"ficsmas",
+				"spaghett",
+				"sunrise/sunset",
+				"no team",
+				"water extractor",
+				"belts",
+				"pipes",
+				"oil plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/cin8cpjilw5e1.png",
+			"highlightsMeta": [
+				"long beach",
+				"ficsmas",
+				"spaghett",
+				"sunrise/sunset",
+				"no team",
+				"refinery",
+				"water extractor",
+				"belts",
+				"pipes",
+				"oil plant"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1h20tfe/these_new_auroras_look_amazing_and_fit_my_base_so/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/GrGNidX9kfZ2-Tt0qcXWPgtcmjIlmfUoslgjnfOPbJU.jpg",
