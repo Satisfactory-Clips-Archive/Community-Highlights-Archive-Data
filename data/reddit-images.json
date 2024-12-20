@@ -1,4 +1,843 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1hcjuqp/nuclear_yggdrasil_625gw_power_plant_using_all_the/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/M6MzshQc7CKFuNpOA3L_YAlKRuItSe1eACYaiZke-ck.jpg",
+			"alt": "Nuclear Yggdrasil - 62.5GW Power Plant using all the Uranium on the map.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qowc8xc7te6e1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"repetition",
+				"no team",
+				"water extractor",
+				"pipes",
+				"nuclear plant",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/x4fp28g9te6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rmv1kpkcte6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/e99bdrkcte6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rmajuskcte6e1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"interior",
+				"lasagn",
+				"repetition",
+				"no team",
+				"belts",
+				"nuclear plant",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qcorivkcte6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hdzqlwkcte6e1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"repetition",
+				"no team",
+				"water extractor",
+				"pipes",
+				"nuclear plant",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/jtumwmlcte6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/degb72lcte6e1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"repetition",
+				"no team",
+				"pipes",
+				"nuclear plant",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/fxdm93lcte6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8f7ov8lcte6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ocs3m5lcte6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/x44w1xncte6e1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1hcpz3v/update_rocket_fuel_factory_wip/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/97IaaiNMNviFYhnvJainAnWGtb_ENq_BkzPbjB86Pcc.jpg",
+			"alt": "UPDATE - Rocket Fuel Factory (WIP)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/o795svvy9g6e1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"blue crater",
+				"ficsmas",
+				"night time",
+				"modded",
+				"no team",
+				"awesome sink",
+				"miner",
+				"power tower",
+				"railing",
+				"belts",
+				"foundation patterns",
+				"fuel plant",
+				"outpost",
+				"power storage bank",
+				"roads",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/xblncuvy9g6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yxx3gyvy9g6e1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"blue crater",
+				"ficsmas",
+				"night time",
+				"modded",
+				"no team",
+				"railing",
+				"belts",
+				"foundation patterns",
+				"outpost",
+				"power storage bank",
+				"roads",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/1kizxxvy9g6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gkvucwvy9g6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dz4tzpwy9g6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/afs6ymwy9g6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cvk0sjwy9g6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/w7ekghwy9g6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nu4hdfwy9g6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/t3x8cewy9g6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7s0xaexy9g6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/daytrbxy9g6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2y3em0wy9g6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/i0r6t7wy9g6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dypj5exy9g6e1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"blue crater",
+				"ficsmas",
+				"industrial",
+				"night time",
+				"modded",
+				"no team",
+				"belts",
+				"foundation patterns",
+				"boat",
+				"crane",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ibjupuwy9g6e1.png",
+			"highlightsMeta": [
+				"converter",
+				"uncertain location",
+				"blue crater",
+				"architecture",
+				"ficsmas",
+				"glass",
+				"night time",
+				"modded",
+				"no team",
+				"signs",
+				"outpost",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/vnms64xy9g6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hz1j6wwy9g6e1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1hfun4q/you_can_get_high_lod_and_lumen_at_4km_distance/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Jwlt78wKza9v2CH2pZ_n8OcgjAu6YqioXmG5rDSB2oo.jpg",
+			"alt": "You can get High LOD and Lumen at 4km distance with the right console commands",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/04gduur17a7e1.png",
+			"highlightsMeta": [
+				"quantum encoder",
+				"western dune forest",
+				"architecture",
+				"glass",
+				"sunrise/sunset",
+				"no team",
+				"radar tower",
+				"space elevator",
+				"pillars",
+				"frames",
+				"belts",
+				"pipes",
+				"train tracks",
+				"bridge",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/eliino547a7e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/u4cplj237a7e1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1hfw59w/liminal_space_elevator_shaft_edition/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/2OlAZW4ZjoadKcjh2St5sahWFS0AeR7YUq2sxMC_r8U.jpg",
+			"alt": "Liminal Space: Elevator Shaft Edition",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wcyfv6e9ia7e1.png",
+			"highlightsMeta": [
+				"unknown location",
+				"interior",
+				"no team",
+				"belts",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/8iwsi3g6ja7e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/m8rzma3fia7e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/iqogbg3fia7e1.png",
+			"highlightsMeta": [
+				"unknown location",
+				"glass",
+				"interior",
+				"no team",
+				"train station",
+				"train",
+				"belts",
+				"train signals",
+				"train tracks",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/e3vx7f3fia7e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yhqmsc3fia7e1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1heu9m6/wip_but_worth_sharing_i_hope/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/TfApE50WphUccwVBFbGVWgyzkcCIo9qy9z4eTr-jbyM.jpg",
+			"alt": "WIP but worth sharing, I hope..",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/y44vej48117e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7mklisl8117e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/j4tw0rj9117e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/13ll6a7a117e1.png",
+			"highlightsMeta": [
+				"red jungle",
+				"western dune forest",
+				"architecture",
+				"sunrise/sunset",
+				"no team",
+				"pillars",
+				"beams",
+				"aurora"
+			]
+		},
+		{
+			"src": "https://i.redd.it/pbits2v9117e1.png",
+			"highlightsMeta": [
+				"red jungle",
+				"western dune forest",
+				"architecture",
+				"fog",
+				"sunrise/sunset",
+				"no team",
+				"pillars",
+				"beams",
+				"aurora"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1hehwe5/we_present_the_finished_ficsmas_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/MPEfxT2BDGR08fo0Tikvh71DLXn-k_Y0WDL_a6uICpo.jpg",
+			"alt": "We Present.... the finished FICSMAS Factory!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3yqrdb8b0x6e1.png",
+			"highlightsMeta": [
+				"snaketree forest",
+				"western dune forest",
+				"ficsmas",
+				"weatherwax",
+				"team hands",
+				"refinery",
+				"power tower",
+				"pipes",
+				"utility tower",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ss8twe8b0x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ksugff8b0x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ms9ip8sk0x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hu52cbsk0x6e1.png",
+			"highlightsMeta": [
+				"snaketree forest",
+				"ficsmas",
+				"interior",
+				"no team",
+				"smelter",
+				"catwalk",
+				"railing",
+				"beams",
+				"belts",
+				"lights",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/94fuufxq0x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rp5fj5yq0x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/i9bubgxq0x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bjgpenxq0x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8oiprkxq0x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ioizylxq0x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rism4zxq0x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vldpwzxq0x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/728wq1yq0x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/czc6w1yq0x6e1.png",
+			"highlightsMeta": [
+				"snaketree forest",
+				"ficsmas",
+				"interior",
+				"no team",
+				"assembler",
+				"catwalk",
+				"railing",
+				"frames",
+				"beams",
+				"belts",
+				"lights",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/0okumxuz0x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/66fcxyuz0x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mamriyuz0x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/trybjrfa1x6e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7v5niplc1x6e1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1he9te8/made_a_roundabout_then_realized_how_it_was/": [
+		{
+			"src": "https://preview.redd.it/z8jnqx9n3v6e1.jpeg?width=640&crop=smart&auto=webp&s=f246405ef6f6b64d3db2af53255ffc3d4bfc7f1e",
+			"alt": "Made a round-a-bout, then realized how it was oriented on the map.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/z8jnqx9n3v6e1.jpeg",
+			"alt": "Made a round-a-bout, then realized how it was oriented on the map.",
+			"highlightsMeta": [
+				"dune desert",
+				"team cup",
+				"team hover pack",
+				"beams",
+				"train signals",
+				"train tracks",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1hfe7ba/under_his_watchful_eye_may_our_profits_be_plenty/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/jGfM3qFGJcA6AQdSiQSBnIWxLLh6uh5uk_nVVc8esTw.jpg",
+			"alt": "Under his watchful eye, may our profits be plenty... *Amen*",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zjcmgb36167e1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"art",
+				"ficsmas",
+				"no team",
+				"smelter",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/wn5vlm87167e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9ia1za68167e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/i7elcg09167e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2oplldba167e1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"art",
+				"ficsmas",
+				"team hover pack",
+				"smelter",
+				"power tower",
+				"signs",
+				"coal plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/eligsndc167e1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1hg3nbr/first_time_player_spent_375_hours_building_a/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/Fgf39HvpSVIQeGESnDWYv3ltVEx1PJX4ZUbkysHorN0.jpg",
+			"alt": "First time player, spent 375 hours building a quickwire manufacturing ship in the swamp that will eventually produce 14400 quickwire/Min.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nadg7ohn9c7e1.jpg",
+			"alt": "My game save has just over 500 hours on it.  375 of those were spent building this ship.",
+			"highlightsMeta": [
+				"swamp",
+				"titan forest",
+				"glass",
+				"team cup",
+				"train station",
+				"train tracks",
+				"spaceship",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/daof1cty3c7e1.png",
+			"highlightsMeta": [
+				"swamp",
+				"titan forest",
+				"fog",
+				"glass",
+				"no team",
+				"train station",
+				"train tracks",
+				"signs as lights",
+				"spaceship",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ulgzr9px6c7e1.png",
+			"alt": "The train station.  The top is the export station connected to the main train system, while the lower is the copper loop that delivers copper ore from nearby nodes.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/j4nk0p794c7e1.png",
+			"alt": "The underside of the ship with the connected water hoses.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/grxytlqm4c7e1.png",
+			"alt": "The ship's loading ramp with a ramp from the ground that raises up to allow vehicles to enter and exit the ship.  Copper and Caterium ore intakes are on either side.",
+			"highlightsMeta": [
+				"swamp",
+				"titan forest",
+				"no team",
+				"railing",
+				"frames",
+				"belts",
+				"lights",
+				"signs",
+				"train tracks",
+				"spaceship"
+			]
+		},
+		{
+			"src": "https://i.redd.it/0h11jx6v4c7e1.png",
+			"alt": "Cafeteria is at the front of the ship beneath the crew quarters and above the loading ramp.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7ux7brn5cc7e1.png",
+			"alt": "Crew quarters.  There are 54 rooms with bunks for 108 crew, 10 single rooms for officers and 1 for the captain.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/o8988a235c7e1.png",
+			"alt": "Every room has an attached restroom with sink, shower, and toilet.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zzofra5b5c7e1.png",
+			"alt": "The ship's bridge.  The ship is currently running at 40% capacity because I only have access to tier 4 belts so far.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yjjnpvfc5c7e1.png",
+			"alt": "Command seating for the captain and higher officers.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/84ue2bcu5c7e1.png",
+			"alt": "Upper manufacturing level with copper refineries in the back and 3 of the 8 blocks of 20 assemblers in the front.  There are a total of 160 refineries and 100 assemblers aboard.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/35errjpa6c7e1.png",
+			"alt": "The port leisure area with vending machines and seating for the crew.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/p1ejh1zk6c7e1.jpg",
+			"alt": "4 of the 6 types of vending machines on the ship.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kdgqgw8o8c7e1.png",
+			"alt": "View from the upper starboard walkway of the starboard leisure area and assembly floors.  The yellow section is the starboard vehicle maintenance area.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/eb5i151p7c7e1.png",
+			"alt": "The cargo lift in the center of the ship mostly used transport vehicles to the repair bays on either side of the central trench.",
+			"highlightsMeta": [
+				"swamp",
+				"titan forest",
+				"interior",
+				"no team",
+				"refinery",
+				"truck",
+				"catwalk",
+				"railing",
+				"frames",
+				"beams",
+				"belts",
+				"cables",
+				"ladder",
+				"lights",
+				"pipes",
+				"spaceship"
+			]
+		},
+		{
+			"src": "https://i.redd.it/auweo1e7ac7e1.png",
+			"alt": "View up the center of the ship from the lowest level.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yua8abr8cc7e1.png",
+			"alt": "The ship's warp core.  Currently on standby.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xszgit4s6c7e1.png",
+			"alt": "A view of a section of the \"copper loop\" at night.  I'm particularly happy with how the lights from the raised train pylons light up the fog of the swamp.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/138ensiicc7e1.png",
+			"alt": "The ship's engines as seen from the other side of the copper loop.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ozj5t5ka7c7e1.png",
+			"alt": "The dam that provides the 6000 m³ of water from 20 extractors.  The extractors being above the ship negates the need for pumps.",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1heumgv/5_million_screwsmin/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/c1786jO2RDqhfAetKHC9p1sx3rh5PpypcApZhM0Mliw.jpg",
+			"alt": "5 Million Screws/min",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kyejudg4417e1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"spire coast",
+				"lasagn",
+				"repetition",
+				"no team",
+				"belts",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/l63j08f4417e1.png",
+			"highlightsMeta": [
+				"converter",
+				"rocky desert",
+				"spire coast",
+				"lasagn",
+				"repetition",
+				"no team",
+				"refinery",
+				"belts",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/kntfj8f4417e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/p1tpdbf4417e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/95l8nef4417e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nibglhf4417e1.png",
+			"highlightsMeta": [
+				"converter",
+				"rocky desert",
+				"spire coast",
+				"lasagn",
+				"repetition",
+				"no team",
+				"smelter",
+				"constructor",
+				"refinery",
+				"water extractor",
+				"belts",
+				"pipes",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ua3ignf4417e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1dmytqf4417e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ng7cfvf4417e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8nxn10g4417e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/865ef2g4417e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5lu0k5g4417e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5waopkg4417e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ahmozmg4417e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/p417atg4417e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/00d9g4n4417e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/u7c2t3h4417e1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"spire coast",
+				"interior",
+				"lasagn",
+				"repetition",
+				"no team",
+				"awesome sink",
+				"belts",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/blfw18h4417e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vnoc6ch4417e1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/o7mmvfh4417e1.png",
+			"skip": true
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1h8u1d7/the_future_is_now_old_man/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/iGY9ftNbmQlRc85o9BQd_2_ErftPjQrcqH0k2q7mK6Q.jpg",
