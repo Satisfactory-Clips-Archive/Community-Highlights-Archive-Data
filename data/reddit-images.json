@@ -1,4 +1,794 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1hufhsv/more_brutalism/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/1E63v3kGiTVEL486cEx8DYVkkMK2hoTpmbx49YrpGc4.jpg",
+			"alt": "More brutalism ",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7kwobriec8be1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"night time",
+				"no team",
+				"pillars",
+				"catwalk",
+				"lights",
+				"outpost",
+				"aurora"
+			]
+		},
+		{
+			"src": "https://i.redd.it/q19pr0mec8be1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"no team",
+				"pillars",
+				"catwalk",
+				"lights",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ap4wnpoec8be1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1hurbm5/many_hundreds_of_hours_with_nobody_to_show_it_off/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/7ADoK4mi5kEbGz48w8mkD9WBSPKJM30K-GEPBt0Sq_U.jpg",
+			"alt": "Many hundreds of hours with nobody to show it off to so here ya go ",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/pxoiskk72bbe1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5pue1kk72bbe1.jpg",
+			"highlightsMeta": [
+				"snaketree forest",
+				"glass",
+				"night time",
+				"team hover pack",
+				"team inhaler",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/wk7cd0l72bbe1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8xbezik72bbe1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3ugp1kk72bbe1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5zn1kkk72bbe1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/skmqs1l72bbe1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/l5dw9kk72bbe1.jpg",
+			"highlightsMeta": [
+				"snaketree forest",
+				"architecture",
+				"glass",
+				"team hover pack",
+				"train station",
+				"catwalk",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/3jcbvjk72bbe1.jpg",
+			"highlightsMeta": [
+				"snaketree forest",
+				"architecture",
+				"glass",
+				"night time",
+				"team hover pack"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ssa4fjk72bbe1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5ozyrlk72bbe1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/av59yjk72bbe1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ekbvbkk72bbe1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rrnusjk72bbe1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d3xp3kk72bbe1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/tlyctjk72bbe1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/he3xtkk72bbe1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1huvamt/crystal_oscillator_radio_control_unit_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/HI4EgGWeWkasUYuCIMTmxw66RoiZG1r2fd0ZJFu337c.jpg",
+			"alt": "Crystal Oscillator & Radio Control Unit factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d9pfzp3dacbe1.png",
+			"alt": "I spent most of my Christmas holidays playing Satisfactory. Around 40hrs a week. Going back to work today is pretty hard so, I'm taking a little break posting this.",
+			"highlightsMeta": [
+				"spire coast",
+				"architecture",
+				"no team",
+				"train station",
+				"train tracks"
+			]
+		},
+		{
+			"src": "https://i.redd.it/jeb86wm6acbe1.png",
+			"alt": "I spent quite a long time making this factory, especially the trains stations & rails from other factories (for computer, quartz & aluminium casing import).",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/o28nfmm6acbe1.png",
+			"alt": "This factory is about 20 crystal oscillator & 20 radio control unit / min",
+			"highlightsMeta": [
+				"spire coast",
+				"architecture",
+				"no team",
+				"train station",
+				"train",
+				"train signals",
+				"train tracks"
+			]
+		},
+		{
+			"src": "https://i.redd.it/sus0prn6acbe1.png",
+			"alt": "The iron miner and the second entrance",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0mrnjkn6acbe1.png",
+			"alt": "Copper miners",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/sb717vm6acbe1.png",
+			"alt": "Making the building was quite long but fun. My main goal was making a discreet factory, that seems to merge with the cliff.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/golyjnm6acbe1.png",
+			"alt": "Import & export stations",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gl3f2wm6acbe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8hcvnum6acbe1.png",
+			"alt": "The main entrance",
+			"highlightsMeta": [
+				"cave",
+				"spire coast",
+				"interior",
+				"no team",
+				"pillars",
+				"catwalk",
+				"lights",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/p3l3irn6acbe1.png",
+			"alt": "First floor : Radio Control Unit & stockage",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nsghxnm6acbe1.png",
+			"alt": "1st & 2nd floor (2nd floor is for computers)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8cor3u1dacbe1.png",
+			"alt": "3rd floor : a lonely tree and the circuit board assemblers.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/l3lca43dacbe1.png",
+			"alt": "3rd floor : copper sheet & circuit board",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6ctokf3dacbe1.png",
+			"alt": "3rd floor : cable & crystal oscillator",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/161k2h3dacbe1.png",
+			"alt": "3rd floor : I had a lot of fun using machines for decoration.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kcc1ds2dacbe1.png",
+			"alt": "4th floor : reinforced plate assemblers (Adhered Iron Plate)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/imns7z2dacbe1.png",
+			"alt": "4th floor",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/v778x54dacbe1.png",
+			"alt": "4th floor : smelters & iron plate",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ggcb4a4dacbe1.png",
+			"alt": "4th floor : iron plate",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3f46gi3dacbe1.png",
+			"alt": "4th floor : smelters",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1humhqg/before_factories_there_were_ancient_cities/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/NfWPqIaEDUIDjbfzffK7HuWzbl6fAkP2PF4zDtTh89g.jpg",
+			"alt": "Before Factories, there were Ancient Cities!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/v9b6cijhq9be1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"architecture",
+				"cityscape",
+				"no team",
+				"pillars",
+				"signs",
+				"stairs",
+				"furniture",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qhnbym6hq9be1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"architecture",
+				"cityscape",
+				"ficsmas",
+				"no team",
+				"pillars",
+				"signs",
+				"stairs",
+				"furniture",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ofkn979gq9be1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"architecture",
+				"cityscape",
+				"ficsmas",
+				"no team",
+				"pillars",
+				"signs",
+				"stairs",
+				"furniture",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/b24z3orhq9be1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/aq6eun0iq9be1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"architecture",
+				"cityscape",
+				"ficsmas",
+				"no team",
+				"pillars",
+				"signs",
+				"stairs",
+				"furniture",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/g6h42y8iq9be1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1hscmnf/14400_quickwire_min_build/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/KBnwtxc0pCV7F5Q3001u_f2Y8YLhlkPe5myQmx-i5Xk.jpg",
+			"alt": "14400 Quickwire / min Build",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xu8oeu8tzoae1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"weatherwax",
+				"no team",
+				"space elevator",
+				"train station",
+				"signs",
+				"train signals",
+				"train tracks"
+			]
+		},
+		{
+			"src": "https://i.redd.it/5aac88400pae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/oige74e20pae1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dhdtrvf80pae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/y1imdave0pae1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"lasagn",
+				"weatherwax",
+				"no team",
+				"space elevator"
+			]
+		},
+		{
+			"src": "https://i.redd.it/7nj2cwmj0pae1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rha6hshm0pae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/g0ymucq34pae1.gif",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1hvl4i2/computer_factories_to_deal_with_the_14400/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/cIwWHar2Y0IcKuAoajTT4fAbfhNAXc-0qlmIThb8Z7o.jpg",
+			"alt": "Computer Factories (to deal with the 14400 Quickwire)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/43fdd2s3jibe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nedj5ufcjibe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hxlduu6fjibe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ktsrp8djjibe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mtnitw3rjibe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9x2y919sjibe1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"glass",
+				"weatherwax",
+				"no team",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/iwh1t56tjibe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mrbcdr6wjibe1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"interior",
+				"no team",
+				"assembler",
+				"manufacturer",
+				"catwalk",
+				"beams",
+				"belts",
+				"lights",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/mrokt2xyjibe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bdev4gs0kibe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/uqn6lrw1kibe1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1hw4xsg/orthanc_the_tower_at_isengard/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/d9cehT-_OybQZvcV2H6CoLpgMEc4QK9ocPzNDPOq7eI.jpg",
+			"alt": "Orthanc, the tower at Isengard",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4wg69rthlnbe1.png",
+			"highlightsMeta": [
+				"project assembly",
+				"grass fields",
+				"references to other franchises",
+				"no team",
+				"space elevator",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/x350uothlnbe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/29ufdothlnbe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/z1yk6rthlnbe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/n3o2zqthlnbe1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"references to other franchises",
+				"no team",
+				"radar tower",
+				"space elevator",
+				"power tower",
+				"tower"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1hwkczt/ficsmas_village_wip/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/voH7t9PKEid7NpHFJ2LRq2SDxcYGTFBGC5nHrEUJeng.jpg",
+			"alt": "Ficsmas village WIP",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gu82wkdyvrbe1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"ficsmas",
+				"night time",
+				"modded",
+				"no team",
+				"miner",
+				"smelter",
+				"frames",
+				"cables",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/22ke9hdyvrbe1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"ficsmas",
+				"night time",
+				"modded",
+				"no team",
+				"miner",
+				"smelter",
+				"frames",
+				"cables",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/hhk82fdyvrbe1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"ficsmas",
+				"glass",
+				"modded",
+				"team hover pack"
+			]
+		},
+		{
+			"src": "https://i.redd.it/fuot7ddyvrbe1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"glass",
+				"modded",
+				"team hover pack",
+				"miner",
+				"pillars",
+				"beams",
+				"pipes",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qhg76fdyvrbe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6n86zhdyvrbe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/r67f4kdyvrbe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0m5quidyvrbe1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/s2zmqkdyvrbe1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1hy2cfl/work_on_my_automated_miner_factory_is_nearly_done/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/6hrcIICl8ySgZUWUWJ3RMP1EU867qRne1qeBGWTViX4.jpg",
+			"alt": "Work on my Automated miner factory is nearly done (making 20pm)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/uklfbuami5ce1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"art",
+				"sunrise/sunset",
+				"no team",
+				"beams",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/2y50i3bmi5ce1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0meypyami5ce1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"interior",
+				"sunrise/sunset",
+				"no team",
+				"constructor",
+				"beams",
+				"stairs",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/68n925bmi5ce1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zngv9wami5ce1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"art",
+				"sunrise/sunset",
+				"no team",
+				"beams",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1hrqrpp/here_is_my_nuclear_power_plant_tried_to_make_a/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/twdwZC4C1wfThDxNFTdi_v9ZI9o-6F6fgDTp9kJdTEk.jpg",
+			"alt": "Here is my nuclear power plant. Tried to make a factory that is well suited to the swamp. In 600 uranium. Out 14,4 uranium fuel rods. 72 reactors. At the moment I sink the plutonium rods. ",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ju6kdxbm3kae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/savbbyam3kae1.png",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"night time",
+				"no team",
+				"pillars",
+				"beams",
+				"lights",
+				"nuclear plant",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ipv1azam3kae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7gfqb0bm3kae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/lhra13bm3kae1.png",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"night time",
+				"team hands",
+				"lights",
+				"pipes",
+				"nuclear plant",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/jio2hecm3kae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/953s61cm3kae1.png",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"night time",
+				"no team",
+				"lights",
+				"pipes",
+				"nuclear plant",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/kou4w6bm3kae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/p1jhv6bm3kae1.png",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"interior",
+				"night time",
+				"no team",
+				"lights",
+				"pipes",
+				"nuclear plant",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/y5k9ocbm3kae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/eiq7bbbm3kae1.png",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"team hands",
+				"assembler",
+				"particle accelerator",
+				"lights",
+				"pipes",
+				"nuclear plant",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/wvbph9cm3kae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/b9hqzdbm3kae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yex5hccm3kae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7l1mkccm3kae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1ohrihbm3kae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/p4vhfibm3kae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ljxceuxz3kae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ng4w64z14kae1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/g965ouc54kae1.png",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"team hands",
+				"frames",
+				"lights",
+				"pipes",
+				"train signals",
+				"train tracks",
+				"nuclear plant",
+				"signs as lights",
+				"viaduct"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1hcjuqp/nuclear_yggdrasil_625gw_power_plant_using_all_the/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/M6MzshQc7CKFuNpOA3L_YAlKRuItSe1eACYaiZke-ck.jpg",
