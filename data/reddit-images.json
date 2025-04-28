@@ -1,4 +1,635 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1jwixtm/my_coal_power_generator/": [
+		{
+			"src": "https://preview.redd.it/jbs02i5ob5ue1.png?width=640&crop=smart&auto=webp&s=0f5633fa950a841ab847bd22a9e0dac1ed1e242d",
+			"alt": "My coal power generator",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jbs02i5ob5ue1.png",
+			"alt": "My coal power generator",
+			"highlightsMeta": [
+				"crater lakes",
+				"no team",
+				"miner",
+				"constructor",
+				"water extractor",
+				"coal plant"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1jz22a2/it_took_a_looong_while_but_my_world_is_finally/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Fd259ZyYhnCw3kz56Zx3yH95HwDK5wjBkuu-0ruMevQ.jpg",
+			"alt": "It took a looong while, but my world is finally complete!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/l55poaznmtue1.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"space elevator",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/o4dj87znmtue1.jpg",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"sunrise/sunset",
+				"no team",
+				"radar tower",
+				"train",
+				"train tracks",
+				"signs as lights",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1k3q4s6/welcome_to_paradise_plaza_where_weve_paved/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/fCB_A1RYKy9D2Rl1CGiyVxfy_4Xnn6V7Dniq66YY8gM.jpg",
+			"alt": "Welcome to Paradise Plaza™️ - “Where We’ve Paved Paradise And Put Up YOUR Parking Lot”",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/t2vtw3csl0we1.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"sunrise/sunset",
+				"no team",
+				"radar tower",
+				"space elevator",
+				"drone",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/eibb84csl0we1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fceha3csl0we1.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"titan forest",
+				"ficsmas",
+				"no team",
+				"radar tower",
+				"truck",
+				"signs",
+				"parking lot",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/srw4w3csl0we1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/c2zkp3csl0we1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vykxi3csl0we1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zcf3h3csl0we1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/tzw7k3csl0we1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gtv7s4csl0we1.jpg",
+			"highlightsMeta": [
+				"converter",
+				"uncertain location",
+				"eastern dune forest",
+				"architecture",
+				"no team",
+				"lookout tower",
+				"truck",
+				"signs",
+				"train tracks",
+				"parking lot",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/okuo34csl0we1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/omngp3csl0we1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vpmn75csl0we1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1jw5omh/my_chernobyl_replica_ive_been_working_on_and_off/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/KZDkPW2FVGo_LXi4mjMe2tFxPkYNcByvtqrNyzG8WF4.jpg",
+			"alt": "My Chernobyl replica I’ve been working on and off on over the last few years.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cy2os35712ue1.jpg",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"no team",
+				"radar tower",
+				"train station",
+				"power tower",
+				"train signals",
+				"train tracks",
+				"chimney",
+				"nuclear plant",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/8jftm45712ue1.jpg",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"no team",
+				"radar tower",
+				"train station",
+				"power tower",
+				"train signals",
+				"train tracks",
+				"chimney",
+				"nuclear plant",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/wowmz45712ue1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rtgs245712ue1.jpg",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"no team",
+				"radar tower",
+				"train station",
+				"power tower",
+				"train",
+				"railing",
+				"train signals",
+				"train tracks",
+				"chimney",
+				"nuclear plant",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/k9eha35712ue1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1k4s6e0/im_having_too_much_fun_with_the_photo_mode_thanks/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/3qdzuj0eisoGvfDAf9KWJ70vCUAaq0SQKJm_53hZQ8A.jpg",
+			"alt": "I'm having too much fun with the photo mode, thanks devs!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/avyeii4ux9we1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mx66dg4ux9we1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"blueprint designer",
+				"space elevator",
+				"refinery",
+				"power tower",
+				"fuel plant",
+				"photo mode filter"
+			]
+		},
+		{
+			"src": "https://i.redd.it/iijoic4ux9we1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/i30fx05ux9we1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/g4qyzi4ux9we1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kz4b4l4ux9we1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"blueprint designer",
+				"space elevator",
+				"refinery",
+				"power tower",
+				"fuel plant",
+				"photo mode filter"
+			]
+		},
+		{
+			"src": "https://i.redd.it/1oldfprux9we1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"space elevator",
+				"photo mode filter"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1k4848f/really_loving_the_11_photo_mode/": [
+		{
+			"src": "https://preview.redd.it/ca17xfwp95we1.png?width=640&crop=smart&auto=webp&s=e9b3be5c4cdbcd8ef19e90f500b64e494f0474f4",
+			"alt": "Really loving the 1.1 photo mode",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ca17xfwp95we1.png",
+			"alt": "Really loving the 1.1 photo mode",
+			"highlightsMeta": [
+				"uncertain location",
+				"nature",
+				"no team",
+				"power slug",
+				"bridge"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1k3ayni/a_wip_asian_style_building_thats_mainly_designed/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/_wO8bI2r-Z9Lac7rsDxV_SmW0izwsF3fNfWeBypC_kQ.jpg",
+			"alt": "A WIP asian style building thats mainly designed by a friend of mine on our shared world",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5cnuqqph1wve1.png",
+			"highlightsMeta": [
+				"western dune forest",
+				"architecture",
+				"glass",
+				"no team",
+				"stairs",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ukf2yrph1wve1.png",
+			"highlightsMeta": [
+				"western dune forest",
+				"architecture",
+				"glass",
+				"interior",
+				"no team",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/mv3n0cho1wve1.png",
+			"highlightsMeta": [
+				"western dune forest",
+				"architecture",
+				"glass",
+				"no team",
+				"stairs",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1k3fqwx/10pastamin_in_the_woods_next_project_will_be_more/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/jFU3U9BA6PDrKBF4y2giyp9T-hRRmnzoiOy3JICD3zM.jpg",
+			"alt": "10Pasta/min in the Woods - next project will be more power ^^",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/y3eg3kgdfxve1.png",
+			"highlightsMeta": [
+				"titan forest",
+				"no team",
+				"manufacturer",
+				"belts",
+				"pipes",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/fm8jodgdfxve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ojprk9gdfxve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/uowz7bgdfxve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ugfybngdfxve1.png",
+			"highlightsMeta": [
+				"titan forest",
+				"spaghett",
+				"no team",
+				"frames",
+				"belts",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/76dv3mgdfxve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rmksfngdfxve1.png",
+			"highlightsMeta": [
+				"titan forest",
+				"no team",
+				"assembler",
+				"pillars",
+				"belts",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qgjklpgdfxve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/98npvrgdfxve1.png",
+			"highlightsMeta": [
+				"titan forest",
+				"no team",
+				"awesome sink",
+				"refinery",
+				"belts",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/9u5tlugdfxve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wt564qhdfxve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/t3p9t4hdfxve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9t2t05ndfxve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gkvch3hdfxve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3sk5m6hdfxve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/lrtjochdfxve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/93ffpoa3gxve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mlc75ii4gxve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wjk3e1i7gxve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ppq2zzrdgxve1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1k09pbn/my_new_silica_factory_was_my_first_chance_to/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/3UeENoqcK31_fnw_MIJu3HD50tNs9BQ_0dIjdL7LW1A.jpg",
+			"alt": "My new silica factory was my first chance to really mess with curved belts much",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8a50tyjlx3ve1.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"no team",
+				"miner",
+				"constructor",
+				"belts",
+				"lights",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ddphfyjlx3ve1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/z212jyjlx3ve1.jpg",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"no team",
+				"miner",
+				"constructor",
+				"belts",
+				"lights",
+				"outpost"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1k0l66z/when_an_urban_designer_plays_satisfactory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/JVPcSPb2bh6bd4mQ-BxKVjVxBR9Z9-kqjuE1wPmtRHA.jpg",
+			"alt": "When an Urban Designer plays Satisfactory..",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/q2u70y5vc7ve1.png",
+			"highlightsMeta": [
+				"alien power augmenter",
+				"dune desert",
+				"cityscape",
+				"glass",
+				"no team",
+				"blueprint designer",
+				"space elevator",
+				"foundation patterns",
+				"train signals",
+				"train tracks",
+				"roads",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ccinuz5vc7ve1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"cityscape",
+				"no team",
+				"radar tower",
+				"space elevator",
+				"train station",
+				"nuclear plant",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/v4pfz36vc7ve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/38x1g76vc7ve1.png",
+			"highlightsMeta": [
+				"alien power augmenter",
+				"dune desert",
+				"cityscape",
+				"glass",
+				"night time",
+				"team hands",
+				"barrier",
+				"foundation patterns",
+				"lights",
+				"roads",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/gf2crf6vc7ve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vjbtoj6vc7ve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/h3a1gf6vc7ve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vewpdh6vc7ve1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"cityscape",
+				"glass",
+				"team hands",
+				"tractor",
+				"truck",
+				"railing",
+				"beams",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"furniture",
+				"roads",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/b40aml6vc7ve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/opc74o6vc7ve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0abwyo6vc7ve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/f6bnks6vc7ve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/j5wfhf9vc7ve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/onn7kv6vc7ve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0rv8ql8vc7ve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nlcuzz6vc7ve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1t2klz6vc7ve1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"cityscape",
+				"glass",
+				"team hands",
+				"space elevator",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"roads",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/6ipdqq6vc7ve1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"cityscape",
+				"glass",
+				"no team",
+				"space elevator",
+				"train station",
+				"lights",
+				"train tracks",
+				"roads",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/w009837vc7ve1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4pipy37vc7ve1.png",
+			"skip": true
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1j97ldl/using_pipes_as_hoses/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/0B-YTRn5eCbL_I530upSetn-MY5I0BWF_QsVICSVqEk.jpg",
