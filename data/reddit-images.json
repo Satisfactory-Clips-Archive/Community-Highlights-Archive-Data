@@ -1,4 +1,679 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kheynb/my_computer_factory_refinery_overhaul_wip/": [
+		{
+			"src": "https://external-preview.redd.it/xlj1vG8vYh6_Rznx7yPjlS6tvxTG8VHIquujvX3FXdc.png?width=640&crop=smart&auto=webp&s=16c79a9f3209a830d92a1b7bb2e738aada36a95c",
+			"alt": "My Computer Factory Refinery Overhaul (WIP)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jjyq5rastgze1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"night time",
+				"no team",
+				"radar tower",
+				"railing",
+				"frames",
+				"lights",
+				"signs",
+				"stairs",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/y7rnxqastgze1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jjdx0rastgze1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"interior",
+				"night time",
+				"no team",
+				"refinery",
+				"pillars",
+				"catwalk",
+				"railing",
+				"foundation patterns",
+				"lights",
+				"pipes",
+				"signs",
+				"stairs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/t9iacqastgze1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"interior",
+				"night time",
+				"no team",
+				"pillars",
+				"catwalk",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1khwymt/ammo_factory_inside_a_big_cave/": [
+		{
+			"src": "https://external-preview.redd.it/HvKhMX0YEj-84d-eCmDgmnOut6yFuzROaP7LK9x0tVk.png?width=640&crop=smart&auto=webp&s=21db5270285919bcc91bfadb110d06113d98512e",
+			"alt": "Ammo Factory inside a big cave",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3ini1h6sklze1.png",
+			"highlightsMeta": [
+				"swamp",
+				"night time",
+				"no team",
+				"pillars",
+				"frames",
+				"belts",
+				"lights",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/eos7g86sklze1.png",
+			"highlightsMeta": [
+				"cave",
+				"swamp",
+				"manifold",
+				"no team",
+				"assembler",
+				"blender",
+				"manufacturer",
+				"constructor",
+				"refinery",
+				"frames"
+			]
+		},
+		{
+			"src": "https://i.redd.it/gc9kl7m4llze1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/l15lb96sklze1.png",
+			"highlightsMeta": [
+				"cave",
+				"swamp",
+				"no team",
+				"blender",
+				"refinery",
+				"belts"
+			]
+		},
+		{
+			"src": "https://i.redd.it/px9k2c6sklze1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/n48qn86sklze1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/pafrld6sklze1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/weagad7sklze1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/tr7lrd6sklze1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6y1g9g6sklze1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/x4vboh6sklze1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kg1dt0/variablepower_hypertube_cannon_11_experimental/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/Ksx2cximNsVj5np9aueIydilbRN0aL8zAHGPjHPpLIw.jpg",
+			"alt": "Variable-Power HyperTube Cannon (1.1 Experimental)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ydvyygc255ze1.jpg",
+			"highlightsMeta": [
+				"red jungle",
+				"art",
+				"team hands",
+				"beams",
+				"hog"
+			]
+		},
+		{
+			"src": "https://i.redd.it/94g4bkb255ze1.jpg",
+			"highlightsMeta": [
+				"red jungle",
+				"art",
+				"no team",
+				"beams",
+				"hog"
+			]
+		},
+		{
+			"src": "https://i.redd.it/e4hk9ga255ze1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ad6fesa255ze1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rsrr46b255ze1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qu62tlb255ze1.jpg",
+			"highlightsMeta": [
+				"red jungle",
+				"art",
+				"no team",
+				"beams",
+				"ladder",
+				"hog"
+			]
+		},
+		{
+			"src": "https://i.redd.it/6mx417c255ze1.jpg",
+			"highlightsMeta": [
+				"red jungle",
+				"art",
+				"interior",
+				"no team",
+				"power switch",
+				"beams",
+				"ladder",
+				"tubes",
+				"hog"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ey3suzb255ze1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kkvjtec255ze1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kftbeg/i_used_it_all_2100_uranium_per_minute_all_the_way/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/q63eWRW2pCxx6-COVWvASkMddqEROkAF2DJjTKxLi_M.jpg",
+			"alt": "I used it all. 2100 Uranium per minute, all the way to Ficsonium",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bi8lswy1g2ze1.png",
+			"alt": "Ficsonium production and power augmenters",
+			"highlightsMeta": [
+				"alien power augmenter",
+				"quantum encoder",
+				"spire coast",
+				"manifold",
+				"sunrise/sunset",
+				"no team",
+				"pillars",
+				"belts"
+			]
+		},
+		{
+			"src": "https://i.redd.it/7bmkn0v5g2ze1.png",
+			"alt": "SAM processing (front left); iron stuff, up to FMF, upper left; copper smelting, upper right; aluminum processing and heat sinks, right; sulfuric acid, center.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0yw550c7g2ze1.png",
+			"alt": "Some uranium is brought in by trains from the two medium nodes, but the rest comes in via drone.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/559bh5z7g2ze1.png",
+			"alt": "Aluminum processing.  Using the sloppy aluminum alternate recipe, and priority merge junctions for water recycling.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fsweczi8g2ze1.png",
+			"alt": "The underbelly, before I did some beautification.  In the foreground is the uranium train station, in a somewhat vain attempt to contain the radiation.  So much spaghetti.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/a1hatlbag2ze1.png",
+			"alt": "Most of the reactor water pumps.  All at 250%, two to a reactor.",
+			"highlightsMeta": [
+				"spire coast",
+				"fog",
+				"manifold",
+				"no team",
+				"water extractor",
+				"pipes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/v3ndlxdbg2ze1.png",
+			"alt": "Under the reactors.  Catwalks, plumbing, and conveyor belts.",
+			"highlightsMeta": [
+				"spire coast",
+				"fog",
+				"no team",
+				"catwalk",
+				"belts",
+				"bean"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qmj0fc8cg2ze1.png",
+			"alt": "So many reactors.  42 Uranium, 21 Plutonium, 12 slightly underclocked Ficsonium.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/z4keae5fg2ze1.png",
+			"alt": "Long overview.",
+			"highlightsMeta": [
+				"alien power augmenter",
+				"quantum encoder",
+				"spire coast",
+				"no team",
+				"particle accelerator",
+				"space elevator",
+				"drone"
+			]
+		},
+		{
+			"src": "https://i.redd.it/0eux2t8gg2ze1.png",
+			"alt": "Another overview.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jo9uq24mg2ze1.png",
+			"alt": "Satisfactory Calculator view of the reactor complex.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/r83goqfzg2ze1.png",
+			"alt": "Whole map, showing the train network.  Everything except the oil (sourced locally), 1500 SAM (sourced locally) and 900 Uranium (drones) comes in via train.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3e6qdtszg2ze1.png",
+			"alt": "A little over 1 terawatt of power, total.  Half is 4 power augmenters (3 supplied with power matrices, one at the fuel generator station just chilling).",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8uqod1ukj2ze1.png",
+			"alt": "Satisfactory Modeler plans.  I stuck mostly to this, with a few tweaks at the end to kickstart and maintain the dark photonic matter cycle.",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kfnzf5/when_you_obsessed_with_beams/": [
+		{
+			"src": "https://external-preview.redd.it/dHKzqvJkbNU_kTCg4yTDjnBEBcd_s65oOSHse3SiShQ.png?width=640&crop=smart&auto=webp&s=295bbcc0d9c4389bf341a9c0f2c3654477199e94",
+			"alt": "when you obsessed with beams",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mpyg2h2s91ze1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"no team",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/s4i2s6ps91ze1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"architecture",
+				"glass",
+				"team build gun",
+				"radar tower",
+				"space elevator",
+				"signs as lights",
+				"tower"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kdrf39/i_heard_you_like_spaghetti/": [
+		{
+			"src": "https://preview.redd.it/7bkjmqt05kye1.png?width=640&crop=smart&auto=webp&s=99254cf33b116025191be87ec8ed607ee2f7343a",
+			"alt": "I heard you like spaghetti...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7bkjmqt05kye1.png",
+			"alt": "I heard you like spaghetti...",
+			"highlightsMeta": [
+				"titan forest",
+				"nature",
+				"photo mode filter",
+				"no team",
+				"pipes"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kd0kb6/stackable_heavy_modular_frame_factory/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/sbwea_Z6zHoj6PKG8waWItp_u1Lvm4I08VRjSr57x5I.jpg",
+			"alt": "Stackable Heavy Modular Frame \"Factory\"",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/psf5dg4badye1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"weatherwax",
+				"team hands",
+				"assembler",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/3go8wy0cadye1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/601kpjydadye1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"weatherwax",
+				"no team",
+				"assembler",
+				"manufacturer",
+				"constructor",
+				"refinery",
+				"water extractor",
+				"tower",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/zd8r15l0bdye1.png",
+			"alt": "Alternative layout",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/j13khusfbdye1.png",
+			"alt": "The Iron Base",
+			"highlightsMeta": [
+				"dune desert",
+				"industrial",
+				"repetition",
+				"weatherwax",
+				"no team",
+				"assembler",
+				"miner",
+				"manufacturer",
+				"constructor",
+				"refinery",
+				"roads",
+				"tower",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kc82hi/underground_railway_design_with_seetrough_road_op/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/9E0nqm70P_4wFvYl7RZewwACVhEMH9xQrc_vS6-8SzU.jpg",
+			"alt": "Underground railway design with see-trough road op top that runs through my city",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ywej5zho36ye1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"interior",
+				"no team",
+				"barrier",
+				"foundation patterns",
+				"lights",
+				"signs",
+				"train tracks",
+				"tunnel"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ugsgqlra46ye1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"glass",
+				"no team",
+				"barrier",
+				"beams",
+				"foundation patterns",
+				"lights",
+				"roads"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kk3yu1/a_blueprint_of_yours_truly/": [
+		{
+			"src": "https://preview.redd.it/3x4hdyt7a60f1.png?width=640&crop=smart&auto=webp&s=fdf690f57e5ab9ac24e5f6593403f5c41d40d932",
+			"alt": "A Blueprint of yours truly",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3x4hdyt7a60f1.png",
+			"alt": "A Blueprint of yours truly",
+			"highlightsMeta": [
+				"spire coast",
+				"pixel art",
+				"references to other franchises",
+				"no team",
+				"signs",
+				"bean"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kjf8q1/i_guess_you_could_call_this_the_clock_tower/": [
+		{
+			"src": "https://external-preview.redd.it/YzI4d9oLRU3ulzXNteHfAgjlnt8KdImL8LLG5czdmqE.png?width=640&crop=smart&auto=webp&s=a5e07df8d55604d2fd21616daf6e9ef2f0cd7e4c",
+			"alt": "I guess you could call this the clock tower???",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/oqdm2yhwlzze1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"art",
+				"no team",
+				"space elevator",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/1mu4mz6zlzze1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ejkqlgxzlzze1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"art",
+				"no team",
+				"space elevator",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/x39q3ay0mzze1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"art",
+				"team hands",
+				"space elevator",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/a1y74uv2mzze1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"art",
+				"team feet",
+				"team hover pack",
+				"belts"
+			]
+		},
+		{
+			"src": "https://i.redd.it/zg61t2v3mzze1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/b32ulyc4mzze1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0dsawz25mzze1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/epyqo4f7mzze1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/u50gafi8mzze1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kio6gv/ficsit_has_also_expanded_into_korea/": [
+		{
+			"src": "https://external-preview.redd.it/q5z-a0AeWDWGjCVEP9xodl5lO8JjynVjWsswiBoojZw.png?width=640&crop=smart&auto=webp&s=79b7ec4fe7a36952c3b76e5f104d2956f99c6ed4",
+			"alt": "FICSIT has also expanded into Korea",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/lqblokkjisze1.png",
+			"alt": "Here is the link to the showcase",
+			"highlightsMeta": [
+				"spire coast",
+				"architecture",
+				"fog",
+				"sunrise/sunset",
+				"no team",
+				"refinery",
+				"beams",
+				"stairs",
+				"train tracks",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/x9ek3nkjisze1.png",
+			"alt": "Here is the link to the showcase",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xefjmvkjisze1.png",
+			"alt": "Here is the link to the showcase",
+			"highlightsMeta": [
+				"spire coast",
+				"architecture",
+				"fog",
+				"no team",
+				"train station",
+				"refinery",
+				"train",
+				"beams",
+				"train tracks",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/x7rhvgkjisze1.png",
+			"alt": "Here is the link to the showcase",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/086g9tmjisze1.png",
+			"alt": "Here is the link to the showcase",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6fsstekjisze1.png",
+			"alt": "Here is the link to the showcase",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mxbrcikjisze1.png",
+			"alt": "Here is the link to the showcase",
+			"highlightsMeta": [
+				"spire coast",
+				"architecture",
+				"no team",
+				"refinery",
+				"lights",
+				"pipes",
+				"train tracks",
+				"boat",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/jqc7rdkjisze1.png",
+			"alt": "Here is the link to the showcase",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/62axadkjisze1.png",
+			"alt": "Here is the link to the showcase",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wzuzqgkjisze1.png",
+			"alt": "Here is the link to the showcase",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/csuyb6qjisze1.png",
+			"alt": "Here is the link to the showcase",
+			"highlightsMeta": [
+				"spire coast",
+				"architecture",
+				"no team",
+				"refinery",
+				"boat",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/hrn5aakjisze1.png",
+			"alt": "Here is the link to the showcase",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2qsa5l53jsze1.png",
+			"alt": "Here is the link to the showcase",
+			"highlightsMeta": [
+				"spire coast",
+				"architecture",
+				"photo mode filter",
+				"no team",
+				"refinery",
+				"railing",
+				"boat"
+			]
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1k99a2b/more_progress_on_my_nuclear_power_plant/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/JDwAxJmmHtDNvsVF_7Ca2ulWUFWPA4cApdkoYQVG4oo.jpg",
