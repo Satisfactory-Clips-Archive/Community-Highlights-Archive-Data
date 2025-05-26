@@ -1,4 +1,561 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kq31u0/modular_engines_factory_i_built_on_the_waterfall/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/zFh6wJRkDgd9YQEA4YeMsrGH-r0wMF680CMpQRYQGrk.jpg",
+			"alt": "Modular Engines Factory I built on the waterfall of Blue Crater",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/udlpenxv1o1f1.jpg",
+			"highlightsMeta": [
+				"blue crater",
+				"no team",
+				"blueprint designer",
+				"water extractor",
+				"outpost",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/m8adkkxv1o1f1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kp534h/underground_earthscraper_factory/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/nb0nm-yXNlDSdcFzqzEsOxHgBgb-lS1Fvcf9pSvT2g8.jpg",
+			"alt": "Underground EarthScraper Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ihvuodl94f1f1.png",
+			"highlightsMeta": [
+				"quantum encoder",
+				"uncertain location",
+				"cave",
+				"fog",
+				"glass",
+				"night time",
+				"no team",
+				"lights",
+				"train tracks",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/bh1jzbka4f1f1.png",
+			"highlightsMeta": [
+				"quantum encoder",
+				"uncertain location",
+				"cave",
+				"fog",
+				"glass",
+				"night time",
+				"no team",
+				"lights",
+				"train tracks",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/syn6ueja4f1f1.png",
+			"highlightsMeta": [
+				"quantum encoder",
+				"uncertain location",
+				"cave",
+				"fog",
+				"glass",
+				"night time",
+				"no team",
+				"lights",
+				"train tracks",
+				"signs as lights",
+				"tower"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1knqnzx/10700_aluminum_ingotmin_100_uptime_megaluminum/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/W77ON4MrbYn1e49fo7xEoAwk83Rn_T3jiSSwHgIhlMc.jpg",
+			"alt": "10700 Aluminum Ingot/min, 100% uptime - Megaluminum Factoru completed!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fjhjlaeg521f1.png",
+			"highlightsMeta": [
+				"swamp",
+				"repetition",
+				"no team",
+				"train station",
+				"train",
+				"pillars",
+				"railing",
+				"frames",
+				"beams",
+				"train signals",
+				"train tracks",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/sceass7h521f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/og0m2g5i521f1.png",
+			"highlightsMeta": [
+				"swamp",
+				"interior",
+				"manifold",
+				"repetition",
+				"no team",
+				"smelter",
+				"refinery"
+			]
+		},
+		{
+			"src": "https://i.redd.it/aqtjnrlk521f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/p7si9zml521f1.png",
+			"highlightsMeta": [
+				"swamp",
+				"repetition",
+				"night time",
+				"no team",
+				"train station",
+				"train",
+				"pillars",
+				"railing",
+				"frames",
+				"beams",
+				"train signals",
+				"train tracks",
+				"signs as lights",
+				"tower",
+				"aurora"
+			]
+		},
+		{
+			"src": "https://i.redd.it/imsnzs4q521f1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kogh4a/scarif_citadel_base_inspired_by_star_wars_andor/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/Twurmnr-3_ejiNgckzc_l5C-MTV3YR9cQmBYYvRKBH8.jpg",
+			"alt": "Scarif Citadel Base inspired by Star Wars Andor and Rogue One!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7bkwpsttn81f1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"references to other franchises",
+				"no team",
+				"signs as lights",
+				"tower",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/k4xtbg3un81f1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"references to other franchises",
+				"no team",
+				"signs",
+				"signs as lights",
+				"tower",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/plr6bftun81f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3759bb4wn81f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/80fxs4hwn81f1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"interior",
+				"references to other franchises",
+				"no team",
+				"mam",
+				"pillars",
+				"hub",
+				"signs",
+				"signs as lights",
+				"tower",
+				"warehouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qaxlg3twn81f1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kovjyd/illegal_yup_cool_hell_yeah/": [
+		{
+			"src": "https://preview.redd.it/m86z6i961d1f1.png?width=640&crop=smart&auto=webp&s=02516de67d47dabd3d432c8b82ea22eebd6ea13d",
+			"alt": "Illegal? Yup. Cool? Hell yeah.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/m86z6i961d1f1.png",
+			"alt": "Illegal? Yup. Cool? Hell yeah.",
+			"highlightsMeta": [
+				"dune desert",
+				"team hover pack",
+				"train signals",
+				"train tracks",
+				"tunnel",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kl4emn/updating_some_decor_blueprints_to_11/": [
+		{
+			"src": "https://external-preview.redd.it/EMBfzbuUpx-0ZplTEJtcVlHDO2rKS4no_muo3k-LNkY.png?width=640&crop=smart&auto=webp&s=4bad713de5fc10afe841f0d1fe2d17a8d084be86",
+			"alt": "Updating some decor blueprints to 1.1!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ayb6amnl2f0f1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"art",
+				"weatherwax",
+				"no team",
+				"railing",
+				"beams",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/oc74xpnl2f0f1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"art",
+				"no team",
+				"railing",
+				"beams",
+				"signs",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1koego8/110_hours_later_and_the_440_gw_nuclear_plant_is/": [
+		{
+			"src": "https://a.thumbs.redditmedia.com/fhasXx56UfYZ5WEnqZICCpXiwAKWdsCtuR8ey9ao3F0.jpg",
+			"alt": "110 Hours later and the 440 GW Nuclear plant is done",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ddfb8kv6481f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3jl9r6g9481f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/myelokv6481f1.png",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"no team",
+				"water extractor",
+				"pipes",
+				"fuel plant",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/vaq56c9x381f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mhg2nt9x381f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rfmyhq9x381f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9pe58k9x381f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bniflm9x381f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gzgado9x381f1.png",
+			"highlightsMeta": [
+				"swamp",
+				"architecture",
+				"no team",
+				"space elevator",
+				"manufacturer",
+				"pillars",
+				"belts",
+				"lights",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qzperv9x381f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3puojy9x381f1.png",
+			"highlightsMeta": [
+				"swamp",
+				"team feet",
+				"pipes",
+				"fuel plant",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/23rvs3ax381f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bp4bx4ax381f1.png",
+			"highlightsMeta": [
+				"swamp",
+				"interior",
+				"lasagn",
+				"no team",
+				"particle accelerator",
+				"catwalk",
+				"belts",
+				"lights",
+				"pipes",
+				"nuclear plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/afj8w39x381f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bqmlrg9x381f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rvkug39x381f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/frtrb69x381f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/874lbd9x381f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ke1yzypi581f1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kl6lm8/my_scentific_base_in_the_desert/": [
+		{
+			"src": "https://external-preview.redd.it/sI-6NcJuuMyxuiPxtjUGt4sTmptX0Zuq257q8auElSs.jpeg?width=640&crop=smart&auto=webp&s=ad3120cc8e6685e13135ed3be8e17025fa6610eb",
+			"alt": "My scentific base in the desert",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nbc6b1g6lf0f1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"manifold",
+				"no team",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/l4cd34l6lf0f1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"manifold",
+				"no team",
+				"train tracks",
+				"roads",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/m1mu8pp6lf0f1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"interior",
+				"manifold",
+				"no team",
+				"blueprint designer",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/wig5lmt6lf0f1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1kp4e3v/nexium_work_in_progress/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/oHbwwGN9wHGjWXr32201yiVJs0s2x9M3f0trlu56_UI.jpg",
+			"alt": "Nexium - work in progress",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vivl0j8lye1f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/83tmik8lye1f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1x1wnl8lye1f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/j7huno8lye1f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/i5bvrq8lye1f1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"architecture",
+				"team hands",
+				"space elevator",
+				"signs",
+				"crash site",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/i8uklu8lye1f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qx9ncx8lye1f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xgtf009lye1f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9ehme69lye1f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/54bh969lye1f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/lk85t99lye1f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8qqwed9lye1f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7gty0j9lye1f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5z8hcq9lye1f1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"team hands",
+				"pillars",
+				"foundation patterns",
+				"pipes",
+				"tubes",
+				"train tracks",
+				"roads",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/gvr75n8lye1f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"interior",
+				"no team",
+				"signs",
+				"signs as lights",
+				"tunnel"
+			]
+		},
+		{
+			"src": "https://i.redd.it/r8bs8y8lye1f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"interior",
+				"nature",
+				"team hands",
+				"signs",
+				"furniture",
+				"signs as lights",
+				"statue gallery"
+			]
+		},
+		{
+			"src": "https://i.redd.it/l1t59i8lye1f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"interior",
+				"no team",
+				"signs as lights",
+				"tunnel"
+			]
+		},
+		{
+			"src": "https://i.redd.it/cgfbuualye1f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"team hands",
+				"space elevator",
+				"signs",
+				"tunnel"
+			]
+		},
+		{
+			"src": "https://i.redd.it/3u4grr9lye1f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d7l1ss9lye1f1.png",
+			"skip": true
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1kheynb/my_computer_factory_refinery_overhaul_wip/": [
 		{
 			"src": "https://external-preview.redd.it/xlj1vG8vYh6_Rznx7yPjlS6tvxTG8VHIquujvX3FXdc.png?width=640&crop=smart&auto=webp&s=16c79a9f3209a830d92a1b7bb2e738aada36a95c",
