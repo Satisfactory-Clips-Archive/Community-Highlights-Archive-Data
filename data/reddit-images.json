@@ -16,12 +16,12 @@
 		{
 			"src": "https://i.redd.it/fjklo5t2rk6f1.png",
 			"highlightsMeta": [
-				"tower",
-				"train tracks",
-				"train",
-				"viaduct",
 				"blue crater",
-				"no team"
+				"no team",
+				"train",
+				"train tracks",
+				"tower",
+				"viaduct"
 			]
 		},
 		{
@@ -32,20 +32,20 @@
 			"src": "https://i.redd.it/ysyn46t2rk6f1.png",
 			"highlightsMeta": [
 				"uncertain location",
-				"no team",
-				"space elevator",
-				"photo mode filter",
 				"architecture",
-				"interior"
+				"interior",
+				"photo mode filter",
+				"no team",
+				"space elevator"
 			]
 		},
 		{
 			"src": "https://i.redd.it/xk0ha5t2rk6f1.png",
 			"highlightsMeta": [
 				"blue crater",
+				"photo mode filter",
 				"no team",
 				"tower",
-				"photo mode filter",
 				"viaduct"
 			]
 		},
@@ -75,18 +75,18 @@
 		{
 			"src": "https://i.redd.it/g4lgpp1nqq6f1.png",
 			"highlightsMeta": [
+				"alien power augmenter",
 				"grass fields",
 				"paradise island",
-				"space elevator",
 				"fog",
 				"no team",
-				"dam",
-				"refinery",
-				"coal plant",
-				"signs as lights",
-				"alien power augmenter",
 				"radar tower",
-				"power tower"
+				"space elevator",
+				"refinery",
+				"power tower",
+				"coal plant",
+				"dam",
+				"signs as lights"
 			]
 		},
 		{
@@ -106,14 +106,13 @@
 			"highlightsMeta": [
 				"grass fields",
 				"paradise island",
-				"space elevator",
 				"fog",
 				"no team",
-				"dam",
-				"coal plant",
-				"signs as lights",
+				"space elevator",
 				"power tower",
 				"hub",
+				"coal plant",
+				"dam",
 				"signs as lights"
 			]
 		},
@@ -132,15 +131,15 @@
 			"src": "https://i.redd.it/2icsfl7cfh6f1.jpg",
 			"highlightsMeta": [
 				"red bamboo fields",
-				"train",
-				"viaduct",
-				"train tracks",
-				"pillars",
 				"architecture",
-				"tower",
+				"no team",
 				"train station",
+				"train",
+				"pillars",
 				"pipes",
-				"no team"
+				"train tracks",
+				"tower",
+				"viaduct"
 			]
 		},
 		{
@@ -155,14 +154,14 @@
 			"src": "https://i.redd.it/pswnxl7cfh6f1.jpg",
 			"highlightsMeta": [
 				"red bamboo fields",
-				"photo mode filter",
-				"train",
-				"train tracks",
-				"viaduct",
-				"tower",
 				"architecture",
 				"nature",
-				"no team"
+				"photo mode filter",
+				"no team",
+				"train",
+				"train tracks",
+				"tower",
+				"viaduct"
 			]
 		},
 		{
@@ -172,20 +171,18 @@
 		{
 			"src": "https://i.redd.it/uqmufwprfh6f1.jpg",
 			"highlightsMeta": [
-				"space elevator",
 				"red bamboo fields",
-				"no team",
-				"pipes",
 				"architecture",
-				"belts",
-				"train tracks",
-				"viaduct",
-				"train",
-				"architecture",
-				"tower",
-				"space elevator",
 				"photo mode filter",
-				"statue gallery"
+				"no team",
+				"space elevator",
+				"train",
+				"belts",
+				"pipes",
+				"train tracks",
+				"statue gallery",
+				"tower",
+				"viaduct"
 			]
 		},
 		{
@@ -204,13 +201,13 @@
 			"src": "https://i.redd.it/0bcmto7cfh6f1.jpg",
 			"highlightsMeta": [
 				"red bamboo fields",
-				"no team",
-				"photo mode filter",
 				"architecture",
-				"viaduct",
-				"train tracks",
+				"photo mode filter",
+				"no team",
 				"train",
-				"tower"
+				"train tracks",
+				"tower",
+				"viaduct"
 			]
 		},
 		{
@@ -248,16 +245,16 @@
 			"src": "https://i.redd.it/9wokhlnkb26f1.png",
 			"highlightsMeta": [
 				"grass fields crater",
-				"fog",
 				"architecture",
-				"coal plant",
-				"viaduct",
-				"tower",
+				"fog",
 				"glass",
-				"signs as lights",
-				"particle accelerator",
 				"no team",
-				"drone"
+				"particle accelerator",
+				"drone",
+				"coal plant",
+				"signs as lights",
+				"tower",
+				"viaduct"
 			]
 		},
 		{
@@ -268,12 +265,12 @@
 			"src": "https://i.redd.it/i4bidnnkb26f1.png",
 			"highlightsMeta": [
 				"grass fields crater",
-				"no team",
-				"signs as lights",
-				"particle accelerator",
 				"architecture",
+				"night time",
+				"no team",
+				"particle accelerator",
 				"railing",
-				"night time"
+				"signs as lights"
 			]
 		},
 		{
@@ -284,13 +281,13 @@
 			"src": "https://i.redd.it/klfahqnkb26f1.png",
 			"highlightsMeta": [
 				"grass fields crater",
-				"team hands",
-				"signs as lights",
-				"particle accelerator",
 				"architecture",
-				"stairs",
 				"night time",
-				"drone"
+				"team hands",
+				"particle accelerator",
+				"drone",
+				"stairs",
+				"signs as lights"
 			]
 		},
 		{
@@ -317,9 +314,9 @@
 			"alt": "Screenshot with the new photomode, how many slugs can you see?",
 			"highlightsMeta": [
 				"spire coast",
-				"no team",
-				"night time",
 				"fog",
+				"night time",
+				"no team",
 				"power slug"
 			]
 		}
@@ -334,15 +331,15 @@
 			"src": "https://i.redd.it/300md1qiph6f1.jpeg",
 			"alt": "relaxing in the nature",
 			"highlightsMeta": [
-				"industrial",
-				"frames",
-				"nature",
-				"pipes",
 				"uncertain location",
+				"architecture",
+				"industrial",
+				"nature",
 				"no team",
-				"signs as lights",
+				"frames",
 				"belts",
-				"architecture"
+				"pipes",
+				"signs as lights"
 			]
 		}
 	],
@@ -356,12 +353,12 @@
 			"src": "https://i.redd.it/l4f4njvn7p6f1.jpg",
 			"highlightsMeta": [
 				"dune desert",
-				"no team",
+				"architecture",
 				"night time",
-				"train station",
 				"multiplayer",
-				"signs as lights",
-				"architecture"
+				"no team",
+				"train station",
+				"signs as lights"
 			]
 		},
 		{
@@ -392,11 +389,11 @@
 			"src": "https://i.redd.it/x2runpvn7p6f1.jpg",
 			"highlightsMeta": [
 				"rocky desert",
-				"photo mode filter",
-				"aurora",
 				"night time",
+				"photo mode filter",
+				"no team",
 				"space elevator",
-				"no team"
+				"aurora"
 			]
 		},
 		{
@@ -430,8 +427,8 @@
 			"src": "https://i.redd.it/ykpscgmu1r6f1.jpg",
 			"highlightsMeta": [
 				"dune desert",
-				"no team",
 				"glitch",
+				"no team",
 				"space elevator"
 			]
 		},
@@ -443,10 +440,10 @@
 			"src": "https://i.redd.it/dudaedmu1r6f1.jpg",
 			"highlightsMeta": [
 				"dune desert",
-				"no team",
 				"glitch",
-				"space elevator",
-				"multiplayer"
+				"multiplayer",
+				"no team",
+				"space elevator"
 			]
 		}
 	],
@@ -461,25 +458,25 @@
 			"alt": "Curve Builder has been updated to 1.1! (thanks last_nomai)",
 			"highlightsMeta": [
 				"unknown location",
-				"no team",
-				"roads",
-				"modded",
-				"foundation patterns",
-				"tractor",
-				"blender",
-				"refinery",
-				"train station",
-				"train tracks",
 				"industrial",
-				"power storage bank",
-				"biomass burner",
-				"fuel plant",
-				"awesome sink",
-				"constructor",
-				"smelter",
+				"modded",
+				"no team",
 				"foundry",
 				"assembler",
-				"manufacturer"
+				"awesome sink",
+				"blender",
+				"train station",
+				"manufacturer",
+				"smelter",
+				"constructor",
+				"refinery",
+				"biomass burner",
+				"tractor",
+				"foundation patterns",
+				"train tracks",
+				"fuel plant",
+				"power storage bank",
+				"roads"
 			]
 		}
 	],
@@ -493,38 +490,38 @@
 			"src": "https://i.redd.it/64ccw386ac6f1.png",
 			"highlightsMeta": [
 				"uncertain location",
-				"railing",
-				"catwalk",
-				"viaduct",
-				"outpost",
-				"manufacturer",
-				"space elevator",
-				"blueprint designer",
-				"stairs",
-				"glass",
-				"signs",
 				"architecture",
-				"no team"
+				"glass",
+				"no team",
+				"blueprint designer",
+				"space elevator",
+				"manufacturer",
+				"catwalk",
+				"railing",
+				"signs",
+				"stairs",
+				"outpost",
+				"viaduct"
 			]
 		},
 		{
 			"src": "https://i.redd.it/l8zk9486ac6f1.png",
 			"highlightsMeta": [
 				"uncertain location",
-				"railing",
-				"catwalk",
-				"viaduct",
-				"outpost",
-				"manufacturer",
-				"space elevator",
-				"blueprint designer",
-				"stairs",
-				"glass",
-				"signs",
 				"architecture",
+				"glass",
 				"sunrise/sunset",
+				"no team",
+				"blueprint designer",
+				"space elevator",
+				"manufacturer",
 				"power tower",
-				"no team"
+				"catwalk",
+				"railing",
+				"signs",
+				"stairs",
+				"outpost",
+				"viaduct"
 			]
 		}
 	],
@@ -539,13 +536,13 @@
 			"highlightsMeta": [
 				"blue crater",
 				"fog",
-				"tower",
 				"industrial",
-				"frames",
-				"refinery",
-				"signs as lights",
 				"photo mode filter",
-				"no team"
+				"no team",
+				"refinery",
+				"frames",
+				"signs as lights",
+				"tower"
 			]
 		},
 		{
@@ -557,13 +554,13 @@
 			"highlightsMeta": [
 				"blue crater",
 				"fog",
-				"tower",
 				"industrial",
-				"frames",
-				"refinery",
-				"signs as lights",
 				"photo mode filter",
-				"no team"
+				"no team",
+				"refinery",
+				"frames",
+				"signs as lights",
+				"tower"
 			]
 		}
 	],
@@ -581,13 +578,13 @@
 			"src": "https://i.redd.it/dv4k51ru0v6f1.png",
 			"highlightsMeta": [
 				"red jungle",
+				"night time",
 				"team hover pack",
 				"team xenozapper",
-				"utility tower",
-				"signs as lights",
-				"cables",
 				"pillars",
-				"night time"
+				"cables",
+				"signs as lights",
+				"utility tower"
 			]
 		}
 	],
@@ -600,17 +597,16 @@
 		{
 			"src": "https://i.redd.it/7tbbop67cp6f1.png",
 			"highlightsMeta": [
+				"dune desert",
 				"architecture",
-				"train tracks",
-				"train signals",
 				"glass",
+				"no team",
+				"miner",
 				"drone",
 				"signs",
-				"glass",
-				"signs as lights",
-				"miner",
-				"dune desert",
-				"no team"
+				"train signals",
+				"train tracks",
+				"signs as lights"
 			]
 		},
 		{
@@ -625,14 +621,14 @@
 			"src": "https://i.redd.it/onsrcs67cp6f1.png",
 			"highlightsMeta": [
 				"dune desert",
+				"glass",
+				"interior",
 				"no team",
 				"train station",
-				"interior",
-				"tubes",
-				"signs",
 				"belts",
 				"lights",
-				"glass",
+				"signs",
+				"tubes",
 				"train tracks",
 				"signs as lights"
 			]
@@ -692,19 +688,18 @@
 		{
 			"src": "https://i.redd.it/9o9u0877cp6f1.png",
 			"highlightsMeta": [
+				"dune desert",
 				"architecture",
-				"train tracks",
-				"train signals",
 				"glass",
+				"night time",
+				"no team",
+				"miner",
+				"power tower",
 				"drone",
 				"signs",
-				"glass",
-				"signs as lights",
-				"miner",
-				"dune desert",
-				"no team",
-				"power tower",
-				"night time"
+				"train signals",
+				"train tracks",
+				"signs as lights"
 			]
 		},
 		{
@@ -725,33 +720,33 @@
 		{
 			"src": "https://i.redd.it/3hw75ojucv6f1.jpg",
 			"highlightsMeta": [
-				"lights",
-				"interior",
-				"roads",
-				"foundation patterns",
-				"catwalk",
-				"barrier",
+				"unknown location",
 				"games",
-				"tubes",
+				"interior",
 				"no team",
+				"barrier",
+				"catwalk",
+				"foundation patterns",
+				"lights",
 				"signs",
-				"unknown location"
+				"tubes",
+				"roads"
 			]
 		},
 		{
 			"src": "https://i.redd.it/oec2opjucv6f1.jpg",
 			"highlightsMeta": [
-				"lights",
-				"interior",
-				"roads",
-				"foundation patterns",
-				"railing",
-				"barrier",
+				"unknown location",
 				"games",
-				"tubes",
+				"interior",
 				"no team",
+				"barrier",
+				"railing",
+				"foundation patterns",
+				"lights",
 				"signs",
-				"unknown location"
+				"tubes",
+				"roads"
 			]
 		},
 		{
@@ -772,45 +767,45 @@
 		{
 			"src": "https://i.redd.it/b6hl6jwm0v6f1.png",
 			"highlightsMeta": [
+				"dune desert",
 				"architecture",
 				"glass",
-				"train station",
-				"tubes",
-				"train tracks",
+				"no team",
 				"space elevator",
+				"train station",
 				"train signals",
-				"dune desert",
-				"no team"
+				"tubes",
+				"train tracks"
 			]
 		},
 		{
 			"src": "https://i.redd.it/3dyoskwm0v6f1.png",
 			"highlightsMeta": [
+				"dune desert",
 				"architecture",
 				"glass",
+				"no team",
 				"train station",
-				"tubes",
-				"train tracks",
 				"train signals",
-				"dune desert",
-				"no team"
+				"tubes",
+				"train tracks"
 			]
 		},
 		{
 			"src": "https://i.redd.it/mtnellwm0v6f1.png",
 			"highlightsMeta": [
+				"dune desert",
 				"architecture",
 				"glass",
-				"train station",
-				"tubes",
-				"train tracks",
-				"space elevator",
-				"train signals",
-				"dune desert",
-				"no team",
 				"sunrise/sunset",
+				"no team",
+				"space elevator",
+				"train station",
 				"power tower",
-				"train"
+				"train",
+				"train signals",
+				"tubes",
+				"train tracks"
 			]
 		},
 		{
@@ -852,15 +847,15 @@
 			"src": "https://i.redd.it/fl01k4q3h66f1.png",
 			"highlightsMeta": [
 				"rocky desert",
-				"no team",
-				"roads",
-				"hub",
-				"photo mode filter",
-				"space elevator",
-				"tower",
 				"cyberpunk",
-				"signs as lights",
 				"glass",
+				"photo mode filter",
+				"no team",
+				"space elevator",
+				"hub",
+				"roads",
+				"signs as lights",
+				"tower",
 				"viaduct"
 			]
 		},
@@ -868,13 +863,13 @@
 			"src": "https://i.redd.it/yp2ekih5h66f1.png",
 			"highlightsMeta": [
 				"rocky desert",
+				"cyberpunk",
+				"glass",
 				"no team",
 				"blueprint designer",
 				"space elevator",
-				"tower",
-				"cyberpunk",
-				"glass",
 				"signs as lights",
+				"tower",
 				"viaduct"
 			]
 		},
@@ -886,15 +881,14 @@
 			"src": "https://i.redd.it/fcwf9488h66f1.png",
 			"highlightsMeta": [
 				"rocky desert",
-				"no team",
-				"signs as lights",
 				"cyberpunk",
 				"glass",
+				"no team",
 				"constructor",
 				"frames",
-				"viaduct",
 				"roads",
-				"signs as lights"
+				"signs as lights",
+				"viaduct"
 			]
 		},
 		{
@@ -904,15 +898,15 @@
 		{
 			"src": "https://i.redd.it/wp9et8yah66f1.png",
 			"highlightsMeta": [
-				"tower",
 				"rocky desert",
-				"space elevator",
-				"viaduct",
+				"cyberpunk",
+				"glass",
 				"sunrise/sunset",
 				"no team",
-				"glass",
-				"cyberpunk",
-				"signs as lights"
+				"space elevator",
+				"signs as lights",
+				"tower",
+				"viaduct"
 			]
 		},
 		{
@@ -942,12 +936,12 @@
 			"src": "https://i.redd.it/kk4rwni5065f1.png",
 			"highlightsMeta": [
 				"grass fields crater",
-				"team hands",
 				"architecture",
-				"signs as lights",
+				"team hands",
 				"pillars",
+				"frames",
 				"beams",
-				"frames"
+				"signs as lights"
 			]
 		},
 		{
@@ -962,14 +956,14 @@
 			"src": "https://i.redd.it/0glliwi5065f1.png",
 			"highlightsMeta": [
 				"grass fields crater",
+				"architecture",
 				"team hands",
 				"drone",
-				"architecture",
-				"signs as lights",
 				"pillars",
-				"beams",
 				"frames",
-				"coal plant"
+				"beams",
+				"coal plant",
+				"signs as lights"
 			]
 		},
 		{
@@ -1064,23 +1058,23 @@
 			"src": "https://i.redd.it/xsgpmesz6f4f1.png",
 			"highlightsMeta": [
 				"uncertain location",
+				"glass",
 				"no team",
-				"warehouse",
-				"signs",
 				"beams",
-				"glass"
+				"signs",
+				"warehouse"
 			]
 		},
 		{
 			"src": "https://i.redd.it/8e3dhfsz6f4f1.png",
 			"highlightsMeta": [
 				"uncertain location",
-				"no team",
-				"warehouse",
-				"signs",
-				"beams",
+				"art",
 				"glass",
-				"art"
+				"no team",
+				"beams",
+				"signs",
+				"warehouse"
 			]
 		},
 		{
@@ -1091,13 +1085,13 @@
 			"src": "https://i.redd.it/p8qqiesz6f4f1.png",
 			"highlightsMeta": [
 				"uncertain location",
-				"no team",
-				"warehouse",
-				"signs",
-				"beams",
 				"glass",
-				"train station",
 				"night time",
+				"no team",
+				"train station",
+				"beams",
+				"signs",
+				"warehouse",
 				"aurora"
 			]
 		}
@@ -1130,17 +1124,17 @@
 			"src": "https://i.redd.it/hjdl71hpud4f1.png",
 			"alt": "Siege Tank",
 			"highlightsMeta": [
-				"art",
-				"beams",
-				"pillars",
-				"signs",
-				"lights",
-				"foundation patterns",
-				"blueprint designer",
-				"frames",
-				"catwalk",
 				"uncertain location",
-				"no team"
+				"art",
+				"no team",
+				"blueprint designer",
+				"pillars",
+				"catwalk",
+				"frames",
+				"beams",
+				"foundation patterns",
+				"lights",
+				"signs"
 			]
 		},
 		{
@@ -1168,17 +1162,17 @@
 			"src": "https://i.redd.it/isygx3r0vd4f1.png",
 			"alt": "Heavy Flak Tank",
 			"highlightsMeta": [
-				"lights",
 				"uncertain location",
+				"art",
 				"no team",
-				"pipes",
-				"foundation patterns",
-				"railing",
 				"blueprint designer",
+				"railing",
 				"beams",
+				"foundation patterns",
+				"lights",
+				"pipes",
 				"signs",
-				"signs as lights",
-				"art"
+				"signs as lights"
 			]
 		},
 		{
@@ -1193,13 +1187,13 @@
 			"src": "https://i.redd.it/7dvuyyp3vd4f1.png",
 			"alt": "Mammoth Tank",
 			"highlightsMeta": [
-				"art",
 				"uncertain location",
+				"art",
 				"no team",
+				"frames",
 				"beams",
 				"signs",
-				"signs as lights",
-				"frames"
+				"signs as lights"
 			]
 		},
 		{
@@ -1241,14 +1235,13 @@
 			"alt": "Photo mode is beautiful..",
 			"highlightsMeta": [
 				"spire coast",
-				"no team",
 				"photo mode filter",
-				"fuel plant",
-				"viaduct",
-				"train signals",
+				"no team",
 				"frames",
+				"train signals",
+				"fuel plant",
 				"signs as lights",
-				"frames"
+				"viaduct"
 			]
 		}
 	],
@@ -1280,16 +1273,15 @@
 			"src": "https://i.redd.it/6m7qzanfifse1.png",
 			"highlightsMeta": [
 				"grass fields",
-				"frames",
-				"beams",
-				"train station",
-				"no team",
-				"space elevator",
-				"signs as lights",
-				"signs",
 				"architecture",
 				"cityscape",
+				"no team",
+				"space elevator",
+				"train station",
+				"frames",
 				"beams",
+				"signs",
+				"signs as lights",
 				"tower"
 			]
 		},
@@ -1301,11 +1293,11 @@
 			"src": "https://i.redd.it/0jbpy9nfifse1.png",
 			"highlightsMeta": [
 				"uncertain location",
-				"no team",
-				"photo mode filter",
 				"architecture",
-				"pillars",
 				"glass",
+				"photo mode filter",
+				"no team",
+				"pillars",
 				"stairs"
 			]
 		},
@@ -1343,19 +1335,18 @@
 			"alt": "Gas power",
 			"highlightsMeta": [
 				"uncertain location",
+				"industrial",
+				"spaghett",
 				"no team",
 				"space elevator",
-				"industrial",
-				"belts",
-				"fuel plant",
-				"spaghett",
 				"refinery",
+				"frames",
+				"belts",
 				"lights",
 				"train tracks",
+				"fuel plant",
 				"power storage bank",
-				"frames",
-				"signs as lights",
-				"lights"
+				"signs as lights"
 			]
 		},
 		{
@@ -1376,20 +1367,19 @@
 			"src": "https://i.redd.it/rqg71f943x3f1.png",
 			"alt": "top of nuke prod",
 			"highlightsMeta": [
-				"industrial",
-				"nuclear plant",
-				"pipes",
-				"catwalk",
-				"refinery",
 				"alien power augmenter",
-				"space elevator",
-				"lights",
-				"industrial",
-				"manufacturer",
-				"foundation patterns",
-				"power tower",
 				"uncertain location",
-				"no team"
+				"industrial",
+				"no team",
+				"space elevator",
+				"manufacturer",
+				"refinery",
+				"power tower",
+				"catwalk",
+				"foundation patterns",
+				"lights",
+				"pipes",
+				"nuclear plant"
 			]
 		},
 		{
@@ -1439,12 +1429,12 @@
 			"highlightsMeta": [
 				"grass fields",
 				"grass fields arch",
-				"nuclear plant",
 				"spaghett",
-				"pipes",
+				"no team",
 				"refinery",
 				"belts",
-				"no team"
+				"pipes",
+				"nuclear plant"
 			]
 		},
 		{
@@ -1701,16 +1691,16 @@
 			"src": "https://i.redd.it/ab6y8ezsci5f1.png",
 			"highlightsMeta": [
 				"spire coast",
-				"no team",
-				"sunrise/sunset",
 				"fog",
-				"frames",
 				"industrial",
-				"signs",
-				"lights",
-				"signs as lights",
+				"sunrise/sunset",
+				"no team",
+				"space elevator",
 				"refinery",
-				"space elevator"
+				"frames",
+				"lights",
+				"signs",
+				"signs as lights"
 			]
 		},
 		{
@@ -1724,18 +1714,18 @@
 		{
 			"src": "https://i.redd.it/4wcuxzysci5f1.png",
 			"highlightsMeta": [
-				"spire coast",
-				"night time",
-				"fog",
-				"frames",
-				"industrial",
-				"signs",
-				"lights",
-				"signs as lights",
-				"refinery",
-				"space elevator",
 				"quantum encoder",
-				"no team"
+				"spire coast",
+				"fog",
+				"industrial",
+				"night time",
+				"no team",
+				"space elevator",
+				"refinery",
+				"frames",
+				"lights",
+				"signs",
+				"signs as lights"
 			]
 		},
 		{
@@ -1750,18 +1740,16 @@
 			"src": "https://i.redd.it/2g6kbfzsci5f1.png",
 			"highlightsMeta": [
 				"spire coast",
-				"frames",
 				"industrial",
-				"signs",
-				"lights",
-				"signs as lights",
-				"refinery",
+				"no team",
 				"space elevator",
-				"train tracks",
-				"frames",
 				"manufacturer",
+				"refinery",
+				"frames",
 				"lights",
-				"no team"
+				"signs",
+				"train tracks",
+				"signs as lights"
 			]
 		},
 		{
