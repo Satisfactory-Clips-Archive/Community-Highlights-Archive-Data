@@ -1,4 +1,933 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1la0cd2/i_have_finished_my_rocket_fuel_power_plant_just/": [
+		{
+			"src": "https://external-preview.redd.it/SfIzg0rnQ-ORIVlC5vZw8JDq5CVYCwmRsTwgcpZfzBM.png?width=640&crop=smart&auto=webp&s=6f8ac212c91cf039a2ae999f710086ca90864ba3",
+			"alt": "I have finished my Rocket Fuel Power Plant just in time for 1.1",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/r777q3t2rk6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/uiyv73t2rk6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fjklo5t2rk6f1.png",
+			"highlightsMeta": [
+				"tower",
+				"train tracks",
+				"train",
+				"viaduct",
+				"blue crater",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/fwr3x4t2rk6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ysyn46t2rk6f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"no team",
+				"space elevator",
+				"photo mode filter",
+				"architecture",
+				"interior"
+			]
+		},
+		{
+			"src": "https://i.redd.it/xk0ha5t2rk6f1.png",
+			"highlightsMeta": [
+				"blue crater",
+				"no team",
+				"tower",
+				"photo mode filter",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/z8knf8t2rk6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hgocu5t2rk6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/keepl7t2rk6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/a583j8t2rk6f1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1lanyaa/my_growing_power_plant_build_12000_mw_coal_rocket/": [
+		{
+			"src": "https://external-preview.redd.it/cx5lkTzwc2g3NeSY8co2-77M1JVctQTzeicpbdkzL1k.png?width=640&crop=smart&auto=webp&s=495a9f9d9b230d6b484a340562b8951698694144",
+			"alt": "My Growing Power Plant Build (12,000 MW Coal + Rocket Fuel in Progress!)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/g4lgpp1nqq6f1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"paradise island",
+				"space elevator",
+				"fog",
+				"no team",
+				"dam",
+				"refinery",
+				"coal plant",
+				"signs as lights",
+				"alien power augmenter",
+				"radar tower",
+				"power tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/id3a99lnqq6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/et6jdc6oqq6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/a47whkloqq6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/y7x570xoqq6f1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"paradise island",
+				"space elevator",
+				"fog",
+				"no team",
+				"dam",
+				"coal plant",
+				"signs as lights",
+				"power tower",
+				"hub",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/c99ivq8pqq6f1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1l9k721/welcome_to_the_arboretum_of_aluminium_production/": [
+		{
+			"src": "https://external-preview.redd.it/Ol60JkZJB7F1kl2BaiL-WuzzodSdWqcrr5uzRLM9HRs.jpeg?width=640&crop=smart&auto=webp&s=92c8781d5fcbb252f7704c67aca82eea0c09ae60",
+			"alt": "Welcome to the Arboretum of Aluminium Production",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2icsfl7cfh6f1.jpg",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"train",
+				"viaduct",
+				"train tracks",
+				"pillars",
+				"architecture",
+				"tower",
+				"train station",
+				"pipes",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/8mxx8k7cfh6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ecyslp7cfh6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/pswnxl7cfh6f1.jpg",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"photo mode filter",
+				"train",
+				"train tracks",
+				"viaduct",
+				"tower",
+				"architecture",
+				"nature",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/10t1io7cfh6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/uqmufwprfh6f1.jpg",
+			"highlightsMeta": [
+				"space elevator",
+				"red bamboo fields",
+				"no team",
+				"pipes",
+				"architecture",
+				"belts",
+				"train tracks",
+				"viaduct",
+				"train",
+				"architecture",
+				"tower",
+				"space elevator",
+				"photo mode filter",
+				"statue gallery"
+			]
+		},
+		{
+			"src": "https://i.redd.it/oe7dy54vfh6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/34m7yk7cfh6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3w4ig18cfh6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0bcmto7cfh6f1.jpg",
+			"highlightsMeta": [
+				"red bamboo fields",
+				"no team",
+				"photo mode filter",
+				"architecture",
+				"viaduct",
+				"train tracks",
+				"train",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/hnkudu9cfh6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/x3b5zm7cfh6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/r85hcs7cfh6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ubwafq7cfh6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ghba2nnyfh6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/k37xs7acfh6f1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1l7toco/the_void_needed_an_observatory_to_messure_the/": [
+		{
+			"src": "https://external-preview.redd.it/MMQlZaxrnyPxGo-5P01aVo1-8QtsP7LaSayTg3_Zb3k.png?width=640&crop=smart&auto=webp&s=9a09431ddb942e9d646bd984af1b84e13443ecd6",
+			"alt": "The void needed an observatory, to messure the strange anomalies occuring 😁",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9wokhlnkb26f1.png",
+			"highlightsMeta": [
+				"grass fields crater",
+				"fog",
+				"architecture",
+				"coal plant",
+				"viaduct",
+				"tower",
+				"glass",
+				"signs as lights",
+				"particle accelerator",
+				"no team",
+				"drone"
+			]
+		},
+		{
+			"src": "https://i.redd.it/lro98pnkb26f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/i4bidnnkb26f1.png",
+			"highlightsMeta": [
+				"grass fields crater",
+				"no team",
+				"signs as lights",
+				"particle accelerator",
+				"architecture",
+				"railing",
+				"night time"
+			]
+		},
+		{
+			"src": "https://i.redd.it/wrytznnkb26f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/klfahqnkb26f1.png",
+			"highlightsMeta": [
+				"grass fields crater",
+				"team hands",
+				"signs as lights",
+				"particle accelerator",
+				"architecture",
+				"stairs",
+				"night time",
+				"drone"
+			]
+		},
+		{
+			"src": "https://i.redd.it/tvuo5onkb26f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/no8taqnkb26f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3oqmlqnkb26f1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1laozvp/screenshot_with_the_new_photomode_how_many_slugs/": [
+		{
+			"src": "https://preview.redd.it/qk1tmglnyq6f1.png?width=640&crop=smart&auto=webp&s=11f200599d7cd4af005181d8915177923ac9d2dc",
+			"alt": "Screenshot with the new photomode, how many slugs can you see?",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qk1tmglnyq6f1.png",
+			"alt": "Screenshot with the new photomode, how many slugs can you see?",
+			"highlightsMeta": [
+				"spire coast",
+				"no team",
+				"night time",
+				"fog",
+				"power slug"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1l9l7jl/relaxing_in_the_nature/": [
+		{
+			"src": "https://preview.redd.it/300md1qiph6f1.jpeg?width=640&crop=smart&auto=webp&s=33bad0e1df26e8f2867bfe8949f6adc4444a8899",
+			"alt": "relaxing in the nature",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/300md1qiph6f1.jpeg",
+			"alt": "relaxing in the nature",
+			"highlightsMeta": [
+				"industrial",
+				"frames",
+				"nature",
+				"pipes",
+				"uncertain location",
+				"no team",
+				"signs as lights",
+				"belts",
+				"architecture"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1lag99c/new_photo_mode_is_crazy/": [
+		{
+			"src": "https://external-preview.redd.it/uDDwrH1kSTRo6z0KTDyH7efCjTP6Atd2A57ReXND8jg.jpeg?width=640&crop=smart&auto=webp&s=2acb20b776ad1850425ff64ad7b66243d1f9eccb",
+			"alt": "New photo mode is crazy",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/l4f4njvn7p6f1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"no team",
+				"night time",
+				"train station",
+				"multiplayer",
+				"signs as lights",
+				"architecture"
+			]
+		},
+		{
+			"src": "https://i.redd.it/4gedcjvn7p6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1h6mlivn7p6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ihj6shvn7p6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1sn8ohvn7p6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/x668bhvn7p6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8r275jvn7p6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/x2runpvn7p6f1.jpg",
+			"highlightsMeta": [
+				"rocky desert",
+				"photo mode filter",
+				"aurora",
+				"night time",
+				"space elevator",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qihi4qvn7p6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/w332tovn7p6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/c2912qvn7p6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/eo50lrvn7p6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ta56a3yn7p6f1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1lapfn2/the_hypertube_sent_us_very_far_away/": [
+		{
+			"src": "https://external-preview.redd.it/rLjmnFn-KsoMBouysmPJhy6dqF4k9EkhbnklYDhitJA.jpeg?width=640&crop=smart&auto=webp&s=0f320edcda990fdd5433b994fc16fc55516bc852",
+			"alt": "The hypertube sent us very far away",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ykpscgmu1r6f1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"no team",
+				"glitch",
+				"space elevator"
+			]
+		},
+		{
+			"src": "https://i.redd.it/563w7gmu1r6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dudaedmu1r6f1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"no team",
+				"glitch",
+				"space elevator",
+				"multiplayer"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1l8n929/curve_builder_has_been_updated_to_11_thanks_last/": [
+		{
+			"src": "https://preview.redd.it/vwdvbxo8c96f1.png?width=640&crop=smart&auto=webp&s=593ef000817e63552af12012ff8c5d98c0154628",
+			"alt": "Curve Builder has been updated to 1.1! (thanks last_nomai)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vwdvbxo8c96f1.png",
+			"alt": "Curve Builder has been updated to 1.1! (thanks last_nomai)",
+			"highlightsMeta": [
+				"unknown location",
+				"no team",
+				"roads",
+				"modded",
+				"foundation patterns",
+				"tractor",
+				"blender",
+				"refinery",
+				"train station",
+				"train tracks",
+				"industrial",
+				"power storage bank",
+				"biomass burner",
+				"fuel plant",
+				"awesome sink",
+				"constructor",
+				"smelter",
+				"foundry",
+				"assembler",
+				"manufacturer"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1l8zvtt/radio_control_unit_factory_at_the_edge_of_the/": [
+		{
+			"src": "https://external-preview.redd.it/I72O5BUI_fd3dYHFSiGDwNBQBFftqFMtYvh4FJ6kNTk.png?width=640&crop=smart&auto=webp&s=9ea3f2cbf155572cfe52fdcf40166503101db2d9",
+			"alt": "Radio Control Unit factory at the edge of the desert",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/64ccw386ac6f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"railing",
+				"catwalk",
+				"viaduct",
+				"outpost",
+				"manufacturer",
+				"space elevator",
+				"blueprint designer",
+				"stairs",
+				"glass",
+				"signs",
+				"architecture",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/l8zk9486ac6f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"railing",
+				"catwalk",
+				"viaduct",
+				"outpost",
+				"manufacturer",
+				"space elevator",
+				"blueprint designer",
+				"stairs",
+				"glass",
+				"signs",
+				"architecture",
+				"sunrise/sunset",
+				"power tower",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1lbx44f/i_made_a_modular_heavy_oil_refinery_tower_that/": [
+		{
+			"src": "https://external-preview.redd.it/Dhj11UuAlWT1F5hAXDFIWl0OWT6w2ab-RcNx7nbxRrs.png?width=640&crop=smart&auto=webp&s=3dca330e3122df3068e15e2c0ddf239f1a902beb",
+			"alt": "I Made a Modular Heavy Oil Refinery Tower That can be Tiled as Many Times Needed.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yw5xeu2ph27f1.png",
+			"highlightsMeta": [
+				"blue crater",
+				"fog",
+				"tower",
+				"industrial",
+				"frames",
+				"refinery",
+				"signs as lights",
+				"photo mode filter",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/4yfi1mfqh27f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/90u3dlfqh27f1.png",
+			"highlightsMeta": [
+				"blue crater",
+				"fog",
+				"tower",
+				"industrial",
+				"frames",
+				"refinery",
+				"signs as lights",
+				"photo mode filter",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1lb4ia3/highvoltage_energy_pole_blueprint/": [
+		{
+			"src": "https://external-preview.redd.it/pc0s6BlVYgQMU1pkvSIgOM7qy9pRI9Bpvl4eaiyCBGA.png?width=640&crop=smart&auto=webp&s=6ea0334951bb6a2041c99680130799e58d875d0f",
+			"alt": "Highvoltage Energy pole blueprint",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/aby60pqo0v6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dv4k51ru0v6f1.png",
+			"highlightsMeta": [
+				"red jungle",
+				"team hover pack",
+				"team xenozapper",
+				"utility tower",
+				"signs as lights",
+				"cables",
+				"pillars",
+				"night time"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1lagvw1/the_desert_factory_detailed_overview/": [
+		{
+			"src": "https://external-preview.redd.it/edBdF_Y51W3BIRbB73oSZoQFTxZca5BOm5Fi6j5sRg0.png?width=640&crop=smart&auto=webp&s=e66bf2069ac7158380c7a2ff16c25f576a10cbf9",
+			"alt": "The desert factory. Detailed overview",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7tbbop67cp6f1.png",
+			"highlightsMeta": [
+				"architecture",
+				"train tracks",
+				"train signals",
+				"glass",
+				"drone",
+				"signs",
+				"glass",
+				"signs as lights",
+				"miner",
+				"dune desert",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/xaokgp67cp6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cnzm2r67cp6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/onsrcs67cp6f1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"no team",
+				"train station",
+				"interior",
+				"tubes",
+				"signs",
+				"belts",
+				"lights",
+				"glass",
+				"train tracks",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/l6hilt67cp6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6xsgfw67cp6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ppfehv67cp6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0kfqcz67cp6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mhlfbz67cp6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/sgmrj077cp6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6ps0w077cp6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yyfp2677cp6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8qzl5277cp6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/h8468577cp6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/z23dq587cp6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/gpftx477cp6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d4oz1677cp6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9o9u0877cp6f1.png",
+			"highlightsMeta": [
+				"architecture",
+				"train tracks",
+				"train signals",
+				"glass",
+				"drone",
+				"signs",
+				"glass",
+				"signs as lights",
+				"miner",
+				"dune desert",
+				"no team",
+				"power tower",
+				"night time"
+			]
+		},
+		{
+			"src": "https://i.redd.it/zftbif87cp6f1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1lb5jzw/i_just_found_my_my_secret_cart_racing_arena/": [
+		{
+			"src": "https://external-preview.redd.it/g8e9P7Sy6nLaxPvM2NiM0ihRx-Xa8_oJs3xApvipdG8.jpeg?width=640&crop=smart&auto=webp&s=5074496a6d53f54b63ca9022369c5467cb9fa294",
+			"alt": "I just found my my secret Cart Racing arena",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/uu9jlb0ucv6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3hw75ojucv6f1.jpg",
+			"highlightsMeta": [
+				"lights",
+				"interior",
+				"roads",
+				"foundation patterns",
+				"catwalk",
+				"barrier",
+				"games",
+				"tubes",
+				"no team",
+				"signs",
+				"unknown location"
+			]
+		},
+		{
+			"src": "https://i.redd.it/oec2opjucv6f1.jpg",
+			"highlightsMeta": [
+				"lights",
+				"interior",
+				"roads",
+				"foundation patterns",
+				"railing",
+				"barrier",
+				"games",
+				"tubes",
+				"no team",
+				"signs",
+				"unknown location"
+			]
+		},
+		{
+			"src": "https://i.redd.it/2p0nqqjucv6f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/baum3tjucv6f1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1lb4l0o/deserts_glass_railroad_hub/": [
+		{
+			"src": "https://external-preview.redd.it/6xeqq-v6jh-s-QNj8ApT2CRPKjkqiQhI6p_7bJk97WA.png?width=640&crop=smart&auto=webp&s=14a571dd66389c466f99312c4891d9b9d1567b0b",
+			"alt": "Desert's glass railroad hub",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/b6hl6jwm0v6f1.png",
+			"highlightsMeta": [
+				"architecture",
+				"glass",
+				"train station",
+				"tubes",
+				"train tracks",
+				"space elevator",
+				"train signals",
+				"dune desert",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/3dyoskwm0v6f1.png",
+			"highlightsMeta": [
+				"architecture",
+				"glass",
+				"train station",
+				"tubes",
+				"train tracks",
+				"train signals",
+				"dune desert",
+				"no team"
+			]
+		},
+		{
+			"src": "https://i.redd.it/mtnellwm0v6f1.png",
+			"highlightsMeta": [
+				"architecture",
+				"glass",
+				"train station",
+				"tubes",
+				"train tracks",
+				"space elevator",
+				"train signals",
+				"dune desert",
+				"no team",
+				"sunrise/sunset",
+				"power tower",
+				"train"
+			]
+		},
+		{
+			"src": "https://i.redd.it/hku3xnwm0v6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8g59q5ym0v6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/m3accrwm0v6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9w3zxvwm0v6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qzosetwm0v6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fmyh77xm0v6f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/j5ae2esv1v6f1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1l8ct03/rate_my_cyberpunk_inspired_build/": [
+		{
+			"src": "https://b.thumbs.redditmedia.com/KYfA_C5s1w-ZxtSNY_GtizIhjb7MS0jcpN4XCbAaO9w.jpg",
+			"alt": "Rate my Cyberpunk inspired build.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fl01k4q3h66f1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"roads",
+				"hub",
+				"photo mode filter",
+				"space elevator",
+				"tower",
+				"cyberpunk",
+				"signs as lights",
+				"glass",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/yp2ekih5h66f1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"blueprint designer",
+				"space elevator",
+				"tower",
+				"cyberpunk",
+				"glass",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/mpjh5hy6h66f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fcwf9488h66f1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"no team",
+				"signs as lights",
+				"cyberpunk",
+				"glass",
+				"constructor",
+				"frames",
+				"viaduct",
+				"roads",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/93muow79h66f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wp9et8yah66f1.png",
+			"highlightsMeta": [
+				"tower",
+				"rocky desert",
+				"space elevator",
+				"viaduct",
+				"sunrise/sunset",
+				"no team",
+				"glass",
+				"cyberpunk",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/isx9n81dh66f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/uunkijbfh66f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0jpjw7qgh66f1.png",
+			"skip": true
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1l494hc/my_idea_worked/": [
 		{
 			"src": "https://b.thumbs.redditmedia.com/AT3RrIKAqnLtOIzNRUIyeb1qL7z9ru6hWeoCEhImYzQ.jpg",
