@@ -1,26 +1,29 @@
-import Ajv, {JSONSchemaType} from 'ajv/dist/2019';
+import Ajv from 'ajv/dist/2019.js';
+import type {
+	JSONSchemaType,
+} from 'ajv/dist/2019.js';
 
-import image_sources_schema from './data/image-sources.schema.json' assert {type: 'json'};
-import ytldp_schema from './data/yt-dlp.schema.json' assert {type: 'json'};
-import twitch_clips_schema from './data/twitch-clip-images.schema.json' assert {type: 'json'};
-import highlights_meta_schema from './data/highlights-meta.json' assert {type: 'json'};
-import grouped_meta_schema from './data/highlights-meta/grouped-meta.schema.json' assert {type: 'json'};
-import authors_schema from './data/authors.schema.json' assert {type: 'json'};
-import dated_schema from './data/dated.schema.json' assert {type: 'json'};
-import manual_schema from './data/manual-images.schema.json' assert {type: 'json'};
+import image_sources_schema from './data/image-sources.schema.json' with {type: 'json'};
+import ytldp_schema from './data/yt-dlp.schema.json' with {type: 'json'};
+import twitch_clips_schema from './data/twitch-clip-images.schema.json' with {type: 'json'};
+import highlights_meta_schema from './data/highlights-meta.json' with {type: 'json'};
+import grouped_meta_schema from './data/highlights-meta/grouped-meta.schema.json' with {type: 'json'};
+import authors_schema from './data/authors.schema.json' with {type: 'json'};
+import dated_schema from './data/dated.schema.json' with {type: 'json'};
+import manual_schema from './data/manual-images.schema.json' with {type: 'json'};
 
-import discord from './data/discord-images.json' assert {type: 'json'};
-import reddit from './data/reddit-images.json' assert {type: 'json'};
-import twitter from './data/twitter-images.json' assert {type: 'json'};
-import youtube from './data/youtube-images.json' assert {type: 'json'};
-import ytdlp from './data/has-author-but-no-links.json' assert {type: 'json'};
-import twitch_clips from './data/twitch-clip-images.json' assert {type: 'json'};
-import steam_community from './data/steam-community-images.json' assert {type: 'json'};
-import manual_images from './data/manual-images.json' assert {type: 'json'};
-import grouped_meta from './data/highlights-meta/grouped-meta.json' assert {type: 'json'};
-import authors from './data/authors.json' assert {type: 'json'};
-import dated from './data/dated.json' assert {type: 'json'};
-import manual_data from './data/manual-images.json' assert {type: 'json'};
+import discord from './data/discord-images.json' with {type: 'json'};
+import reddit from './data/reddit-images.json' with {type: 'json'};
+import twitter from './data/twitter-images.json' with {type: 'json'};
+import youtube from './data/youtube-images.json' with {type: 'json'};
+import ytdlp from './data/has-author-but-no-links.json' with {type: 'json'};
+import twitch_clips from './data/twitch-clip-images.json' with {type: 'json'};
+import steam_community from './data/steam-community-images.json' with {type: 'json'};
+import manual_images from './data/manual-images.json' with {type: 'json'};
+import grouped_meta from './data/highlights-meta/grouped-meta.json' with {type: 'json'};
+import authors from './data/authors.json' with {type: 'json'};
+import dated from './data/dated.json' with {type: 'json'};
+import manual_data from './data/manual-images.json' with {type: 'json'};
 
 declare type validations_type = {[key: string]: object};
 
