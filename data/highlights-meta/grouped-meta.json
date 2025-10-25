@@ -186,6 +186,7 @@
 	],
 	"in-game things": {
 		"buildings": [
+			"vent",
 			"packager",
 			"crafting bench",
 			"geothermal",

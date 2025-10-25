@@ -1,4 +1,593 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1lix2ka/invasion_has_just_begun/": [
+		{
+			"src": "https://i.redd.it/ygpha1yvqr8f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"art",
+				"fog",
+				"photo mode filter",
+				"no team",
+				"water extractor",
+				"frames",
+				"beams",
+				"foundation patterns",
+				"boat",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/1xfe85dxqr8f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"art",
+				"fog",
+				"photo mode filter",
+				"no team",
+				"frames",
+				"beams",
+				"foundation patterns",
+				"signs",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/p6cqtwwxqr8f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"fog",
+				"photo mode filter",
+				"no team",
+				"signs",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/k6rkxldyqr8f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/uncgfyryqr8f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/v6x5cc9zqr8f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"northern forest",
+				"photo mode filter",
+				"no team",
+				"drone",
+				"signs as lights",
+				"spaceship"
+			]
+		},
+		{
+			"src": "https://i.redd.it/iy2sbfmzqr8f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"art",
+				"photo mode filter",
+				"no team",
+				"beams",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/6o541i40rr8f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"art",
+				"photo mode filter",
+				"no team",
+				"particle accelerator",
+				"drone",
+				"nuclear plant"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1ljw3jf/i_made_2_parkour_courses_save_file_inside/": [
+		{
+			"src": "https://external-preview.redd.it/eDihEe5RCr5InQv0zWe9yX3AI5_XdkIwvm1dQsUVezU.jpeg?width=640&crop=smart&auto=webp&s=edd156f002c69739d9e448de4ba6b341169c85e3",
+			"alt": "I made 2 parkour courses (save file inside)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/icqmi0tjhz8f1.jpg",
+			"highlightsMeta": [
+				"unknown location",
+				"games",
+				"glass",
+				"interior",
+				"no team",
+				"beams",
+				"cables",
+				"lights",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/6vvrm1tjhz8f1.jpg",
+			"highlightsMeta": [
+				"unknown location",
+				"games",
+				"glass",
+				"interior",
+				"no team",
+				"frames",
+				"beams",
+				"lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1lhxmet/solid_biofuel_outpost/": [
+		{
+			"src": "https://preview.redd.it/a4wxkrgyej8f1.png?width=640&crop=smart&auto=webp&s=36977ed6bcbdba68ee53027654a5ea3975fa9745",
+			"alt": "Solid Biofuel Outpost",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/a4wxkrgyej8f1.png",
+			"alt": "Solid Biofuel Outpost",
+			"highlightsMeta": [
+				"rocky desert",
+				"art",
+				"glass",
+				"no team",
+				"constructor",
+				"drone",
+				"belts",
+				"power storage bank"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1li4tnt/factory_moon/": [
+		{
+			"src": "https://external-preview.redd.it/0QcQPQ9h6HUpzgy-IxpPoinUraHOooWL8i-rEoNTGHM.jpeg?width=640&crop=smart&auto=webp&s=16de48dca5b06630a4a3037e06a23c388acb28bf",
+			"alt": "Factory Moon",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/oc4ijils0l8f1.jpg",
+			"highlightsMeta": [
+				"grass fields",
+				"glass",
+				"no team",
+				"radar tower",
+				"spaceship",
+				"tower",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/7ep3n5mt0l8f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ai9ha1q31l8f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/h8xkw2w41l8f1.jpg",
+			"highlightsMeta": [
+				"grass fields",
+				"glass",
+				"interior",
+				"reference images",
+				"no team",
+				"awesome sink",
+				"constructor",
+				"belts",
+				"pipes",
+				"fuel plant",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/9mzs8z961l8f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ryzuzu791l8f1.jpg",
+			"highlightsMeta": [
+				"grass fields",
+				"architecture",
+				"glass",
+				"interior",
+				"no team",
+				"signs as lights",
+				"tunnel"
+			]
+		},
+		{
+			"src": "https://i.redd.it/fpy5s5ne1l8f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4u1hw9wm1l8f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5gfojbbo1l8f1.jpg",
+			"highlightsMeta": [
+				"grass fields",
+				"glass",
+				"no team",
+				"tower"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1lhu61f/hard_or_nah/": [
+		{
+			"src": "https://external-preview.redd.it/BEl6CPv0x_apCVugHfkbTkvYgi4lP3t7bFiMTpDbJUs.png?width=640&crop=smart&auto=webp&s=8a4ca988089143e803e39ee222f9c098256a7d1e",
+			"alt": "Hard or Nah",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ilzrf3bdpi8f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"sunrise/sunset",
+				"multiplayer",
+				"photo mode filter",
+				"no team",
+				"fuel plant"
+			]
+		},
+		{
+			"src": "https://i.redd.it/hfwuh5gdpi8f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"sunrise/sunset",
+				"multiplayer",
+				"photo mode filter",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1lhqj7u/stark_tower_and_grand_central_terminal/": [
+		{
+			"src": "https://external-preview.redd.it/88tiK6u0iRdYn-yP03Rx1Ukpl-WAiBHPTgO1hsRiTUA.png?width=640&crop=smart&auto=webp&s=e018612a3257daaccce12a0fdabdca5e989efa66",
+			"alt": "Stark Tower and Grand Central Terminal",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/t3iciqqqxh8f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"glass",
+				"references to other franchises",
+				"no team",
+				"train station",
+				"signs",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/iv9rxq0yxh8f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"glass",
+				"references to other franchises",
+				"no team",
+				"train station",
+				"signs",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/acyh7bfzxh8f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zdr6u8g0yh8f1.png",
+			"highlightsMeta": [
+				"uncertain location",
+				"architecture",
+				"glass",
+				"references to other franchises",
+				"no team",
+				"signs as lights",
+				"tower"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1lh4rcu/my_pc_is_crying/": [
+		{
+			"src": "https://preview.redd.it/juh15igt0c8f1.png?width=640&crop=smart&auto=webp&s=6b474f44324c8661ee395d6a6bfe35f39b6d6d59",
+			"alt": "My PC is crying",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/juh15igt0c8f1.png",
+			"alt": "My PC is crying",
+			"highlightsMeta": [
+				"dune desert",
+				"manifold",
+				"repetition",
+				"reference images",
+				"no team",
+				"foundry",
+				"assembler",
+				"blender",
+				"particle accelerator",
+				"radar tower",
+				"space elevator",
+				"train station",
+				"constructor",
+				"drone",
+				"train",
+				"belts",
+				"foundation patterns",
+				"pipes",
+				"train signals",
+				"train tracks",
+				"coal plant",
+				"roads",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1ljhtqg/first_one_down/": [
+		{
+			"src": "https://external-preview.redd.it/fduwXK4FW0dXIEGhjwFLRnbXmIiN0J3CdH28cXf3yHA.png?width=640&crop=smart&auto=webp&s=2cc0459d4ba3de03414fbc72fbfabc4f6a203d45",
+			"alt": "First one down",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7e67hjf1xw8f1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"architecture",
+				"no team",
+				"beams",
+				"signs",
+				"chimney",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/k50brjf1xw8f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4vkdykf1xw8f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ps2kxmf1xw8f1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"architecture",
+				"no team",
+				"beams",
+				"signs",
+				"chimney",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/aaq9dnf1xw8f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cgl94of1xw8f1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"architecture",
+				"no team",
+				"beams",
+				"signs",
+				"stairs",
+				"chimney",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/72zjaqf1xw8f1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1llg6p1/xenope3000_100_vanilla_11/": [
+		{
+			"src": "https://external-preview.redd.it/y_tEV13CAxN_RVrsB_YzfhRQynwIHtuOX5A_XX_gePA.png?width=640&crop=smart&auto=webp&s=d2fc1b9aa34870ddd0e1d8f9ce9303d0ae12adaa",
+			"alt": "XENOPE3000 (100% vanilla 1.1)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vhp7pzgj5d9f1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"art",
+				"photo mode filter",
+				"no team",
+				"vent",
+				"pillars",
+				"beams",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/fspg133l5d9f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hznw473l5d9f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/xafe8b3l5d9f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fr3g3a3l5d9f1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0l8frlqm5d9f1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"art",
+				"night time",
+				"photo mode filter",
+				"no team",
+				"vent",
+				"pillars",
+				"beams",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1llqy1r/futuristic_alien_power_factory/": [
+		{
+			"src": "https://external-preview.redd.it/OrvY3FaoXXMtVN9yn4u_tQ59UuiZwXyIQMfgmWbA3oU.jpeg?width=640&crop=smart&auto=webp&s=690f5fa458cda06191c20e6dc6eadf817447b7e7",
+			"alt": "Futuristic Alien Power Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kdb5mk8rag9f1.jpg",
+			"highlightsMeta": [
+				"alien power augmenter",
+				"quantum encoder",
+				"rocky desert",
+				"glass",
+				"no team",
+				"awesome sink",
+				"space elevator",
+				"drone",
+				"signs",
+				"tubes",
+				"train tracks",
+				"arachnophobia mode",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/lcirdk8rag9f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/a9mwdm8rag9f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1i6slm8rag9f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/y8e9so8rag9f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/de0h4o8rag9f1.jpg",
+			"highlightsMeta": [
+				"converter",
+				"rocky desert",
+				"interior",
+				"no team",
+				"constructor",
+				"catwalk",
+				"foundation patterns",
+				"signs",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/4shz3q8rag9f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/c26p9s8rag9f1.jpg",
+			"highlightsMeta": [
+				"portal",
+				"quantum encoder",
+				"rocky desert",
+				"interior",
+				"no team",
+				"particle accelerator",
+				"constructor",
+				"catwalk",
+				"belts",
+				"foundation patterns",
+				"lights",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/uc9tlt8rag9f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ojk36w8rag9f1.jpg",
+			"highlightsMeta": [
+				"portal",
+				"quantum encoder",
+				"rocky desert",
+				"interior",
+				"no team",
+				"particle accelerator",
+				"constructor",
+				"catwalk",
+				"belts",
+				"foundation patterns",
+				"lights",
+				"signs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/yzzqxp8rag9f1.jpg",
+			"highlightsMeta": [
+				"converter",
+				"rocky desert",
+				"interior",
+				"no team",
+				"constructor",
+				"catwalk",
+				"foundation patterns",
+				"signs",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/2p5p0y8rag9f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cit04y8rag9f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/q7rb309rag9f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/shidk29rag9f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/e0u0c6arag9f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/edmfz59rag9f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/83u0a99rag9f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/myyxj39rag9f1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fjsyww9rag9f1.jpg",
+			"skip": true
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1la0cd2/i_have_finished_my_rocket_fuel_power_plant_just/": [
 		{
 			"src": "https://external-preview.redd.it/SfIzg0rnQ-ORIVlC5vZw8JDq5CVYCwmRsTwgcpZfzBM.png?width=640&crop=smart&auto=webp&s=6f8ac212c91cf039a2ae999f710086ca90864ba3",
