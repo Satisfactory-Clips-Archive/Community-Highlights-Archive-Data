@@ -12,6 +12,7 @@
 		"in-game things",
 		"creatures",
 		"things players build",
+		"community events",
 		"weather"
 	],
 	"properties": {
@@ -50,6 +51,9 @@
 		},
 		"bugs": {
 			"$ref": "../data/highlights-meta.json#/definitions/highlightsMeta"
+		},
+		"community events": {
+			"$ref": "../data/highlights-meta.json#/definitions/highlightsMetaCommunityEvents"
 		},
 		"aesthetics": {
 			"type": "object",

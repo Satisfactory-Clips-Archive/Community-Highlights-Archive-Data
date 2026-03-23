@@ -1,4 +1,887 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1rui1m5/guys_i_think_i_made_the_wrong_iron_farm/": [
+		{
+			"src": "https://preview.redd.it/0gsumn0rf8pg1.png?width=140&height=78&auto=webp&s=e644db4c3313cef9c946ecfcb6ed81a4b25dbacc",
+			"alt": "Guys, I think I made the wrong iron farm",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0gsumn0rf8pg1.png",
+			"alt": "Guys, I think I made the wrong iron farm",
+			"highlightsMeta": [
+				"dune desert",
+				"pixel art",
+				"references to other franchises",
+				"no team",
+				"power tower",
+				"outpost",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/wxnmjp0rf8pg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fjzmxq0rf8pg1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"glass",
+				"interior",
+				"manifold",
+				"no team",
+				"constructor",
+				"pillars",
+				"catwalk",
+				"belts",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/c2w5op0rf8pg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ktssap0rf8pg1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"glass",
+				"interior",
+				"no team",
+				"awesome sink",
+				"signs",
+				"signs as lights",
+				"tunnel",
+				"warehouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/bjpi1o0rf8pg1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1ruo0ps/copper_sheet_factory/": [
+		{
+			"src": "https://preview.redd.it/eqcrxeenk9pg1.png?width=140&height=87&auto=webp&s=7467f3639453ffc35b2b8094babd738c5f3c3f2b",
+			"alt": "Copper Sheet Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/eqcrxeenk9pg1.png",
+			"alt": "Copper Sheet Factory",
+			"highlightsMeta": [
+				"grass fields",
+				"weatherwax",
+				"no team",
+				"miner",
+				"manta"
+			]
+		},
+		{
+			"src": "https://i.redd.it/l5dxxpxnk9pg1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"grass fields arch",
+				"weatherwax",
+				"no team",
+				"miner",
+				"water extractor",
+				"power tower",
+				"signs",
+				"coal plant",
+				"outpost"
+			]
+		},
+		{
+			"src": "https://i.redd.it/hro2meiok9pg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/tm9mpoyok9pg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4iit2djpk9pg1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"weatherwax",
+				"no team"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1rqguz3/my_screw_factory/": [
+		{
+			"src": "https://preview.redd.it/4shy57k2pbog1.png?width=140&height=87&auto=webp&s=092814b5803b89616382f193383d3686ad266410",
+			"alt": "My Screw Factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4shy57k2pbog1.png",
+			"alt": "My Screw Factory",
+			"highlightsMeta": [
+				"grass fields",
+				"weatherwax",
+				"no team",
+				"miner",
+				"water extractor",
+				"belts",
+				"manta",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/hm8n3lz2pbog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/pmaitr75pbog1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"grass fields arch",
+				"weatherwax",
+				"no team",
+				"miner",
+				"space elevator",
+				"water extractor",
+				"belts",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/kbbyspi3pbog1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"weatherwax",
+				"no team",
+				"miner",
+				"power tower",
+				"belts",
+				"coal plant"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1rubdx9/a_nuclear_core_for_my_power_plant_wip/": [
+		{
+			"src": "https://preview.redd.it/507trdsez6pg1.jpg?width=140&height=80&auto=webp&s=39caa90672fdd8971eba93a7c7255f63432311cb",
+			"alt": "A Nuclear Core for my Power Plant (WIP)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/507trdsez6pg1.jpg",
+			"alt": "A Nuclear Core for my Power Plant (WIP)",
+			"highlightsMeta": [
+				"dune desert",
+				"no team",
+				"pillars",
+				"railing",
+				"cables",
+				"pipes",
+				"nuclear plant",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/2ahib6yez6pg1.jpg",
+			"highlightsMeta": [
+				"dune desert",
+				"no team",
+				"pillars",
+				"cables",
+				"pipes",
+				"nuclear plant",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1rdj3hk/i_hated_pipes_now_i_love_them/": [
+		{
+			"src": "https://preview.redd.it/94ofqcdumglg1.png?width=140&height=78&auto=webp&s=fd816a9bdf8fdb9cccbf003d9f3c4c967d8f464b",
+			"alt": "i hated pipes. now i love them",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/94ofqcdumglg1.png",
+			"alt": "i hated pipes. now i love them",
+			"highlightsMeta": [
+				"dune desert",
+				"lasagn",
+				"manifold",
+				"no team",
+				"water extractor",
+				"pipes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/7wlvvliumglg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3j9c5qnumglg1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"lasagn",
+				"no team",
+				"water extractor",
+				"catwalk",
+				"pipes",
+				"tubes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/m99gvgrumglg1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"lasagn",
+				"no team",
+				"space elevator",
+				"catwalk",
+				"pipes",
+				"tubes",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/fpja0ewumglg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zrpytxzumglg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/laszsp3vmglg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7to94i7vmglg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6ulxbzavmglg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vh4eipfvmglg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/18u6jdjvmglg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/lpn9nymvmglg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/tx2wctqvmglg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/a7tm06vvmglg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/hqd02jzvmglg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2ep1b23wmglg1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"manifold",
+				"no team",
+				"miner",
+				"manufacturer",
+				"refinery",
+				"pipes",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/bp252y6wmglg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/l9xrooawmglg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/pcyiyvewmglg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3inkjqiwmglg1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1rfynzl/i_hate_pipe_logistics/": [
+		{
+			"src": "https://preview.redd.it/3odgjohj9zlg1.jpg?width=140&height=78&auto=webp&s=f2669255c3bde44f99b20b4af271efe35adf6bb1",
+			"alt": "I hate pipe logistics",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/3odgjohj9zlg1.jpg",
+			"alt": "I hate pipe logistics",
+			"highlightsMeta": [
+				"western beaches",
+				"manifold",
+				"spaghett",
+				"no team",
+				"water extractor",
+				"pipes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/yn179vlj9zlg1.jpg",
+			"highlightsMeta": [
+				"western beaches",
+				"lasagn",
+				"manifold",
+				"spaghett",
+				"no team",
+				"water extractor",
+				"pipes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/bdip7moj9zlg1.jpg",
+			"highlightsMeta": [
+				"western beaches",
+				"lasagn",
+				"manifold",
+				"spaghett",
+				"no team",
+				"water extractor",
+				"pipes"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1rstnz8/made_a_water_extraction_ring/": [
+		{
+			"src": "https://preview.redd.it/2memf1bbiuog1.png?width=640&crop=smart&auto=webp&s=f440a29853d890cf82de03e6b075b64975fb5b39",
+			"alt": "Made a water extraction ring",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2memf1bbiuog1.png",
+			"alt": "Made a water extraction ring",
+			"highlightsMeta": [
+				"uncertain location",
+				"manifold",
+				"no team",
+				"water extractor",
+				"catwalk",
+				"pipes"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1rqqvdg/kraken_plastics_1890_plastic_for_708_crude_oil/": [
+		{
+			"src": "https://preview.redd.it/5zilbqetfeog1.png?width=140&height=78&auto=webp&s=0bc867034d0d6af335485b523edf4e33032952c1",
+			"alt": "Kraken Plastics: 1890 plastic for 708 crude oil",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5zilbqetfeog1.png",
+			"alt": "Kraken Plastics: 1890 plastic for 708 crude oil",
+			"highlightsMeta": [
+				"spire coast",
+				"industrial",
+				"night time",
+				"no team",
+				"frames",
+				"lights",
+				"pipes",
+				"signs as lights",
+				"aurora"
+			]
+		},
+		{
+			"src": "https://i.redd.it/zknatqetfeog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/41ykypetfeog1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"manifold",
+				"night time",
+				"no team",
+				"awesome sink",
+				"blender",
+				"water extractor",
+				"power tower",
+				"frames",
+				"lights",
+				"pipes",
+				"oil plant",
+				"signs as lights",
+				"utility tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/l11mfpetfeog1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"manifold",
+				"night time",
+				"no team",
+				"awesome sink",
+				"blender",
+				"radar tower",
+				"water extractor",
+				"power tower",
+				"frames",
+				"lights",
+				"pipes",
+				"oil plant",
+				"signs as lights",
+				"utility tower"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1rt0bu6/done_with_this_4500_rocketfuel/": [
+		{
+			"src": "https://preview.redd.it/jsphfxjzqvog1.png?width=140&height=78&auto=webp&s=de36edc7fb695871326c3f0d44621eb59173a139",
+			"alt": "Done with this, 4500 Rocketfuel",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jsphfxjzqvog1.png",
+			"alt": "Done with this, 4500 Rocketfuel",
+			"highlightsMeta": [
+				"spire coast",
+				"art",
+				"interior",
+				"night time",
+				"no team",
+				"oil plant",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/6ngupwjzqvog1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"art",
+				"night time",
+				"sunrise/sunset",
+				"no team",
+				"oil plant",
+				"signs as lights",
+				"tower",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/daj6zxjzqvog1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"art",
+				"interior",
+				"night time",
+				"no team",
+				"vent",
+				"geothermal",
+				"blender",
+				"oil plant",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/jmrrhyjzqvog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d5esdvjzqvog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/01fnmwjzqvog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cz327wjzqvog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/be1zdzjzqvog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5vm9txjzqvog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1vz0ryjzqvog1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"art",
+				"interior",
+				"night time",
+				"no team",
+				"geothermal",
+				"smelter",
+				"constructor",
+				"water extractor",
+				"oil plant",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/gefo1yjzqvog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zctjxxjzqvog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d9f96xjzqvog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ay7ibujzqvog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7bp6pxjzqvog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/we74oxjzqvog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/afbnixjzqvog1.png",
+			"highlightsMeta": [
+				"spire coast",
+				"art",
+				"interior",
+				"night time",
+				"no team",
+				"fuel plant",
+				"signs as lights",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/zxi1uxjzqvog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4w0otwjzqvog1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1rt25un/i_love_making_big_lobbies/": [
+		{
+			"src": "https://preview.redd.it/sn4shg0y3wog1.png?width=640&crop=smart&auto=webp&s=d426db745f6a8a56d9d841c8adf803973d0f7ed9",
+			"alt": "I love making big lobbies.",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/sn4shg0y3wog1.png",
+			"alt": "I love making big lobbies.",
+			"highlightsMeta": [
+				"uncertain location",
+				"spire coast",
+				"architecture",
+				"glass",
+				"interior",
+				"nature",
+				"no team",
+				"lights",
+				"stairs"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1rk12g6/unnecessarily_ominous_time_crystal_production/": [
+		{
+			"src": "https://preview.redd.it/cpnfy9fg7wmg1.png?width=140&height=78&auto=webp&s=cc9ba296e3b38e30efb42d597c3738bd5c27c1c1",
+			"alt": "Unnecessarily Ominous Time Crystal Production",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/cpnfy9fg7wmg1.png",
+			"alt": "Unnecessarily Ominous Time Crystal Production",
+			"highlightsMeta": [
+				"unknown location",
+				"industrial",
+				"interior",
+				"no team",
+				"catwalk",
+				"railing",
+				"frames",
+				"beams",
+				"foundation patterns",
+				"pipes",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/pzsngsng7wmg1.png",
+			"highlightsMeta": [
+				"converter",
+				"unknown location",
+				"industrial",
+				"interior",
+				"no team",
+				"particle accelerator",
+				"railing",
+				"frames",
+				"beams",
+				"foundation patterns",
+				"pipes",
+				"stairs",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1rl9ggv/the_hall/": [
+		{
+			"src": "https://preview.redd.it/jqi8dgj606ng1.png?width=640&crop=smart&auto=webp&s=95fce940fc9969ba7231a4dfe626eff74c892959",
+			"alt": "The hall",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jqi8dgj606ng1.png",
+			"alt": "The hall",
+			"highlightsMeta": [
+				"lake forest",
+				"architecture",
+				"glass",
+				"interior",
+				"no team",
+				"space elevator",
+				"water extractor",
+				"power switch",
+				"tubes",
+				"coal plant",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1rdmyj0/man_of_900_steel_ingots_per_minure/": [
+		{
+			"src": "https://preview.redd.it/wizl7e5mbhlg1.png?width=640&crop=smart&auto=webp&s=5e82b816da4521ce6b5426917a784c5cbf964e26",
+			"alt": "Man of 900 Steel (ingots per minure)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wizl7e5mbhlg1.png",
+			"alt": "Man of 900 Steel (ingots per minure)",
+			"highlightsMeta": [
+				"dune desert",
+				"art",
+				"no team",
+				"belts"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1rqp8j1/the_alien_power_augmenter_has_arrived/": [
+		{
+			"src": "https://preview.redd.it/vthtdqhkydog1.png?width=140&height=58&auto=webp&s=d92269c2a38031299d2cbdecb99147fe323bb4a1",
+			"alt": "The Alien Power Augmenter Has Arrived",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vthtdqhkydog1.png",
+			"alt": "The Alien Power Augmenter Has Arrived",
+			"highlightsMeta": [
+				"northern forest",
+				"photo mode filter",
+				"no team",
+				"signs as lights",
+				"spaceship"
+			]
+		},
+		{
+			"src": "https://i.redd.it/jb2y2cxmydog1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"photo mode filter",
+				"no team",
+				"signs as lights",
+				"spaceship"
+			]
+		},
+		{
+			"src": "https://i.redd.it/k0qf5h5nydog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/9y7zvahnydog1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"photo mode filter",
+				"no team",
+				"train signals",
+				"train tracks",
+				"spaceship"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ql50dnvnydog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/98cyyfioydog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/d3hvo6roydog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4378ti9rydog1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1rqjzud/bird_i_made_a_bird/": [
+		{
+			"src": "https://preview.redd.it/r866zxv8fcog1.png?width=140&height=78&auto=webp&s=728671c52e5807042fb5220d4470e19c531e60e2",
+			"alt": "Bird... I Made A Bird",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/r866zxv8fcog1.png",
+			"alt": "Bird... I Made A Bird",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/bt8bo3i9fcog1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"art",
+				"no team",
+				"constructor",
+				"pillars",
+				"railing",
+				"hub",
+				"ladder",
+				"stairs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/bwrh7rnafcog1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"art",
+				"no team",
+				"space elevator",
+				"constructor",
+				"pillars",
+				"railing",
+				"ladder",
+				"stairs"
+			]
+		},
+		{
+			"src": "https://i.redd.it/mtvmixzafcog1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5vnb1v7cfcog1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"art",
+				"manifold",
+				"night time",
+				"no team",
+				"constructor",
+				"pillars",
+				"railing",
+				"hub",
+				"ladder",
+				"stairs"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1rplruy/dragonhart_industries_32_got_a_bit_draconic/": [
+		{
+			"src": "https://preview.redd.it/j0g34xjjv4og1.png?width=140&height=78&auto=webp&s=d44c252264d985ffc4e6eeb7f01f68518c88d2cd",
+			"alt": "Dragonhart Industries #32 got a bit Draconic...",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/6kvy919pw4og1.png",
+			"highlightsMeta": [
+				"rocky desert",
+				"western beaches",
+				"glass",
+				"no team",
+				"fuel plant",
+				"tower"
+			]
+		},
+		{
+			"src": "https://i.redd.it/dlme87zmv4og1.png",
+			"highlightsMeta": [
+				"quantum encoder",
+				"rocky desert",
+				"art",
+				"glass",
+				"industrial",
+				"no team",
+				"particle accelerator",
+				"space elevator",
+				"refinery",
+				"power tower",
+				"beams",
+				"power slug",
+				"hypertube cannon"
+			]
+		},
+		{
+			"src": "https://i.redd.it/j0g34xjjv4og1.png",
+			"alt": "Dragonhart Industries #32 got a bit Draconic...",
+			"highlightsMeta": [
+				"quantum encoder",
+				"rocky desert",
+				"art",
+				"industrial",
+				"sunrise/sunset",
+				"no team",
+				"particle accelerator",
+				"refinery",
+				"power tower",
+				"beams"
+			]
+		},
+		{
+			"src": "https://i.redd.it/uxnp7lisv4og1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/43tnyy03w4og1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/y735dfj5w4og1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/lkerv598w4og1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ec5rqwxfw4og1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0czyi8vhw4og1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2857icazw4og1.png",
+			"skip": true
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1rop8od/my_nicest_looking_factory_to_date/": [
 		{
 			"src": "https://preview.redd.it/vbw669yotxng1.png?width=140&height=59&auto=webp&s=e51b783ebfa602bd581a17d43ce94d014be4dd52",
