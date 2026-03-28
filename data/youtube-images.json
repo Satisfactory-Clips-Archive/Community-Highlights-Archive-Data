@@ -1,4 +1,28 @@
 {
+	"https://www.youtube.com/watch?v=kJFX2Lj4BrYt=0": [
+		{
+			"src": "https://img.youtube.com/vi/kJFX2Lj4BrYt=0/hqdefault.jpg",
+			"skip": true
+		}
+	],
+	"https://www.youtube.com/watch?v=kJFX2Lj4BrY&t=43": [
+		{
+			"src": "https://img.youtube.com/vi/kJFX2Lj4BrY/hqdefault.jpg",
+			"skip": true
+		}
+	],
+	"https://www.youtube.com/watch?v=RQiXMpiEm-8t=0": [
+		{
+			"src": "https://img.youtube.com/vi/RQiXMpiEm-8t=0/hqdefault.jpg",
+			"skip": true
+		}
+	],
+	"https://www.youtube.com/watch?v=3vWVDFiRSbYt=0": [
+		{
+			"src": "https://img.youtube.com/vi/3vWVDFiRSbYt=0/hqdefault.jpg",
+			"skip": true
+		}
+	],
 	"https://youtu.be/2PQqFTGVIY0": [
 		{
 			"src": "https://img.youtube.com/vi/2PQqFTGVIY0/hqdefault.jpg",
