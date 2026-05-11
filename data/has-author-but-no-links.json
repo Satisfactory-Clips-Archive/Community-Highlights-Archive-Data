@@ -12698,5 +12698,37 @@
 				]
 			}
 		}
+	},
+	"2026-05-07": {
+		"yt-NmGzgw8odBw": {
+			"58:15 Old_Call7882 - We're truly so back": {
+				"timestamp": 3495,
+				"raw_text": "Old_Call7882 - We're truly so back",
+				"timestamps_for_links": [
+					3505,
+					3630
+				],
+				"highlightsMeta": [
+					{
+						"timestamp": 3505,
+						"meta": [
+							"grass fields crater",
+							"architecture",
+							"team hover pack",
+							"tower"
+						]
+					},
+					{
+						"timestamp": 3630,
+						"meta": [
+							"grass fields crater",
+							"architecture",
+							"no team",
+							"tower"
+						]
+					}
+				]
+			}
+		}
 	}
 }

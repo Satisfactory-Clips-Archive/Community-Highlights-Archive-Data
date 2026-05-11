@@ -1,4 +1,753 @@
 {
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1sm854h/12000_aluminum_ingots_per_minute/": [
+		{
+			"src": "https://preview.redd.it/idqaqhek6dvg1.png?width=140&height=78&auto=webp&s=ced18990b46a24105d5399237b00d03d7ad6e900",
+			"alt": "12000 aluminum ingots per minute",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/idqaqhek6dvg1.png",
+			"alt": "12000 aluminum ingots per minute",
+			"highlightsMeta": [
+				"crater lakes",
+				"architecture",
+				"glass",
+				"no team",
+				"vent",
+				"smelter",
+				"power tower",
+				"pipes",
+				"coal plant",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/bmvs434s6dvg1.png",
+			"highlightsMeta": [
+				"alien power augmenter",
+				"crater lakes",
+				"glass",
+				"no team",
+				"particle accelerator",
+				"radar tower",
+				"space elevator",
+				"smelter",
+				"frames",
+				"pipes",
+				"coal plant",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/7e5e6vnt6dvg1.png",
+			"highlightsMeta": [
+				"crater lakes",
+				"red jungle",
+				"no team",
+				"vent",
+				"radar tower",
+				"belts",
+				"signs",
+				"train tracks",
+				"coal plant",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/l6x41xgu6dvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jg5vapjv6dvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/76gwnlvv6dvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/n8toabgw6dvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qqwd9rky6dvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kjeh8bxy6dvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fcuvpwdz6dvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/secoo5kz6dvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4p8tsgb27dvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/wyf0ws737dvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/qwuz13qq7dvg1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1sosu4g/titan_forest_electronics_tm/": [
+		{
+			"src": "https://preview.redd.it/v2wwh9isuwvg1.png?width=140&height=78&auto=webp&s=b9ffa32e500e0cbe1fd02e8f259a221de6b7e462",
+			"alt": "Titan Forest Electronics (tm)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/v2wwh9isuwvg1.png",
+			"alt": "Titan Forest Electronics (tm)",
+			"highlightsMeta": [
+				"titan forest",
+				"architecture",
+				"no team",
+				"train station",
+				"pillars",
+				"beams",
+				"belts",
+				"train tracks"
+			]
+		},
+		{
+			"src": "https://i.redd.it/n9b8tfsruwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/l2tsifduuwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ljjqqvtuuwvg1.png",
+			"highlightsMeta": [
+				"titan forest",
+				"architecture",
+				"no team",
+				"manufacturer",
+				"pillars",
+				"beams",
+				"belts"
+			]
+		},
+		{
+			"src": "https://i.redd.it/kpmnxzavuwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/b34vg8rvuwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ss483grwuwvg1.png",
+			"highlightsMeta": [
+				"titan forest",
+				"architecture",
+				"glass",
+				"no team",
+				"constructor",
+				"pillars",
+				"train tracks"
+			]
+		},
+		{
+			"src": "https://i.redd.it/iqy8367xuwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5s82hflxuwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/pf3ukpryuwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/drddj25zuwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/0w1xidmzuwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/db933vyzuwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zkywmkc0vwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nyws2pq0vwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/mx391731vwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/4y8fxof1vwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/7trd3nr1vwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/pzkmzn42vwvg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/nu817wn2vwvg1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1smg71i/do_you_even_lift/": [
+		{
+			"src": "https://preview.redd.it/dt6gaglznevg1.jpg?width=140&height=78&auto=webp&s=9fe403a85213450cb03ba38529cde96ce5915759",
+			"alt": "DO YOU EVEN LIFT",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dt6gaglznevg1.jpg",
+			"alt": "DO YOU EVEN LIFT",
+			"highlightsMeta": [
+				"northern forest",
+				"no team",
+				"vent",
+				"space elevator",
+				"pillars",
+				"railing",
+				"frames",
+				"train tracks",
+				"crane",
+				"power storage bank"
+			]
+		},
+		{
+			"src": "https://i.redd.it/pf6ybglznevg1.jpg",
+			"highlightsMeta": [
+				"northern forest",
+				"sunrise/sunset",
+				"no team",
+				"vent",
+				"constructor",
+				"pillars",
+				"frames",
+				"train tracks",
+				"crane"
+			]
+		},
+		{
+			"src": "https://i.redd.it/rz7s0ilznevg1.jpg",
+			"highlightsMeta": [
+				"northern forest",
+				"no team",
+				"miner",
+				"manufacturer",
+				"refinery",
+				"lights",
+				"tubes",
+				"coal plant",
+				"crane",
+				"fuel plant"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1skixuu/i_have_embraced_the_cursed_building_technique/": [
+		{
+			"src": "https://preview.redd.it/zhdtffb400vg1.png?width=140&height=78&auto=webp&s=d117bda3fa21433c9123da134502e4dfd04a710f",
+			"alt": "I have Embraced The Cursed Building Technique",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/zhdtffb400vg1.png",
+			"alt": "I have Embraced The Cursed Building Technique",
+			"highlightsMeta": [
+				"titan forest",
+				"night time",
+				"no team",
+				"refinery",
+				"catwalk",
+				"railing",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/oxgspeb400vg1.png",
+			"highlightsMeta": [
+				"titan forest",
+				"glass",
+				"interior",
+				"no team",
+				"refinery",
+				"pillars",
+				"belts",
+				"pipes",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/05cnbeb400vg1.png",
+			"highlightsMeta": [
+				"titan forest",
+				"glass",
+				"interior",
+				"no team",
+				"refinery",
+				"catwalk",
+				"pipes",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/garxleb400vg1.png",
+			"highlightsMeta": [
+				"titan forest",
+				"architecture",
+				"manifold",
+				"no team",
+				"refinery",
+				"pillars",
+				"pipes"
+			]
+		},
+		{
+			"src": "https://i.redd.it/5eupreb400vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/8dc92eb400vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/w6nrydb400vg1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1stb3n6/my_scorpion_railgun_hyper_cannon_attachements/": [
+		{
+			"src": "https://preview.redd.it/olf9fol9zvwg1.png?width=140&height=58&auto=webp&s=e98d765d0b192a9fdd6b9ef6e82f32ca41fce540",
+			"alt": "My Scorpion Railgun Hyper Cannon + Attachements",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/olf9fol9zvwg1.png",
+			"alt": "My Scorpion Railgun Hyper Cannon + Attachements",
+			"highlightsMeta": [
+				"dune desert",
+				"art",
+				"no team",
+				"blueprint designer",
+				"pillars",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/9pkv4sl9zvwg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/dpqfodgbzvwg1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"art",
+				"glass",
+				"no team",
+				"vent",
+				"pillars",
+				"beams"
+			]
+		},
+		{
+			"src": "https://i.redd.it/hi6c110ezvwg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ieydk10ezvwg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/kr6qlxyezvwg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/x8u85qdfzvwg1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1st1uum/protip_you_dont_have_to_ever_build_fluid_storage/": [
+		{
+			"src": "https://preview.redd.it/1fuin8i4ttwg1.png?width=640&crop=smart&auto=webp&s=f02823f82526489450c54d4637ff41bcb069389f",
+			"alt": "Protip: You don't have to ever build fluid storage again!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1fuin8i4ttwg1.png",
+			"alt": "Protip: You don't have to ever build fluid storage again!",
+			"highlightsMeta": [
+				"dune desert",
+				"spaghett",
+				"no team",
+				"space elevator",
+				"refinery",
+				"power tower",
+				"pipes"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1ssyw7i/ps5_first_attempt_to_design_a_factory_oil_based/": [
+		{
+			"src": "https://preview.redd.it/um0r01898twg1.jpg?width=140&height=78&auto=webp&s=579883e5981e7ea53e6afebade3842d864887da0",
+			"alt": "(PS5) First attempt to \"design\" a factory, oil based (and quickwire) computer factory",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/um0r01898twg1.jpg",
+			"alt": "(PS5) First attempt to \"design\" a factory, oil based (and quickwire) computer factory",
+			"highlightsMeta": [
+				"beach islands",
+				"pixel art",
+				"team cup",
+				"team hover pack",
+				"train station",
+				"train signals",
+				"train tracks"
+			]
+		},
+		{
+			"src": "https://i.redd.it/k9zymbc98twg1.jpg",
+			"highlightsMeta": [
+				"beach islands",
+				"manifold",
+				"team cup",
+				"team hover pack",
+				"refinery",
+				"lights",
+				"train tracks"
+			]
+		},
+		{
+			"src": "https://i.redd.it/sz6mzif98twg1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/h6nilsh98twg1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/u6ajprl98twg1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/i53pt4o98twg1.jpg",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jucf5xr98twg1.jpg",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1ssntrr/silly_manifolds/": [
+		{
+			"src": "https://preview.redd.it/ibn3qpbf1rwg1.png?width=140&height=58&auto=webp&s=835614f3bab2adc13e27ffaa1c1d52f005ea4cf0",
+			"alt": "Silly Manifolds",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ibn3qpbf1rwg1.png",
+			"alt": "Silly Manifolds",
+			"highlightsMeta": [
+				"grass fields",
+				"art",
+				"manifold",
+				"photo mode filter",
+				"no team",
+				"assembler",
+				"space elevator",
+				"manufacturer",
+				"belts"
+			]
+		},
+		{
+			"src": "https://i.redd.it/oit6lfig1rwg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5k99spei8rwg1.png",
+			"highlightsMeta": [
+				"grass fields",
+				"manifold",
+				"night time",
+				"photo mode filter",
+				"no team",
+				"geothermal",
+				"space elevator",
+				"belts"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1ssm4y1/behold_a_pipe/": [
+		{
+			"src": "https://preview.redd.it/ypz303ehyqwg1.png?width=640&crop=smart&auto=webp&s=feea384ab477833e0f70a6c673c37d214196a178",
+			"alt": "Behold, a pipe",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ypz303ehyqwg1.png",
+			"alt": "Behold, a pipe",
+			"highlightsMeta": [
+				"dune desert",
+				"weatherwax",
+				"no team",
+				"power tower",
+				"frames",
+				"pipes"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1sl2a8k/new_comouter_factory/": [
+		{
+			"src": "https://preview.redd.it/c6iudnyv54vg1.png?width=140&height=78&auto=webp&s=9c2f942c135c2f5dd082c6027ce940d90038923a",
+			"alt": "New Comouter Factory!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/c6iudnyv54vg1.png",
+			"alt": "New Comouter Factory!",
+			"highlightsMeta": [
+				"dune desert",
+				"architecture",
+				"glass",
+				"no team",
+				"blender",
+				"manufacturer",
+				"train",
+				"train tracks",
+				"coal plant",
+				"outpost",
+				"signs as lights",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/f7rise6w54vg1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"glass",
+				"no team",
+				"manufacturer",
+				"signs",
+				"outpost",
+				"signs as lights"
+			]
+		},
+		{
+			"src": "https://i.redd.it/ebia333w54vg1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"glass",
+				"no team",
+				"train station",
+				"train",
+				"signs",
+				"train signals",
+				"train tracks",
+				"viaduct"
+			]
+		},
+		{
+			"src": "https://i.redd.it/rf33rx7w54vg1.png",
+			"skip": true
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1sqsz9y/late_night_sunday_sculpting_i_present_disco_dino/": [
+		{
+			"src": "https://preview.redd.it/jwnvtst98dwg1.jpeg?width=640&crop=smart&auto=webp&s=ad999b2745d0b6a2788c0fc11a8901bc3ff4a1de",
+			"alt": "Late night Sunday sculpting. I present Disco Dino!",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jwnvtst98dwg1.jpeg",
+			"alt": "Late night Sunday sculpting. I present Disco Dino!",
+			"highlightsMeta": [
+				"unknown location",
+				"glass",
+				"interior",
+				"night time",
+				"no team",
+				"beams",
+				"lights",
+				"signs as lights"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1slqzwf/is_this_spaghetti/": [
+		{
+			"src": "https://preview.redd.it/yi5u7x2549vg1.png?width=640&crop=smart&auto=webp&s=152fc07422e3b84e6c2145906277c67887ec94f5",
+			"alt": "Is this Spaghetti???",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/yi5u7x2549vg1.png",
+			"alt": "Is this Spaghetti???",
+			"highlightsMeta": [
+				"northern forest",
+				"glass",
+				"no team",
+				"smelter",
+				"belts",
+				"tubes",
+				"tower",
+				"viaduct"
+			]
+		}
+	],
+	"https://www.reddit.com/r/SatisfactoryGame/comments/1skn760/central_storage_complex_is_finally_complete_it/": [
+		{
+			"src": "https://preview.redd.it/jo7lfzl4i0vg1.png?width=140&height=78&auto=webp&s=e41a735fe7be24cef64792b36c068f13f007d89d",
+			"alt": "Central Storage complex is finally complete (it took me 30 hours)",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/jo7lfzl4i0vg1.png",
+			"alt": "Central Storage complex is finally complete (it took me 30 hours)",
+			"highlightsMeta": [
+				"dune desert",
+				"pixel art",
+				"night time",
+				"modded",
+				"no team",
+				"space elevator",
+				"stairs",
+				"signs as lights",
+				"warehouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/cz8v0ooeg0vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/vrpqp5ufg0vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/43g9x6ufg0vg1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"pixel art",
+				"modded",
+				"no team",
+				"space elevator",
+				"pillars",
+				"belts",
+				"stairs",
+				"warehouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/iq0drlxgg0vg1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"modded",
+				"no team",
+				"space elevator",
+				"pillars",
+				"tubes",
+				"warehouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/e13gm9d1i0vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/5zur92c6i0vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/fc013rx6i0vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ezwe4ow8i0vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/1zcsa9x8i0vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ioj1erbbi0vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/2yzg1qbbi0vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/lj505sbbi0vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/c9jkqqbbi0vg1.png",
+			"highlightsMeta": [
+				"dune desert",
+				"interior",
+				"pixel art",
+				"no team",
+				"signs",
+				"signs as lights",
+				"warehouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/w3f6hqbbi0vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/lnt36cbmi0vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/ohq7xq6oi0vg1.png",
+			"highlightsMeta": [
+				"portal",
+				"dune desert",
+				"art",
+				"team cup",
+				"awesome shop",
+				"railing",
+				"signs",
+				"signs as lights",
+				"statue gallery",
+				"warehouse"
+			]
+		},
+		{
+			"src": "https://i.redd.it/qp88ji8si0vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/rplwntgwi0vg1.png",
+			"skip": true
+		},
+		{
+			"src": "https://i.redd.it/idwe02d3j0vg1.png",
+			"skip": true
+		}
+	],
 	"https://www.reddit.com/r/SatisfactoryGame/comments/1s65s0e/160625_nuclear_pasta_per_minute_project_finally/": [
 		{
 			"src": "https://preview.redd.it/m4uhw42sgtrg1.png?width=140&height=78&auto=webp&s=af19cfce2c477c9029e6512e2fa6410c595b7775",
